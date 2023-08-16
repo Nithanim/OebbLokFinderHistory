@@ -1,0 +1,202 @@
+[
+  {
+    "train_number": "465   ",
+    "unit_number": "1016.0021",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-08-16T22:54:00Z",
+    "departure": "2023-08-16T22:56:00Z"
+  },
+  {
+    "train_number": "465   ",
+    "unit_number": "1016.0021",
+    "name": "Imst-Pitztal",
+    "abbr": "Im  ",
+    "lat": "47.219",
+    "lng": "10.7619",
+    "arrival": null,
+    "departure": "2023-08-16T22:21:00Z"
+  },
+  {
+    "train_number": "465   ",
+    "unit_number": "1016.0021",
+    "name": "Landeck-Zams",
+    "abbr": "----",
+    "lat": "47.148",
+    "lng": "10.5782",
+    "arrival": "2023-08-16T22:07:00Z",
+    "departure": "2023-08-16T22:09:00Z"
+  },
+  {
+    "train_number": "465   ",
+    "unit_number": "1016.0021",
+    "name": "Bludenz",
+    "abbr": "B   ",
+    "lat": "47.155",
+    "lng": "9.81448",
+    "arrival": "2023-08-16T20:58:00Z",
+    "departure": "2023-08-16T21:01:00Z"
+  },
+  {
+    "train_number": "465   ",
+    "unit_number": "1016.0021",
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
+    "arrival": "2023-08-16T20:20:00Z",
+    "departure": "2023-08-16T20:45:00Z"
+  },
+  {
+    "train_number": "47758 ",
+    "unit_number": "1016.0021",
+    "name": "Buchs (SG)",
+    "abbr": "Bc  ",
+    "lat": "47.171",
+    "lng": "9.4779",
+    "arrival": "2023-08-16T16:16:00Z",
+    "departure": "2023-08-16T20:05:00Z"
+  },
+  {
+    "train_number": "47757 ",
+    "unit_number": "1016.0021",
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
+    "arrival": "2023-08-16T15:05:00Z",
+    "departure": "2023-08-16T15:50:00Z"
+  },
+  {
+    "train_number": "47757 ",
+    "unit_number": "1016.0021",
+    "name": "Dornbirn (in Do)",
+    "abbr": "Do  ",
+    "lat": "47.4176",
+    "lng": "9.73871",
+    "arrival": null,
+    "departure": "2023-08-16T14:39:00Z"
+  },
+  {
+    "train_number": "47757 ",
+    "unit_number": "1016.0021",
+    "name": "Wolfurt (in Wo)",
+    "abbr": "Wo  ",
+    "lat": "47.457",
+    "lng": "9.74133",
+    "arrival": null,
+    "departure": "2023-08-16T14:32:00Z"
+  },
+  {
+    "train_number": "47756 ",
+    "unit_number": "1016.0021",
+    "name": "St.Margrethen",
+    "abbr": "Mt  ",
+    "lat": "47.4532",
+    "lng": "9.64002",
+    "arrival": "2023-08-16T13:21:00Z",
+    "departure": "2023-08-16T14:15:00Z"
+  },
+  {
+    "train_number": "47756 ",
+    "unit_number": "1016.0021",
+    "name": "Wolfurt (in Wo)",
+    "abbr": "Wo  ",
+    "lat": "47.457",
+    "lng": "9.74133",
+    "arrival": null,
+    "departure": "2023-08-16T13:09:00Z"
+  },
+  {
+    "train_number": "47756 ",
+    "unit_number": "1016.0021",
+    "name": "Dornbirn (in Do)",
+    "abbr": "Do  ",
+    "lat": "47.4176",
+    "lng": "9.73871",
+    "arrival": null,
+    "departure": "2023-08-16T13:03:00Z"
+  },
+  {
+    "train_number": "47755 ",
+    "unit_number": "1016.0021",
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
+    "arrival": "2023-08-16T11:33:00Z",
+    "departure": "2023-08-16T12:37:00Z"
+  },
+  {
+    "train_number": "464   ",
+    "unit_number": "1016.0021",
+    "name": "Buchs (SG)",
+    "abbr": "Bc  ",
+    "lat": "47.171",
+    "lng": "9.4779",
+    "arrival": "2023-08-16T05:54:00Z",
+    "departure": "2023-08-16T11:15:00Z"
+  },
+  {
+    "train_number": "464   ",
+    "unit_number": "1016.0021",
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
+    "arrival": "2023-08-16T05:21:00Z",
+    "departure": "2023-08-16T05:39:00Z"
+  },
+  {
+    "train_number": "464   ",
+    "unit_number": "1016.0021",
+    "name": "Bludenz",
+    "abbr": "B   ",
+    "lat": "47.155",
+    "lng": "9.81448",
+    "arrival": "2023-08-16T04:56:00Z",
+    "departure": "2023-08-16T05:06:00Z"
+  },
+  {
+    "train_number": "464   ",
+    "unit_number": "1016.0021",
+    "name": "Landeck-Zams",
+    "abbr": "Le  ",
+    "lat": "47.148",
+    "lng": "10.5782",
+    "arrival": "2023-08-16T03:41:00Z",
+    "departure": "2023-08-16T03:45:00Z"
+  },
+  {
+    "train_number": "464   ",
+    "unit_number": "1016.0021",
+    "name": "Imst-Pitztal",
+    "abbr": "Im  ",
+    "lat": "47.219",
+    "lng": "10.7619",
+    "arrival": null,
+    "departure": "2023-08-16T03:29:00Z"
+  },
+  {
+    "train_number": "464   ",
+    "unit_number": "1016.0021",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-08-16T02:49:00Z",
+    "departure": "2023-08-16T02:53:00Z"
+  },
+  {
+    "train_number": "464   ",
+    "unit_number": "1016.0021",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
+    "arrival": null,
+    "departure": "2023-08-16T02:43:00Z"
+  }
+]

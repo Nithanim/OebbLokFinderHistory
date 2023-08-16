@@ -1,0 +1,102 @@
+[
+  {
+    "train_number": "3615  ",
+    "unit_number": "4024.0016",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": "2023-08-16T10:47:00Z",
+    "departure": "2023-08-16T10:51:00Z"
+  },
+  {
+    "train_number": "3615  ",
+    "unit_number": "4024.0016",
+    "name": "Enns",
+    "abbr": "Ens ",
+    "lat": "48.2212",
+    "lng": "14.4668",
+    "arrival": "2023-08-16T10:40:00Z",
+    "departure": "2023-08-16T10:41:00Z"
+  },
+  {
+    "train_number": "3942  ",
+    "unit_number": "4024.0016",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-08-16T09:24:00Z",
+    "departure": "2023-08-16T10:23:00Z"
+  },
+  {
+    "train_number": "3940  ",
+    "unit_number": "4024.0016",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-08-16T08:24:00Z",
+    "departure": "2023-08-16T08:36:00Z"
+  },
+  {
+    "train_number": "3837  ",
+    "unit_number": "4024.0016",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-08-16T06:10:00Z",
+    "departure": "2023-08-16T07:36:00Z"
+  },
+  {
+    "train_number": "3934  ",
+    "unit_number": "4024.0016",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-08-16T05:54:00Z",
+    "departure": "2023-08-16T05:56:00Z"
+  },
+  {
+    "train_number": "5903  ",
+    "unit_number": "4024.0016",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-08-16T03:54:00Z",
+    "departure": "2023-08-16T04:36:00Z"
+  },
+  {
+    "train_number": "5903  ",
+    "unit_number": "4024.0016",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-08-16T03:29:00Z",
+    "departure": "2023-08-16T03:31:00Z"
+  },
+  {
+    "train_number": "5903  ",
+    "unit_number": "4024.0016",
+    "name": "Neumarkt-Kallham (in Neu)",
+    "abbr": "Neu ",
+    "lat": "48.2714",
+    "lng": "13.7245",
+    "arrival": "2023-08-16T03:03:00Z",
+    "departure": "2023-08-16T03:04:00Z"
+  },
+  {
+    "train_number": "Steht ",
+    "unit_number": "4024.0016",
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": "2023-08-15T22:00:00Z",
+    "departure": "2023-08-16T02:32:00Z"
+  }
+]

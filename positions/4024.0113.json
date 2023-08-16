@@ -1,0 +1,182 @@
+[
+  {
+    "train_number": "4980  ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-08-16T20:04:00Z",
+    "departure": "2023-08-17T03:18:00Z"
+  },
+  {
+    "train_number": "4979  ",
+    "unit_number": "4024.0113",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": "2023-08-16T19:26:00Z",
+    "departure": "2023-08-16T19:35:00Z"
+  },
+  {
+    "train_number": "4924  ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-08-16T18:39:00Z",
+    "departure": "2023-08-16T18:56:00Z"
+  },
+  {
+    "train_number": "4974  ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-08-16T17:01:00Z",
+    "departure": "2023-08-16T17:20:00Z"
+  },
+  {
+    "train_number": "4973  ",
+    "unit_number": "4024.0113",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": "2023-08-16T16:26:00Z",
+    "departure": "2023-08-16T16:32:00Z"
+  },
+  {
+    "train_number": "4918  ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-08-16T15:39:00Z",
+    "departure": "2023-08-16T15:56:00Z"
+  },
+  {
+    "train_number": "4968  ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-08-16T14:04:00Z",
+    "departure": "2023-08-16T14:20:00Z"
+  },
+  {
+    "train_number": "4967  ",
+    "unit_number": "4024.0113",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": "2023-08-16T13:26:00Z",
+    "departure": "2023-08-16T13:35:00Z"
+  },
+  {
+    "train_number": "4912  ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-08-16T12:39:00Z",
+    "departure": "2023-08-16T12:56:00Z"
+  },
+  {
+    "train_number": "4962  ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-08-16T11:04:00Z",
+    "departure": "2023-08-16T11:20:00Z"
+  },
+  {
+    "train_number": "4961  ",
+    "unit_number": "4024.0113",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": "2023-08-16T10:26:00Z",
+    "departure": "2023-08-16T10:35:00Z"
+  },
+  {
+    "train_number": "4906  ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-08-16T09:39:00Z",
+    "departure": "2023-08-16T09:56:00Z"
+  },
+  {
+    "train_number": "4956  ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-08-16T08:04:00Z",
+    "departure": "2023-08-16T08:20:00Z"
+  },
+  {
+    "train_number": "4955  ",
+    "unit_number": "4024.0113",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": "2023-08-16T07:26:00Z",
+    "departure": "2023-08-16T07:35:00Z"
+  },
+  {
+    "train_number": "4900  ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-08-16T06:39:00Z",
+    "departure": "2023-08-16T06:56:00Z"
+  },
+  {
+    "train_number": "1743  ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-08-16T04:57:00Z",
+    "departure": "2023-08-16T05:20:00Z"
+  },
+  {
+    "train_number": "4208  ",
+    "unit_number": "4024.0113",
+    "name": "Klagenfurt Hbf (in Kt)",
+    "abbr": "Kt  ",
+    "lat": "46.6156",
+    "lng": "14.3137",
+    "arrival": "2023-08-16T03:29:00Z",
+    "departure": "2023-08-16T04:17:00Z"
+  },
+  {
+    "train_number": "Steht ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-08-15T22:00:00Z",
+    "departure": "2023-08-16T02:50:00Z"
+  }
+]

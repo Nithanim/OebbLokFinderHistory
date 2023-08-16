@@ -1,0 +1,202 @@
+[
+  {
+    "train_number": "18469 ",
+    "unit_number": "1116.0157",
+    "name": "Gänserndorf",
+    "abbr": "Gae ",
+    "lat": "48.3401",
+    "lng": "16.7324",
+    "arrival": null,
+    "departure": "2023-08-17T00:10:00Z"
+  },
+  {
+    "train_number": "18469 ",
+    "unit_number": "1116.0157",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-08-16T23:36:00Z"
+  },
+  {
+    "train_number": "86666 ",
+    "unit_number": "1116.0157",
+    "name": "Kledering (in Zur)",
+    "abbr": "Za  ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": "2023-08-16T22:50:00Z",
+    "departure": "2023-08-16T23:32:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0157",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-08-16T21:45:00Z"
+  },
+  {
+    "train_number": "63017 ",
+    "unit_number": "1116.0157",
+    "name": "Tulln a. d. Donau (in Tu)",
+    "abbr": "Tu  ",
+    "lat": "48.3275",
+    "lng": "16.0644",
+    "arrival": "2023-08-16T19:43:00Z",
+    "departure": "2023-08-16T19:51:00Z"
+  },
+  {
+    "train_number": "63017 ",
+    "unit_number": "1116.0157",
+    "name": "Absdorf-Hippersdorf (in Ah)",
+    "abbr": "Ah  ",
+    "lat": "48.4018",
+    "lng": "15.9862",
+    "arrival": null,
+    "departure": "2023-08-16T19:33:00Z"
+  },
+  {
+    "train_number": "63017 ",
+    "unit_number": "1116.0157",
+    "name": "Sigmundsherberg",
+    "abbr": "Sh  ",
+    "lat": "48.6852",
+    "lng": "15.7462",
+    "arrival": "2023-08-16T18:44:00Z",
+    "departure": "2023-08-16T18:53:00Z"
+  },
+  {
+    "train_number": "86816 ",
+    "unit_number": "1116.0157",
+    "name": "Schwarzenau",
+    "abbr": "Swu ",
+    "lat": "48.7464",
+    "lng": "15.2673",
+    "arrival": "2023-08-16T17:02:00Z",
+    "departure": "2023-08-16T18:03:00Z"
+  },
+  {
+    "train_number": "2120  ",
+    "unit_number": "1116.0157",
+    "name": "Sigmundsherberg",
+    "abbr": "Sh  ",
+    "lat": "48.6852",
+    "lng": "15.7462",
+    "arrival": "2023-08-16T15:41:00Z",
+    "departure": "2023-08-16T16:30:00Z"
+  },
+  {
+    "train_number": "2120  ",
+    "unit_number": "1116.0157",
+    "name": "Absdorf-Hippersdorf (in Ah)",
+    "abbr": "Ah  ",
+    "lat": "48.4018",
+    "lng": "15.9862",
+    "arrival": "2023-08-16T15:04:00Z",
+    "departure": "2023-08-16T15:05:00Z"
+  },
+  {
+    "train_number": "2120  ",
+    "unit_number": "1116.0157",
+    "name": "Tulln a. d. Donau (in Tu)",
+    "abbr": "Tu  ",
+    "lat": "48.3275",
+    "lng": "16.0644",
+    "arrival": "2023-08-16T14:56:00Z",
+    "departure": "2023-08-16T14:57:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0157",
+    "name": "Wien FJBf (in Wf)",
+    "abbr": "Wf  ",
+    "lat": "48.227",
+    "lng": "16.3611",
+    "arrival": null,
+    "departure": "2023-08-16T14:28:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0157",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": null,
+    "departure": "2023-08-16T12:03:00Z"
+  },
+  {
+    "train_number": "527   ",
+    "unit_number": "1116.0157",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-08-16T05:45:00Z",
+    "departure": "2023-08-16T05:47:00Z"
+  },
+  {
+    "train_number": "527   ",
+    "unit_number": "1116.0157",
+    "name": "St.Pölten Hbf (in Pb)",
+    "abbr": "Pb  ",
+    "lat": "48.2081",
+    "lng": "15.6237",
+    "arrival": "2023-08-16T05:13:00Z",
+    "departure": "2023-08-16T05:15:00Z"
+  },
+  {
+    "train_number": "527   ",
+    "unit_number": "1116.0157",
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
+    "arrival": null,
+    "departure": "2023-08-16T04:56:00Z"
+  },
+  {
+    "train_number": "527   ",
+    "unit_number": "1116.0157",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
+    "arrival": null,
+    "departure": "2023-08-16T04:51:00Z"
+  },
+  {
+    "train_number": "527   ",
+    "unit_number": "1116.0157",
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
+    "arrival": "2023-08-16T04:38:00Z",
+    "departure": "2023-08-16T04:42:00Z"
+  },
+  {
+    "train_number": "527   ",
+    "unit_number": "1116.0157",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": null,
+    "departure": "2023-08-16T04:25:00Z"
+  },
+  {
+    "train_number": "85536 ",
+    "unit_number": "1116.0157",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-08-15T23:55:00Z",
+    "departure": "2023-08-16T04:13:00Z"
+  }
+]
