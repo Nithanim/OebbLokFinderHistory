@@ -118,25 +118,5 @@
     "lng": "14.3134",
     "arrival": "2023-08-16T07:45:00Z",
     "departure": "2023-08-16T08:10:00Z"
-  },
-  {
-    "train_number": "54591 ",
-    "unit_number": "1016.0048",
-    "name": "St.Valentin (in Sv)",
-    "abbr": "Sv  ",
-    "lat": "48.1784",
-    "lng": "14.5219",
-    "arrival": "2023-08-16T02:39:00Z",
-    "departure": "2023-08-16T02:39:00Z"
-  },
-  {
-    "train_number": "54591 ",
-    "unit_number": "1016.0048",
-    "name": "Enns",
-    "abbr": "Ens ",
-    "lat": "48.2212",
-    "lng": "14.4668",
-    "arrival": null,
-    "departure": "2023-08-16T02:29:00Z"
   }
 ]
