@@ -1,103 +1,23 @@
 [
   {
-    "train_number": "47842 ",
+    "train_number": "54350 ",
     "unit_number": "1016.0048",
-    "name": "Buchs (SG)",
-    "abbr": "Bc  ",
-    "lat": "47.171",
-    "lng": "9.4779",
-    "arrival": "2023-08-17T01:57:00Z",
-    "departure": "2023-08-17T03:27:00Z"
-  },
-  {
-    "train_number": "47842 ",
-    "unit_number": "1016.0048",
-    "name": "Feldkirch",
-    "abbr": "Fk  ",
-    "lat": "47.2417",
-    "lng": "9.60519",
+    "name": "Bischofshofen (in Bo)",
+    "abbr": "Bo  ",
+    "lat": "47.42",
+    "lng": "13.2199",
     "arrival": null,
-    "departure": "2023-08-17T01:41:00Z"
+    "departure": "2023-08-18T01:32:00Z"
   },
   {
-    "train_number": "47842 ",
-    "unit_number": "1016.0048",
-    "name": "Bludenz",
-    "abbr": "B   ",
-    "lat": "47.155",
-    "lng": "9.81448",
-    "arrival": "2023-08-17T01:15:00Z",
-    "departure": "2023-08-17T01:24:00Z"
-  },
-  {
-    "train_number": "47842 ",
-    "unit_number": "1016.0048",
-    "name": "Landeck-Zams",
-    "abbr": "Le  ",
-    "lat": "47.148",
-    "lng": "10.5782",
-    "arrival": "2023-08-16T23:56:00Z",
-    "departure": "2023-08-17T00:18:00Z"
-  },
-  {
-    "train_number": "47842 ",
-    "unit_number": "1016.0048",
-    "name": "Imst-Pitztal",
-    "abbr": "Im  ",
-    "lat": "47.219",
-    "lng": "10.7619",
-    "arrival": null,
-    "departure": "2023-08-16T23:42:00Z"
-  },
-  {
-    "train_number": "88446 ",
-    "unit_number": "1016.0048",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-08-16T20:35:00Z",
-    "departure": "2023-08-16T22:59:00Z"
-  },
-  {
-    "train_number": "54454 ",
-    "unit_number": "1016.0048",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
-    "arrival": null,
-    "departure": "2023-08-16T18:28:00Z"
-  },
-  {
-    "train_number": "54454 ",
-    "unit_number": "1016.0048",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-08-16T18:03:00Z",
-    "departure": "2023-08-16T18:25:00Z"
-  },
-  {
-    "train_number": "54454 ",
-    "unit_number": "1016.0048",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
-    "arrival": null,
-    "departure": "2023-08-16T17:10:00Z"
-  },
-  {
-    "train_number": "54454 ",
+    "train_number": "54350 ",
     "unit_number": "1016.0048",
     "name": "Schwarzach-St.Veit",
     "abbr": "Swa ",
     "lat": "47.3186",
     "lng": "13.1561",
-    "arrival": "2023-08-16T15:08:00Z",
-    "departure": "2023-08-16T15:30:00Z"
+    "arrival": "2023-08-18T00:58:00Z",
+    "departure": "2023-08-18T01:20:00Z"
   },
   {
     "train_number": null,
@@ -107,66 +27,26 @@
     "lat": "46.5674",
     "lng": "13.8238",
     "arrival": null,
-    "departure": "2023-08-16T12:33:00Z"
+    "departure": "2023-08-17T23:03:00Z"
   },
   {
-    "train_number": "54591 ",
+    "train_number": "44295 ",
     "unit_number": "1016.0048",
-    "name": "Villach Hbf",
-    "abbr": "Vb  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
+    "name": "Tarvisio Boscoverde",
+    "abbr": "Tbv ",
+    "lat": "46.5059",
+    "lng": "13.6081",
+    "arrival": "2023-08-17T10:00:00Z",
+    "departure": "2023-08-17T10:30:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1016.0048",
+    "name": "Villach Süd Gvbf Ausfgr",
+    "abbr": "Va  ",
+    "lat": "46.5674",
+    "lng": "13.8238",
     "arrival": null,
-    "departure": "2023-08-16T09:11:00Z"
-  },
-  {
-    "train_number": "54591 ",
-    "unit_number": "1016.0048",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": null,
-    "departure": "2023-08-16T08:33:00Z"
-  },
-  {
-    "train_number": "54591 ",
-    "unit_number": "1016.0048",
-    "name": "St.Veit a.d.Glan (in Vps)",
-    "abbr": "Vps ",
-    "lat": "46.7704",
-    "lng": "14.3672",
-    "arrival": null,
-    "departure": "2023-08-16T08:15:00Z"
-  },
-  {
-    "train_number": "54591 ",
-    "unit_number": "1016.0048",
-    "name": "Zeltweg",
-    "abbr": "Zg  ",
-    "lat": "47.1887",
-    "lng": "14.7425",
-    "arrival": null,
-    "departure": "2023-08-16T06:49:00Z"
-  },
-  {
-    "train_number": "54591 ",
-    "unit_number": "1016.0048",
-    "name": "St.Michael (in M)",
-    "abbr": "M   ",
-    "lat": "47.3445",
-    "lng": "15.0103",
-    "arrival": null,
-    "departure": "2023-08-16T06:22:00Z"
-  },
-  {
-    "train_number": "54591 ",
-    "unit_number": "1016.0048",
-    "name": "Selzthal (in Sl)",
-    "abbr": "Sl  ",
-    "lat": "47.5505",
-    "lng": "14.3134",
-    "arrival": "2023-08-16T05:31:00Z",
-    "departure": "2023-08-16T05:34:00Z"
+    "departure": "2023-08-17T09:35:00Z"
   }
 ]

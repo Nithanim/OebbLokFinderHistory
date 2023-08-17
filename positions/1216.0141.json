@@ -1,13 +1,13 @@
 [
   {
-    "train_number": "54350 ",
+    "train_number": "48281 ",
     "unit_number": "1216.0141",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-08-17T00:58:00Z",
-    "departure": "2023-08-17T01:28:00Z"
+    "name": "Tarvisio Boscoverde",
+    "abbr": "Tbv ",
+    "lat": "46.5059",
+    "lng": "13.6081",
+    "arrival": "2023-08-18T01:05:00Z",
+    "departure": "2023-08-18T01:35:00Z"
   },
   {
     "train_number": null,
@@ -17,7 +17,7 @@
     "lat": "46.5674",
     "lng": "13.8238",
     "arrival": null,
-    "departure": "2023-08-16T23:03:00Z"
+    "departure": "2023-08-18T00:43:00Z"
   },
   {
     "train_number": "45448 ",
@@ -27,17 +27,17 @@
     "lat": "46.5309",
     "lng": "14.0354",
     "arrival": null,
-    "departure": "2023-08-16T21:47:00Z"
+    "departure": "2023-08-17T21:47:00Z"
   },
   {
-    "train_number": "45443 ",
+    "train_number": "45449 ",
     "unit_number": "1216.0141",
     "name": "Rosenbach",
     "abbr": "Rn  ",
     "lat": "46.5309",
     "lng": "14.0354",
     "arrival": null,
-    "departure": "2023-08-16T07:17:00Z"
+    "departure": "2023-08-17T21:02:00Z"
   },
   {
     "train_number": null,
@@ -47,6 +47,46 @@
     "lat": "46.5674",
     "lng": "13.8238",
     "arrival": null,
-    "departure": "2023-08-16T06:59:00Z"
+    "departure": "2023-08-17T20:40:00Z"
+  },
+  {
+    "train_number": "45444 ",
+    "unit_number": "1216.0141",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": null,
+    "departure": "2023-08-17T12:00:00Z"
+  },
+  {
+    "train_number": "45443 ",
+    "unit_number": "1216.0141",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": null,
+    "departure": "2023-08-17T07:17:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1216.0141",
+    "name": "Villach Süd Gvbf Ausfgr",
+    "abbr": "Va  ",
+    "lat": "46.5674",
+    "lng": "13.8238",
+    "arrival": null,
+    "departure": "2023-08-17T06:59:00Z"
+  },
+  {
+    "train_number": "45440 ",
+    "unit_number": "1216.0141",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": null,
+    "departure": "2023-08-17T04:17:00Z"
   }
 ]
