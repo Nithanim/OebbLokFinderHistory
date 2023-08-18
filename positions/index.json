@@ -20,14 +20,14 @@
     "departure": "2023-08-18T04:28:00Z"
   },
   {
-    "train_number": "3462  ",
+    "train_number": "3463  ",
     "unit_number": "5047.0061",
-    "name": "Schärding (in Sch)",
-    "abbr": "Sch ",
-    "lat": "48.4638",
-    "lng": "13.4424",
-    "arrival": "2023-08-17T18:39:00Z",
-    "departure": "2023-08-18T02:37:00Z"
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": "2023-08-18T03:54:00Z",
+    "departure": "2023-08-18T04:24:00Z"
   },
   {
     "train_number": "84309 ",
@@ -60,14 +60,14 @@
     "departure": "2023-08-18T03:50:00Z"
   },
   {
-    "train_number": "3040  ",
+    "train_number": "3051  ",
     "unit_number": "4024.0120",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": "2023-08-17T20:50:00Z",
-    "departure": "2023-08-18T02:42:00Z"
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-08-18T03:50:00Z",
+    "departure": "2023-08-19T04:55:00Z"
   },
   {
     "train_number": "85548 ",
@@ -102,12 +102,12 @@
   {
     "train_number": "5340  ",
     "unit_number": "4024.0085",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
-    "arrival": "2023-08-18T02:41:00Z",
-    "departure": "2023-08-18T02:42:00Z"
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-08-18T03:18:00Z",
+    "departure": "2023-08-18T03:19:00Z"
   },
   {
     "train_number": "5907  ",
@@ -250,14 +250,14 @@
     "departure": "2023-08-18T04:45:00Z"
   },
   {
-    "train_number": "2303  ",
+    "train_number": "2206  ",
     "unit_number": "1116.0200",
-    "name": "Floridsdorf (in F)",
-    "abbr": "F   ",
-    "lat": "48.2568",
-    "lng": "16.4004",
-    "arrival": "2023-08-18T02:29:00Z",
-    "departure": "2023-08-18T02:39:00Z"
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": "2023-08-18T03:47:00Z",
+    "departure": "2023-08-18T04:03:00Z"
   },
   {
     "train_number": "96550 ",
@@ -372,12 +372,12 @@
   {
     "train_number": "54509 ",
     "unit_number": "1116.0016",
-    "name": "Mürzzuschlag (in Mz)",
-    "abbr": "Mz  ",
-    "lat": "47.6079",
-    "lng": "15.677",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
     "arrival": null,
-    "departure": "2023-08-18T02:41:00Z"
+    "departure": "2023-08-18T03:15:00Z"
   },
   {
     "train_number": "72632 ",
@@ -392,12 +392,12 @@
   {
     "train_number": "48263 ",
     "unit_number": "1016.0048",
-    "name": "Voest Alpine Linz",
-    "abbr": "Ms  ",
-    "lat": "48.2607",
-    "lng": "14.2927",
-    "arrival": "2023-08-18T02:08:00Z",
-    "departure": "2023-08-18T02:34:00Z"
+    "name": "Salzburg Gnigl-Vbf (in Sb)",
+    "abbr": "Sr  ",
+    "lat": "47.8075",
+    "lng": "13.0021",
+    "arrival": "2023-08-18T04:38:00Z",
+    "departure": "2023-08-18T04:46:00Z"
   },
   {
     "train_number": "74490 ",
