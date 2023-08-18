@@ -2,6 +2,16 @@
   {
     "train_number": "456   ",
     "unit_number": "1116.0276",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": "2023-08-18T19:33:00Z",
+    "departure": "2023-08-18T19:35:00Z"
+  },
+  {
+    "train_number": "456   ",
+    "unit_number": "1116.0276",
     "name": "Neunkirchen N.Ö.",
     "abbr": "Nek ",
     "lat": "47.731",
@@ -188,15 +198,5 @@
     "lng": "16.9008",
     "arrival": null,
     "departure": "2023-08-18T04:00:00Z"
-  },
-  {
-    "train_number": "64200 ",
-    "unit_number": "1116.0276",
-    "name": "Hohenau",
-    "abbr": "Nh  ",
-    "lat": "48.5981",
-    "lng": "16.9008",
-    "arrival": "2023-08-18T01:04:00Z",
-    "departure": "2023-08-18T02:22:00Z"
   }
 ]
