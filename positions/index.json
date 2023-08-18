@@ -90,14 +90,14 @@
     "departure": "2023-08-18T04:57:00Z"
   },
   {
-    "train_number": "5301  ",
+    "train_number": "5114  ",
     "unit_number": "4024.0088",
-    "name": "Landeck-Zams",
-    "abbr": "Le  ",
-    "lat": "47.148",
-    "lng": "10.5782",
-    "arrival": "2023-08-17T23:22:00Z",
-    "departure": "2023-08-18T03:03:00Z"
+    "name": "Kufstein",
+    "abbr": "K   ",
+    "lat": "47.5833",
+    "lng": "12.1657",
+    "arrival": "2023-08-18T05:22:00Z",
+    "departure": "2023-08-18T09:12:00Z"
   },
   {
     "train_number": "5340  ",
@@ -340,24 +340,24 @@
     "departure": "2023-08-18T03:29:00Z"
   },
   {
-    "train_number": "85500 ",
+    "train_number": "765   ",
     "unit_number": "1116.0153",
-    "name": "Wolfurt (in Wo)",
-    "abbr": "Wo  ",
-    "lat": "47.457",
-    "lng": "9.74133",
-    "arrival": null,
-    "departure": "2023-08-18T03:01:00Z"
+    "name": "Bregenz (in Bg)",
+    "abbr": "Bg  ",
+    "lat": "47.5029",
+    "lng": "9.73947",
+    "arrival": "2023-08-18T03:07:00Z",
+    "departure": "2023-08-18T03:48:00Z"
   },
   {
     "train_number": "2951  ",
     "unit_number": "1116.0143",
-    "name": "Wr. Neustadt Hbf (in Nb)",
-    "abbr": "Nb  ",
-    "lat": "47.8113",
-    "lng": "16.2337",
-    "arrival": "2023-08-18T02:30:00Z",
-    "departure": "2023-08-18T03:02:00Z"
+    "name": "Neunkirchen N.Ö.",
+    "abbr": "Nek ",
+    "lat": "47.731",
+    "lng": "16.0826",
+    "arrival": "2023-08-18T03:14:00Z",
+    "departure": "2023-08-18T03:15:00Z"
   },
   {
     "train_number": "44313 ",
