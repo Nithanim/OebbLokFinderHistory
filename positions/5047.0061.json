@@ -1,5 +1,135 @@
 [
   {
+    "train_number": "3481  ",
+    "unit_number": "5047.0061",
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": "2023-08-18T16:46:00Z",
+    "departure": "2023-08-19T05:16:00Z"
+  },
+  {
+    "train_number": "3481  ",
+    "unit_number": "5047.0061",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-08-18T15:56:00Z",
+    "departure": "2023-08-18T16:08:00Z"
+  },
+  {
+    "train_number": "3478  ",
+    "unit_number": "5047.0061",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": "2023-08-18T14:42:00Z",
+    "departure": "2023-08-18T15:16:00Z"
+  },
+  {
+    "train_number": "3478  ",
+    "unit_number": "5047.0061",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-08-18T13:53:00Z",
+    "departure": "2023-08-18T14:01:00Z"
+  },
+  {
+    "train_number": "3473  ",
+    "unit_number": "5047.0061",
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": "2023-08-18T12:46:00Z",
+    "departure": "2023-08-18T13:13:00Z"
+  },
+  {
+    "train_number": "3473  ",
+    "unit_number": "5047.0061",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-08-18T11:58:00Z",
+    "departure": "2023-08-18T12:08:00Z"
+  },
+  {
+    "train_number": "3473  ",
+    "unit_number": "5047.0061",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": "2023-08-18T11:17:00Z",
+    "departure": "2023-08-18T11:18:00Z"
+  },
+  {
+    "train_number": "3468  ",
+    "unit_number": "5047.0061",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": "2023-08-18T08:42:00Z",
+    "departure": "2023-08-18T10:58:00Z"
+  },
+  {
+    "train_number": "3468  ",
+    "unit_number": "5047.0061",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-08-18T07:53:00Z",
+    "departure": "2023-08-18T08:01:00Z"
+  },
+  {
+    "train_number": "3463  ",
+    "unit_number": "5047.0061",
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": "2023-08-18T05:48:00Z",
+    "departure": "2023-08-18T07:13:00Z"
+  },
+  {
+    "train_number": "3463  ",
+    "unit_number": "5047.0061",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-08-18T05:03:00Z",
+    "departure": "2023-08-18T05:10:00Z"
+  },
+  {
+    "train_number": "3462  ",
+    "unit_number": "5047.0061",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": "2023-08-18T03:54:00Z",
+    "departure": "2023-08-18T04:24:00Z"
+  },
+  {
+    "train_number": "3462  ",
+    "unit_number": "5047.0061",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-08-18T03:13:00Z",
+    "departure": "2023-08-18T03:14:00Z"
+  },
+  {
     "train_number": "3485  ",
     "unit_number": "5047.0061",
     "name": "Schärding (in Sch)",
@@ -8,145 +138,5 @@
     "lng": "13.4424",
     "arrival": "2023-08-17T18:39:00Z",
     "departure": "2023-08-18T02:37:00Z"
-  },
-  {
-    "train_number": "3485  ",
-    "unit_number": "5047.0061",
-    "name": "Ried im Innkreis",
-    "abbr": "Rd  ",
-    "lat": "48.2005",
-    "lng": "13.4877",
-    "arrival": "2023-08-17T17:56:00Z",
-    "departure": "2023-08-17T18:04:00Z"
-  },
-  {
-    "train_number": "3482  ",
-    "unit_number": "5047.0061",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": "2023-08-17T16:42:00Z",
-    "departure": "2023-08-17T17:16:00Z"
-  },
-  {
-    "train_number": "3482  ",
-    "unit_number": "5047.0061",
-    "name": "Ried im Innkreis",
-    "abbr": "Rd  ",
-    "lat": "48.2005",
-    "lng": "13.4877",
-    "arrival": "2023-08-17T15:53:00Z",
-    "departure": "2023-08-17T16:01:00Z"
-  },
-  {
-    "train_number": "3477  ",
-    "unit_number": "5047.0061",
-    "name": "Schärding (in Sch)",
-    "abbr": "Sch ",
-    "lat": "48.4638",
-    "lng": "13.4424",
-    "arrival": "2023-08-17T14:46:00Z",
-    "departure": "2023-08-17T15:13:00Z"
-  },
-  {
-    "train_number": "3477  ",
-    "unit_number": "5047.0061",
-    "name": "Ried im Innkreis",
-    "abbr": "Rd  ",
-    "lat": "48.2005",
-    "lng": "13.4877",
-    "arrival": "2023-08-17T13:56:00Z",
-    "departure": "2023-08-17T14:08:00Z"
-  },
-  {
-    "train_number": "3474  ",
-    "unit_number": "5047.0061",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": "2023-08-17T12:42:00Z",
-    "departure": "2023-08-17T13:16:00Z"
-  },
-  {
-    "train_number": "3474  ",
-    "unit_number": "5047.0061",
-    "name": "Ried im Innkreis",
-    "abbr": "Rd  ",
-    "lat": "48.2005",
-    "lng": "13.4877",
-    "arrival": "2023-08-17T11:53:00Z",
-    "departure": "2023-08-17T12:01:00Z"
-  },
-  {
-    "train_number": "3467  ",
-    "unit_number": "5047.0061",
-    "name": "Schärding (in Sch)",
-    "abbr": "Sch ",
-    "lat": "48.4638",
-    "lng": "13.4424",
-    "arrival": "2023-08-17T09:45:00Z",
-    "departure": "2023-08-17T11:13:00Z"
-  },
-  {
-    "train_number": "3467  ",
-    "unit_number": "5047.0061",
-    "name": "Ried im Innkreis",
-    "abbr": "Rd  ",
-    "lat": "48.2005",
-    "lng": "13.4877",
-    "arrival": "2023-08-17T08:56:00Z",
-    "departure": "2023-08-17T09:08:00Z"
-  },
-  {
-    "train_number": "3466  ",
-    "unit_number": "5047.0061",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": "2023-08-17T06:42:00Z",
-    "departure": "2023-08-17T08:16:00Z"
-  },
-  {
-    "train_number": "3466  ",
-    "unit_number": "5047.0061",
-    "name": "Ried im Innkreis",
-    "abbr": "Rd  ",
-    "lat": "48.2005",
-    "lng": "13.4877",
-    "arrival": "2023-08-17T05:52:00Z",
-    "departure": "2023-08-17T06:01:00Z"
-  },
-  {
-    "train_number": "3461  ",
-    "unit_number": "5047.0061",
-    "name": "Schärding (in Sch)",
-    "abbr": "Sch ",
-    "lat": "48.4638",
-    "lng": "13.4424",
-    "arrival": "2023-08-17T04:59:00Z",
-    "departure": "2023-08-17T05:16:00Z"
-  },
-  {
-    "train_number": "3461  ",
-    "unit_number": "5047.0061",
-    "name": "Ried im Innkreis",
-    "abbr": "Rd  ",
-    "lat": "48.2005",
-    "lng": "13.4877",
-    "arrival": "2023-08-17T04:08:00Z",
-    "departure": "2023-08-17T04:24:00Z"
-  },
-  {
-    "train_number": "3460  ",
-    "unit_number": "5047.0061",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": "2023-08-17T03:21:00Z",
-    "departure": "2023-08-17T03:28:00Z"
   }
 ]

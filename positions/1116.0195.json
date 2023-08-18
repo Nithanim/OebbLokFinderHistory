@@ -1,202 +1,202 @@
 [
   {
-    "train_number": null,
-    "unit_number": "1116.0195",
-    "name": "Wels Vbf (in Wev)",
-    "abbr": "Wev ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": null,
-    "departure": "2023-08-17T22:30:00Z"
-  },
-  {
-    "train_number": "63881 ",
-    "unit_number": "1116.0195",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": "2023-08-17T19:39:00Z",
-    "departure": "2023-08-17T19:49:00Z"
-  },
-  {
-    "train_number": "63881 ",
+    "train_number": "47859 ",
     "unit_number": "1116.0195",
     "name": "Attnang-Puchheim",
     "abbr": "At  ",
     "lat": "48.0112",
     "lng": "13.7193",
     "arrival": null,
-    "departure": "2023-08-17T19:15:00Z"
+    "departure": "2023-08-18T21:19:00Z"
   },
   {
-    "train_number": "63878 ",
-    "unit_number": "1116.0195",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": null,
-    "departure": "2023-08-17T14:17:00Z"
-  },
-  {
-    "train_number": "63878 ",
-    "unit_number": "1116.0195",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": null,
-    "departure": "2023-08-17T13:48:00Z"
-  },
-  {
-    "train_number": "63878 ",
-    "unit_number": "1116.0195",
-    "name": "Wels Vbf-Einfgr (in Wev)",
-    "abbr": "Wei ",
-    "lat": "48.1765",
-    "lng": "14.0501",
-    "arrival": null,
-    "departure": "2023-08-17T13:43:00Z"
-  },
-  {
-    "train_number": "44863 ",
-    "unit_number": "1116.0195",
-    "name": "Wels Vbf (in Wev)",
-    "abbr": "Wev ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": "2023-08-17T11:03:00Z",
-    "departure": "2023-08-17T13:41:00Z"
-  },
-  {
-    "train_number": "44863 ",
-    "unit_number": "1116.0195",
-    "name": "Wels Vbf-Einfgr (in Wev)",
-    "abbr": "Wei ",
-    "lat": "48.1765",
-    "lng": "14.0501",
-    "arrival": "2023-08-17T10:50:00Z",
-    "departure": "2023-08-17T11:00:00Z"
-  },
-  {
-    "train_number": "44863 ",
-    "unit_number": "1116.0195",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": null,
-    "departure": "2023-08-17T10:46:00Z"
-  },
-  {
-    "train_number": "44863 ",
-    "unit_number": "1116.0195",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": null,
-    "departure": "2023-08-17T10:24:00Z"
-  },
-  {
-    "train_number": "44863 ",
+    "train_number": "47859 ",
     "unit_number": "1116.0195",
     "name": "Steindorf b.Straßw. (in Nst)",
     "abbr": "Nst ",
     "lat": "47.9676",
     "lng": "13.2406",
-    "arrival": "2023-08-17T09:04:00Z",
-    "departure": "2023-08-17T09:12:00Z"
+    "arrival": null,
+    "departure": "2023-08-18T20:42:00Z"
   },
   {
-    "train_number": "44863 ",
+    "train_number": null,
     "unit_number": "1116.0195",
     "name": "Salzburg Hbf (in Sb)",
     "abbr": "Sb  ",
     "lat": "47.8135",
     "lng": "13.0466",
-    "arrival": "2023-08-17T08:21:00Z",
-    "departure": "2023-08-17T08:38:00Z"
-  },
-  {
-    "train_number": "44863 ",
-    "unit_number": "1116.0195",
-    "name": "Salzburg Liefering (in Sb)",
-    "abbr": "Lfg ",
-    "lat": "47.8229",
-    "lng": "13.0021",
     "arrival": null,
-    "departure": "2023-08-17T08:16:00Z"
+    "departure": "2023-08-18T20:21:00Z"
   },
   {
-    "train_number": "44863 ",
+    "train_number": "54345 ",
     "unit_number": "1116.0195",
-    "name": "Freilassing",
-    "abbr": "MFL ",
-    "lat": "47.8368",
-    "lng": "12.9764",
+    "name": "Bischofshofen (in Bo)",
+    "abbr": "Bo  ",
+    "lat": "47.42",
+    "lng": "13.2199",
     "arrival": null,
-    "departure": "2023-08-17T08:14:00Z"
+    "departure": "2023-08-18T19:11:00Z"
   },
   {
-    "train_number": "44863 ",
+    "train_number": "54345 ",
     "unit_number": "1116.0195",
-    "name": "Traunstein",
-    "abbr": "MTS ",
-    "lat": "47.8697",
-    "lng": "12.6391",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-08-18T18:31:00Z",
+    "departure": "2023-08-18T18:57:00Z"
+  },
+  {
+    "train_number": "54345 ",
+    "unit_number": "1116.0195",
+    "name": "Kitzbühel",
+    "abbr": "Kzb ",
+    "lat": "47.4542",
+    "lng": "12.391",
     "arrival": null,
-    "departure": "2023-08-17T07:52:00Z"
+    "departure": "2023-08-18T17:12:00Z"
   },
   {
-    "train_number": "44863 ",
-    "unit_number": "1116.0195",
-    "name": "Kufstein",
-    "abbr": "K   ",
-    "lat": "47.5833",
-    "lng": "12.1657",
-    "arrival": "2023-08-17T06:42:00Z",
-    "departure": "2023-08-17T06:46:00Z"
-  },
-  {
-    "train_number": "44863 ",
+    "train_number": "54345 ",
     "unit_number": "1116.0195",
     "name": "Wörgl Hbf (in W)",
     "abbr": "W   ",
     "lat": "47.4912",
     "lng": "12.0603",
-    "arrival": "2023-08-17T06:01:00Z",
-    "departure": "2023-08-17T06:30:00Z"
+    "arrival": "2023-08-18T16:20:00Z",
+    "departure": "2023-08-18T16:32:00Z"
   },
   {
-    "train_number": "44863 ",
+    "train_number": "54345 ",
     "unit_number": "1116.0195",
     "name": "Wörgl Hbf-T. N. (in W)",
     "abbr": "Wtn ",
     "lat": "47.4824",
     "lng": "12.033",
     "arrival": null,
-    "departure": "2023-08-17T05:58:00Z"
+    "departure": "2023-08-18T16:17:00Z"
   },
   {
-    "train_number": "88413 ",
+    "train_number": "54345 ",
+    "unit_number": "1116.0195",
+    "name": "Schwaz",
+    "abbr": "Sw  ",
+    "lat": "47.3497",
+    "lng": "11.7016",
+    "arrival": null,
+    "departure": "2023-08-18T15:57:00Z"
+  },
+  {
+    "train_number": "54443 ",
     "unit_number": "1116.0195",
     "name": "Hall in Tirol",
     "abbr": "H   ",
     "lat": "47.2769",
     "lng": "11.5013",
-    "arrival": "2023-08-17T05:04:00Z",
-    "departure": "2023-08-17T05:25:00Z"
+    "arrival": "2023-08-18T14:04:00Z",
+    "departure": "2023-08-18T15:40:00Z"
   },
   {
-    "train_number": "49123 ",
+    "train_number": "54443 ",
     "unit_number": "1116.0195",
     "name": "Innsbruck Hbf  (in I)",
     "abbr": "I   ",
     "lat": "47.2634",
     "lng": "11.4017",
-    "arrival": "2023-08-17T01:00:00Z",
-    "departure": "2023-08-17T04:55:00Z"
+    "arrival": "2023-08-18T13:42:00Z",
+    "departure": "2023-08-18T13:55:00Z"
+  },
+  {
+    "train_number": "54443 ",
+    "unit_number": "1116.0195",
+    "name": "Imst-Pitztal",
+    "abbr": "Im  ",
+    "lat": "47.219",
+    "lng": "10.7619",
+    "arrival": "2023-08-18T12:57:00Z",
+    "departure": "2023-08-18T12:59:00Z"
+  },
+  {
+    "train_number": "54443 ",
+    "unit_number": "1116.0195",
+    "name": "Landeck-Zams",
+    "abbr": "Le  ",
+    "lat": "47.148",
+    "lng": "10.5782",
+    "arrival": "2023-08-18T12:32:00Z",
+    "departure": "2023-08-18T12:38:00Z"
+  },
+  {
+    "train_number": "54443 ",
+    "unit_number": "1116.0195",
+    "name": "Bludenz",
+    "abbr": "B   ",
+    "lat": "47.155",
+    "lng": "9.81448",
+    "arrival": "2023-08-18T11:14:00Z",
+    "departure": "2023-08-18T11:34:00Z"
+  },
+  {
+    "train_number": "54443 ",
+    "unit_number": "1116.0195",
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
+    "arrival": "2023-08-18T10:36:00Z",
+    "departure": "2023-08-18T10:54:00Z"
+  },
+  {
+    "train_number": "54443 ",
+    "unit_number": "1116.0195",
+    "name": "Dornbirn (in Do)",
+    "abbr": "Do  ",
+    "lat": "47.4176",
+    "lng": "9.73871",
+    "arrival": null,
+    "departure": "2023-08-18T10:15:00Z"
+  },
+  {
+    "train_number": "45850 ",
+    "unit_number": "1116.0195",
+    "name": "Wolfurt (in Wo)",
+    "abbr": "Wo  ",
+    "lat": "47.457",
+    "lng": "9.74133",
+    "arrival": "2023-08-18T03:59:00Z",
+    "departure": "2023-08-18T10:07:00Z"
+  },
+  {
+    "train_number": "45850 ",
+    "unit_number": "1116.0195",
+    "name": "Dornbirn (in Do)",
+    "abbr": "Do  ",
+    "lat": "47.4176",
+    "lng": "9.73871",
+    "arrival": null,
+    "departure": "2023-08-18T03:54:00Z"
+  },
+  {
+    "train_number": "45850 ",
+    "unit_number": "1116.0195",
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
+    "arrival": null,
+    "departure": "2023-08-18T03:35:00Z"
+  },
+  {
+    "train_number": "45850 ",
+    "unit_number": "1116.0195",
+    "name": "Bludenz",
+    "abbr": "B   ",
+    "lat": "47.155",
+    "lng": "9.81448",
+    "arrival": "2023-08-18T03:15:00Z",
+    "departure": "2023-08-18T03:20:00Z"
   }
 ]
