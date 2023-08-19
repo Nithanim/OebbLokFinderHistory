@@ -1,202 +1,62 @@
 [
   {
-    "train_number": "5575  ",
-    "unit_number": "1016.0020",
-    "name": "Lindau-Reutin (in Lir)",
-    "abbr": "Lir ",
-    "lat": "47.5525",
-    "lng": "9.70313",
-    "arrival": "2023-08-18T11:28:00Z",
-    "departure": "2023-08-18T11:29:00Z"
-  },
-  {
-    "train_number": "5572  ",
-    "unit_number": "1016.0020",
-    "name": "Lindau-Insel (in Lir)",
-    "abbr": "L   ",
-    "lat": "47.5525",
-    "lng": "9.70313",
-    "arrival": "2023-08-18T11:03:00Z",
-    "departure": "2023-08-18T11:25:00Z"
-  },
-  {
-    "train_number": "5572  ",
-    "unit_number": "1016.0020",
-    "name": "Lindau-Reutin (in Lir)",
-    "abbr": "Lir ",
-    "lat": "47.5525",
-    "lng": "9.70313",
-    "arrival": "2023-08-18T10:58:00Z",
-    "departure": "2023-08-18T10:59:00Z"
-  },
-  {
-    "train_number": "5572  ",
-    "unit_number": "1016.0020",
-    "name": "Bregenz (in Bg)",
-    "abbr": "Bg  ",
-    "lat": "47.5029",
-    "lng": "9.73947",
-    "arrival": "2023-08-18T10:48:00Z",
-    "departure": "2023-08-18T10:49:00Z"
-  },
-  {
-    "train_number": "5572  ",
-    "unit_number": "1016.0020",
-    "name": "Wolfurt (in Wo)",
-    "abbr": "Wo  ",
-    "lat": "47.457",
-    "lng": "9.74133",
-    "arrival": null,
-    "departure": "2023-08-18T10:42:00Z"
-  },
-  {
-    "train_number": "5572  ",
-    "unit_number": "1016.0020",
-    "name": "Dornbirn (in Do)",
-    "abbr": "Do  ",
-    "lat": "47.4176",
-    "lng": "9.73871",
-    "arrival": "2023-08-18T10:38:00Z",
-    "departure": "2023-08-18T10:39:00Z"
-  },
-  {
-    "train_number": "5572  ",
-    "unit_number": "1016.0020",
-    "name": "Feldkirch",
-    "abbr": "Fk  ",
-    "lat": "47.2417",
-    "lng": "9.60519",
-    "arrival": "2023-08-18T10:15:00Z",
-    "departure": "2023-08-18T10:17:00Z"
-  },
-  {
-    "train_number": "Vhz   ",
+    "train_number": "79807 ",
     "unit_number": "1016.0020",
     "name": "Bludenz",
     "abbr": "B   ",
     "lat": "47.155",
     "lng": "9.81448",
-    "arrival": "2023-08-18T10:00:00Z",
-    "departure": "2023-08-18T10:00:00Z"
+    "arrival": "2023-08-19T09:06:00Z",
+    "departure": "2023-08-20T15:55:00Z"
   },
   {
-    "train_number": "5553  ",
+    "train_number": "79807 ",
     "unit_number": "1016.0020",
     "name": "Feldkirch",
     "abbr": "Fk  ",
     "lat": "47.2417",
     "lng": "9.60519",
-    "arrival": "2023-08-18T05:42:00Z",
-    "departure": "2023-08-18T05:44:00Z"
+    "arrival": "2023-08-19T08:23:00Z",
+    "departure": "2023-08-19T08:47:00Z"
   },
   {
-    "train_number": "5553  ",
+    "train_number": "45712 ",
     "unit_number": "1016.0020",
-    "name": "Dornbirn (in Do)",
-    "abbr": "Do  ",
-    "lat": "47.4176",
-    "lng": "9.73871",
-    "arrival": "2023-08-18T05:20:00Z",
-    "departure": "2023-08-18T05:22:00Z"
+    "name": "Buchs (SG)",
+    "abbr": "Bc  ",
+    "lat": "47.171",
+    "lng": "9.4779",
+    "arrival": "2023-08-19T07:16:00Z",
+    "departure": "2023-08-19T08:08:00Z"
   },
   {
-    "train_number": "5553  ",
-    "unit_number": "1016.0020",
-    "name": "Wolfurt (in Wo)",
-    "abbr": "Wo  ",
-    "lat": "47.457",
-    "lng": "9.74133",
-    "arrival": null,
-    "departure": "2023-08-18T05:17:00Z"
-  },
-  {
-    "train_number": "5553  ",
-    "unit_number": "1016.0020",
-    "name": "Bregenz (in Bg)",
-    "abbr": "Bg  ",
-    "lat": "47.5029",
-    "lng": "9.73947",
-    "arrival": "2023-08-18T05:10:00Z",
-    "departure": "2023-08-18T05:11:00Z"
-  },
-  {
-    "train_number": "5553  ",
-    "unit_number": "1016.0020",
-    "name": "Lindau-Reutin (in Lir)",
-    "abbr": "Lir ",
-    "lat": "47.5525",
-    "lng": "9.70313",
-    "arrival": "2023-08-18T04:58:00Z",
-    "departure": "2023-08-18T04:59:00Z"
-  },
-  {
-    "train_number": "25804 ",
-    "unit_number": "1016.0020",
-    "name": "Lindau-Insel (in Lir)",
-    "abbr": "L   ",
-    "lat": "47.5525",
-    "lng": "9.70313",
-    "arrival": "2023-08-18T04:29:00Z",
-    "departure": "2023-08-18T04:55:00Z"
-  },
-  {
-    "train_number": "25804 ",
-    "unit_number": "1016.0020",
-    "name": "Lindau-Reutin (in Lir)",
-    "abbr": "Lir ",
-    "lat": "47.5525",
-    "lng": "9.70313",
-    "arrival": "2023-08-18T04:24:00Z",
-    "departure": "2023-08-18T04:25:00Z"
-  },
-  {
-    "train_number": "25804 ",
-    "unit_number": "1016.0020",
-    "name": "Bregenz (in Bg)",
-    "abbr": "Bg  ",
-    "lat": "47.5029",
-    "lng": "9.73947",
-    "arrival": "2023-08-18T04:14:00Z",
-    "departure": "2023-08-18T04:15:00Z"
-  },
-  {
-    "train_number": "25804 ",
-    "unit_number": "1016.0020",
-    "name": "Wolfurt (in Wo)",
-    "abbr": "Wo  ",
-    "lat": "47.457",
-    "lng": "9.74133",
-    "arrival": "2023-08-18T04:05:00Z",
-    "departure": "2023-08-18T04:06:00Z"
-  },
-  {
-    "train_number": "25804 ",
-    "unit_number": "1016.0020",
-    "name": "Dornbirn (in Do)",
-    "abbr": "Do  ",
-    "lat": "47.4176",
-    "lng": "9.73871",
-    "arrival": "2023-08-18T03:58:00Z",
-    "departure": "2023-08-18T03:59:00Z"
-  },
-  {
-    "train_number": "25804 ",
+    "train_number": "45712 ",
     "unit_number": "1016.0020",
     "name": "Feldkirch",
     "abbr": "Fk  ",
     "lat": "47.2417",
     "lng": "9.60519",
-    "arrival": "2023-08-18T03:29:00Z",
-    "departure": "2023-08-18T03:30:00Z"
+    "arrival": "2023-08-19T06:24:00Z",
+    "departure": "2023-08-19T06:55:00Z"
   },
   {
-    "train_number": "Vhz   ",
+    "train_number": "45854 ",
     "unit_number": "1016.0020",
     "name": "Bludenz",
     "abbr": "B   ",
     "lat": "47.155",
     "lng": "9.81448",
-    "arrival": "2023-08-18T03:09:00Z",
-    "departure": "2023-08-18T03:09:00Z"
+    "arrival": "2023-08-19T04:12:00Z",
+    "departure": "2023-08-19T06:04:00Z"
+  },
+  {
+    "train_number": "465   ",
+    "unit_number": "1016.0020",
+    "name": "Landeck-Zams",
+    "abbr": "Le  ",
+    "lat": "47.148",
+    "lng": "10.5782",
+    "arrival": "2023-08-18T22:07:00Z",
+    "departure": "2023-08-19T03:15:00Z"
   }
 ]

@@ -1,202 +1,192 @@
 [
   {
-    "train_number": "57052 ",
+    "train_number": "57066 ",
+    "unit_number": "1116.0016",
+    "name": "Hohenau",
+    "abbr": "Nh  ",
+    "lat": "48.5981",
+    "lng": "16.9008",
+    "arrival": "2023-08-19T17:21:00Z",
+    "departure": "2023-08-20T02:22:00Z"
+  },
+  {
+    "train_number": "57066 ",
+    "unit_number": "1116.0016",
+    "name": "Gänserndorf",
+    "abbr": "Gae ",
+    "lat": "48.3401",
+    "lng": "16.7324",
+    "arrival": null,
+    "departure": "2023-08-19T16:55:00Z"
+  },
+  {
+    "train_number": "57066 ",
+    "unit_number": "1116.0016",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-08-19T16:00:00Z"
+  },
+  {
+    "train_number": "57066 ",
+    "unit_number": "1116.0016",
+    "name": "Kledering (in Zur)",
+    "abbr": "Za  ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": "2023-08-19T15:19:00Z",
+    "departure": "2023-08-19T15:56:00Z"
+  },
+  {
+    "train_number": "57066 ",
+    "unit_number": "1116.0016",
+    "name": "Ebenfurth (in Ef)",
+    "abbr": "Ef  ",
+    "lat": "47.8777",
+    "lng": "16.3621",
+    "arrival": null,
+    "departure": "2023-08-19T14:37:00Z"
+  },
+  {
+    "train_number": "57066 ",
+    "unit_number": "1116.0016",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": null,
+    "departure": "2023-08-19T14:12:00Z"
+  },
+  {
+    "train_number": "57066 ",
     "unit_number": "1116.0016",
     "name": "Neunkirchen N.Ö.",
     "abbr": "Nek ",
     "lat": "47.731",
     "lng": "16.0826",
     "arrival": null,
-    "departure": "2023-08-18T22:16:00Z"
+    "departure": "2023-08-19T14:01:00Z"
   },
   {
-    "train_number": "57052 ",
+    "train_number": "57066 ",
     "unit_number": "1116.0016",
     "name": "Payerbach-Reichenau",
     "abbr": "Pr  ",
     "lat": "47.696",
     "lng": "15.8632",
     "arrival": null,
-    "departure": "2023-08-18T21:43:00Z"
+    "departure": "2023-08-19T13:35:00Z"
   },
   {
-    "train_number": "57052 ",
+    "train_number": "57066 ",
     "unit_number": "1116.0016",
     "name": "Mürzzuschlag (in Mz)",
     "abbr": "Mz  ",
     "lat": "47.6079",
     "lng": "15.677",
     "arrival": null,
-    "departure": "2023-08-18T21:05:00Z"
+    "departure": "2023-08-19T12:55:00Z"
   },
   {
-    "train_number": "57052 ",
+    "train_number": "57066 ",
     "unit_number": "1116.0016",
     "name": "Bruck a.d.Mur (in Bm)",
     "abbr": "Bm  ",
     "lat": "47.4134",
     "lng": "15.2797",
     "arrival": null,
-    "departure": "2023-08-18T20:14:00Z"
+    "departure": "2023-08-19T12:14:00Z"
   },
   {
-    "train_number": "57052 ",
+    "train_number": "57066 ",
     "unit_number": "1116.0016",
     "name": "Leoben Hbf (in Leb)",
     "abbr": "Leb ",
     "lat": "47.3867",
     "lng": "15.0898",
     "arrival": null,
-    "departure": "2023-08-18T20:01:00Z"
+    "departure": "2023-08-19T11:59:00Z"
   },
   {
-    "train_number": "57052 ",
-    "unit_number": "1116.0016",
-    "name": "Zeltweg",
-    "abbr": "Zg  ",
-    "lat": "47.1887",
-    "lng": "14.7425",
-    "arrival": null,
-    "departure": "2023-08-18T19:33:00Z"
-  },
-  {
-    "train_number": "57052 ",
-    "unit_number": "1116.0016",
-    "name": "St.Veit a.d.Glan (in Vps)",
-    "abbr": "Vps ",
-    "lat": "46.7704",
-    "lng": "14.3672",
-    "arrival": null,
-    "departure": "2023-08-18T17:59:00Z"
-  },
-  {
-    "train_number": "57052 ",
-    "unit_number": "1116.0016",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": null,
-    "departure": "2023-08-18T17:33:00Z"
-  },
-  {
-    "train_number": "57052 ",
-    "unit_number": "1116.0016",
-    "name": "Villach Hbf",
-    "abbr": "Vb  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
-    "arrival": "2023-08-18T17:05:00Z",
-    "departure": "2023-08-18T17:05:00Z"
-  },
-  {
-    "train_number": "47258 ",
-    "unit_number": "1116.0016",
-    "name": "Villach Westbf",
-    "abbr": "Vf  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
-    "arrival": "2023-08-18T15:42:00Z",
-    "departure": "2023-08-18T17:01:00Z"
-  },
-  {
-    "train_number": "89875 ",
-    "unit_number": "1116.0016",
-    "name": "Tarvisio Boscoverde",
-    "abbr": "Tbv ",
-    "lat": "46.5059",
-    "lng": "13.6081",
-    "arrival": "2023-08-18T14:34:00Z",
-    "departure": "2023-08-18T15:20:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0016",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
-    "arrival": null,
-    "departure": "2023-08-18T14:15:00Z"
-  },
-  {
-    "train_number": "45233 ",
-    "unit_number": "1116.0016",
-    "name": "Tarvisio Boscoverde",
-    "abbr": "Tbv ",
-    "lat": "46.5059",
-    "lng": "13.6081",
-    "arrival": "2023-08-18T08:55:00Z",
-    "departure": "2023-08-18T09:02:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0016",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
-    "arrival": null,
-    "departure": "2023-08-18T08:33:00Z"
-  },
-  {
-    "train_number": "54509 ",
-    "unit_number": "1116.0016",
-    "name": "Villach Hbf",
-    "abbr": "Vb  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
-    "arrival": null,
-    "departure": "2023-08-18T07:00:00Z"
-  },
-  {
-    "train_number": "54509 ",
-    "unit_number": "1116.0016",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": null,
-    "departure": "2023-08-18T06:25:00Z"
-  },
-  {
-    "train_number": "54509 ",
-    "unit_number": "1116.0016",
-    "name": "St.Veit a.d.Glan (in Vps)",
-    "abbr": "Vps ",
-    "lat": "46.7704",
-    "lng": "14.3672",
-    "arrival": null,
-    "departure": "2023-08-18T05:46:00Z"
-  },
-  {
-    "train_number": "54509 ",
-    "unit_number": "1116.0016",
-    "name": "Zeltweg",
-    "abbr": "Zg  ",
-    "lat": "47.1887",
-    "lng": "14.7425",
-    "arrival": null,
-    "departure": "2023-08-18T04:20:00Z"
-  },
-  {
-    "train_number": "54509 ",
+    "train_number": "88912 ",
     "unit_number": "1116.0016",
     "name": "Leoben Hbf (in Leb)",
     "abbr": "Leb ",
     "lat": "47.3867",
     "lng": "15.0898",
-    "arrival": null,
-    "departure": "2023-08-18T03:33:00Z"
+    "arrival": "2023-08-19T10:13:00Z",
+    "departure": "2023-08-19T10:55:00Z"
   },
   {
-    "train_number": "54509 ",
+    "train_number": "57643 ",
     "unit_number": "1116.0016",
-    "name": "Bruck a.d.Mur (in Bm)",
-    "abbr": "Bm  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": "2023-08-19T09:34:00Z",
+    "departure": "2023-08-19T10:05:00Z"
+  },
+  {
+    "train_number": "57643 ",
+    "unit_number": "1116.0016",
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-08-19T07:53:00Z",
+    "departure": "2023-08-19T08:33:00Z"
+  },
+  {
+    "train_number": "57643 ",
+    "unit_number": "1116.0016",
+    "name": "Stainach-Irdning",
+    "abbr": "Rg  ",
+    "lat": "47.5293",
+    "lng": "14.1078",
+    "arrival": "2023-08-19T07:25:00Z",
+    "departure": "2023-08-19T07:35:00Z"
+  },
+  {
+    "train_number": "57643 ",
+    "unit_number": "1116.0016",
+    "name": "Bischofshofen (in Bo)",
+    "abbr": "Bo  ",
+    "lat": "47.42",
+    "lng": "13.2199",
     "arrival": null,
-    "departure": "2023-08-18T03:15:00Z"
+    "departure": "2023-08-19T05:21:00Z"
+  },
+  {
+    "train_number": "57643 ",
+    "unit_number": "1116.0016",
+    "name": "Bischofshofen Fbf (in Bo)",
+    "abbr": "Bob ",
+    "lat": "47.42",
+    "lng": "13.2199",
+    "arrival": "2023-08-19T04:59:00Z",
+    "departure": "2023-08-19T05:18:00Z"
+  },
+  {
+    "train_number": "57643 ",
+    "unit_number": "1116.0016",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-08-19T04:15:00Z",
+    "departure": "2023-08-19T04:45:00Z"
+  },
+  {
+    "train_number": "57643 ",
+    "unit_number": "1116.0016",
+    "name": "Kitzbühel",
+    "abbr": "Kzb ",
+    "lat": "47.4542",
+    "lng": "12.391",
+    "arrival": null,
+    "departure": "2023-08-19T02:52:00Z"
   }
 ]

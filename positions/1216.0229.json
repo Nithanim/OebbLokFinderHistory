@@ -6,8 +6,8 @@
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-08-18T19:28:00Z",
-    "departure": "2023-08-18T19:32:00Z"
+    "arrival": "2023-08-19T19:28:00Z",
+    "departure": "2023-08-19T19:32:00Z"
   },
   {
     "train_number": "373   ",
@@ -17,7 +17,7 @@
     "lat": "47.9375",
     "lng": "16.2313",
     "arrival": null,
-    "departure": "2023-08-18T19:21:00Z"
+    "departure": "2023-08-19T19:21:00Z"
   },
   {
     "train_number": "373   ",
@@ -27,7 +27,7 @@
     "lat": "48.0858",
     "lng": "16.2958",
     "arrival": null,
-    "departure": "2023-08-18T19:13:00Z"
+    "departure": "2023-08-19T19:13:00Z"
   },
   {
     "train_number": "373   ",
@@ -36,8 +36,8 @@
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-08-18T19:03:00Z",
-    "departure": "2023-08-18T19:05:00Z"
+    "arrival": "2023-08-19T19:03:00Z",
+    "departure": "2023-08-19T19:05:00Z"
   },
   {
     "train_number": "373   ",
@@ -47,7 +47,7 @@
     "lat": "48.3401",
     "lng": "16.7324",
     "arrival": null,
-    "departure": "2023-08-18T18:22:00Z"
+    "departure": "2023-08-19T18:22:00Z"
   },
   {
     "train_number": "373   ",
@@ -57,7 +57,7 @@
     "lat": "48.5981",
     "lng": "16.9008",
     "arrival": null,
-    "departure": "2023-08-18T18:05:00Z"
+    "departure": "2023-08-19T18:05:00Z"
   },
   {
     "train_number": "373   ",
@@ -66,8 +66,8 @@
     "abbr": "BRHN",
     "lat": "49.1909",
     "lng": "16.6134",
-    "arrival": "2023-08-18T17:19:00Z",
-    "departure": "2023-08-18T17:21:00Z"
+    "arrival": "2023-08-19T17:19:00Z",
+    "departure": "2023-08-19T17:21:00Z"
   },
   {
     "train_number": "72    ",
@@ -76,8 +76,8 @@
     "abbr": "BRHN",
     "lat": "49.1909",
     "lng": "16.6134",
-    "arrival": "2023-08-18T08:42:00Z",
-    "departure": "2023-08-18T08:44:00Z"
+    "arrival": "2023-08-19T08:42:00Z",
+    "departure": "2023-08-19T08:44:00Z"
   },
   {
     "train_number": "72    ",
@@ -87,7 +87,7 @@
     "lat": "48.5981",
     "lng": "16.9008",
     "arrival": null,
-    "departure": "2023-08-18T07:59:00Z"
+    "departure": "2023-08-19T07:59:00Z"
   },
   {
     "train_number": "72    ",
@@ -97,7 +97,7 @@
     "lat": "48.3401",
     "lng": "16.7324",
     "arrival": null,
-    "departure": "2023-08-18T07:39:00Z"
+    "departure": "2023-08-19T07:39:00Z"
   },
   {
     "train_number": "72    ",
@@ -106,8 +106,8 @@
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-08-18T06:55:00Z",
-    "departure": "2023-08-18T06:57:00Z"
+    "arrival": "2023-08-19T06:55:00Z",
+    "departure": "2023-08-19T06:57:00Z"
   },
   {
     "train_number": "72    ",
@@ -117,7 +117,7 @@
     "lat": "48.0858",
     "lng": "16.2958",
     "arrival": null,
-    "departure": "2023-08-18T06:46:00Z"
+    "departure": "2023-08-19T06:46:00Z"
   },
   {
     "train_number": "72    ",
@@ -127,7 +127,7 @@
     "lat": "47.9375",
     "lng": "16.2313",
     "arrival": null,
-    "departure": "2023-08-18T06:39:00Z"
+    "departure": "2023-08-19T06:39:00Z"
   },
   {
     "train_number": "72    ",
@@ -136,8 +136,8 @@
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-08-18T06:28:00Z",
-    "departure": "2023-08-18T06:32:00Z"
+    "arrival": "2023-08-19T06:28:00Z",
+    "departure": "2023-08-19T06:32:00Z"
   },
   {
     "train_number": "72    ",
@@ -147,7 +147,7 @@
     "lat": "47.731",
     "lng": "16.0826",
     "arrival": null,
-    "departure": "2023-08-18T06:19:00Z"
+    "departure": "2023-08-19T06:19:00Z"
   },
   {
     "train_number": "72    ",
@@ -157,7 +157,7 @@
     "lat": "47.696",
     "lng": "15.8632",
     "arrival": null,
-    "departure": "2023-08-18T06:08:00Z"
+    "departure": "2023-08-19T06:08:00Z"
   },
   {
     "train_number": "72    ",
@@ -166,8 +166,8 @@
     "abbr": "Mz  ",
     "lat": "47.6079",
     "lng": "15.677",
-    "arrival": "2023-08-18T05:30:00Z",
-    "departure": "2023-08-18T05:32:00Z"
+    "arrival": "2023-08-19T05:30:00Z",
+    "departure": "2023-08-19T05:32:00Z"
   },
   {
     "train_number": "72    ",
@@ -176,8 +176,8 @@
     "abbr": "Bm  ",
     "lat": "47.4134",
     "lng": "15.2797",
-    "arrival": "2023-08-18T05:00:00Z",
-    "departure": "2023-08-18T05:02:00Z"
+    "arrival": "2023-08-19T05:00:00Z",
+    "departure": "2023-08-19T05:02:00Z"
   },
   {
     "train_number": "72    ",
@@ -187,16 +187,16 @@
     "lat": "47.0885",
     "lng": "15.4077",
     "arrival": null,
-    "departure": "2023-08-18T04:28:00Z"
+    "departure": "2023-08-19T04:28:00Z"
   },
   {
-    "train_number": "371   ",
+    "train_number": "373   ",
     "unit_number": "1216.0229",
     "name": "Graz Hbf (in G)",
     "abbr": "G   ",
     "lat": "47.0733",
     "lng": "15.4163",
-    "arrival": "2023-08-17T19:34:00Z",
-    "departure": "2023-08-18T04:25:00Z"
+    "arrival": "2023-08-18T21:34:00Z",
+    "departure": "2023-08-19T04:25:00Z"
   }
 ]
