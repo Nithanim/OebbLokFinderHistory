@@ -80,24 +80,24 @@
     "departure": "2023-08-19T05:21:00Z"
   },
   {
-    "train_number": "3991  ",
+    "train_number": "3923  ",
     "unit_number": "4024.0016",
     "name": "Linz Hbf",
     "abbr": "Lz  ",
     "lat": "48.2908",
     "lng": "14.2927",
-    "arrival": "2023-08-18T20:04:00Z",
-    "departure": "2023-08-19T02:18:00Z"
+    "arrival": "2023-08-19T03:24:00Z",
+    "departure": "2023-08-19T03:36:00Z"
   },
   {
-    "train_number": "9700  ",
+    "train_number": "2460  ",
     "unit_number": "4024.0015",
-    "name": "Amstetten (in Ams)",
-    "abbr": "Ams ",
-    "lat": "48.1215",
-    "lng": "14.8792",
-    "arrival": "2023-08-18T19:53:00Z",
-    "departure": "2023-08-19T02:32:00Z"
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": "2023-08-19T03:00:00Z",
+    "departure": "2023-08-19T03:32:00Z"
   },
   {
     "train_number": "5907  ",
@@ -270,14 +270,14 @@
     "departure": "2023-08-19T04:40:00Z"
   },
   {
-    "train_number": "54565 ",
+    "train_number": "18274 ",
     "unit_number": "1116.0199",
-    "name": "Villach Hbf",
-    "abbr": "Vb  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
+    "name": "Villach Süd Gvbf Ausfgr",
+    "abbr": "Va  ",
+    "lat": "46.5674",
+    "lng": "13.8238",
     "arrival": null,
-    "departure": "2023-08-19T02:32:00Z"
+    "departure": "2023-08-19T11:10:00Z"
   },
   {
     "train_number": "41259 ",
@@ -340,14 +340,14 @@
     "departure": "2023-08-19T04:17:00Z"
   },
   {
-    "train_number": "2201  ",
+    "train_number": "2300  ",
     "unit_number": "1116.0143",
-    "name": "Floridsdorf (in F)",
-    "abbr": "F   ",
-    "lat": "48.2568",
-    "lng": "16.4004",
-    "arrival": "2023-08-19T02:00:00Z",
-    "departure": "2023-08-19T02:19:00Z"
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-08-19T02:44:00Z",
+    "departure": "2023-08-19T02:57:00Z"
   },
   {
     "train_number": "44313 ",
@@ -362,12 +362,12 @@
   {
     "train_number": "57643 ",
     "unit_number": "1116.0016",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-08-19T01:53:00Z",
-    "departure": "2023-08-19T02:15:00Z"
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-08-19T04:15:00Z",
+    "departure": "2023-08-19T04:45:00Z"
   },
   {
     "train_number": "88117 ",
@@ -388,16 +388,6 @@
     "lng": "13.8484",
     "arrival": "2023-08-18T07:44:00Z",
     "departure": "2023-08-19T03:33:00Z"
-  },
-  {
-    "train_number": "44803 ",
-    "unit_number": "1016.0023",
-    "name": "Freilassing",
-    "abbr": "MFL ",
-    "lat": "47.8368",
-    "lng": "12.9764",
-    "arrival": "2023-08-19T02:20:00Z",
-    "departure": "2023-08-19T02:20:00Z"
   },
   {
     "train_number": "18092 ",

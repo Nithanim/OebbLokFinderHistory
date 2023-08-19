@@ -2,6 +2,16 @@
   {
     "train_number": "2335  ",
     "unit_number": "1116.0143",
+    "name": "Leobersdorf",
+    "abbr": "Lb  ",
+    "lat": "47.9375",
+    "lng": "16.2313",
+    "arrival": "2023-08-19T11:35:00Z",
+    "departure": "2023-08-19T11:35:00Z"
+  },
+  {
+    "train_number": "2335  ",
+    "unit_number": "1116.0143",
     "name": "Mödling",
     "abbr": "Md  ",
     "lat": "48.0858",
@@ -188,15 +198,5 @@
     "lng": "16.3348",
     "arrival": "2023-08-19T02:44:00Z",
     "departure": "2023-08-19T02:57:00Z"
-  },
-  {
-    "train_number": "Blockz",
-    "unit_number": "1116.0143",
-    "name": "Floridsdorf (in F)",
-    "abbr": "F   ",
-    "lat": "48.2568",
-    "lng": "16.4004",
-    "arrival": "2023-08-19T02:00:00Z",
-    "departure": "2023-08-19T02:19:00Z"
   }
 ]
