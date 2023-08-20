@@ -1,5 +1,15 @@
 [
   {
+    "train_number": "2360  ",
+    "unit_number": "1116.0168",
+    "name": "Leobersdorf",
+    "abbr": "Lb  ",
+    "lat": "47.9375",
+    "lng": "16.2313",
+    "arrival": "2023-08-20T17:22:00Z",
+    "departure": "2023-08-20T17:23:00Z"
+  },
+  {
     "train_number": "Blockz",
     "unit_number": "1116.0168",
     "name": "Wr. Neustadt Hbf (in Nb)",
@@ -188,15 +198,5 @@
     "lng": "16.2313",
     "arrival": "2023-08-20T03:13:00Z",
     "departure": "2023-08-20T03:14:00Z"
-  },
-  {
-    "train_number": "Blockz",
-    "unit_number": "1116.0168",
-    "name": "Wr. Neustadt Hbf (in Nb)",
-    "abbr": "Nb  ",
-    "lat": "47.8113",
-    "lng": "16.2337",
-    "arrival": "2023-08-20T02:53:00Z",
-    "departure": "2023-08-20T03:03:00Z"
   }
 ]
