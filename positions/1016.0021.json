@@ -2,6 +2,16 @@
   {
     "train_number": "57615 ",
     "unit_number": "1016.0021",
+    "name": "Ebenfurth (in Ef)",
+    "abbr": "Ef  ",
+    "lat": "47.8777",
+    "lng": "16.3621",
+    "arrival": null,
+    "departure": "2023-08-21T20:46:00Z"
+  },
+  {
+    "train_number": "57615 ",
+    "unit_number": "1016.0021",
     "name": "Kledering (in Zur)",
     "abbr": "Za  ",
     "lat": "48.1453",
@@ -188,15 +198,5 @@
     "lng": "15.8632",
     "arrival": null,
     "departure": "2023-08-21T03:26:00Z"
-  },
-  {
-    "train_number": "57617 ",
-    "unit_number": "1016.0021",
-    "name": "Neunkirchen N.Ö.",
-    "abbr": "Nek ",
-    "lat": "47.731",
-    "lng": "16.0826",
-    "arrival": null,
-    "departure": "2023-08-21T02:50:00Z"
   }
 ]
