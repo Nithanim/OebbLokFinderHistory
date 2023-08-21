@@ -2,6 +2,26 @@
   {
     "train_number": "57615 ",
     "unit_number": "1016.0021",
+    "name": "Kledering (in Zur)",
+    "abbr": "Za  ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": "2023-08-21T20:07:00Z",
+    "departure": "2023-08-21T20:14:00Z"
+  },
+  {
+    "train_number": "57615 ",
+    "unit_number": "1016.0021",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": "2023-08-21T20:00:00Z",
+    "departure": "2023-08-21T20:02:00Z"
+  },
+  {
+    "train_number": "57615 ",
+    "unit_number": "1016.0021",
     "name": "Gänserndorf",
     "abbr": "Gae ",
     "lat": "48.3401",
@@ -178,25 +198,5 @@
     "lng": "16.0826",
     "arrival": null,
     "departure": "2023-08-21T02:50:00Z"
-  },
-  {
-    "train_number": "57617 ",
-    "unit_number": "1016.0021",
-    "name": "Wr. Neustadt Hbf (in Nb)",
-    "abbr": "Nb  ",
-    "lat": "47.8113",
-    "lng": "16.2337",
-    "arrival": null,
-    "departure": "2023-08-21T02:38:00Z"
-  },
-  {
-    "train_number": "57617 ",
-    "unit_number": "1016.0021",
-    "name": "Leobersdorf",
-    "abbr": "Lb  ",
-    "lat": "47.9375",
-    "lng": "16.2313",
-    "arrival": null,
-    "departure": "2023-08-21T02:27:00Z"
   }
 ]
