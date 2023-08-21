@@ -1,0 +1,162 @@
+[
+  {
+    "train_number": "3485  ",
+    "unit_number": "5047.0061",
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": "2023-08-21T18:39:00Z",
+    "departure": "2023-08-22T02:37:00Z"
+  },
+  {
+    "train_number": "3485  ",
+    "unit_number": "5047.0061",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-08-21T17:56:00Z",
+    "departure": "2023-08-21T18:04:00Z"
+  },
+  {
+    "train_number": "3482  ",
+    "unit_number": "5047.0061",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": "2023-08-21T16:42:00Z",
+    "departure": "2023-08-21T17:16:00Z"
+  },
+  {
+    "train_number": "3482  ",
+    "unit_number": "5047.0061",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-08-21T15:53:00Z",
+    "departure": "2023-08-21T16:01:00Z"
+  },
+  {
+    "train_number": "3477  ",
+    "unit_number": "5047.0061",
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": "2023-08-21T14:46:00Z",
+    "departure": "2023-08-21T15:13:00Z"
+  },
+  {
+    "train_number": "3477  ",
+    "unit_number": "5047.0061",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-08-21T13:56:00Z",
+    "departure": "2023-08-21T14:08:00Z"
+  },
+  {
+    "train_number": "3474  ",
+    "unit_number": "5047.0061",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": "2023-08-21T12:42:00Z",
+    "departure": "2023-08-21T13:16:00Z"
+  },
+  {
+    "train_number": "3474  ",
+    "unit_number": "5047.0061",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-08-21T11:53:00Z",
+    "departure": "2023-08-21T12:01:00Z"
+  },
+  {
+    "train_number": "3467  ",
+    "unit_number": "5047.0061",
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": "2023-08-21T09:45:00Z",
+    "departure": "2023-08-21T11:13:00Z"
+  },
+  {
+    "train_number": "3467  ",
+    "unit_number": "5047.0061",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-08-21T08:56:00Z",
+    "departure": "2023-08-21T09:08:00Z"
+  },
+  {
+    "train_number": "3466  ",
+    "unit_number": "5047.0061",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": "2023-08-21T06:42:00Z",
+    "departure": "2023-08-21T08:16:00Z"
+  },
+  {
+    "train_number": "3466  ",
+    "unit_number": "5047.0061",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-08-21T05:52:00Z",
+    "departure": "2023-08-21T06:01:00Z"
+  },
+  {
+    "train_number": "3461  ",
+    "unit_number": "5047.0061",
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": "2023-08-21T04:59:00Z",
+    "departure": "2023-08-21T05:16:00Z"
+  },
+  {
+    "train_number": "3461  ",
+    "unit_number": "5047.0061",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-08-21T04:08:00Z",
+    "departure": "2023-08-21T04:24:00Z"
+  },
+  {
+    "train_number": "3460  ",
+    "unit_number": "5047.0061",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": "2023-08-21T03:21:00Z",
+    "departure": "2023-08-21T03:28:00Z"
+  },
+  {
+    "train_number": "Steht ",
+    "unit_number": "5047.0061",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-08-20T22:00:00Z",
+    "departure": "2023-08-21T02:43:00Z"
+  }
+]
