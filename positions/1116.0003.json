@@ -1,133 +1,33 @@
 [
   {
-    "train_number": "47306 ",
+    "train_number": "44303 ",
     "unit_number": "1116.0003",
-    "name": "Parndorf",
-    "abbr": "Par ",
-    "lat": "47.987",
-    "lng": "16.8702",
-    "arrival": null,
-    "departure": "2023-08-22T02:59:00Z"
+    "name": "Gyoer-Rendezoe",
+    "abbr": "GVR ",
+    "lat": "47.6822",
+    "lng": "17.634",
+    "arrival": "2023-08-22T20:48:00Z",
+    "departure": "2023-08-23T12:33:00Z"
   },
   {
-    "train_number": "85609 ",
+    "train_number": "44303 ",
     "unit_number": "1116.0003",
     "name": "Hegyeshalom",
     "abbr": "He  ",
     "lat": "47.9139",
     "lng": "17.1455",
-    "arrival": "2023-08-22T01:26:00Z",
-    "departure": "2023-08-22T02:40:00Z"
+    "arrival": "2023-08-22T20:19:00Z",
+    "departure": "2023-08-22T20:15:00Z"
   },
   {
-    "train_number": "85609 ",
+    "train_number": "44303 ",
     "unit_number": "1116.0003",
     "name": "Parndorf",
     "abbr": "Par ",
     "lat": "47.987",
     "lng": "16.8702",
     "arrival": null,
-    "departure": "2023-08-22T01:12:00Z"
-  },
-  {
-    "train_number": "Steht ",
-    "unit_number": "1116.0003",
-    "name": "Kledering (in Zur)",
-    "abbr": "Za  ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": "2023-08-21T22:00:00Z",
-    "departure": "2023-08-22T00:44:00Z"
-  },
-  {
-    "train_number": "18421 ",
-    "unit_number": "1116.0003",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-08-21T18:10:00Z"
-  },
-  {
-    "train_number": "18421 ",
-    "unit_number": "1116.0003",
-    "name": "Tulln a. d. Donau (in Tu)",
-    "abbr": "Tu  ",
-    "lat": "48.3275",
-    "lng": "16.0644",
-    "arrival": null,
-    "departure": "2023-08-21T17:31:00Z"
-  },
-  {
-    "train_number": "91104 ",
-    "unit_number": "1116.0003",
-    "name": "Herzogenburg (in Ho)",
-    "abbr": "Ho  ",
-    "lat": "48.2759",
-    "lng": "15.6966",
-    "arrival": "2023-08-21T16:30:00Z",
-    "departure": "2023-08-21T17:00:00Z"
-  },
-  {
-    "train_number": "91104 ",
-    "unit_number": "1116.0003",
-    "name": "Tulln a. d. Donau (in Tu)",
-    "abbr": "Tu  ",
-    "lat": "48.3275",
-    "lng": "16.0644",
-    "arrival": null,
-    "departure": "2023-08-21T15:14:00Z"
-  },
-  {
-    "train_number": "18469 ",
-    "unit_number": "1116.0003",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-08-21T13:42:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0003",
-    "name": "Kledering (in Zur)",
-    "abbr": "Za  ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-08-21T13:40:00Z"
-  },
-  {
-    "train_number": "64205 ",
-    "unit_number": "1116.0003",
-    "name": "Gänserndorf",
-    "abbr": "Gae ",
-    "lat": "48.3401",
-    "lng": "16.7324",
-    "arrival": null,
-    "departure": "2023-08-21T11:43:00Z"
-  },
-  {
-    "train_number": "45004 ",
-    "unit_number": "1116.0003",
-    "name": "Hohenau",
-    "abbr": "Nh  ",
-    "lat": "48.5981",
-    "lng": "16.9008",
-    "arrival": "2023-08-21T09:46:00Z",
-    "departure": "2023-08-21T11:16:00Z"
-  },
-  {
-    "train_number": "45004 ",
-    "unit_number": "1116.0003",
-    "name": "Gänserndorf",
-    "abbr": "Gae ",
-    "lat": "48.3401",
-    "lng": "16.7324",
-    "arrival": null,
-    "departure": "2023-08-21T09:21:00Z"
+    "departure": "2023-08-22T20:03:00Z"
   },
   {
     "train_number": null,
@@ -137,66 +37,86 @@
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-08-21T08:35:00Z"
+    "departure": "2023-08-22T19:23:00Z"
   },
   {
-    "train_number": "47380 ",
-    "unit_number": "1116.0003",
-    "name": "Wr. Neustadt Hbf (in Nb)",
-    "abbr": "Nb  ",
-    "lat": "47.8113",
-    "lng": "16.2337",
-    "arrival": null,
-    "departure": "2023-08-21T04:36:00Z"
-  },
-  {
-    "train_number": "47380 ",
-    "unit_number": "1116.0003",
-    "name": "Leobersdorf",
-    "abbr": "Lb  ",
-    "lat": "47.9375",
-    "lng": "16.2313",
-    "arrival": null,
-    "departure": "2023-08-21T04:16:00Z"
-  },
-  {
-    "train_number": "47380 ",
-    "unit_number": "1116.0003",
-    "name": "Mödling",
-    "abbr": "Md  ",
-    "lat": "48.0858",
-    "lng": "16.2958",
-    "arrival": null,
-    "departure": "2023-08-21T03:42:00Z"
-  },
-  {
-    "train_number": "47380 ",
-    "unit_number": "1116.0003",
-    "name": "Wien Meidling (in Wbf)",
-    "abbr": "Mi  ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": null,
-    "departure": "2023-08-21T03:25:00Z"
-  },
-  {
-    "train_number": "47380 ",
+    "train_number": "44312 ",
     "unit_number": "1116.0003",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-08-21T03:12:00Z"
+    "departure": "2023-08-22T17:56:00Z"
   },
   {
-    "train_number": "47380 ",
+    "train_number": "44312 ",
     "unit_number": "1116.0003",
-    "name": "Kledering (in Zur)",
-    "abbr": "Za  ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": "2023-08-21T02:58:00Z",
-    "departure": "2023-08-21T03:08:00Z"
+    "name": "Parndorf",
+    "abbr": "Par ",
+    "lat": "47.987",
+    "lng": "16.8702",
+    "arrival": null,
+    "departure": "2023-08-22T17:09:00Z"
+  },
+  {
+    "train_number": "44312 ",
+    "unit_number": "1116.0003",
+    "name": "Hegyeshalom",
+    "abbr": "He  ",
+    "lat": "47.9139",
+    "lng": "17.1455",
+    "arrival": "2023-08-22T15:38:00Z",
+    "departure": "2023-08-22T16:49:00Z"
+  },
+  {
+    "train_number": "44312 ",
+    "unit_number": "1116.0003",
+    "name": "Gyoer-Rendezoe",
+    "abbr": "GVR ",
+    "lat": "47.6822",
+    "lng": "17.634",
+    "arrival": null,
+    "departure": "2023-08-22T14:51:00Z"
+  },
+  {
+    "train_number": "44312 ",
+    "unit_number": "1116.0003",
+    "name": "Tatabanya",
+    "abbr": "TB  ",
+    "lat": "47.587",
+    "lng": "18.3923",
+    "arrival": null,
+    "departure": "2023-08-22T13:46:00Z"
+  },
+  {
+    "train_number": "41170 ",
+    "unit_number": "1116.0003",
+    "name": "Budapest-Ferencvaros",
+    "abbr": "BUFE",
+    "lat": "47.4687",
+    "lng": "19.0882",
+    "arrival": "2023-08-22T07:02:00Z",
+    "departure": "2023-08-22T12:52:00Z"
+  },
+  {
+    "train_number": "41170 ",
+    "unit_number": "1116.0003",
+    "name": "Hegyeshalom",
+    "abbr": "He  ",
+    "lat": "47.9139",
+    "lng": "17.1455",
+    "arrival": "2023-08-22T03:09:00Z",
+    "departure": "2023-08-22T04:18:00Z"
+  },
+  {
+    "train_number": "41170 ",
+    "unit_number": "1116.0003",
+    "name": "Parndorf",
+    "abbr": "Par ",
+    "lat": "47.987",
+    "lng": "16.8702",
+    "arrival": null,
+    "departure": "2023-08-22T02:51:00Z"
   }
 ]
