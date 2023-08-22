@@ -2,6 +2,16 @@
   {
     "train_number": "765   ",
     "unit_number": "1116.0153",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-08-22T09:15:00Z",
+    "departure": "2023-08-22T09:17:00Z"
+  },
+  {
+    "train_number": "765   ",
+    "unit_number": "1116.0153",
     "name": "Wels Hbf",
     "abbr": "We  ",
     "lat": "48.1662",
@@ -188,15 +198,5 @@
     "lng": "9.73947",
     "arrival": "2023-08-22T03:07:00Z",
     "departure": "2023-08-22T03:48:00Z"
-  },
-  {
-    "train_number": "85530 ",
-    "unit_number": "1116.0153",
-    "name": "Wolfurt (in Wo)",
-    "abbr": "Wo  ",
-    "lat": "47.457",
-    "lng": "9.74133",
-    "arrival": "2023-08-21T18:20:00Z",
-    "departure": "2023-08-22T03:01:00Z"
   }
 ]

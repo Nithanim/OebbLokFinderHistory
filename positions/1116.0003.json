@@ -108,15 +108,5 @@
     "lng": "17.1455",
     "arrival": "2023-08-22T03:09:00Z",
     "departure": "2023-08-22T04:18:00Z"
-  },
-  {
-    "train_number": "41170 ",
-    "unit_number": "1116.0003",
-    "name": "Parndorf",
-    "abbr": "Par ",
-    "lat": "47.987",
-    "lng": "16.8702",
-    "arrival": null,
-    "departure": "2023-08-22T02:51:00Z"
   }
 ]
