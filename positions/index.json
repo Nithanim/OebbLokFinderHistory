@@ -152,12 +152,12 @@
   {
     "train_number": "56056 ",
     "unit_number": "1293.0018",
-    "name": "Wr. Neustadt Hbf (in Nb)",
-    "abbr": "Nb  ",
-    "lat": "47.8113",
-    "lng": "16.2337",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
     "arrival": null,
-    "departure": "2023-08-22T02:27:00Z"
+    "departure": "2023-08-22T03:17:00Z"
   },
   {
     "train_number": "72    ",
@@ -222,12 +222,12 @@
   {
     "train_number": "2303  ",
     "unit_number": "1116.0276",
-    "name": "Floridsdorf (in F)",
-    "abbr": "F   ",
-    "lat": "48.2568",
-    "lng": "16.4004",
-    "arrival": "2023-08-22T02:25:00Z",
-    "departure": "2023-08-22T02:39:00Z"
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-08-22T03:04:00Z",
+    "departure": "2023-08-22T03:07:00Z"
   },
   {
     "train_number": "666   ",
@@ -352,22 +352,22 @@
   {
     "train_number": "47856 ",
     "unit_number": "1116.0158",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
     "arrival": null,
-    "departure": "2023-08-22T02:30:00Z"
+    "departure": "2023-08-22T02:54:00Z"
   },
   {
-    "train_number": "79550 ",
+    "train_number": "49417 ",
     "unit_number": "1116.0157",
     "name": "Hohenau",
     "abbr": "Nh  ",
     "lat": "48.5981",
     "lng": "16.9008",
-    "arrival": "2023-08-22T01:04:00Z",
-    "departure": "2023-08-22T02:30:00Z"
+    "arrival": "2023-08-22T05:20:00Z",
+    "departure": "2023-08-22T05:23:00Z"
   },
   {
     "train_number": "85500 ",
@@ -380,14 +380,14 @@
     "departure": "2023-08-22T03:01:00Z"
   },
   {
-    "train_number": "84574 ",
+    "train_number": "2309  ",
     "unit_number": "1116.0143",
     "name": "Hohenau",
     "abbr": "Nh  ",
     "lat": "48.5981",
     "lng": "16.9008",
-    "arrival": "2023-08-22T02:20:00Z",
-    "departure": "2023-08-22T02:37:00Z"
+    "arrival": "2023-08-22T03:05:00Z",
+    "departure": "2023-08-22T03:05:00Z"
   },
   {
     "train_number": "45854 ",
@@ -402,12 +402,12 @@
   {
     "train_number": "41170 ",
     "unit_number": "1116.0003",
-    "name": "Kledering (in Zur)",
-    "abbr": "Za  ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-08-22T02:19:00Z"
+    "name": "Hegyeshalom",
+    "abbr": "He  ",
+    "lat": "47.9139",
+    "lng": "17.1455",
+    "arrival": "2023-08-22T03:09:00Z",
+    "departure": "2023-08-22T04:18:00Z"
   },
   {
     "train_number": "72632 ",
@@ -422,12 +422,12 @@
   {
     "train_number": "466   ",
     "unit_number": "1016.0048",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-08-21T20:35:00Z",
-    "departure": "2023-08-22T02:31:00Z"
+    "name": "Imst-Pitztal",
+    "abbr": "Im  ",
+    "lat": "47.219",
+    "lng": "10.7619",
+    "arrival": null,
+    "departure": "2023-08-22T03:01:00Z"
   },
   {
     "train_number": "47804 ",
