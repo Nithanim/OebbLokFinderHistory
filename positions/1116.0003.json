@@ -1,33 +1,153 @@
 [
   {
-    "train_number": "44303 ",
+    "train_number": "54070 ",
     "unit_number": "1116.0003",
-    "name": "Gyoer-Rendezoe",
-    "abbr": "GVR ",
-    "lat": "47.6822",
-    "lng": "17.634",
-    "arrival": "2023-08-22T20:48:00Z",
-    "departure": "2023-08-23T12:33:00Z"
-  },
-  {
-    "train_number": "44303 ",
-    "unit_number": "1116.0003",
-    "name": "Hegyeshalom",
-    "abbr": "He  ",
-    "lat": "47.9139",
-    "lng": "17.1455",
-    "arrival": "2023-08-22T20:19:00Z",
-    "departure": "2023-08-22T20:15:00Z"
-  },
-  {
-    "train_number": "44303 ",
-    "unit_number": "1116.0003",
-    "name": "Parndorf",
-    "abbr": "Par ",
-    "lat": "47.987",
-    "lng": "16.8702",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
     "arrival": null,
-    "departure": "2023-08-22T20:03:00Z"
+    "departure": "2023-08-24T02:05:00Z"
+  },
+  {
+    "train_number": "54070 ",
+    "unit_number": "1116.0003",
+    "name": "Mödling",
+    "abbr": "Md  ",
+    "lat": "48.0858",
+    "lng": "16.2958",
+    "arrival": null,
+    "departure": "2023-08-24T01:52:00Z"
+  },
+  {
+    "train_number": "54070 ",
+    "unit_number": "1116.0003",
+    "name": "Leobersdorf",
+    "abbr": "Lb  ",
+    "lat": "47.9375",
+    "lng": "16.2313",
+    "arrival": null,
+    "departure": "2023-08-24T01:38:00Z"
+  },
+  {
+    "train_number": "54070 ",
+    "unit_number": "1116.0003",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": null,
+    "departure": "2023-08-24T01:27:00Z"
+  },
+  {
+    "train_number": "54070 ",
+    "unit_number": "1116.0003",
+    "name": "Neunkirchen N.Ö.",
+    "abbr": "Nek ",
+    "lat": "47.731",
+    "lng": "16.0826",
+    "arrival": null,
+    "departure": "2023-08-24T01:16:00Z"
+  },
+  {
+    "train_number": "54070 ",
+    "unit_number": "1116.0003",
+    "name": "Payerbach-Reichenau",
+    "abbr": "Pr  ",
+    "lat": "47.696",
+    "lng": "15.8632",
+    "arrival": null,
+    "departure": "2023-08-24T01:00:00Z"
+  },
+  {
+    "train_number": "54070 ",
+    "unit_number": "1116.0003",
+    "name": "Mürzzuschlag (in Mz)",
+    "abbr": "Mz  ",
+    "lat": "47.6079",
+    "lng": "15.677",
+    "arrival": null,
+    "departure": "2023-08-24T00:20:00Z"
+  },
+  {
+    "train_number": "54070 ",
+    "unit_number": "1116.0003",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": null,
+    "departure": "2023-08-23T23:48:00Z"
+  },
+  {
+    "train_number": "55703 ",
+    "unit_number": "1116.0003",
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
+    "arrival": "2023-08-23T21:00:00Z",
+    "departure": "2023-08-23T23:04:00Z"
+  },
+  {
+    "train_number": "55703 ",
+    "unit_number": "1116.0003",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": null,
+    "departure": "2023-08-23T20:16:00Z"
+  },
+  {
+    "train_number": "55703 ",
+    "unit_number": "1116.0003",
+    "name": "Mürzzuschlag (in Mz)",
+    "abbr": "Mz  ",
+    "lat": "47.6079",
+    "lng": "15.677",
+    "arrival": null,
+    "departure": "2023-08-23T19:39:00Z"
+  },
+  {
+    "train_number": "55703 ",
+    "unit_number": "1116.0003",
+    "name": "Payerbach-Reichenau",
+    "abbr": "Pr  ",
+    "lat": "47.696",
+    "lng": "15.8632",
+    "arrival": null,
+    "departure": "2023-08-23T18:58:00Z"
+  },
+  {
+    "train_number": "55703 ",
+    "unit_number": "1116.0003",
+    "name": "Neunkirchen N.Ö.",
+    "abbr": "Nek ",
+    "lat": "47.731",
+    "lng": "16.0826",
+    "arrival": null,
+    "departure": "2023-08-23T18:29:00Z"
+  },
+  {
+    "train_number": "55703 ",
+    "unit_number": "1116.0003",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": null,
+    "departure": "2023-08-23T18:15:00Z"
+  },
+  {
+    "train_number": "55703 ",
+    "unit_number": "1116.0003",
+    "name": "Ebenfurth (in Ef)",
+    "abbr": "Ef  ",
+    "lat": "47.8777",
+    "lng": "16.3621",
+    "arrival": null,
+    "departure": "2023-08-23T17:52:00Z"
   },
   {
     "train_number": null,
@@ -37,76 +157,46 @@
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-08-22T19:23:00Z"
+    "departure": "2023-08-23T17:04:00Z"
   },
   {
-    "train_number": "44312 ",
+    "train_number": "44300 ",
     "unit_number": "1116.0003",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-08-22T17:56:00Z"
+    "departure": "2023-08-23T15:42:00Z"
   },
   {
-    "train_number": "44312 ",
+    "train_number": "44300 ",
     "unit_number": "1116.0003",
     "name": "Parndorf",
     "abbr": "Par ",
     "lat": "47.987",
     "lng": "16.8702",
-    "arrival": null,
-    "departure": "2023-08-22T17:09:00Z"
+    "arrival": "2023-08-23T14:41:00Z",
+    "departure": "2023-08-23T14:54:00Z"
   },
   {
-    "train_number": "44312 ",
+    "train_number": "44300 ",
     "unit_number": "1116.0003",
     "name": "Hegyeshalom",
     "abbr": "He  ",
     "lat": "47.9139",
     "lng": "17.1455",
-    "arrival": "2023-08-22T15:38:00Z",
-    "departure": "2023-08-22T16:49:00Z"
+    "arrival": "2023-08-23T13:06:00Z",
+    "departure": "2023-08-23T14:20:00Z"
   },
   {
-    "train_number": "44312 ",
+    "train_number": "44303 ",
     "unit_number": "1116.0003",
     "name": "Gyoer-Rendezoe",
     "abbr": "GVR ",
     "lat": "47.6822",
     "lng": "17.634",
-    "arrival": null,
-    "departure": "2023-08-22T14:51:00Z"
-  },
-  {
-    "train_number": "44312 ",
-    "unit_number": "1116.0003",
-    "name": "Tatabanya",
-    "abbr": "TB  ",
-    "lat": "47.587",
-    "lng": "18.3923",
-    "arrival": null,
-    "departure": "2023-08-22T13:46:00Z"
-  },
-  {
-    "train_number": "41170 ",
-    "unit_number": "1116.0003",
-    "name": "Budapest-Ferencvaros",
-    "abbr": "BUFE",
-    "lat": "47.4687",
-    "lng": "19.0882",
-    "arrival": "2023-08-22T07:02:00Z",
-    "departure": "2023-08-22T12:52:00Z"
-  },
-  {
-    "train_number": "41170 ",
-    "unit_number": "1116.0003",
-    "name": "Hegyeshalom",
-    "abbr": "He  ",
-    "lat": "47.9139",
-    "lng": "17.1455",
-    "arrival": "2023-08-22T03:09:00Z",
-    "departure": "2023-08-22T04:18:00Z"
+    "arrival": "2023-08-22T20:48:00Z",
+    "departure": "2023-08-23T12:33:00Z"
   }
 ]

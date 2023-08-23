@@ -1,5 +1,175 @@
 [
   {
+    "train_number": "56650 ",
+    "unit_number": "1016.0023",
+    "name": "St.Veit a.d.Glan (in Vps)",
+    "abbr": "Vps ",
+    "lat": "46.7704",
+    "lng": "14.3672",
+    "arrival": null,
+    "departure": "2023-08-24T02:00:00Z"
+  },
+  {
+    "train_number": "56650 ",
+    "unit_number": "1016.0023",
+    "name": "Klagenfurt Hbf (in Kt)",
+    "abbr": "Kt  ",
+    "lat": "46.6156",
+    "lng": "14.3137",
+    "arrival": null,
+    "departure": "2023-08-24T01:42:00Z"
+  },
+  {
+    "train_number": "56650 ",
+    "unit_number": "1016.0023",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": null,
+    "departure": "2023-08-24T01:11:00Z"
+  },
+  {
+    "train_number": "56650 ",
+    "unit_number": "1016.0023",
+    "name": "Villach Westbf",
+    "abbr": "Vf  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-08-24T01:01:00Z",
+    "departure": "2023-08-24T01:06:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1016.0023",
+    "name": "Villach Süd Gvbf Ausfgr",
+    "abbr": "Va  ",
+    "lat": "46.5674",
+    "lng": "13.8238",
+    "arrival": null,
+    "departure": "2023-08-24T00:52:00Z"
+  },
+  {
+    "train_number": "55559 ",
+    "unit_number": "1016.0023",
+    "name": "Villach Westbf",
+    "abbr": "Vf  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-08-23T23:25:00Z",
+    "departure": "2023-08-23T23:47:00Z"
+  },
+  {
+    "train_number": "55559 ",
+    "unit_number": "1016.0023",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": null,
+    "departure": "2023-08-23T23:19:00Z"
+  },
+  {
+    "train_number": "55559 ",
+    "unit_number": "1016.0023",
+    "name": "Klagenfurt Hbf (in Kt)",
+    "abbr": "Kt  ",
+    "lat": "46.6156",
+    "lng": "14.3137",
+    "arrival": null,
+    "departure": "2023-08-23T22:45:00Z"
+  },
+  {
+    "train_number": "55559 ",
+    "unit_number": "1016.0023",
+    "name": "St.Veit a.d.Glan (in Vps)",
+    "abbr": "Vps ",
+    "lat": "46.7704",
+    "lng": "14.3672",
+    "arrival": null,
+    "departure": "2023-08-23T22:30:00Z"
+  },
+  {
+    "train_number": "55559 ",
+    "unit_number": "1016.0023",
+    "name": "Zeltweg",
+    "abbr": "Zg  ",
+    "lat": "47.1887",
+    "lng": "14.7425",
+    "arrival": "2023-08-23T20:44:00Z",
+    "departure": "2023-08-23T21:10:00Z"
+  },
+  {
+    "train_number": "88919 ",
+    "unit_number": "1016.0023",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": "2023-08-23T19:14:00Z",
+    "departure": "2023-08-23T20:18:00Z"
+  },
+  {
+    "train_number": "88956 ",
+    "unit_number": "1016.0023",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": "2023-08-23T16:08:00Z",
+    "departure": "2023-08-23T19:07:00Z"
+  },
+  {
+    "train_number": "58668 ",
+    "unit_number": "1016.0023",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": "2023-08-23T15:21:00Z",
+    "departure": "2023-08-23T15:46:00Z"
+  },
+  {
+    "train_number": "58668 ",
+    "unit_number": "1016.0023",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": "2023-08-23T15:03:00Z",
+    "departure": "2023-08-23T15:10:00Z"
+  },
+  {
+    "train_number": "58668 ",
+    "unit_number": "1016.0023",
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-08-23T13:57:00Z",
+    "departure": "2023-08-23T14:08:00Z"
+  },
+  {
+    "train_number": "62624 ",
+    "unit_number": "1016.0023",
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-08-23T07:31:00Z",
+    "departure": "2023-08-23T08:55:00Z"
+  },
+  {
+    "train_number": "88755 ",
+    "unit_number": "1016.0023",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": "2023-08-23T06:02:00Z",
+    "departure": "2023-08-23T06:42:00Z"
+  },
+  {
     "train_number": "88976 ",
     "unit_number": "1016.0023",
     "name": "Leoben Hbf (in Leb)",
@@ -8,155 +178,5 @@
     "lng": "15.0898",
     "arrival": "2023-08-22T22:42:00Z",
     "departure": "2023-08-23T05:55:00Z"
-  },
-  {
-    "train_number": "47805 ",
-    "unit_number": "1016.0023",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": "2023-08-22T21:53:00Z",
-    "departure": "2023-08-22T22:18:00Z"
-  },
-  {
-    "train_number": "47805 ",
-    "unit_number": "1016.0023",
-    "name": "St.Michael (in M)",
-    "abbr": "M   ",
-    "lat": "47.3445",
-    "lng": "15.0103",
-    "arrival": null,
-    "departure": "2023-08-22T21:45:00Z"
-  },
-  {
-    "train_number": "47805 ",
-    "unit_number": "1016.0023",
-    "name": "Selzthal (in Sl)",
-    "abbr": "Sl  ",
-    "lat": "47.5505",
-    "lng": "14.3134",
-    "arrival": "2023-08-22T20:29:00Z",
-    "departure": "2023-08-22T20:53:00Z"
-  },
-  {
-    "train_number": "47805 ",
-    "unit_number": "1016.0023",
-    "name": "Stainach-Irdning",
-    "abbr": "Rg  ",
-    "lat": "47.5293",
-    "lng": "14.1078",
-    "arrival": null,
-    "departure": "2023-08-22T20:13:00Z"
-  },
-  {
-    "train_number": "47805 ",
-    "unit_number": "1016.0023",
-    "name": "Bischofshofen (in Bo)",
-    "abbr": "Bo  ",
-    "lat": "47.42",
-    "lng": "13.2199",
-    "arrival": null,
-    "departure": "2023-08-22T18:25:00Z"
-  },
-  {
-    "train_number": "47805 ",
-    "unit_number": "1016.0023",
-    "name": "Bischofshofen Fbf (in Bo)",
-    "abbr": "Bob ",
-    "lat": "47.42",
-    "lng": "13.2199",
-    "arrival": "2023-08-22T17:39:00Z",
-    "departure": "2023-08-22T18:22:00Z"
-  },
-  {
-    "train_number": "47805 ",
-    "unit_number": "1016.0023",
-    "name": "Bischofshofen (in Bo)",
-    "abbr": "Bo  ",
-    "lat": "47.42",
-    "lng": "13.2199",
-    "arrival": null,
-    "departure": "2023-08-22T17:37:00Z"
-  },
-  {
-    "train_number": "47805 ",
-    "unit_number": "1016.0023",
-    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
-    "abbr": "Sre ",
-    "lat": "47.8075",
-    "lng": "13.0687",
-    "arrival": null,
-    "departure": "2023-08-22T16:51:00Z"
-  },
-  {
-    "train_number": "47805 ",
-    "unit_number": "1016.0023",
-    "name": "Salzburg Gnigl-Vbf (in Sb)",
-    "abbr": "Sr  ",
-    "lat": "47.8075",
-    "lng": "13.0021",
-    "arrival": "2023-08-22T16:42:00Z",
-    "departure": "2023-08-22T16:48:00Z"
-  },
-  {
-    "train_number": "47805 ",
-    "unit_number": "1016.0023",
-    "name": "Salzburg Hbf (in Sb)",
-    "abbr": "Sb  ",
-    "lat": "47.8135",
-    "lng": "13.0466",
-    "arrival": "2023-08-22T16:35:00Z",
-    "departure": "2023-08-22T16:36:00Z"
-  },
-  {
-    "train_number": "47805 ",
-    "unit_number": "1016.0023",
-    "name": "Salzburg Liefering (in Sb)",
-    "abbr": "Lfg ",
-    "lat": "47.8229",
-    "lng": "13.0021",
-    "arrival": null,
-    "departure": "2023-08-22T16:30:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1016.0023",
-    "name": "Freilassing",
-    "abbr": "MFL ",
-    "lat": "47.8368",
-    "lng": "12.9764",
-    "arrival": null,
-    "departure": "2023-08-22T16:27:00Z"
-  },
-  {
-    "train_number": "47804 ",
-    "unit_number": "1016.0023",
-    "name": "Rohrdorf (Oberbay)",
-    "abbr": "MRDO",
-    "lat": "47.7982",
-    "lng": "12.1736",
-    "arrival": "2023-08-22T10:49:00Z",
-    "departure": "2023-08-22T12:40:00Z"
-  },
-  {
-    "train_number": "47804 ",
-    "unit_number": "1016.0023",
-    "name": "Salzburg Gnigl-Vbf (in Sb)",
-    "abbr": "Sr  ",
-    "lat": "47.8075",
-    "lng": "13.0021",
-    "arrival": "2023-08-22T03:38:00Z",
-    "departure": "2023-08-22T06:00:00Z"
-  },
-  {
-    "train_number": "47804 ",
-    "unit_number": "1016.0023",
-    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
-    "abbr": "Sre ",
-    "lat": "47.8075",
-    "lng": "13.0687",
-    "arrival": null,
-    "departure": "2023-08-22T03:36:00Z"
   }
 ]
