@@ -1,202 +1,202 @@
 [
   {
-    "train_number": "47089 ",
+    "train_number": "596   ",
     "unit_number": "1116.0165",
-    "name": "Payerbach-Reichenau",
-    "abbr": "Pr  ",
-    "lat": "47.696",
-    "lng": "15.8632",
-    "arrival": null,
-    "departure": "2023-08-23T13:02:00Z"
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-08-24T08:44:00Z",
+    "departure": "2023-08-24T08:46:00Z"
   },
   {
-    "train_number": "47089 ",
+    "train_number": "596   ",
     "unit_number": "1116.0165",
-    "name": "Neunkirchen N.Ö.",
-    "abbr": "Nek ",
-    "lat": "47.731",
-    "lng": "16.0826",
-    "arrival": null,
-    "departure": "2023-08-23T12:29:00Z"
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-08-24T08:28:00Z",
+    "departure": "2023-08-24T08:30:00Z"
   },
   {
-    "train_number": "47089 ",
+    "train_number": "596   ",
     "unit_number": "1116.0165",
-    "name": "Wr. Neustadt Hbf (in Nb)",
-    "abbr": "Nb  ",
-    "lat": "47.8113",
-    "lng": "16.2337",
-    "arrival": null,
-    "departure": "2023-08-23T12:07:00Z"
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": "2023-08-24T08:14:00Z",
+    "departure": "2023-08-24T08:15:00Z"
   },
   {
-    "train_number": "47089 ",
+    "train_number": "596   ",
     "unit_number": "1116.0165",
-    "name": "Ebenfurth (in Ef)",
-    "abbr": "Ef  ",
-    "lat": "47.8777",
-    "lng": "16.3621",
-    "arrival": null,
-    "departure": "2023-08-23T11:50:00Z"
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
+    "arrival": "2023-08-24T07:53:00Z",
+    "departure": "2023-08-24T08:00:00Z"
   },
   {
-    "train_number": "47089 ",
-    "unit_number": "1116.0165",
-    "name": "Kledering (in Zur)",
-    "abbr": "Za  ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": "2023-08-23T11:00:00Z",
-    "departure": "2023-08-23T11:10:00Z"
-  },
-  {
-    "train_number": "47089 ",
-    "unit_number": "1116.0165",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-08-23T10:58:00Z"
-  },
-  {
-    "train_number": "47089 ",
-    "unit_number": "1116.0165",
-    "name": "Gänserndorf",
-    "abbr": "Gae ",
-    "lat": "48.3401",
-    "lng": "16.7324",
-    "arrival": null,
-    "departure": "2023-08-23T10:19:00Z"
-  },
-  {
-    "train_number": "47089 ",
-    "unit_number": "1116.0165",
-    "name": "Hohenau",
-    "abbr": "Nh  ",
-    "lat": "48.5981",
-    "lng": "16.9008",
-    "arrival": "2023-08-23T09:50:00Z",
-    "departure": "2023-08-23T09:55:00Z"
-  },
-  {
-    "train_number": "18472 ",
-    "unit_number": "1116.0165",
-    "name": "Gänserndorf",
-    "abbr": "Gae ",
-    "lat": "48.3401",
-    "lng": "16.7324",
-    "arrival": null,
-    "departure": "2023-08-23T08:04:00Z"
-  },
-  {
-    "train_number": "18472 ",
-    "unit_number": "1116.0165",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-08-23T07:36:00Z"
-  },
-  {
-    "train_number": "86759 ",
-    "unit_number": "1116.0165",
-    "name": "Kledering (in Zur)",
-    "abbr": "Za  ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": "2023-08-23T07:13:00Z",
-    "departure": "2023-08-23T07:35:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0165",
-    "name": "Wien Meidling (in Wbf)",
-    "abbr": "Mi  ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": null,
-    "departure": "2023-08-23T06:49:00Z"
-  },
-  {
-    "train_number": "447   ",
-    "unit_number": "1116.0165",
-    "name": "Wien Meidling (in Wbf)",
-    "abbr": "Mi  ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": "2023-08-23T04:58:00Z",
-    "departure": "2023-08-23T05:01:00Z"
-  },
-  {
-    "train_number": "447   ",
-    "unit_number": "1116.0165",
-    "name": "St.Pölten Hbf (in Pb)",
-    "abbr": "Pb  ",
-    "lat": "48.2081",
-    "lng": "15.6237",
-    "arrival": "2023-08-23T04:20:00Z",
-    "departure": "2023-08-23T04:28:00Z"
-  },
-  {
-    "train_number": "447   ",
-    "unit_number": "1116.0165",
-    "name": "Pöchlarn",
-    "abbr": "Poe ",
-    "lat": "48.208",
-    "lng": "15.2148",
-    "arrival": null,
-    "departure": "2023-08-23T03:50:00Z"
-  },
-  {
-    "train_number": "447   ",
+    "train_number": "596   ",
     "unit_number": "1116.0165",
     "name": "Ybbs a.d.Donau",
     "abbr": "Y   ",
     "lat": "48.158",
     "lng": "15.0981",
     "arrival": null,
-    "departure": "2023-08-23T03:40:00Z"
+    "departure": "2023-08-24T07:43:00Z"
   },
   {
-    "train_number": "447   ",
+    "train_number": "596   ",
+    "unit_number": "1116.0165",
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
+    "arrival": null,
+    "departure": "2023-08-24T07:38:00Z"
+  },
+  {
+    "train_number": "596   ",
+    "unit_number": "1116.0165",
+    "name": "St.Pölten Hbf (in Pb)",
+    "abbr": "Pb  ",
+    "lat": "48.2081",
+    "lng": "15.6237",
+    "arrival": "2023-08-24T07:18:00Z",
+    "departure": "2023-08-24T07:20:00Z"
+  },
+  {
+    "train_number": "596   ",
+    "unit_number": "1116.0165",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-08-24T06:50:00Z",
+    "departure": "2023-08-24T06:52:00Z"
+  },
+  {
+    "train_number": "541   ",
+    "unit_number": "1116.0165",
+    "name": "Wien Hauptbahnhof (in Wbf)",
+    "abbr": "Wbf ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-08-24T06:15:00Z",
+    "departure": "2023-08-24T06:45:00Z"
+  },
+  {
+    "train_number": "541   ",
+    "unit_number": "1116.0165",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-08-24T06:08:00Z",
+    "departure": "2023-08-24T06:10:00Z"
+  },
+  {
+    "train_number": "541   ",
+    "unit_number": "1116.0165",
+    "name": "St.Pölten Hbf (in Pb)",
+    "abbr": "Pb  ",
+    "lat": "48.2081",
+    "lng": "15.6237",
+    "arrival": "2023-08-24T05:40:00Z",
+    "departure": "2023-08-24T05:42:00Z"
+  },
+  {
+    "train_number": "541   ",
+    "unit_number": "1116.0165",
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
+    "arrival": null,
+    "departure": "2023-08-24T05:22:00Z"
+  },
+  {
+    "train_number": "541   ",
+    "unit_number": "1116.0165",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
+    "arrival": null,
+    "departure": "2023-08-24T05:17:00Z"
+  },
+  {
+    "train_number": "541   ",
     "unit_number": "1116.0165",
     "name": "Amstetten (in Ams)",
     "abbr": "Ams ",
     "lat": "48.1215",
     "lng": "14.8792",
-    "arrival": "2023-08-23T03:24:00Z",
-    "departure": "2023-08-23T03:26:00Z"
+    "arrival": "2023-08-24T05:05:00Z",
+    "departure": "2023-08-24T05:07:00Z"
   },
   {
-    "train_number": "447   ",
+    "train_number": "541   ",
     "unit_number": "1116.0165",
     "name": "St.Valentin (in Sv)",
     "abbr": "Sv  ",
     "lat": "48.1784",
     "lng": "14.5219",
-    "arrival": "2023-08-23T03:04:00Z",
-    "departure": "2023-08-23T03:06:00Z"
+    "arrival": "2023-08-24T04:46:00Z",
+    "departure": "2023-08-24T04:50:00Z"
   },
   {
-    "train_number": "447   ",
+    "train_number": "541   ",
     "unit_number": "1116.0165",
     "name": "Linz Hbf",
     "abbr": "Lz  ",
     "lat": "48.2908",
     "lng": "14.2927",
-    "arrival": "2023-08-23T02:43:00Z",
-    "departure": "2023-08-23T02:48:00Z"
+    "arrival": "2023-08-24T04:30:00Z",
+    "departure": "2023-08-24T04:32:00Z"
   },
   {
-    "train_number": "447   ",
+    "train_number": "541   ",
     "unit_number": "1116.0165",
     "name": "Wels Hbf",
     "abbr": "We  ",
     "lat": "48.1662",
     "lng": "14.0273",
-    "arrival": "2023-08-23T02:24:00Z",
-    "departure": "2023-08-23T02:26:00Z"
+    "arrival": "2023-08-24T04:14:00Z",
+    "departure": "2023-08-24T04:16:00Z"
+  },
+  {
+    "train_number": "541   ",
+    "unit_number": "1116.0165",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": "2023-08-24T03:58:00Z",
+    "departure": "2023-08-24T04:00:00Z"
+  },
+  {
+    "train_number": "541   ",
+    "unit_number": "1116.0165",
+    "name": "Steindorf b.Straßw. (in Nst)",
+    "abbr": "Nst ",
+    "lat": "47.9676",
+    "lng": "13.2406",
+    "arrival": null,
+    "departure": "2023-08-24T03:31:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0165",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": null,
+    "departure": "2023-08-24T03:11:00Z"
   }
 ]
