@@ -1,0 +1,152 @@
+[
+  {
+    "train_number": "88776 ",
+    "unit_number": "1116.0159",
+    "name": "Zeltweg",
+    "abbr": "Zg  ",
+    "lat": "47.1887",
+    "lng": "14.7425",
+    "arrival": null,
+    "departure": "2023-08-25T17:21:00Z"
+  },
+  {
+    "train_number": "48911 ",
+    "unit_number": "1116.0159",
+    "name": "Zeltweg",
+    "abbr": "Zg  ",
+    "lat": "47.1887",
+    "lng": "14.7425",
+    "arrival": null,
+    "departure": "2023-08-25T16:32:00Z"
+  },
+  {
+    "train_number": "48911 ",
+    "unit_number": "1116.0159",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": "2023-08-25T16:02:00Z",
+    "departure": "2023-08-25T16:02:00Z"
+  },
+  {
+    "train_number": "48911 ",
+    "unit_number": "1116.0159",
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-08-25T14:48:00Z",
+    "departure": "2023-08-25T15:13:00Z"
+  },
+  {
+    "train_number": "48911 ",
+    "unit_number": "1116.0159",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": null,
+    "departure": "2023-08-25T11:16:00Z"
+  },
+  {
+    "train_number": "48911 ",
+    "unit_number": "1116.0159",
+    "name": "Linz Vbf-Ost-Einf. (in Lzv)",
+    "abbr": "Lm  ",
+    "lat": "48.2607",
+    "lng": "14.3257",
+    "arrival": null,
+    "departure": "2023-08-25T10:47:00Z"
+  },
+  {
+    "train_number": "48911 ",
+    "unit_number": "1116.0159",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-08-25T10:36:00Z",
+    "departure": "2023-08-25T10:39:00Z"
+  },
+  {
+    "train_number": "48911 ",
+    "unit_number": "1116.0159",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-08-25T09:25:00Z",
+    "departure": "2023-08-25T09:45:00Z"
+  },
+  {
+    "train_number": "48911 ",
+    "unit_number": "1116.0159",
+    "name": "Neumarkt-Kallham (in Neu)",
+    "abbr": "Neu ",
+    "lat": "48.2714",
+    "lng": "13.7245",
+    "arrival": null,
+    "departure": "2023-08-25T09:03:00Z"
+  },
+  {
+    "train_number": "48911 ",
+    "unit_number": "1116.0159",
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": null,
+    "departure": "2023-08-25T08:27:00Z"
+  },
+  {
+    "train_number": "79211 ",
+    "unit_number": "1116.0159",
+    "name": "Passau Gbf",
+    "abbr": "Pag ",
+    "lat": "48.5729",
+    "lng": "13.4342",
+    "arrival": "2023-08-25T07:31:00Z",
+    "departure": "2023-08-25T08:12:00Z"
+  },
+  {
+    "train_number": "79211 ",
+    "unit_number": "1116.0159",
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": null,
+    "departure": "2023-08-25T07:15:00Z"
+  },
+  {
+    "train_number": "79211 ",
+    "unit_number": "1116.0159",
+    "name": "Neumarkt-Kallham (in Neu)",
+    "abbr": "Neu ",
+    "lat": "48.2714",
+    "lng": "13.7245",
+    "arrival": null,
+    "departure": "2023-08-25T06:38:00Z"
+  },
+  {
+    "train_number": "79211 ",
+    "unit_number": "1116.0159",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": null,
+    "departure": "2023-08-25T06:13:00Z"
+  },
+  {
+    "train_number": "99235 ",
+    "unit_number": "1116.0159",
+    "name": "Linz Hbf Westbrücke (in Lz)",
+    "abbr": "Lzw ",
+    "lat": "48.2607",
+    "lng": "14.2927",
+    "arrival": "2023-08-25T00:25:00Z",
+    "departure": "2023-08-25T05:59:00Z"
+  }
+]

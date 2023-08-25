@@ -2,22 +2,12 @@
   {
     "train_number": "5137  ",
     "unit_number": "4024.0118",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-08-24T21:31:00Z",
-    "departure": "2023-08-24T21:35:00Z"
-  },
-  {
-    "train_number": "5137  ",
-    "unit_number": "4024.0118",
     "name": "Wörgl Hbf-T. N. (in W)",
     "abbr": "Wtn ",
     "lat": "47.4824",
     "lng": "12.033",
     "arrival": null,
-    "departure": "2023-08-24T21:28:00Z"
+    "departure": "2023-08-25T21:28:00Z"
   },
   {
     "train_number": "5137  ",
@@ -26,8 +16,8 @@
     "abbr": "Jb  ",
     "lat": "47.3884",
     "lng": "11.7783",
-    "arrival": "2023-08-24T21:08:00Z",
-    "departure": "2023-08-24T21:09:00Z"
+    "arrival": "2023-08-25T21:08:00Z",
+    "departure": "2023-08-25T21:09:00Z"
   },
   {
     "train_number": "5137  ",
@@ -36,8 +26,8 @@
     "abbr": "Sw  ",
     "lat": "47.3497",
     "lng": "11.7016",
-    "arrival": "2023-08-24T21:01:00Z",
-    "departure": "2023-08-24T21:02:00Z"
+    "arrival": "2023-08-25T21:01:00Z",
+    "departure": "2023-08-25T21:02:00Z"
   },
   {
     "train_number": "5137  ",
@@ -46,8 +36,8 @@
     "abbr": "H   ",
     "lat": "47.2769",
     "lng": "11.5013",
-    "arrival": "2023-08-24T20:45:00Z",
-    "departure": "2023-08-24T20:46:00Z"
+    "arrival": "2023-08-25T20:45:00Z",
+    "departure": "2023-08-25T20:46:00Z"
   },
   {
     "train_number": "5137  ",
@@ -56,8 +46,8 @@
     "abbr": "I   ",
     "lat": "47.2634",
     "lng": "11.4017",
-    "arrival": "2023-08-24T20:31:00Z",
-    "departure": "2023-08-24T20:35:00Z"
+    "arrival": "2023-08-25T20:31:00Z",
+    "departure": "2023-08-25T20:35:00Z"
   },
   {
     "train_number": "5387  ",
@@ -66,8 +56,8 @@
     "abbr": "I   ",
     "lat": "47.2634",
     "lng": "11.4017",
-    "arrival": "2023-08-24T16:06:00Z",
-    "departure": "2023-08-24T17:20:00Z"
+    "arrival": "2023-08-25T16:06:00Z",
+    "departure": "2023-08-25T17:20:00Z"
   },
   {
     "train_number": "5387  ",
@@ -76,8 +66,8 @@
     "abbr": "Im  ",
     "lat": "47.219",
     "lng": "10.7619",
-    "arrival": "2023-08-24T15:17:00Z",
-    "departure": "2023-08-24T15:18:00Z"
+    "arrival": "2023-08-25T15:17:00Z",
+    "departure": "2023-08-25T15:18:00Z"
   },
   {
     "train_number": "5382  ",
@@ -86,8 +76,8 @@
     "abbr": "Le  ",
     "lat": "47.148",
     "lng": "10.5782",
-    "arrival": "2023-08-24T14:56:00Z",
-    "departure": "2023-08-24T15:01:00Z"
+    "arrival": "2023-08-25T14:56:00Z",
+    "departure": "2023-08-25T15:01:00Z"
   },
   {
     "train_number": "5382  ",
@@ -96,107 +86,117 @@
     "abbr": "Im  ",
     "lat": "47.219",
     "lng": "10.7619",
-    "arrival": "2023-08-24T14:40:00Z",
-    "departure": "2023-08-24T14:41:00Z"
+    "arrival": "2023-08-25T14:40:00Z",
+    "departure": "2023-08-25T14:41:00Z"
   },
   {
-    "train_number": "5216  ",
+    "train_number": "5371  ",
     "unit_number": "4024.0118",
     "name": "Innsbruck Hbf  (in I)",
     "abbr": "I   ",
     "lat": "47.2634",
     "lng": "11.4017",
-    "arrival": "2023-08-24T10:40:00Z",
-    "departure": "2023-08-24T13:52:00Z"
+    "arrival": "2023-08-25T08:06:00Z",
+    "departure": "2023-08-25T13:52:00Z"
   },
   {
-    "train_number": "5216  ",
+    "train_number": "5371  ",
+    "unit_number": "4024.0118",
+    "name": "Imst-Pitztal",
+    "abbr": "Im  ",
+    "lat": "47.219",
+    "lng": "10.7619",
+    "arrival": "2023-08-25T07:16:00Z",
+    "departure": "2023-08-25T07:17:00Z"
+  },
+  {
+    "train_number": "5102  ",
+    "unit_number": "4024.0118",
+    "name": "Landeck-Zams",
+    "abbr": "Le  ",
+    "lat": "47.148",
+    "lng": "10.5782",
+    "arrival": "2023-08-25T06:02:00Z",
+    "departure": "2023-08-25T07:01:00Z"
+  },
+  {
+    "train_number": "5102  ",
+    "unit_number": "4024.0118",
+    "name": "Imst-Pitztal",
+    "abbr": "Im  ",
+    "lat": "47.219",
+    "lng": "10.7619",
+    "arrival": "2023-08-25T05:29:00Z",
+    "departure": "2023-08-25T05:47:00Z"
+  },
+  {
+    "train_number": "5102  ",
+    "unit_number": "4024.0118",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-08-25T04:20:00Z",
+    "departure": "2023-08-25T04:24:00Z"
+  },
+  {
+    "train_number": "5102  ",
     "unit_number": "4024.0118",
     "name": "Hall in Tirol",
     "abbr": "H   ",
     "lat": "47.2769",
     "lng": "11.5013",
-    "arrival": "2023-08-24T10:29:00Z",
-    "departure": "2023-08-24T10:30:00Z"
+    "arrival": "2023-08-25T04:09:00Z",
+    "departure": "2023-08-25T04:09:00Z"
   },
   {
-    "train_number": "5216  ",
+    "train_number": "5102  ",
     "unit_number": "4024.0118",
     "name": "Schwaz",
     "abbr": "Sw  ",
     "lat": "47.3497",
     "lng": "11.7016",
-    "arrival": "2023-08-24T10:18:00Z",
-    "departure": "2023-08-24T10:19:00Z"
+    "arrival": "2023-08-25T03:53:00Z",
+    "departure": "2023-08-25T03:53:00Z"
   },
   {
-    "train_number": "5216  ",
+    "train_number": "5102  ",
     "unit_number": "4024.0118",
     "name": "Jenbach",
     "abbr": "Jb  ",
     "lat": "47.3884",
     "lng": "11.7783",
-    "arrival": "2023-08-24T10:13:00Z",
-    "departure": "2023-08-24T10:14:00Z"
+    "arrival": "2023-08-25T03:45:00Z",
+    "departure": "2023-08-25T03:46:00Z"
   },
   {
-    "train_number": "5216  ",
+    "train_number": "5102  ",
     "unit_number": "4024.0118",
     "name": "Wörgl Hbf-T. N. (in W)",
     "abbr": "Wtn ",
     "lat": "47.4824",
     "lng": "12.033",
     "arrival": null,
-    "departure": "2023-08-24T09:56:00Z"
+    "departure": "2023-08-25T03:25:00Z"
   },
   {
-    "train_number": "5022  ",
+    "train_number": "5102  ",
     "unit_number": "4024.0118",
     "name": "Wörgl Hbf (in W)",
     "abbr": "W   ",
     "lat": "47.4912",
     "lng": "12.0603",
-    "arrival": "2023-08-24T09:40:00Z",
-    "departure": "2023-08-24T09:54:00Z"
+    "arrival": "2023-08-25T03:23:00Z",
+    "departure": "2023-08-25T03:24:00Z"
   },
   {
-    "train_number": "5022  ",
+    "train_number": "5137  ",
     "unit_number": "4024.0118",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
-    "arrival": "2023-08-24T09:00:00Z",
-    "departure": "2023-08-24T09:01:00Z"
-  },
-  {
-    "train_number": "5021  ",
-    "unit_number": "4024.0118",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
-    "arrival": "2023-08-24T08:01:00Z",
-    "departure": "2023-08-24T08:02:00Z"
-  },
-  {
-    "train_number": "5010  ",
-    "unit_number": "4024.0118",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-08-24T06:08:00Z",
-    "departure": "2023-08-24T07:22:00Z"
-  },
-  {
-    "train_number": "5010  ",
-    "unit_number": "4024.0118",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
-    "arrival": "2023-08-24T05:28:00Z",
-    "departure": "2023-08-24T05:29:00Z"
+    "name": "Kufstein",
+    "abbr": "K   ",
+    "lat": "47.5833",
+    "lng": "12.1657",
+    "arrival": "2023-08-24T21:48:00Z",
+    "departure": "2023-08-25T03:10:00Z"
   }
 ]
