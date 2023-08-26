@@ -1,5 +1,195 @@
 [
   {
+    "train_number": "5912  ",
+    "unit_number": "4024.0015",
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": "2023-08-26T16:08:00Z",
+    "departure": "2023-08-26T16:09:00Z"
+  },
+  {
+    "train_number": "5912  ",
+    "unit_number": "4024.0015",
+    "name": "Neumarkt-Kallham (in Neu)",
+    "abbr": "Neu ",
+    "lat": "48.2714",
+    "lng": "13.7245",
+    "arrival": "2023-08-26T15:35:00Z",
+    "departure": "2023-08-26T15:36:00Z"
+  },
+  {
+    "train_number": "5912  ",
+    "unit_number": "4024.0015",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-08-26T15:07:00Z",
+    "departure": "2023-08-26T15:09:00Z"
+  },
+  {
+    "train_number": "5063  ",
+    "unit_number": "4024.0015",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-08-26T12:00:00Z",
+    "departure": "2023-08-26T14:50:00Z"
+  },
+  {
+    "train_number": "5063  ",
+    "unit_number": "4024.0015",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-08-26T11:36:00Z",
+    "departure": "2023-08-26T11:37:00Z"
+  },
+  {
+    "train_number": "5063  ",
+    "unit_number": "4024.0015",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": "2023-08-26T10:55:00Z",
+    "departure": "2023-08-26T11:10:00Z"
+  },
+  {
+    "train_number": "5063  ",
+    "unit_number": "4024.0015",
+    "name": "Steindorf b.Straßw. (in Nst)",
+    "abbr": "Nst ",
+    "lat": "47.9676",
+    "lng": "13.2406",
+    "arrival": null,
+    "departure": "2023-08-26T10:00:00Z"
+  },
+  {
+    "train_number": "5063  ",
+    "unit_number": "4024.0015",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-08-26T09:32:00Z",
+    "departure": "2023-08-26T09:34:00Z"
+  },
+  {
+    "train_number": "5063  ",
+    "unit_number": "4024.0015",
+    "name": "Salzburg Liefering (in Sb)",
+    "abbr": "Lfg ",
+    "lat": "47.8229",
+    "lng": "13.0021",
+    "arrival": "2023-08-26T09:23:00Z",
+    "departure": "2023-08-26T09:23:00Z"
+  },
+  {
+    "train_number": "5060  ",
+    "unit_number": "4024.0015",
+    "name": "Freilassing",
+    "abbr": "MFL ",
+    "lat": "47.8368",
+    "lng": "12.9764",
+    "arrival": "2023-08-26T08:42:00Z",
+    "departure": "2023-08-26T09:20:00Z"
+  },
+  {
+    "train_number": "5060  ",
+    "unit_number": "4024.0015",
+    "name": "Salzburg Liefering (in Sb)",
+    "abbr": "Lfg ",
+    "lat": "47.8229",
+    "lng": "13.0021",
+    "arrival": "2023-08-26T08:36:00Z",
+    "departure": "2023-08-26T08:36:00Z"
+  },
+  {
+    "train_number": "5060  ",
+    "unit_number": "4024.0015",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-08-26T08:26:00Z",
+    "departure": "2023-08-26T08:28:00Z"
+  },
+  {
+    "train_number": "5060  ",
+    "unit_number": "4024.0015",
+    "name": "Steindorf b.Straßw. (in Nst)",
+    "abbr": "Nst ",
+    "lat": "47.9676",
+    "lng": "13.2406",
+    "arrival": null,
+    "departure": "2023-08-26T07:59:00Z"
+  },
+  {
+    "train_number": "5060  ",
+    "unit_number": "4024.0015",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": "2023-08-26T06:50:00Z",
+    "departure": "2023-08-26T06:51:00Z"
+  },
+  {
+    "train_number": "5060  ",
+    "unit_number": "4024.0015",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-08-26T06:22:00Z",
+    "departure": "2023-08-26T06:23:00Z"
+  },
+  {
+    "train_number": "2058  ",
+    "unit_number": "4024.0015",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-08-26T05:16:00Z",
+    "departure": "2023-08-26T06:00:00Z"
+  },
+  {
+    "train_number": "2058  ",
+    "unit_number": "4024.0015",
+    "name": "Enns",
+    "abbr": "Ens ",
+    "lat": "48.2212",
+    "lng": "14.4668",
+    "arrival": "2023-08-26T04:56:00Z",
+    "departure": "2023-08-26T04:57:00Z"
+  },
+  {
+    "train_number": "2453  ",
+    "unit_number": "4024.0015",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": "2023-08-26T04:17:00Z",
+    "departure": "2023-08-26T04:50:00Z"
+  },
+  {
+    "train_number": "2453  ",
+    "unit_number": "4024.0015",
+    "name": "Enns",
+    "abbr": "Ens ",
+    "lat": "48.2212",
+    "lng": "14.4668",
+    "arrival": "2023-08-26T04:10:00Z",
+    "departure": "2023-08-26T04:11:00Z"
+  },
+  {
     "train_number": "3634  ",
     "unit_number": "4024.0015",
     "name": "Linz Hbf",
@@ -8,155 +198,5 @@
     "lng": "14.2927",
     "arrival": "2023-08-25T20:04:00Z",
     "departure": "2023-08-26T03:53:00Z"
-  },
-  {
-    "train_number": "3634  ",
-    "unit_number": "4024.0015",
-    "name": "Enns",
-    "abbr": "Ens ",
-    "lat": "48.2212",
-    "lng": "14.4668",
-    "arrival": "2023-08-25T19:47:00Z",
-    "departure": "2023-08-25T19:48:00Z"
-  },
-  {
-    "train_number": "3634  ",
-    "unit_number": "4024.0015",
-    "name": "St.Valentin (in Sv)",
-    "abbr": "Sv  ",
-    "lat": "48.1784",
-    "lng": "14.5219",
-    "arrival": "2023-08-25T19:39:00Z",
-    "departure": "2023-08-25T19:41:00Z"
-  },
-  {
-    "train_number": "3627  ",
-    "unit_number": "4024.0015",
-    "name": "St.Valentin (in Sv)",
-    "abbr": "Sv  ",
-    "lat": "48.1784",
-    "lng": "14.5219",
-    "arrival": "2023-08-25T15:47:00Z",
-    "departure": "2023-08-25T15:51:00Z"
-  },
-  {
-    "train_number": "3627  ",
-    "unit_number": "4024.0015",
-    "name": "Enns",
-    "abbr": "Ens ",
-    "lat": "48.2212",
-    "lng": "14.4668",
-    "arrival": "2023-08-25T15:40:00Z",
-    "departure": "2023-08-25T15:41:00Z"
-  },
-  {
-    "train_number": "4413  ",
-    "unit_number": "4024.0015",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-08-25T14:41:00Z",
-    "departure": "2023-08-25T15:23:00Z"
-  },
-  {
-    "train_number": "4413  ",
-    "unit_number": "4024.0015",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": "2023-08-25T14:24:00Z",
-    "departure": "2023-08-25T14:25:00Z"
-  },
-  {
-    "train_number": "4412  ",
-    "unit_number": "4024.0015",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": "2023-08-25T13:07:00Z",
-    "departure": "2023-08-25T13:53:00Z"
-  },
-  {
-    "train_number": "4412  ",
-    "unit_number": "4024.0015",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": "2023-08-25T12:33:00Z",
-    "departure": "2023-08-25T12:34:00Z"
-  },
-  {
-    "train_number": "5051  ",
-    "unit_number": "4024.0015",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-08-25T05:29:00Z",
-    "departure": "2023-08-25T12:18:00Z"
-  },
-  {
-    "train_number": "5051  ",
-    "unit_number": "4024.0015",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": "2023-08-25T05:04:00Z",
-    "departure": "2023-08-25T05:06:00Z"
-  },
-  {
-    "train_number": "5051  ",
-    "unit_number": "4024.0015",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": "2023-08-25T04:29:00Z",
-    "departure": "2023-08-25T04:31:00Z"
-  },
-  {
-    "train_number": "5051  ",
-    "unit_number": "4024.0015",
-    "name": "Steindorf b.Straßw. (in Nst)",
-    "abbr": "Nst ",
-    "lat": "47.9676",
-    "lng": "13.2406",
-    "arrival": null,
-    "departure": "2023-08-25T03:50:00Z"
-  },
-  {
-    "train_number": "5051  ",
-    "unit_number": "4024.0015",
-    "name": "Salzburg Hbf (in Sb)",
-    "abbr": "Sb  ",
-    "lat": "47.8135",
-    "lng": "13.0466",
-    "arrival": "2023-08-25T03:27:00Z",
-    "departure": "2023-08-25T03:30:00Z"
-  },
-  {
-    "train_number": "5051  ",
-    "unit_number": "4024.0015",
-    "name": "Salzburg Liefering (in Sb)",
-    "abbr": "Lfg ",
-    "lat": "47.8229",
-    "lng": "13.0021",
-    "arrival": "2023-08-25T03:19:00Z",
-    "departure": "2023-08-25T03:19:00Z"
-  },
-  {
-    "train_number": "25796 ",
-    "unit_number": "4024.0015",
-    "name": "Freilassing",
-    "abbr": "MFL ",
-    "lat": "47.8368",
-    "lng": "12.9764",
-    "arrival": "2023-08-24T19:43:00Z",
-    "departure": "2023-08-25T03:17:00Z"
   }
 ]

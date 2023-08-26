@@ -1,122 +1,202 @@
 [
   {
-    "train_number": "26077 ",
+    "train_number": "26085 ",
     "unit_number": "4124.0014",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-08-25T19:57:00Z"
+    "departure": "2023-08-26T21:57:00Z"
   },
   {
-    "train_number": "26077 ",
+    "train_number": "26085 ",
     "unit_number": "4124.0014",
     "name": "Wien Meidling (in Wbf)",
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-08-25T19:41:00Z",
-    "departure": "2023-08-25T19:43:00Z"
+    "arrival": "2023-08-26T21:29:00Z",
+    "departure": "2023-08-26T21:31:00Z"
   },
   {
-    "train_number": "26070 ",
+    "train_number": "26078 ",
     "unit_number": "4124.0014",
     "name": "Wien Meidling (in Wbf)",
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-08-25T18:16:00Z",
-    "departure": "2023-08-25T18:18:00Z"
+    "arrival": "2023-08-26T20:16:00Z",
+    "departure": "2023-08-26T20:18:00Z"
   },
   {
-    "train_number": "26070 ",
+    "train_number": "26078 ",
     "unit_number": "4124.0014",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-08-25T18:01:00Z"
+    "departure": "2023-08-26T20:01:00Z"
   },
   {
-    "train_number": "26063 ",
+    "train_number": "26069 ",
     "unit_number": "4124.0014",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-08-25T16:27:00Z"
+    "departure": "2023-08-26T17:57:00Z"
   },
   {
-    "train_number": "9406  ",
+    "train_number": "26069 ",
     "unit_number": "4124.0014",
-    "name": "Wien Hauptbahnhof (in Wbf)",
-    "abbr": "Wbf ",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-08-25T06:52:00Z",
-    "departure": "2023-08-25T16:20:00Z"
+    "arrival": "2023-08-26T17:41:00Z",
+    "departure": "2023-08-26T17:43:00Z"
   },
   {
-    "train_number": "9406  ",
+    "train_number": "26062 ",
     "unit_number": "4124.0014",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-08-25T06:45:00Z"
-  },
-  {
-    "train_number": "9406  ",
-    "unit_number": "4124.0014",
-    "name": "Parndorf",
-    "abbr": "Par ",
-    "lat": "47.987",
-    "lng": "16.8702",
-    "arrival": "2023-08-25T06:13:00Z",
-    "departure": "2023-08-25T06:14:00Z"
-  },
-  {
-    "train_number": "9405  ",
-    "unit_number": "4124.0014",
-    "name": "Hegyeshalom",
-    "abbr": "He  ",
-    "lat": "47.9139",
-    "lng": "17.1455",
-    "arrival": "2023-08-25T05:14:00Z",
-    "departure": "2023-08-25T05:57:00Z"
-  },
-  {
-    "train_number": "9405  ",
-    "unit_number": "4124.0014",
-    "name": "Parndorf",
-    "abbr": "Par ",
-    "lat": "47.987",
-    "lng": "16.8702",
-    "arrival": "2023-08-25T04:55:00Z",
-    "departure": "2023-08-25T04:56:00Z"
-  },
-  {
-    "train_number": "84309 ",
-    "unit_number": "4124.0014",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-08-25T04:14:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "4124.0014",
-    "name": "Wien Hbf Autoreis. (in Wbf)",
-    "abbr": "Of  ",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
+    "arrival": "2023-08-26T16:16:00Z",
+    "departure": "2023-08-26T16:18:00Z"
+  },
+  {
+    "train_number": "26062 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
     "arrival": null,
-    "departure": "2023-08-25T04:09:00Z"
+    "departure": "2023-08-26T16:01:00Z"
+  },
+  {
+    "train_number": "26053 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-08-26T13:57:00Z"
+  },
+  {
+    "train_number": "26053 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-08-26T13:41:00Z",
+    "departure": "2023-08-26T13:43:00Z"
+  },
+  {
+    "train_number": "26046 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-08-26T12:16:00Z",
+    "departure": "2023-08-26T12:18:00Z"
+  },
+  {
+    "train_number": "26046 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-08-26T12:01:00Z"
+  },
+  {
+    "train_number": "26037 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-08-26T09:57:00Z"
+  },
+  {
+    "train_number": "26037 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-08-26T09:41:00Z",
+    "departure": "2023-08-26T09:43:00Z"
+  },
+  {
+    "train_number": "26030 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-08-26T08:16:00Z",
+    "departure": "2023-08-26T08:18:00Z"
+  },
+  {
+    "train_number": "26030 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-08-26T08:01:00Z"
+  },
+  {
+    "train_number": "26021 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-08-26T05:57:00Z"
+  },
+  {
+    "train_number": "26021 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-08-26T05:41:00Z",
+    "departure": "2023-08-26T05:43:00Z"
+  },
+  {
+    "train_number": "26014 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-08-26T04:16:00Z",
+    "departure": "2023-08-26T04:18:00Z"
+  },
+  {
+    "train_number": "26014 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-08-26T04:01:00Z"
   }
 ]

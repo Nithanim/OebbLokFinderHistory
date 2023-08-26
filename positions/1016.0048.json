@@ -1,162 +1,152 @@
 [
   {
-    "train_number": "62628 ",
+    "train_number": "603   ",
     "unit_number": "1016.0048",
-    "name": "Selzthal (in Sl)",
-    "abbr": "Sl  ",
-    "lat": "47.5505",
-    "lng": "14.3134",
-    "arrival": "2023-08-26T00:14:00Z",
-    "departure": "2023-08-26T03:40:00Z"
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
+    "arrival": null,
+    "departure": "2023-08-26T18:59:00Z"
   },
   {
-    "train_number": "62628 ",
+    "train_number": "603   ",
+    "unit_number": "1016.0048",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": "2023-08-26T18:17:00Z",
+    "departure": "2023-08-26T18:18:00Z"
+  },
+  {
+    "train_number": "603   ",
     "unit_number": "1016.0048",
     "name": "St.Michael (in M)",
     "abbr": "M   ",
     "lat": "47.3445",
     "lng": "15.0103",
     "arrival": null,
-    "departure": "2023-08-25T23:29:00Z"
+    "departure": "2023-08-26T18:11:00Z"
   },
   {
-    "train_number": "62628 ",
-    "unit_number": "1016.0048",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": null,
-    "departure": "2023-08-25T23:19:00Z"
-  },
-  {
-    "train_number": "62628 ",
-    "unit_number": "1016.0048",
-    "name": "Bruck a.d.Mur (in Bm)",
-    "abbr": "Bm  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
-    "arrival": null,
-    "departure": "2023-08-25T23:03:00Z"
-  },
-  {
-    "train_number": "62627 ",
-    "unit_number": "1016.0048",
-    "name": "Bruck a.d.Mur-Fbf (in Bm)",
-    "abbr": "Bk  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
-    "arrival": "2023-08-25T21:55:00Z",
-    "departure": "2023-08-25T23:00:00Z"
-  },
-  {
-    "train_number": "62627 ",
-    "unit_number": "1016.0048",
-    "name": "Bruck a.d.Mur (in Bm)",
-    "abbr": "Bm  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
-    "arrival": null,
-    "departure": "2023-08-25T21:53:00Z"
-  },
-  {
-    "train_number": "62627 ",
-    "unit_number": "1016.0048",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": null,
-    "departure": "2023-08-25T21:28:00Z"
-  },
-  {
-    "train_number": "62627 ",
-    "unit_number": "1016.0048",
-    "name": "St.Michael (in M)",
-    "abbr": "M   ",
-    "lat": "47.3445",
-    "lng": "15.0103",
-    "arrival": "2023-08-25T21:14:00Z",
-    "departure": "2023-08-25T21:15:00Z"
-  },
-  {
-    "train_number": "58669 ",
+    "train_number": "506   ",
     "unit_number": "1016.0048",
     "name": "Selzthal (in Sl)",
     "abbr": "Sl  ",
     "lat": "47.5505",
     "lng": "14.3134",
-    "arrival": "2023-08-25T15:48:00Z",
-    "departure": "2023-08-25T20:25:00Z"
+    "arrival": "2023-08-26T12:23:00Z",
+    "departure": "2023-08-26T17:35:00Z"
   },
   {
-    "train_number": "58669 ",
+    "train_number": "506   ",
     "unit_number": "1016.0048",
     "name": "St.Michael (in M)",
     "abbr": "M   ",
     "lat": "47.3445",
     "lng": "15.0103",
     "arrival": null,
-    "departure": "2023-08-25T14:50:00Z"
+    "departure": "2023-08-26T11:48:00Z"
   },
   {
-    "train_number": "58669 ",
+    "train_number": "506   ",
     "unit_number": "1016.0048",
     "name": "Leoben Hbf (in Leb)",
     "abbr": "Leb ",
     "lat": "47.3867",
     "lng": "15.0898",
-    "arrival": "2023-08-25T14:05:00Z",
-    "departure": "2023-08-25T14:39:00Z"
+    "arrival": "2023-08-26T11:39:00Z",
+    "departure": "2023-08-26T11:41:00Z"
   },
   {
-    "train_number": "88952 ",
+    "train_number": "506   ",
+    "unit_number": "1016.0048",
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
+    "arrival": null,
+    "departure": "2023-08-26T10:59:00Z"
+  },
+  {
+    "train_number": "503   ",
+    "unit_number": "1016.0048",
+    "name": "Graz Hbf (in G)",
+    "abbr": "G   ",
+    "lat": "47.0733",
+    "lng": "15.4163",
+    "arrival": "2023-08-26T09:03:00Z",
+    "departure": "2023-08-26T10:56:00Z"
+  },
+  {
+    "train_number": "503   ",
+    "unit_number": "1016.0048",
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
+    "arrival": null,
+    "departure": "2023-08-26T08:59:00Z"
+  },
+  {
+    "train_number": "503   ",
     "unit_number": "1016.0048",
     "name": "Leoben Hbf (in Leb)",
     "abbr": "Leb ",
     "lat": "47.3867",
     "lng": "15.0898",
-    "arrival": "2023-08-25T11:06:00Z",
-    "departure": "2023-08-25T13:14:00Z"
+    "arrival": "2023-08-26T08:17:00Z",
+    "departure": "2023-08-26T08:18:00Z"
   },
   {
-    "train_number": "58662 ",
-    "unit_number": "1016.0048",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": "2023-08-25T10:06:00Z",
-    "departure": "2023-08-25T10:31:00Z"
-  },
-  {
-    "train_number": "58662 ",
+    "train_number": "503   ",
     "unit_number": "1016.0048",
     "name": "St.Michael (in M)",
     "abbr": "M   ",
     "lat": "47.3445",
     "lng": "15.0103",
     "arrival": null,
-    "departure": "2023-08-25T09:55:00Z"
+    "departure": "2023-08-26T08:11:00Z"
   },
   {
-    "train_number": "58662 ",
+    "train_number": "619   ",
     "unit_number": "1016.0048",
     "name": "Selzthal (in Sl)",
     "abbr": "Sl  ",
     "lat": "47.5505",
     "lng": "14.3134",
-    "arrival": "2023-08-25T09:01:00Z",
-    "departure": "2023-08-25T09:04:00Z"
+    "arrival": "2023-08-26T04:36:00Z",
+    "departure": "2023-08-26T07:35:00Z"
   },
   {
-    "train_number": "464   ",
+    "train_number": "619   ",
     "unit_number": "1016.0048",
-    "name": "Selzthal (in Sl)",
-    "abbr": "Sl  ",
-    "lat": "47.5505",
-    "lng": "14.3134",
-    "arrival": "2023-08-24T22:17:00Z",
-    "departure": "2023-08-25T03:40:00Z"
+    "name": "Stainach-Irdning",
+    "abbr": "Rg  ",
+    "lat": "47.5293",
+    "lng": "14.1078",
+    "arrival": "2023-08-26T04:18:00Z",
+    "departure": "2023-08-26T04:19:00Z"
+  },
+  {
+    "train_number": "619   ",
+    "unit_number": "1016.0048",
+    "name": "Bischofshofen (in Bo)",
+    "abbr": "Bo  ",
+    "lat": "47.42",
+    "lng": "13.2199",
+    "arrival": "2023-08-26T03:00:00Z",
+    "departure": "2023-08-26T03:02:00Z"
+  },
+  {
+    "train_number": "Vhz   ",
+    "unit_number": "1016.0048",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-08-26T02:16:00Z",
+    "departure": "2023-08-26T02:46:00Z"
   }
 ]
