@@ -1,93 +1,93 @@
 [
   {
-    "train_number": "25715 ",
-    "unit_number": "4024.0120",
-    "name": "Salzburg Hbf (in Sb)",
-    "abbr": "Sb  ",
-    "lat": "47.8135",
-    "lng": "13.0466",
-    "arrival": "2023-08-27T10:17:00Z",
-    "departure": "2023-08-27T10:21:00Z"
-  },
-  {
-    "train_number": "25715 ",
+    "train_number": "25719 ",
     "unit_number": "4024.0120",
     "name": "Salzburg Liefering (in Sb)",
     "abbr": "Lfg ",
     "lat": "47.8229",
     "lng": "13.0021",
-    "arrival": "2023-08-27T10:09:00Z",
-    "departure": "2023-08-27T10:10:00Z"
+    "arrival": "2023-08-28T12:09:00Z",
+    "departure": "2023-08-28T12:10:00Z"
   },
   {
-    "train_number": "79426 ",
+    "train_number": "79434 ",
     "unit_number": "4024.0120",
     "name": "Freilassing",
     "abbr": "MFL ",
     "lat": "47.8368",
     "lng": "12.9764",
-    "arrival": "2023-08-27T09:56:00Z",
-    "departure": "2023-08-27T10:07:00Z"
+    "arrival": "2023-08-28T11:56:00Z",
+    "departure": "2023-08-28T12:07:00Z"
   },
   {
-    "train_number": "79423 ",
+    "train_number": "79431 ",
     "unit_number": "4024.0120",
     "name": "Bad Reichenhall",
     "abbr": "MBRL",
     "lat": "47.7316",
     "lng": "12.881",
-    "arrival": "2023-08-27T09:19:00Z",
-    "departure": "2023-08-27T09:37:00Z"
+    "arrival": "2023-08-28T11:19:00Z",
+    "departure": "2023-08-28T11:37:00Z"
   },
   {
-    "train_number": "25712 ",
+    "train_number": "25716 ",
     "unit_number": "4024.0120",
     "name": "Freilassing",
     "abbr": "MFL ",
     "lat": "47.8368",
     "lng": "12.9764",
-    "arrival": "2023-08-27T08:54:00Z",
-    "departure": "2023-08-27T08:58:00Z"
+    "arrival": "2023-08-28T10:54:00Z",
+    "departure": "2023-08-28T10:58:00Z"
   },
   {
-    "train_number": "25712 ",
+    "train_number": "25716 ",
     "unit_number": "4024.0120",
     "name": "Salzburg Liefering (in Sb)",
     "abbr": "Lfg ",
     "lat": "47.8229",
     "lng": "13.0021",
-    "arrival": "2023-08-27T08:50:00Z",
-    "departure": "2023-08-27T08:50:00Z"
+    "arrival": "2023-08-28T10:50:00Z",
+    "departure": "2023-08-28T10:50:00Z"
   },
   {
-    "train_number": "25712 ",
+    "train_number": "25716 ",
     "unit_number": "4024.0120",
     "name": "Salzburg Hbf (in Sb)",
     "abbr": "Sb  ",
     "lat": "47.8135",
     "lng": "13.0466",
-    "arrival": "2023-08-27T08:40:00Z",
-    "departure": "2023-08-27T08:42:00Z"
+    "arrival": "2023-08-28T10:40:00Z",
+    "departure": "2023-08-28T10:42:00Z"
   },
   {
-    "train_number": "25712 ",
+    "train_number": "25716 ",
     "unit_number": "4024.0120",
     "name": "Salzburg Gnigl-Einfgr. (in Sb)",
     "abbr": "Sre ",
     "lat": "47.8075",
     "lng": "13.0687",
     "arrival": null,
-    "departure": "2023-08-27T08:33:00Z"
+    "departure": "2023-08-28T10:33:00Z"
   },
   {
-    "train_number": "25712 ",
+    "train_number": "25716 ",
     "unit_number": "4024.0120",
     "name": "Bischofshofen (in Bo)",
     "abbr": "Bo  ",
     "lat": "47.42",
     "lng": "13.2199",
-    "arrival": "2023-08-27T07:38:00Z",
-    "departure": "2023-08-27T07:40:00Z"
+    "arrival": "2023-08-28T09:38:00Z",
+    "departure": "2023-08-28T09:40:00Z"
+  },
+  {
+    "train_number": "25716 ",
+    "unit_number": "4024.0120",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-08-28T09:22:00Z",
+    "departure": "2023-08-28T09:24:00Z"
   },
   {
     "train_number": "25705 ",
@@ -96,8 +96,8 @@
     "abbr": "Swa ",
     "lat": "47.3186",
     "lng": "13.1561",
-    "arrival": "2023-08-27T06:39:00Z",
-    "departure": "2023-08-27T07:24:00Z"
+    "arrival": "2023-08-28T06:39:00Z",
+    "departure": "2023-08-28T06:41:00Z"
   },
   {
     "train_number": "25705 ",
@@ -106,8 +106,8 @@
     "abbr": "Bo  ",
     "lat": "47.42",
     "lng": "13.2199",
-    "arrival": "2023-08-27T06:22:00Z",
-    "departure": "2023-08-27T06:24:00Z"
+    "arrival": "2023-08-28T06:22:00Z",
+    "departure": "2023-08-28T06:24:00Z"
   },
   {
     "train_number": "25705 ",
@@ -117,7 +117,7 @@
     "lat": "47.8075",
     "lng": "13.0687",
     "arrival": null,
-    "departure": "2023-08-27T05:27:00Z"
+    "departure": "2023-08-28T05:27:00Z"
   },
   {
     "train_number": "25705 ",
@@ -126,8 +126,8 @@
     "abbr": "Sb  ",
     "lat": "47.8135",
     "lng": "13.0466",
-    "arrival": "2023-08-27T05:17:00Z",
-    "departure": "2023-08-27T05:21:00Z"
+    "arrival": "2023-08-28T05:17:00Z",
+    "departure": "2023-08-28T05:21:00Z"
   },
   {
     "train_number": "25705 ",
@@ -136,8 +136,8 @@
     "abbr": "Lfg ",
     "lat": "47.8229",
     "lng": "13.0021",
-    "arrival": "2023-08-27T05:09:00Z",
-    "departure": "2023-08-27T05:10:00Z"
+    "arrival": "2023-08-28T05:09:00Z",
+    "departure": "2023-08-28T05:10:00Z"
   },
   {
     "train_number": "25704 ",
@@ -146,8 +146,8 @@
     "abbr": "MFL ",
     "lat": "47.8368",
     "lng": "12.9764",
-    "arrival": "2023-08-27T04:53:00Z",
-    "departure": "2023-08-27T05:07:00Z"
+    "arrival": "2023-08-28T04:53:00Z",
+    "departure": "2023-08-28T05:07:00Z"
   },
   {
     "train_number": "25704 ",
@@ -156,8 +156,8 @@
     "abbr": "Lfg ",
     "lat": "47.8229",
     "lng": "13.0021",
-    "arrival": "2023-08-27T04:50:00Z",
-    "departure": "2023-08-27T04:50:00Z"
+    "arrival": "2023-08-28T04:50:00Z",
+    "departure": "2023-08-28T04:50:00Z"
   },
   {
     "train_number": "25704 ",
@@ -166,8 +166,8 @@
     "abbr": "Sb  ",
     "lat": "47.8135",
     "lng": "13.0466",
-    "arrival": "2023-08-27T04:40:00Z",
-    "departure": "2023-08-27T04:42:00Z"
+    "arrival": "2023-08-28T04:40:00Z",
+    "departure": "2023-08-28T04:42:00Z"
   },
   {
     "train_number": "25704 ",
@@ -177,7 +177,7 @@
     "lat": "47.8075",
     "lng": "13.0687",
     "arrival": null,
-    "departure": "2023-08-27T04:33:00Z"
+    "departure": "2023-08-28T04:33:00Z"
   },
   {
     "train_number": "25704 ",
@@ -186,17 +186,17 @@
     "abbr": "Bo  ",
     "lat": "47.42",
     "lng": "13.2199",
-    "arrival": "2023-08-27T03:38:00Z",
-    "departure": "2023-08-27T03:40:00Z"
+    "arrival": "2023-08-28T03:38:00Z",
+    "departure": "2023-08-28T03:40:00Z"
   },
   {
-    "train_number": "25743 ",
+    "train_number": "25735 ",
     "unit_number": "4024.0120",
     "name": "Schwarzach-St.Veit",
     "abbr": "Swa ",
     "lat": "47.3186",
     "lng": "13.1561",
-    "arrival": "2023-08-27T01:52:00Z",
-    "departure": "2023-08-27T03:24:00Z"
+    "arrival": "2023-08-27T21:39:00Z",
+    "departure": "2023-08-28T03:24:00Z"
   }
 ]

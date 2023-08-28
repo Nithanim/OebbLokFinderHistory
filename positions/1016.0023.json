@@ -1,12 +1,202 @@
 [
   {
+    "train_number": "63845 ",
+    "unit_number": "1016.0023",
+    "name": "Wels Vbf-Einfgr (in Wev)",
+    "abbr": "Wei ",
+    "lat": "48.1765",
+    "lng": "14.0501",
+    "arrival": "2023-08-28T15:44:00Z",
+    "departure": "2023-08-28T15:49:00Z"
+  },
+  {
+    "train_number": "63845 ",
+    "unit_number": "1016.0023",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": null,
+    "departure": "2023-08-28T15:40:00Z"
+  },
+  {
+    "train_number": "67843 ",
+    "unit_number": "1016.0023",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": "2023-08-28T14:12:00Z",
+    "departure": "2023-08-28T15:18:00Z"
+  },
+  {
+    "train_number": "63876 ",
+    "unit_number": "1016.0023",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": null,
+    "departure": "2023-08-28T11:46:00Z"
+  },
+  {
+    "train_number": "63876 ",
+    "unit_number": "1016.0023",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": null,
+    "departure": "2023-08-28T11:20:00Z"
+  },
+  {
+    "train_number": "63876 ",
+    "unit_number": "1016.0023",
+    "name": "Wels Vbf-Einfgr (in Wev)",
+    "abbr": "Wei ",
+    "lat": "48.1765",
+    "lng": "14.0501",
+    "arrival": null,
+    "departure": "2023-08-28T11:15:00Z"
+  },
+  {
     "train_number": null,
     "unit_number": "1016.0023",
-    "name": "Linz Hbf Westbrücke (in Lz)",
-    "abbr": "Lzw ",
-    "lat": "48.2607",
-    "lng": "14.2927",
+    "name": "Wels Vbf (in Wev)",
+    "abbr": "Wev ",
+    "lat": "48.1662",
+    "lng": "14.0273",
     "arrival": null,
-    "departure": "2023-08-27T11:22:00Z"
+    "departure": "2023-08-28T11:12:00Z"
+  },
+  {
+    "train_number": "63875 ",
+    "unit_number": "1016.0023",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": null,
+    "departure": "2023-08-28T09:58:00Z"
+  },
+  {
+    "train_number": "63875 ",
+    "unit_number": "1016.0023",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": null,
+    "departure": "2023-08-28T09:38:00Z"
+  },
+  {
+    "train_number": "63874 ",
+    "unit_number": "1016.0023",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": null,
+    "departure": "2023-08-28T07:19:00Z"
+  },
+  {
+    "train_number": "63874 ",
+    "unit_number": "1016.0023",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": null,
+    "departure": "2023-08-28T06:30:00Z"
+  },
+  {
+    "train_number": "63874 ",
+    "unit_number": "1016.0023",
+    "name": "Wels Vbf-Einfgr (in Wev)",
+    "abbr": "Wei ",
+    "lat": "48.1765",
+    "lng": "14.0501",
+    "arrival": null,
+    "departure": "2023-08-28T06:26:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1016.0023",
+    "name": "Wels Vbf (in Wev)",
+    "abbr": "Wev ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": null,
+    "departure": "2023-08-28T06:23:00Z"
+  },
+  {
+    "train_number": "63873 ",
+    "unit_number": "1016.0023",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": null,
+    "departure": "2023-08-28T05:59:00Z"
+  },
+  {
+    "train_number": "63873 ",
+    "unit_number": "1016.0023",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": null,
+    "departure": "2023-08-28T05:37:00Z"
+  },
+  {
+    "train_number": "Lng1  ",
+    "unit_number": "1016.0023",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": "2023-08-28T04:37:00Z",
+    "departure": "2023-08-28T04:37:00Z"
+  },
+  {
+    "train_number": "63872 ",
+    "unit_number": "1016.0023",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": null,
+    "departure": "2023-08-28T03:10:00Z"
+  },
+  {
+    "train_number": "63872 ",
+    "unit_number": "1016.0023",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": null,
+    "departure": "2023-08-28T02:46:00Z"
+  },
+  {
+    "train_number": "63872 ",
+    "unit_number": "1016.0023",
+    "name": "Wels Vbf-Einfgr (in Wev)",
+    "abbr": "Wei ",
+    "lat": "48.1765",
+    "lng": "14.0501",
+    "arrival": null,
+    "departure": "2023-08-28T02:42:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1016.0023",
+    "name": "Wels Vbf (in Wev)",
+    "abbr": "Wev ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": null,
+    "departure": "2023-08-28T02:39:00Z"
   }
 ]
