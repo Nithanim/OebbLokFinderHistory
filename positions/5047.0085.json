@@ -1,0 +1,102 @@
+[
+  {
+    "train_number": "5871  ",
+    "unit_number": "5047.0085",
+    "name": "Braunau am Inn (in Bru)",
+    "abbr": "Bru ",
+    "lat": "48.2591",
+    "lng": "13.0486",
+    "arrival": "2023-08-29T14:23:00Z",
+    "departure": "2023-08-30T02:44:00Z"
+  },
+  {
+    "train_number": "5871  ",
+    "unit_number": "5047.0085",
+    "name": "Steindorf b.Straßw. (in Nst)",
+    "abbr": "Nst ",
+    "lat": "47.9676",
+    "lng": "13.2406",
+    "arrival": null,
+    "departure": "2023-08-29T13:38:00Z"
+  },
+  {
+    "train_number": "5871  ",
+    "unit_number": "5047.0085",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-08-29T13:13:00Z",
+    "departure": "2023-08-29T13:16:00Z"
+  },
+  {
+    "train_number": "5870  ",
+    "unit_number": "5047.0085",
+    "name": "Salzb. Taxham Europark (in Sb)",
+    "abbr": "Sbe ",
+    "lat": "47.8229",
+    "lng": "13.0021",
+    "arrival": "2023-08-29T12:52:00Z",
+    "departure": "2023-08-29T13:08:00Z"
+  },
+  {
+    "train_number": "5870  ",
+    "unit_number": "5047.0085",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-08-29T12:44:00Z",
+    "departure": "2023-08-29T12:46:00Z"
+  },
+  {
+    "train_number": "5870  ",
+    "unit_number": "5047.0085",
+    "name": "Steindorf b.Straßw. (in Nst)",
+    "abbr": "Nst ",
+    "lat": "47.9676",
+    "lng": "13.2406",
+    "arrival": null,
+    "departure": "2023-08-29T12:22:00Z"
+  },
+  {
+    "train_number": "5944  ",
+    "unit_number": "5047.0085",
+    "name": "Braunau am Inn (in Bru)",
+    "abbr": "Bru ",
+    "lat": "48.2591",
+    "lng": "13.0486",
+    "arrival": "2023-08-29T05:18:00Z",
+    "departure": "2023-08-29T11:34:00Z"
+  },
+  {
+    "train_number": "5944  ",
+    "unit_number": "5047.0085",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-08-29T04:41:00Z",
+    "departure": "2023-08-29T04:43:00Z"
+  },
+  {
+    "train_number": "84930 ",
+    "unit_number": "5047.0085",
+    "name": "Neumarkt-Kallham (in Neu)",
+    "abbr": "Neu ",
+    "lat": "48.2714",
+    "lng": "13.7245",
+    "arrival": "2023-08-29T04:08:00Z",
+    "departure": "2023-08-29T04:20:00Z"
+  },
+  {
+    "train_number": "84860 ",
+    "unit_number": "5047.0085",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-08-29T02:38:00Z",
+    "departure": "2023-08-29T03:42:00Z"
+  }
+]

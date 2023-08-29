@@ -1,202 +1,102 @@
 [
   {
-    "train_number": "85930 ",
+    "train_number": "85932 ",
     "unit_number": "4124.0014",
     "name": "Sopron",
     "abbr": "SOP ",
     "lat": "47.6779",
     "lng": "16.5865",
-    "arrival": null,
-    "departure": "2023-08-28T16:59:00Z"
+    "arrival": "2023-08-29T17:44:00Z",
+    "departure": "2023-08-30T04:57:00Z"
   },
   {
-    "train_number": "7692  ",
+    "train_number": "7694  ",
     "unit_number": "4124.0014",
     "name": "Sopron",
     "abbr": "SOP ",
     "lat": "47.6779",
     "lng": "16.5865",
-    "arrival": "2023-08-28T16:17:00Z",
-    "departure": "2023-08-28T16:18:00Z"
+    "arrival": "2023-08-29T17:16:00Z",
+    "departure": "2023-08-29T17:17:00Z"
   },
   {
-    "train_number": "7692  ",
+    "train_number": "7694  ",
     "unit_number": "4124.0014",
     "name": "Ebenfurth (in Ef)",
     "abbr": "Ef  ",
     "lat": "47.8777",
     "lng": "16.3621",
-    "arrival": "2023-08-28T15:30:00Z",
-    "departure": "2023-08-28T15:38:00Z"
+    "arrival": "2023-08-29T16:30:00Z",
+    "departure": "2023-08-29T16:38:00Z"
   },
   {
-    "train_number": "7692  ",
+    "train_number": "7694  ",
     "unit_number": "4124.0014",
     "name": "Wien Meidling (in Wbf)",
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-08-28T14:51:00Z",
-    "departure": "2023-08-28T14:53:00Z"
+    "arrival": "2023-08-29T15:51:00Z",
+    "departure": "2023-08-29T15:53:00Z"
   },
   {
-    "train_number": "26052 ",
+    "train_number": "84375 ",
     "unit_number": "4124.0014",
     "name": "Wien Hauptbahnhof (in Wbf)",
     "abbr": "Wbf ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-08-28T13:39:00Z",
-    "departure": "2023-08-28T14:46:00Z"
+    "arrival": "2023-08-29T15:27:00Z",
+    "departure": "2023-08-29T15:46:00Z"
   },
   {
-    "train_number": "26052 ",
+    "train_number": "84387 ",
     "unit_number": "4124.0014",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-08-28T13:31:00Z"
+    "name": "Floridsdorf-Fbf (in F)",
+    "abbr": "O   ",
+    "lat": "48.2568",
+    "lng": "16.4004",
+    "arrival": "2023-08-29T06:50:00Z",
+    "departure": "2023-08-29T14:43:00Z"
   },
   {
-    "train_number": "26045 ",
+    "train_number": null,
     "unit_number": "4124.0014",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-08-28T11:57:00Z"
-  },
-  {
-    "train_number": "26045 ",
-    "unit_number": "4124.0014",
-    "name": "Wien Meidling (in Wbf)",
-    "abbr": "Mi  ",
+    "name": "W. Matzleinsdorf (in Wbf)",
+    "abbr": "Mat ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-08-28T11:41:00Z",
-    "departure": "2023-08-28T11:43:00Z"
+    "arrival": null,
+    "departure": "2023-08-29T06:17:00Z"
   },
   {
-    "train_number": "26038 ",
-    "unit_number": "4124.0014",
-    "name": "Wien Meidling (in Wbf)",
-    "abbr": "Mi  ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": "2023-08-28T10:16:00Z",
-    "departure": "2023-08-28T10:18:00Z"
-  },
-  {
-    "train_number": "26038 ",
+    "train_number": "2608  ",
     "unit_number": "4124.0014",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-08-28T10:01:00Z"
+    "departure": "2023-08-29T05:05:00Z"
   },
   {
-    "train_number": "26031 ",
-    "unit_number": "4124.0014",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-08-28T08:27:00Z"
-  },
-  {
-    "train_number": "26028 ",
-    "unit_number": "4124.0014",
-    "name": "Wien Hauptbahnhof (in Wbf)",
-    "abbr": "Wbf ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": "2023-08-28T07:39:00Z",
-    "departure": "2023-08-28T08:20:00Z"
-  },
-  {
-    "train_number": "26028 ",
-    "unit_number": "4124.0014",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-08-28T07:31:00Z"
-  },
-  {
-    "train_number": "26021 ",
-    "unit_number": "4124.0014",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-08-28T05:57:00Z"
-  },
-  {
-    "train_number": "26021 ",
-    "unit_number": "4124.0014",
-    "name": "Wien Meidling (in Wbf)",
-    "abbr": "Mi  ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": "2023-08-28T05:41:00Z",
-    "departure": "2023-08-28T05:43:00Z"
-  },
-  {
-    "train_number": "2604  ",
-    "unit_number": "4124.0014",
-    "name": "Wien Meidling (in Wbf)",
-    "abbr": "Mi  ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": "2023-08-28T04:18:00Z",
-    "departure": "2023-08-28T04:20:00Z"
-  },
-  {
-    "train_number": "2604  ",
-    "unit_number": "4124.0014",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-08-28T04:05:00Z"
-  },
-  {
-    "train_number": "2604  ",
+    "train_number": "7908  ",
     "unit_number": "4124.0014",
     "name": "Neusiedl am See",
     "abbr": "Ns  ",
     "lat": "47.9558",
     "lng": "16.8235",
-    "arrival": "2023-08-28T03:24:00Z",
-    "departure": "2023-08-28T03:30:00Z"
+    "arrival": "2023-08-29T04:26:00Z",
+    "departure": "2023-08-29T04:30:00Z"
   },
   {
-    "train_number": "2604  ",
+    "train_number": "7908  ",
     "unit_number": "4124.0014",
-    "name": "Eisenstadt (in E)",
-    "abbr": "E   ",
-    "lat": "47.8391",
-    "lng": "16.529",
-    "arrival": "2023-08-28T02:51:00Z",
-    "departure": "2023-08-28T02:52:00Z"
-  },
-  {
-    "train_number": "84340 ",
-    "unit_number": "4124.0014",
-    "name": "Eisenstadt (in E)",
-    "abbr": "E   ",
-    "lat": "47.8391",
-    "lng": "16.529",
-    "arrival": "2023-08-28T02:16:00Z",
-    "departure": "2023-08-28T02:33:00Z"
+    "name": "St. Andrä am Zicksee",
+    "abbr": "SAZ ",
+    "lat": "47.7825",
+    "lng": "16.928",
+    "arrival": "2023-08-29T03:59:00Z",
+    "departure": "2023-08-29T04:00:00Z"
   }
 ]
