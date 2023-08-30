@@ -1,122 +1,202 @@
 [
   {
-    "train_number": "55966 ",
+    "train_number": "831   ",
     "unit_number": "1016.0048",
-    "name": "Linz Vbf-Ost-Einf. (in Lzv)",
-    "abbr": "Lm  ",
-    "lat": "48.2607",
-    "lng": "14.3257",
-    "arrival": "2023-08-29T21:56:00Z",
-    "departure": "2023-08-29T22:06:00Z"
+    "name": "St.Veit a.d.Glan (in Vps)",
+    "abbr": "Vps ",
+    "lat": "46.7704",
+    "lng": "14.3672",
+    "arrival": "2023-08-30T17:07:00Z",
+    "departure": "2023-08-30T17:08:00Z"
   },
   {
-    "train_number": "55966 ",
+    "train_number": "831   ",
+    "unit_number": "1016.0048",
+    "name": "Zeltweg",
+    "abbr": "Zg  ",
+    "lat": "47.1887",
+    "lng": "14.7425",
+    "arrival": null,
+    "departure": "2023-08-30T15:52:00Z"
+  },
+  {
+    "train_number": "831   ",
+    "unit_number": "1016.0048",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": "2023-08-30T15:25:00Z",
+    "departure": "2023-08-30T15:27:00Z"
+  },
+  {
+    "train_number": "831   ",
+    "unit_number": "1016.0048",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": "2023-08-30T15:13:00Z",
+    "departure": "2023-08-30T15:15:00Z"
+  },
+  {
+    "train_number": "831   ",
+    "unit_number": "1016.0048",
+    "name": "Mürzzuschlag (in Mz)",
+    "abbr": "Mz  ",
+    "lat": "47.6079",
+    "lng": "15.677",
+    "arrival": null,
+    "departure": "2023-08-30T14:46:00Z"
+  },
+  {
+    "train_number": "831   ",
+    "unit_number": "1016.0048",
+    "name": "Payerbach-Reichenau",
+    "abbr": "Pr  ",
+    "lat": "47.696",
+    "lng": "15.8632",
+    "arrival": null,
+    "departure": "2023-08-30T14:12:00Z"
+  },
+  {
+    "train_number": "831   ",
+    "unit_number": "1016.0048",
+    "name": "Neunkirchen N.Ö.",
+    "abbr": "Nek ",
+    "lat": "47.731",
+    "lng": "16.0826",
+    "arrival": null,
+    "departure": "2023-08-30T14:01:00Z"
+  },
+  {
+    "train_number": "831   ",
+    "unit_number": "1016.0048",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": "2023-08-30T13:50:00Z",
+    "departure": "2023-08-30T13:52:00Z"
+  },
+  {
+    "train_number": "831   ",
+    "unit_number": "1016.0048",
+    "name": "Leobersdorf",
+    "abbr": "Lb  ",
+    "lat": "47.9375",
+    "lng": "16.2313",
+    "arrival": null,
+    "departure": "2023-08-30T13:43:00Z"
+  },
+  {
+    "train_number": "831   ",
+    "unit_number": "1016.0048",
+    "name": "Mödling",
+    "abbr": "Md  ",
+    "lat": "48.0858",
+    "lng": "16.2958",
+    "arrival": null,
+    "departure": "2023-08-30T13:34:00Z"
+  },
+  {
+    "train_number": "831   ",
+    "unit_number": "1016.0048",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-08-30T13:23:00Z",
+    "departure": "2023-08-30T13:25:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1016.0048",
+    "name": "Wien Hauptbahnhof (in Wbf)",
+    "abbr": "Wbf ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": null,
+    "departure": "2023-08-30T13:18:00Z"
+  },
+  {
+    "train_number": "527   ",
+    "unit_number": "1016.0048",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-08-30T05:45:00Z",
+    "departure": "2023-08-30T05:47:00Z"
+  },
+  {
+    "train_number": "527   ",
+    "unit_number": "1016.0048",
+    "name": "St.Pölten Hbf (in Pb)",
+    "abbr": "Pb  ",
+    "lat": "48.2081",
+    "lng": "15.6237",
+    "arrival": "2023-08-30T05:13:00Z",
+    "departure": "2023-08-30T05:15:00Z"
+  },
+  {
+    "train_number": "527   ",
+    "unit_number": "1016.0048",
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
+    "arrival": null,
+    "departure": "2023-08-30T05:01:00Z"
+  },
+  {
+    "train_number": "527   ",
+    "unit_number": "1016.0048",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
+    "arrival": null,
+    "departure": "2023-08-30T04:58:00Z"
+  },
+  {
+    "train_number": "527   ",
+    "unit_number": "1016.0048",
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
+    "arrival": "2023-08-30T04:50:00Z",
+    "departure": "2023-08-30T04:52:00Z"
+  },
+  {
+    "train_number": "527   ",
+    "unit_number": "1016.0048",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": null,
+    "departure": "2023-08-30T04:38:00Z"
+  },
+  {
+    "train_number": "527   ",
     "unit_number": "1016.0048",
     "name": "Enns",
     "abbr": "Ens ",
     "lat": "48.2212",
     "lng": "14.4668",
     "arrival": null,
-    "departure": "2023-08-29T21:46:00Z"
+    "departure": "2023-08-30T04:34:00Z"
   },
   {
-    "train_number": "55966 ",
+    "train_number": null,
     "unit_number": "1016.0048",
-    "name": "St.Valentin (in Sv)",
-    "abbr": "----",
-    "lat": "48.1784",
-    "lng": "14.5219",
-    "arrival": "2023-08-29T21:41:00Z",
-    "departure": "2023-08-29T21:41:00Z"
-  },
-  {
-    "train_number": "55966 ",
-    "unit_number": "1016.0048",
-    "name": "Selzthal (in Sl)",
-    "abbr": "----",
-    "lat": "47.5505",
-    "lng": "14.3134",
-    "arrival": "2023-08-29T19:03:00Z",
-    "departure": "2023-08-29T19:19:00Z"
-  },
-  {
-    "train_number": "55966 ",
-    "unit_number": "1016.0048",
-    "name": "St.Michael (in M)",
-    "abbr": "M   ",
-    "lat": "47.3445",
-    "lng": "15.0103",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
     "arrival": null,
-    "departure": "2023-08-29T18:18:00Z"
-  },
-  {
-    "train_number": "88940 ",
-    "unit_number": "1016.0048",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": "2023-08-29T14:58:00Z",
-    "departure": "2023-08-29T18:09:00Z"
-  },
-  {
-    "train_number": "66663 ",
-    "unit_number": "1016.0048",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": "2023-08-29T14:08:00Z",
-    "departure": "2023-08-29T14:37:00Z"
-  },
-  {
-    "train_number": "66663 ",
-    "unit_number": "1016.0048",
-    "name": "Bruck a.d.Mur (in Bm)",
-    "abbr": "Bm  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
-    "arrival": null,
-    "departure": "2023-08-29T13:47:00Z"
-  },
-  {
-    "train_number": "67660 ",
-    "unit_number": "1016.0048",
-    "name": "Bruck a.d.Mur-Fbf (in Bm)",
-    "abbr": "Bk  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
-    "arrival": "2023-08-29T08:49:00Z",
-    "departure": "2023-08-29T13:44:00Z"
-  },
-  {
-    "train_number": "67660 ",
-    "unit_number": "1016.0048",
-    "name": "Bruck a.d.Mur (in Bm)",
-    "abbr": "Bm  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
-    "arrival": null,
-    "departure": "2023-08-29T08:46:00Z"
-  },
-  {
-    "train_number": "67660 ",
-    "unit_number": "1016.0048",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": null,
-    "departure": "2023-08-29T08:30:00Z"
-  },
-  {
-    "train_number": "67660 ",
-    "unit_number": "1016.0048",
-    "name": "St.Michael (in M)",
-    "abbr": "M   ",
-    "lat": "47.3445",
-    "lng": "15.0103",
-    "arrival": "2023-08-29T07:41:00Z",
-    "departure": "2023-08-29T08:20:00Z"
+    "departure": "2023-08-30T04:20:00Z"
   }
 ]
