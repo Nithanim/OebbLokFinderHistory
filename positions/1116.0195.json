@@ -1,72 +1,62 @@
 [
   {
-    "train_number": "58669 ",
+    "train_number": "54456 ",
     "unit_number": "1116.0195",
-    "name": "Selzthal (in Sl)",
-    "abbr": "Sl  ",
-    "lat": "47.5505",
-    "lng": "14.3134",
-    "arrival": "2023-08-30T15:48:00Z",
-    "departure": "2023-08-31T03:40:00Z"
-  },
-  {
-    "train_number": "58669 ",
-    "unit_number": "1116.0195",
-    "name": "St.Michael (in M)",
-    "abbr": "M   ",
-    "lat": "47.3445",
-    "lng": "15.0103",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
     "arrival": null,
-    "departure": "2023-08-30T14:50:00Z"
+    "departure": "2023-08-31T23:54:00Z"
   },
   {
-    "train_number": "58669 ",
+    "train_number": "54456 ",
     "unit_number": "1116.0195",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "----",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": "2023-08-30T14:05:00Z",
-    "departure": "2023-08-30T14:39:00Z"
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-08-31T23:38:00Z",
+    "departure": "2023-08-31T23:50:00Z"
   },
   {
-    "train_number": "89040 ",
+    "train_number": "54456 ",
     "unit_number": "1116.0195",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": "2023-08-30T08:00:00Z",
-    "departure": "2023-08-30T13:14:00Z"
-  },
-  {
-    "train_number": "54685 ",
-    "unit_number": "1116.0195",
-    "name": "Zeltweg",
-    "abbr": "Zg  ",
-    "lat": "47.1887",
-    "lng": "14.7425",
-    "arrival": "2023-08-30T06:21:00Z",
-    "departure": "2023-08-30T07:23:00Z"
-  },
-  {
-    "train_number": "54685 ",
-    "unit_number": "1116.0195",
-    "name": "St.Michael (in M)",
-    "abbr": "M   ",
-    "lat": "47.3445",
-    "lng": "15.0103",
+    "name": "Kitzbühel",
+    "abbr": "Kzb ",
+    "lat": "47.4542",
+    "lng": "12.391",
     "arrival": null,
-    "departure": "2023-08-30T05:39:00Z"
+    "departure": "2023-08-31T23:05:00Z"
   },
   {
-    "train_number": "54685 ",
+    "train_number": "54456 ",
     "unit_number": "1116.0195",
-    "name": "Selzthal (in Sl)",
-    "abbr": "Sl  ",
-    "lat": "47.5505",
-    "lng": "14.3134",
-    "arrival": "2023-08-30T04:19:00Z",
-    "departure": "2023-08-30T04:52:00Z"
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-08-31T21:15:00Z",
+    "departure": "2023-08-31T21:52:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0195",
+    "name": "Villach Süd Gvbf Ausfgr",
+    "abbr": "Va  ",
+    "lat": "46.5674",
+    "lng": "13.8238",
+    "arrival": null,
+    "departure": "2023-08-31T19:18:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0195",
+    "name": "Villach Süd Gvbf Ausfgr",
+    "abbr": "Va  ",
+    "lat": "46.5674",
+    "lng": "13.8238",
+    "arrival": null,
+    "departure": "2023-08-31T06:34:00Z"
   }
 ]
