@@ -1,92 +1,102 @@
 [
   {
-    "train_number": "7858  ",
+    "train_number": "7694  ",
     "unit_number": "4124.0014",
-    "name": "Eisenstadt (in E)",
-    "abbr": "E   ",
-    "lat": "47.8391",
-    "lng": "16.529",
-    "arrival": "2023-08-31T16:02:00Z",
-    "departure": "2023-08-31T16:27:00Z"
+    "name": "Sopron",
+    "abbr": "SOP ",
+    "lat": "47.6779",
+    "lng": "16.5865",
+    "arrival": "2023-09-01T17:16:00Z",
+    "departure": "2023-09-01T17:17:00Z"
   },
   {
-    "train_number": "7854  ",
+    "train_number": "7694  ",
     "unit_number": "4124.0014",
-    "name": "Eisenstadt (in E)",
-    "abbr": "E   ",
-    "lat": "47.8391",
-    "lng": "16.529",
-    "arrival": "2023-08-31T15:02:00Z",
-    "departure": "2023-08-31T15:27:00Z"
+    "name": "Ebenfurth (in Ef)",
+    "abbr": "Ef  ",
+    "lat": "47.8777",
+    "lng": "16.3621",
+    "arrival": "2023-09-01T16:30:00Z",
+    "departure": "2023-09-01T16:38:00Z"
   },
   {
-    "train_number": "2613  ",
+    "train_number": "7694  ",
     "unit_number": "4124.0014",
-    "name": "Eisenstadt (in E)",
-    "abbr": "E   ",
-    "lat": "47.8391",
-    "lng": "16.529",
-    "arrival": "2023-08-31T06:07:00Z",
-    "departure": "2023-08-31T06:08:00Z"
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-01T15:51:00Z",
+    "departure": "2023-09-01T15:53:00Z"
   },
   {
-    "train_number": "2613  ",
-    "unit_number": "4124.0014",
-    "name": "Neusiedl am See",
-    "abbr": "Ns  ",
-    "lat": "47.9558",
-    "lng": "16.8235",
-    "arrival": "2023-08-31T05:28:00Z",
-    "departure": "2023-08-31T05:31:00Z"
-  },
-  {
-    "train_number": "2613  ",
-    "unit_number": "4124.0014",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-08-31T04:54:00Z"
-  },
-  {
-    "train_number": "2602  ",
+    "train_number": "84375 ",
     "unit_number": "4124.0014",
     "name": "Wien Hauptbahnhof (in Wbf)",
     "abbr": "Wbf ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-08-31T03:43:00Z",
-    "departure": "2023-08-31T04:48:00Z"
+    "arrival": "2023-09-01T15:27:00Z",
+    "departure": "2023-09-01T15:46:00Z"
   },
   {
-    "train_number": "2602  ",
+    "train_number": "84387 ",
+    "unit_number": "4124.0014",
+    "name": "Floridsdorf-Fbf (in F)",
+    "abbr": "O   ",
+    "lat": "48.2568",
+    "lng": "16.4004",
+    "arrival": "2023-09-01T06:50:00Z",
+    "departure": "2023-09-01T14:43:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "4124.0014",
+    "name": "W. Matzleinsdorf (in Wbf)",
+    "abbr": "Mat ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": null,
+    "departure": "2023-09-01T06:17:00Z"
+  },
+  {
+    "train_number": "2608  ",
     "unit_number": "4124.0014",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-08-31T03:36:00Z"
+    "departure": "2023-09-01T05:05:00Z"
   },
   {
-    "train_number": "7902  ",
+    "train_number": "2608  ",
     "unit_number": "4124.0014",
     "name": "Neusiedl am See",
     "abbr": "Ns  ",
     "lat": "47.9558",
     "lng": "16.8235",
-    "arrival": "2023-08-31T02:57:00Z",
-    "departure": "2023-08-31T03:01:00Z"
+    "arrival": "2023-09-01T04:24:00Z",
+    "departure": "2023-09-01T04:30:00Z"
   },
   {
-    "train_number": "7902  ",
+    "train_number": "2608  ",
     "unit_number": "4124.0014",
-    "name": "St. Andrä am Zicksee",
-    "abbr": "SAZ ",
-    "lat": "47.7825",
-    "lng": "16.928",
-    "arrival": "2023-08-31T02:28:00Z",
-    "departure": "2023-08-31T02:30:00Z"
+    "name": "Eisenstadt (in E)",
+    "abbr": "E   ",
+    "lat": "47.8391",
+    "lng": "16.529",
+    "arrival": "2023-09-01T03:51:00Z",
+    "departure": "2023-09-01T03:52:00Z"
+  },
+  {
+    "train_number": "84342 ",
+    "unit_number": "4124.0014",
+    "name": "Eisenstadt (in E)",
+    "abbr": "E   ",
+    "lat": "47.8391",
+    "lng": "16.529",
+    "arrival": "2023-09-01T03:20:00Z",
+    "departure": "2023-09-01T03:33:00Z"
   }
 ]
