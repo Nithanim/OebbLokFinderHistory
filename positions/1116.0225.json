@@ -6,8 +6,8 @@
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-09-01T09:55:00Z",
-    "departure": "2023-09-01T09:57:00Z"
+    "arrival": "2023-09-02T09:55:00Z",
+    "departure": "2023-09-02T09:57:00Z"
   },
   {
     "train_number": "558   ",
@@ -17,7 +17,7 @@
     "lat": "48.0858",
     "lng": "16.2958",
     "arrival": null,
-    "departure": "2023-09-01T09:46:00Z"
+    "departure": "2023-09-02T09:46:00Z"
   },
   {
     "train_number": "558   ",
@@ -27,7 +27,7 @@
     "lat": "47.9375",
     "lng": "16.2313",
     "arrival": null,
-    "departure": "2023-09-01T09:39:00Z"
+    "departure": "2023-09-02T09:39:00Z"
   },
   {
     "train_number": "558   ",
@@ -36,8 +36,8 @@
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-09-01T09:28:00Z",
-    "departure": "2023-09-01T09:32:00Z"
+    "arrival": "2023-09-02T09:28:00Z",
+    "departure": "2023-09-02T09:32:00Z"
   },
   {
     "train_number": "558   ",
@@ -47,7 +47,7 @@
     "lat": "47.731",
     "lng": "16.0826",
     "arrival": null,
-    "departure": "2023-09-01T09:19:00Z"
+    "departure": "2023-09-02T09:19:00Z"
   },
   {
     "train_number": "558   ",
@@ -57,7 +57,7 @@
     "lat": "47.696",
     "lng": "15.8632",
     "arrival": null,
-    "departure": "2023-09-01T09:08:00Z"
+    "departure": "2023-09-02T09:08:00Z"
   },
   {
     "train_number": "558   ",
@@ -66,8 +66,8 @@
     "abbr": "Mz  ",
     "lat": "47.6079",
     "lng": "15.677",
-    "arrival": "2023-09-01T08:30:00Z",
-    "departure": "2023-09-01T08:32:00Z"
+    "arrival": "2023-09-02T08:30:00Z",
+    "departure": "2023-09-02T08:32:00Z"
   },
   {
     "train_number": "558   ",
@@ -76,8 +76,8 @@
     "abbr": "Bm  ",
     "lat": "47.4134",
     "lng": "15.2797",
-    "arrival": "2023-09-01T08:00:00Z",
-    "departure": "2023-09-01T08:02:00Z"
+    "arrival": "2023-09-02T08:00:00Z",
+    "departure": "2023-09-02T08:02:00Z"
   },
   {
     "train_number": "558   ",
@@ -87,7 +87,7 @@
     "lat": "47.0885",
     "lng": "15.4077",
     "arrival": null,
-    "departure": "2023-09-01T07:28:00Z"
+    "departure": "2023-09-02T07:28:00Z"
   },
   {
     "train_number": "551   ",
@@ -96,8 +96,8 @@
     "abbr": "G   ",
     "lat": "47.0733",
     "lng": "15.4163",
-    "arrival": "2023-09-01T06:34:00Z",
-    "departure": "2023-09-01T07:25:00Z"
+    "arrival": "2023-09-02T06:34:00Z",
+    "departure": "2023-09-02T07:25:00Z"
   },
   {
     "train_number": "551   ",
@@ -107,7 +107,7 @@
     "lat": "47.0885",
     "lng": "15.4077",
     "arrival": null,
-    "departure": "2023-09-01T06:31:00Z"
+    "departure": "2023-09-02T06:31:00Z"
   },
   {
     "train_number": "551   ",
@@ -116,8 +116,8 @@
     "abbr": "Bm  ",
     "lat": "47.4134",
     "lng": "15.2797",
-    "arrival": "2023-09-01T05:57:00Z",
-    "departure": "2023-09-01T05:59:00Z"
+    "arrival": "2023-09-02T05:57:00Z",
+    "departure": "2023-09-02T05:59:00Z"
   },
   {
     "train_number": "551   ",
@@ -126,8 +126,8 @@
     "abbr": "Mz  ",
     "lat": "47.6079",
     "lng": "15.677",
-    "arrival": "2023-09-01T05:28:00Z",
-    "departure": "2023-09-01T05:30:00Z"
+    "arrival": "2023-09-02T05:28:00Z",
+    "departure": "2023-09-02T05:30:00Z"
   },
   {
     "train_number": "551   ",
@@ -137,7 +137,7 @@
     "lat": "47.696",
     "lng": "15.8632",
     "arrival": null,
-    "departure": "2023-09-01T04:52:00Z"
+    "departure": "2023-09-02T04:52:00Z"
   },
   {
     "train_number": "551   ",
@@ -147,7 +147,7 @@
     "lat": "47.731",
     "lng": "16.0826",
     "arrival": null,
-    "departure": "2023-09-01T04:41:00Z"
+    "departure": "2023-09-02T04:41:00Z"
   },
   {
     "train_number": "551   ",
@@ -156,8 +156,8 @@
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-09-01T04:28:00Z",
-    "departure": "2023-09-01T04:32:00Z"
+    "arrival": "2023-09-02T04:28:00Z",
+    "departure": "2023-09-02T04:32:00Z"
   },
   {
     "train_number": "551   ",
@@ -167,7 +167,7 @@
     "lat": "47.9375",
     "lng": "16.2313",
     "arrival": null,
-    "departure": "2023-09-01T04:21:00Z"
+    "departure": "2023-09-02T04:21:00Z"
   },
   {
     "train_number": "551   ",
@@ -177,7 +177,7 @@
     "lat": "48.0858",
     "lng": "16.2958",
     "arrival": null,
-    "departure": "2023-09-01T04:13:00Z"
+    "departure": "2023-09-02T04:13:00Z"
   },
   {
     "train_number": "551   ",
@@ -186,17 +186,17 @@
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-09-01T04:03:00Z",
-    "departure": "2023-09-01T04:05:00Z"
+    "arrival": "2023-09-02T04:03:00Z",
+    "departure": "2023-09-02T04:05:00Z"
   },
   {
-    "train_number": null,
+    "train_number": "261   ",
     "unit_number": "1116.0225",
     "name": "Wien Hauptbahnhof (in Wbf)",
     "abbr": "Wbf ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": null,
-    "departure": "2023-09-01T03:58:00Z"
+    "arrival": "2023-09-01T19:39:00Z",
+    "departure": "2023-09-02T03:58:00Z"
   }
 ]

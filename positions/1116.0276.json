@@ -2,12 +2,42 @@
   {
     "train_number": "2336  ",
     "unit_number": "1116.0276",
+    "name": "Gänserndorf",
+    "abbr": "Gae ",
+    "lat": "48.3401",
+    "lng": "16.7324",
+    "arrival": "2023-09-02T12:42:00Z",
+    "departure": "2023-09-02T12:42:00Z"
+  },
+  {
+    "train_number": "2336  ",
+    "unit_number": "1116.0276",
+    "name": "Floridsdorf (in F)",
+    "abbr": "F   ",
+    "lat": "48.2568",
+    "lng": "16.4004",
+    "arrival": "2023-09-02T12:19:00Z",
+    "departure": "2023-09-02T12:20:00Z"
+  },
+  {
+    "train_number": "2336  ",
+    "unit_number": "1116.0276",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-02T11:53:00Z",
+    "departure": "2023-09-02T11:54:00Z"
+  },
+  {
+    "train_number": "2336  ",
+    "unit_number": "1116.0276",
     "name": "Mödling",
     "abbr": "Md  ",
     "lat": "48.0858",
     "lng": "16.2958",
-    "arrival": "2023-09-01T11:39:00Z",
-    "departure": "2023-09-01T11:40:00Z"
+    "arrival": "2023-09-02T11:39:00Z",
+    "departure": "2023-09-02T11:40:00Z"
   },
   {
     "train_number": "2336  ",
@@ -16,8 +46,8 @@
     "abbr": "Lb  ",
     "lat": "47.9375",
     "lng": "16.2313",
-    "arrival": "2023-09-01T11:22:00Z",
-    "departure": "2023-09-01T11:23:00Z"
+    "arrival": "2023-09-02T11:22:00Z",
+    "departure": "2023-09-02T11:23:00Z"
   },
   {
     "train_number": "2331  ",
@@ -26,8 +56,8 @@
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-09-01T10:47:00Z",
-    "departure": "2023-09-01T11:11:00Z"
+    "arrival": "2023-09-02T10:47:00Z",
+    "departure": "2023-09-02T11:11:00Z"
   },
   {
     "train_number": "2331  ",
@@ -36,8 +66,8 @@
     "abbr": "Lb  ",
     "lat": "47.9375",
     "lng": "16.2313",
-    "arrival": "2023-09-01T10:35:00Z",
-    "departure": "2023-09-01T10:35:00Z"
+    "arrival": "2023-09-02T10:35:00Z",
+    "departure": "2023-09-02T10:35:00Z"
   },
   {
     "train_number": "2331  ",
@@ -46,8 +76,8 @@
     "abbr": "Md  ",
     "lat": "48.0858",
     "lng": "16.2958",
-    "arrival": "2023-09-01T10:18:00Z",
-    "departure": "2023-09-01T10:19:00Z"
+    "arrival": "2023-09-02T10:18:00Z",
+    "departure": "2023-09-02T10:19:00Z"
   },
   {
     "train_number": "2331  ",
@@ -56,8 +86,8 @@
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-09-01T10:04:00Z",
-    "departure": "2023-09-01T10:07:00Z"
+    "arrival": "2023-09-02T10:04:00Z",
+    "departure": "2023-09-02T10:07:00Z"
   },
   {
     "train_number": "2331  ",
@@ -66,8 +96,8 @@
     "abbr": "F   ",
     "lat": "48.2568",
     "lng": "16.4004",
-    "arrival": "2023-09-01T09:38:00Z",
-    "departure": "2023-09-01T09:39:00Z"
+    "arrival": "2023-09-02T09:38:00Z",
+    "departure": "2023-09-02T09:39:00Z"
   },
   {
     "train_number": "2331  ",
@@ -76,8 +106,8 @@
     "abbr": "Gae ",
     "lat": "48.3401",
     "lng": "16.7324",
-    "arrival": "2023-09-01T09:14:00Z",
-    "departure": "2023-09-01T09:15:00Z"
+    "arrival": "2023-09-02T09:14:00Z",
+    "departure": "2023-09-02T09:15:00Z"
   },
   {
     "train_number": "2331  ",
@@ -86,8 +116,8 @@
     "abbr": "Nh  ",
     "lat": "48.5981",
     "lng": "16.9008",
-    "arrival": "2023-09-01T08:42:00Z",
-    "departure": "2023-09-01T08:42:00Z"
+    "arrival": "2023-09-02T08:42:00Z",
+    "departure": "2023-09-02T08:42:00Z"
   },
   {
     "train_number": "2312  ",
@@ -96,8 +126,8 @@
     "abbr": "Nh  ",
     "lat": "48.5981",
     "lng": "16.9008",
-    "arrival": "2023-09-01T07:20:00Z",
-    "departure": "2023-09-01T07:20:00Z"
+    "arrival": "2023-09-02T07:20:00Z",
+    "departure": "2023-09-02T07:20:00Z"
   },
   {
     "train_number": "2312  ",
@@ -106,8 +136,8 @@
     "abbr": "Gae ",
     "lat": "48.3401",
     "lng": "16.7324",
-    "arrival": "2023-09-01T06:48:00Z",
-    "departure": "2023-09-01T06:48:00Z"
+    "arrival": "2023-09-02T06:48:00Z",
+    "departure": "2023-09-02T06:48:00Z"
   },
   {
     "train_number": "2312  ",
@@ -116,87 +146,57 @@
     "abbr": "F   ",
     "lat": "48.2568",
     "lng": "16.4004",
-    "arrival": "2023-09-01T06:25:00Z",
-    "departure": "2023-09-01T06:26:00Z"
+    "arrival": "2023-09-02T06:25:00Z",
+    "departure": "2023-09-02T06:26:00Z"
   },
   {
-    "train_number": "2312  ",
+    "train_number": null,
     "unit_number": "1116.0276",
     "name": "Wien Meidling (in Wbf)",
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-09-01T05:58:00Z",
-    "departure": "2023-09-01T06:00:00Z"
+    "arrival": null,
+    "departure": "2023-09-02T06:00:00Z"
   },
   {
-    "train_number": "2312  ",
-    "unit_number": "1116.0276",
-    "name": "Mödling",
-    "abbr": "Md  ",
-    "lat": "48.0858",
-    "lng": "16.2958",
-    "arrival": "2023-09-01T05:44:00Z",
-    "departure": "2023-09-01T05:49:00Z"
-  },
-  {
-    "train_number": "2312  ",
-    "unit_number": "1116.0276",
-    "name": "Leobersdorf",
-    "abbr": "Lb  ",
-    "lat": "47.9375",
-    "lng": "16.2313",
-    "arrival": "2023-09-01T05:26:00Z",
-    "departure": "2023-09-01T05:27:00Z"
-  },
-  {
-    "train_number": "2305  ",
-    "unit_number": "1116.0276",
-    "name": "Wr. Neustadt Hbf (in Nb)",
-    "abbr": "Nb  ",
-    "lat": "47.8113",
-    "lng": "16.2337",
-    "arrival": "2023-09-01T04:21:00Z",
-    "departure": "2023-09-01T05:15:00Z"
-  },
-  {
-    "train_number": "2305  ",
-    "unit_number": "1116.0276",
-    "name": "Leobersdorf",
-    "abbr": "Lb  ",
-    "lat": "47.9375",
-    "lng": "16.2313",
-    "arrival": "2023-09-01T04:05:00Z",
-    "departure": "2023-09-01T04:06:00Z"
-  },
-  {
-    "train_number": "2305  ",
-    "unit_number": "1116.0276",
-    "name": "Mödling",
-    "abbr": "Md  ",
-    "lat": "48.0858",
-    "lng": "16.2958",
-    "arrival": "2023-09-01T03:48:00Z",
-    "departure": "2023-09-01T03:49:00Z"
-  },
-  {
-    "train_number": "2305  ",
+    "train_number": "2902  ",
     "unit_number": "1116.0276",
     "name": "Wien Meidling (in Wbf)",
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-09-01T03:34:00Z",
-    "departure": "2023-09-01T03:37:00Z"
+    "arrival": "2023-09-02T04:29:00Z",
+    "departure": "2023-09-02T04:33:00Z"
+  },
+  {
+    "train_number": "2902  ",
+    "unit_number": "1116.0276",
+    "name": "Mödling",
+    "abbr": "Md  ",
+    "lat": "48.0858",
+    "lng": "16.2958",
+    "arrival": null,
+    "departure": "2023-09-02T04:19:00Z"
+  },
+  {
+    "train_number": "2902  ",
+    "unit_number": "1116.0276",
+    "name": "Leobersdorf",
+    "abbr": "Lb  ",
+    "lat": "47.9375",
+    "lng": "16.2313",
+    "arrival": null,
+    "departure": "2023-09-02T04:08:00Z"
   },
   {
     "train_number": "Blockz",
     "unit_number": "1116.0276",
-    "name": "Floridsdorf (in F)",
-    "abbr": "F   ",
-    "lat": "48.2568",
-    "lng": "16.4004",
-    "arrival": "2023-09-01T02:59:00Z",
-    "departure": "2023-09-01T03:09:00Z"
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": "2023-09-02T03:45:00Z",
+    "departure": "2023-09-02T04:00:00Z"
   }
 ]

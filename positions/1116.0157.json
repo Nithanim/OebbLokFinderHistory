@@ -1,0 +1,72 @@
+[
+  {
+    "train_number": "54496 ",
+    "unit_number": "1116.0157",
+    "name": "Kitzbühel",
+    "abbr": "Kzb ",
+    "lat": "47.4542",
+    "lng": "12.391",
+    "arrival": null,
+    "departure": "2023-09-02T19:47:00Z"
+  },
+  {
+    "train_number": "88399 ",
+    "unit_number": "1116.0157",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-09-02T13:59:00Z",
+    "departure": "2023-09-02T18:17:00Z"
+  },
+  {
+    "train_number": "54452 ",
+    "unit_number": "1116.0157",
+    "name": "Kitzbühel",
+    "abbr": "Kzb ",
+    "lat": "47.4542",
+    "lng": "12.391",
+    "arrival": null,
+    "departure": "2023-09-02T09:17:00Z"
+  },
+  {
+    "train_number": "54452 ",
+    "unit_number": "1116.0157",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-09-02T07:21:00Z",
+    "departure": "2023-09-02T07:54:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0157",
+    "name": "Villach Süd Gvbf Ausfgr",
+    "abbr": "Va  ",
+    "lat": "46.5674",
+    "lng": "13.8238",
+    "arrival": null,
+    "departure": "2023-09-02T05:27:00Z"
+  },
+  {
+    "train_number": "42213 ",
+    "unit_number": "1116.0157",
+    "name": "Tarvisio Boscoverde",
+    "abbr": "Tbv ",
+    "lat": "46.5059",
+    "lng": "13.6081",
+    "arrival": "2023-09-02T04:02:00Z",
+    "departure": "2023-09-02T04:19:00Z"
+  },
+  {
+    "train_number": "18284 ",
+    "unit_number": "1116.0157",
+    "name": "Villach Westbf",
+    "abbr": "Vf  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-09-02T00:56:00Z",
+    "departure": "2023-09-02T03:37:00Z"
+  }
+]
