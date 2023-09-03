@@ -1,5 +1,85 @@
 [
   {
+    "train_number": "41973 ",
+    "unit_number": "1016.0023",
+    "name": "Wolfurt (in Wo)",
+    "abbr": "Wo  ",
+    "lat": "47.457",
+    "lng": "9.74133",
+    "arrival": "2023-09-03T16:39:00Z",
+    "departure": "2023-09-04T18:39:00Z"
+  },
+  {
+    "train_number": "41973 ",
+    "unit_number": "1016.0023",
+    "name": "Dornbirn (in Do)",
+    "abbr": "Do  ",
+    "lat": "47.4176",
+    "lng": "9.73871",
+    "arrival": null,
+    "departure": "2023-09-03T16:34:00Z"
+  },
+  {
+    "train_number": "41973 ",
+    "unit_number": "1016.0023",
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
+    "arrival": null,
+    "departure": "2023-09-03T16:05:00Z"
+  },
+  {
+    "train_number": "41973 ",
+    "unit_number": "1016.0023",
+    "name": "Bludenz",
+    "abbr": "B   ",
+    "lat": "47.155",
+    "lng": "9.81448",
+    "arrival": "2023-09-03T15:42:00Z",
+    "departure": "2023-09-03T15:46:00Z"
+  },
+  {
+    "train_number": "41973 ",
+    "unit_number": "1016.0023",
+    "name": "Landeck-Zams",
+    "abbr": "Le  ",
+    "lat": "47.148",
+    "lng": "10.5782",
+    "arrival": "2023-09-03T13:20:00Z",
+    "departure": "2023-09-03T14:37:00Z"
+  },
+  {
+    "train_number": "41973 ",
+    "unit_number": "1016.0023",
+    "name": "Imst-Pitztal",
+    "abbr": "Im  ",
+    "lat": "47.219",
+    "lng": "10.7619",
+    "arrival": null,
+    "departure": "2023-09-03T12:58:00Z"
+  },
+  {
+    "train_number": "41973 ",
+    "unit_number": "1016.0023",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-09-03T12:05:00Z",
+    "departure": "2023-09-03T12:15:00Z"
+  },
+  {
+    "train_number": "88425 ",
+    "unit_number": "1016.0023",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
+    "arrival": "2023-09-03T11:04:00Z",
+    "departure": "2023-09-03T11:54:00Z"
+  },
+  {
     "train_number": "88387 ",
     "unit_number": "1016.0023",
     "name": "Innsbruck Hbf  (in I)",
@@ -7,16 +87,6 @@
     "lat": "47.2634",
     "lng": "11.4017",
     "arrival": "2023-09-02T23:13:00Z",
-    "departure": "2023-09-03T02:31:00Z"
-  },
-  {
-    "train_number": "45850 ",
-    "unit_number": "1016.0023",
-    "name": "Dornbirn (in Do)",
-    "abbr": "Do  ",
-    "lat": "47.4176",
-    "lng": "9.73871",
-    "arrival": null,
-    "departure": "2023-09-02T02:34:00Z"
+    "departure": "2023-09-03T10:55:00Z"
   }
 ]

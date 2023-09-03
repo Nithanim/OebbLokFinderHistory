@@ -1,13 +1,13 @@
 [
   {
-    "train_number": "45449 ",
+    "train_number": "45445 ",
     "unit_number": "1216.0141",
     "name": "Rosenbach",
     "abbr": "Rn  ",
     "lat": "46.5309",
     "lng": "14.0354",
     "arrival": null,
-    "departure": "2023-09-02T21:02:00Z"
+    "departure": "2023-09-03T14:12:00Z"
   },
   {
     "train_number": null,
@@ -17,6 +17,16 @@
     "lat": "46.5674",
     "lng": "13.8238",
     "arrival": null,
-    "departure": "2023-09-02T20:40:00Z"
+    "departure": "2023-09-03T13:52:00Z"
+  },
+  {
+    "train_number": "45440 ",
+    "unit_number": "1216.0141",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": null,
+    "departure": "2023-09-03T04:17:00Z"
   }
 ]

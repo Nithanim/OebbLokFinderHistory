@@ -1,5 +1,125 @@
 [
   {
+    "train_number": null,
+    "unit_number": "1116.0200",
+    "name": "W. Matzleinsdorf (in Wbf)",
+    "abbr": "Mat ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": null,
+    "departure": "2023-09-04T02:17:00Z"
+  },
+  {
+    "train_number": "852   ",
+    "unit_number": "1116.0200",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-03T21:55:00Z",
+    "departure": "2023-09-03T21:57:00Z"
+  },
+  {
+    "train_number": "852   ",
+    "unit_number": "1116.0200",
+    "name": "Mödling",
+    "abbr": "Md  ",
+    "lat": "48.0858",
+    "lng": "16.2958",
+    "arrival": null,
+    "departure": "2023-09-03T21:48:00Z"
+  },
+  {
+    "train_number": "852   ",
+    "unit_number": "1116.0200",
+    "name": "Leobersdorf",
+    "abbr": "Lb  ",
+    "lat": "47.9375",
+    "lng": "16.2313",
+    "arrival": null,
+    "departure": "2023-09-03T21:39:00Z"
+  },
+  {
+    "train_number": "852   ",
+    "unit_number": "1116.0200",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": "2023-09-03T21:28:00Z",
+    "departure": "2023-09-03T21:32:00Z"
+  },
+  {
+    "train_number": "852   ",
+    "unit_number": "1116.0200",
+    "name": "Neunkirchen N.Ö.",
+    "abbr": "Nek ",
+    "lat": "47.731",
+    "lng": "16.0826",
+    "arrival": null,
+    "departure": "2023-09-03T21:20:00Z"
+  },
+  {
+    "train_number": "852   ",
+    "unit_number": "1116.0200",
+    "name": "Payerbach-Reichenau",
+    "abbr": "Pr  ",
+    "lat": "47.696",
+    "lng": "15.8632",
+    "arrival": null,
+    "departure": "2023-09-03T21:09:00Z"
+  },
+  {
+    "train_number": "852   ",
+    "unit_number": "1116.0200",
+    "name": "Mürzzuschlag (in Mz)",
+    "abbr": "Mz  ",
+    "lat": "47.6079",
+    "lng": "15.677",
+    "arrival": "2023-09-03T20:30:00Z",
+    "departure": "2023-09-03T20:32:00Z"
+  },
+  {
+    "train_number": "852   ",
+    "unit_number": "1116.0200",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": "2023-09-03T20:00:00Z",
+    "departure": "2023-09-03T20:02:00Z"
+  },
+  {
+    "train_number": "852   ",
+    "unit_number": "1116.0200",
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
+    "arrival": null,
+    "departure": "2023-09-03T19:28:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0200",
+    "name": "Graz Hbf (in G)",
+    "abbr": "G   ",
+    "lat": "47.0733",
+    "lng": "15.4163",
+    "arrival": null,
+    "departure": "2023-09-03T19:25:00Z"
+  },
+  {
+    "train_number": "66777 ",
+    "unit_number": "1116.0200",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": null,
+    "departure": "2023-09-03T13:47:00Z"
+  },
+  {
     "train_number": "88952 ",
     "unit_number": "1116.0200",
     "name": "Leoben Hbf (in Leb)",
@@ -8,45 +128,5 @@
     "lng": "15.0898",
     "arrival": "2023-09-02T11:06:00Z",
     "departure": "2023-09-03T13:02:00Z"
-  },
-  {
-    "train_number": "58662 ",
-    "unit_number": "1116.0200",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": "2023-09-02T10:06:00Z",
-    "departure": "2023-09-02T10:31:00Z"
-  },
-  {
-    "train_number": "58662 ",
-    "unit_number": "1116.0200",
-    "name": "St.Michael (in M)",
-    "abbr": "M   ",
-    "lat": "47.3445",
-    "lng": "15.0103",
-    "arrival": null,
-    "departure": "2023-09-02T09:55:00Z"
-  },
-  {
-    "train_number": "58662 ",
-    "unit_number": "1116.0200",
-    "name": "Selzthal (in Sl)",
-    "abbr": "Sl  ",
-    "lat": "47.5505",
-    "lng": "14.3134",
-    "arrival": "2023-09-02T09:01:00Z",
-    "departure": "2023-09-02T09:04:00Z"
-  },
-  {
-    "train_number": "62628 ",
-    "unit_number": "1116.0200",
-    "name": "Selzthal (in Sl)",
-    "abbr": "Sl  ",
-    "lat": "47.5505",
-    "lng": "14.3134",
-    "arrival": "2023-09-02T00:14:00Z",
-    "departure": "2023-09-02T03:40:00Z"
   }
 ]
