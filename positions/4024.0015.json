@@ -1,152 +1,112 @@
 [
   {
-    "train_number": "25796 ",
+    "train_number": "5936  ",
     "unit_number": "4024.0015",
-    "name": "Freilassing",
-    "abbr": "MFL ",
-    "lat": "47.8368",
-    "lng": "12.9764",
-    "arrival": "2023-09-03T19:43:00Z",
-    "departure": "2023-09-04T03:17:00Z"
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": "2023-09-04T17:10:00Z",
+    "departure": "2023-09-05T02:32:00Z"
   },
   {
-    "train_number": "25796 ",
+    "train_number": "5937  ",
     "unit_number": "4024.0015",
-    "name": "Salzburg Liefering (in Sb)",
-    "abbr": "Lfg ",
-    "lat": "47.8229",
-    "lng": "13.0021",
-    "arrival": "2023-09-03T19:40:00Z",
-    "departure": "2023-09-03T19:40:00Z"
+    "name": "Neumarkt-Kallham (in Neu)",
+    "abbr": "Neu ",
+    "lat": "48.2714",
+    "lng": "13.7245",
+    "arrival": "2023-09-04T16:20:00Z",
+    "departure": "2023-09-04T16:40:00Z"
   },
   {
-    "train_number": "5082  ",
+    "train_number": "5937  ",
     "unit_number": "4024.0015",
-    "name": "Salzburg Hbf (in Sb)",
-    "abbr": "Sb  ",
-    "lat": "47.8135",
-    "lng": "13.0466",
-    "arrival": "2023-09-03T19:26:00Z",
-    "departure": "2023-09-03T19:32:00Z"
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": "2023-09-04T15:48:00Z",
+    "departure": "2023-09-04T15:49:00Z"
   },
   {
-    "train_number": "5082  ",
+    "train_number": "5910  ",
     "unit_number": "4024.0015",
-    "name": "Steindorf b.Straßw. (in Nst)",
-    "abbr": "Nst ",
-    "lat": "47.9676",
-    "lng": "13.2406",
-    "arrival": null,
-    "departure": "2023-09-03T18:59:00Z"
+    "name": "Passau Hbf",
+    "abbr": "Pa  ",
+    "lat": "48.5729",
+    "lng": "13.4342",
+    "arrival": "2023-09-04T15:02:00Z",
+    "departure": "2023-09-04T15:36:00Z"
   },
   {
-    "train_number": "5082  ",
+    "train_number": "5910  ",
     "unit_number": "4024.0015",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": "2023-09-03T17:50:00Z",
-    "departure": "2023-09-03T17:51:00Z"
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": "2023-09-04T14:49:00Z",
+    "departure": "2023-09-04T14:50:00Z"
   },
   {
-    "train_number": "5082  ",
+    "train_number": "5910  ",
+    "unit_number": "4024.0015",
+    "name": "Neumarkt-Kallham (in Neu)",
+    "abbr": "Neu ",
+    "lat": "48.2714",
+    "lng": "13.7245",
+    "arrival": "2023-09-04T14:16:00Z",
+    "departure": "2023-09-04T14:17:00Z"
+  },
+  {
+    "train_number": "5910  ",
     "unit_number": "4024.0015",
     "name": "Wels Hbf",
     "abbr": "We  ",
     "lat": "48.1662",
     "lng": "14.0273",
-    "arrival": "2023-09-03T17:22:00Z",
-    "departure": "2023-09-03T17:23:00Z"
+    "arrival": "2023-09-04T13:50:00Z",
+    "departure": "2023-09-04T13:51:00Z"
   },
   {
-    "train_number": "4415  ",
+    "train_number": "3863  ",
     "unit_number": "4024.0015",
     "name": "Linz Hbf",
     "abbr": "Lz  ",
     "lat": "48.2908",
     "lng": "14.2927",
-    "arrival": "2023-09-03T15:41:00Z",
-    "departure": "2023-09-03T17:00:00Z"
+    "arrival": "2023-09-04T12:24:00Z",
+    "departure": "2023-09-04T13:34:00Z"
   },
   {
-    "train_number": "4415  ",
-    "unit_number": "4024.0015",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": "2023-09-03T15:24:00Z",
-    "departure": "2023-09-03T15:25:00Z"
-  },
-  {
-    "train_number": "4412  ",
-    "unit_number": "4024.0015",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": "2023-09-03T13:07:00Z",
-    "departure": "2023-09-03T14:53:00Z"
-  },
-  {
-    "train_number": "4412  ",
-    "unit_number": "4024.0015",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": "2023-09-03T12:33:00Z",
-    "departure": "2023-09-03T12:34:00Z"
-  },
-  {
-    "train_number": "4407  ",
+    "train_number": "3928  ",
     "unit_number": "4024.0015",
     "name": "Linz Hbf",
     "abbr": "Lz  ",
     "lat": "48.2908",
     "lng": "14.2927",
-    "arrival": "2023-09-03T11:41:00Z",
-    "departure": "2023-09-03T12:18:00Z"
+    "arrival": "2023-09-04T04:54:00Z",
+    "departure": "2023-09-04T10:35:00Z"
   },
   {
-    "train_number": "4407  ",
-    "unit_number": "4024.0015",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": "2023-09-03T11:24:00Z",
-    "departure": "2023-09-03T11:25:00Z"
-  },
-  {
-    "train_number": "3002  ",
-    "unit_number": "4024.0015",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": "2023-09-03T04:50:00Z",
-    "departure": "2023-09-03T10:53:00Z"
-  },
-  {
-    "train_number": "3002  ",
-    "unit_number": "4024.0015",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": "2023-09-03T04:22:00Z",
-    "departure": "2023-09-03T04:23:00Z"
-  },
-  {
-    "train_number": "3821  ",
+    "train_number": "3922  ",
     "unit_number": "4024.0015",
     "name": "Linz Hbf",
     "abbr": "Lz  ",
     "lat": "48.2908",
     "lng": "14.2927",
-    "arrival": "2023-09-03T03:24:00Z",
-    "departure": "2023-09-03T04:00:00Z"
+    "arrival": "2023-09-04T03:54:00Z",
+    "departure": "2023-09-04T04:06:00Z"
+  },
+  {
+    "train_number": "3918  ",
+    "unit_number": "4024.0015",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-09-03T21:42:00Z",
+    "departure": "2023-09-04T03:06:00Z"
   }
 ]

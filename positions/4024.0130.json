@@ -1,42 +1,32 @@
 [
   {
-    "train_number": "82665 ",
+    "train_number": "82272 ",
     "unit_number": "4024.0130",
     "name": "Wien Westbf (in Ws)",
     "abbr": "Ws  ",
     "lat": "48.1964",
     "lng": "16.3374",
-    "arrival": "2023-09-03T19:05:00Z",
-    "departure": "2023-09-03T22:30:00Z"
+    "arrival": "2023-09-04T23:23:00Z",
+    "departure": "2023-09-05T07:00:00Z"
   },
   {
-    "train_number": "82665 ",
+    "train_number": "82272 ",
     "unit_number": "4024.0130",
     "name": "W. Hütteldorf GzGr (in Hf)",
     "abbr": "Hfg ",
     "lat": "48.1964",
     "lng": "16.3374",
-    "arrival": "2023-09-03T18:48:00Z",
-    "departure": "2023-09-03T19:00:00Z"
+    "arrival": "2023-09-04T23:10:00Z",
+    "departure": "2023-09-04T23:18:00Z"
   },
   {
-    "train_number": "82664 ",
+    "train_number": "82678 ",
     "unit_number": "4024.0130",
-    "name": "W. Hütteldorf GzGr (in Hf)",
-    "abbr": "Hfg ",
-    "lat": "48.1964",
-    "lng": "16.3374",
-    "arrival": "2023-09-03T04:50:00Z",
-    "departure": "2023-09-03T05:12:00Z"
-  },
-  {
-    "train_number": "82661 ",
-    "unit_number": "4024.0130",
-    "name": "Wien Westbf (in Ws)",
-    "abbr": "Ws  ",
-    "lat": "48.1964",
-    "lng": "16.3374",
-    "arrival": "2023-09-03T03:11:00Z",
-    "departure": "2023-09-03T04:45:00Z"
+    "name": "W. FJBf-Gürtelbrücke (in Wf)",
+    "abbr": "Wfg ",
+    "lat": "48.227",
+    "lng": "16.3611",
+    "arrival": "2023-09-03T23:10:00Z",
+    "departure": "2023-09-04T02:42:00Z"
   }
 ]

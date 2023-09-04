@@ -1,0 +1,162 @@
+[
+  {
+    "train_number": "54081 ",
+    "unit_number": "1116.0195",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-09-05T02:23:00Z",
+    "departure": "2023-09-05T02:26:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0195",
+    "name": "Wels Vbf (in Wev)",
+    "abbr": "Wev ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": null,
+    "departure": "2023-09-05T02:03:00Z"
+  },
+  {
+    "train_number": "47148 ",
+    "unit_number": "1116.0195",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-09-05T00:56:00Z",
+    "departure": "2023-09-05T01:03:00Z"
+  },
+  {
+    "train_number": "47148 ",
+    "unit_number": "1116.0195",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": null,
+    "departure": "2023-09-05T00:37:00Z"
+  },
+  {
+    "train_number": "47148 ",
+    "unit_number": "1116.0195",
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
+    "arrival": null,
+    "departure": "2023-09-05T00:12:00Z"
+  },
+  {
+    "train_number": "47148 ",
+    "unit_number": "1116.0195",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
+    "arrival": null,
+    "departure": "2023-09-05T00:00:00Z"
+  },
+  {
+    "train_number": "47148 ",
+    "unit_number": "1116.0195",
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
+    "arrival": null,
+    "departure": "2023-09-04T23:52:00Z"
+  },
+  {
+    "train_number": "47148 ",
+    "unit_number": "1116.0195",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": null,
+    "departure": "2023-09-04T22:43:00Z"
+  },
+  {
+    "train_number": "47148 ",
+    "unit_number": "1116.0195",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-09-04T22:32:00Z"
+  },
+  {
+    "train_number": "47148 ",
+    "unit_number": "1116.0195",
+    "name": "Kledering (in Zur)",
+    "abbr": "Za  ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": "2023-09-04T21:56:00Z",
+    "departure": "2023-09-04T22:28:00Z"
+  },
+  {
+    "train_number": "47148 ",
+    "unit_number": "1116.0195",
+    "name": "Ebenfurth (in Ef)",
+    "abbr": "Ef  ",
+    "lat": "47.8777",
+    "lng": "16.3621",
+    "arrival": "2023-09-04T20:39:00Z",
+    "departure": "2023-09-04T21:11:00Z"
+  },
+  {
+    "train_number": "47148 ",
+    "unit_number": "1116.0195",
+    "name": "Sopron",
+    "abbr": "SOP ",
+    "lat": "47.6779",
+    "lng": "16.5865",
+    "arrival": null,
+    "departure": "2023-09-04T19:58:00Z"
+  },
+  {
+    "train_number": "45301 ",
+    "unit_number": "1116.0195",
+    "name": "Sopron Rendezö pu",
+    "abbr": "SOR ",
+    "lat": "47.6665",
+    "lng": "16.6031",
+    "arrival": "2023-09-04T06:17:00Z",
+    "departure": "2023-09-04T19:53:00Z"
+  },
+  {
+    "train_number": "45301 ",
+    "unit_number": "1116.0195",
+    "name": "Sopron",
+    "abbr": "SOP ",
+    "lat": "47.6779",
+    "lng": "16.5865",
+    "arrival": null,
+    "departure": "2023-09-04T06:12:00Z"
+  },
+  {
+    "train_number": "45301 ",
+    "unit_number": "1116.0195",
+    "name": "Ebenfurth (in Ef)",
+    "abbr": "----",
+    "lat": "47.8777",
+    "lng": "16.3621",
+    "arrival": "2023-09-04T04:39:00Z",
+    "departure": "2023-09-04T05:23:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0195",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-09-04T04:01:00Z"
+  }
+]
