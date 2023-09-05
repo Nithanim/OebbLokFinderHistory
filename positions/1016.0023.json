@@ -1,0 +1,172 @@
+[
+  {
+    "train_number": "49123 ",
+    "unit_number": "1016.0023",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-09-06T00:10:00Z",
+    "departure": "2023-09-06T12:25:00Z"
+  },
+  {
+    "train_number": "49123 ",
+    "unit_number": "1016.0023",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
+    "arrival": null,
+    "departure": "2023-09-06T00:02:00Z"
+  },
+  {
+    "train_number": "49123 ",
+    "unit_number": "1016.0023",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-09-05T23:28:00Z"
+  },
+  {
+    "train_number": "49123 ",
+    "unit_number": "1016.0023",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-09-05T23:09:00Z",
+    "departure": "2023-09-05T23:25:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1016.0023",
+    "name": "Kufstein",
+    "abbr": "K   ",
+    "lat": "47.5833",
+    "lng": "12.1657",
+    "arrival": null,
+    "departure": "2023-09-05T22:56:00Z"
+  },
+  {
+    "train_number": "d93000",
+    "unit_number": "1016.0023",
+    "name": "Ingolstadt Hbf",
+    "abbr": "MIH ",
+    "lat": "48.7455",
+    "lng": "11.4375",
+    "arrival": "2023-09-05T19:00:00Z",
+    "departure": "2023-09-05T19:30:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1016.0023",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": null,
+    "departure": "2023-09-05T13:38:00Z"
+  },
+  {
+    "train_number": "49980 ",
+    "unit_number": "1016.0023",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-09-05T13:20:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1016.0023",
+    "name": "Kufstein",
+    "abbr": "K   ",
+    "lat": "47.5833",
+    "lng": "12.1657",
+    "arrival": null,
+    "departure": "2023-09-05T13:10:00Z"
+  },
+  {
+    "train_number": "49980 ",
+    "unit_number": "1016.0023",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
+    "arrival": null,
+    "departure": "2023-09-05T12:42:00Z"
+  },
+  {
+    "train_number": "49980 ",
+    "unit_number": "1016.0023",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-09-05T12:01:00Z",
+    "departure": "2023-09-05T12:31:00Z"
+  },
+  {
+    "train_number": "49980 ",
+    "unit_number": "1016.0023",
+    "name": "Imst-Pitztal",
+    "abbr": "Im  ",
+    "lat": "47.219",
+    "lng": "10.7619",
+    "arrival": null,
+    "departure": "2023-09-05T10:53:00Z"
+  },
+  {
+    "train_number": "49980 ",
+    "unit_number": "1016.0023",
+    "name": "Landeck-Zams",
+    "abbr": "Le  ",
+    "lat": "47.148",
+    "lng": "10.5782",
+    "arrival": null,
+    "departure": "2023-09-05T10:30:00Z"
+  },
+  {
+    "train_number": "49980 ",
+    "unit_number": "1016.0023",
+    "name": "Bludenz",
+    "abbr": "B   ",
+    "lat": "47.155",
+    "lng": "9.81448",
+    "arrival": null,
+    "departure": "2023-09-05T08:52:00Z"
+  },
+  {
+    "train_number": "49980 ",
+    "unit_number": "1016.0023",
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
+    "arrival": null,
+    "departure": "2023-09-05T08:27:00Z"
+  },
+  {
+    "train_number": "49980 ",
+    "unit_number": "1016.0023",
+    "name": "Dornbirn (in Do)",
+    "abbr": "Do  ",
+    "lat": "47.4176",
+    "lng": "9.73871",
+    "arrival": null,
+    "departure": "2023-09-05T08:01:00Z"
+  },
+  {
+    "train_number": "55444 ",
+    "unit_number": "1016.0023",
+    "name": "Wolfurt (in Wo)",
+    "abbr": "Wo  ",
+    "lat": "47.457",
+    "lng": "9.74133",
+    "arrival": "2023-09-04T20:10:00Z",
+    "departure": "2023-09-05T07:50:00Z"
+  }
+]

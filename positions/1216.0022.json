@@ -6,18 +6,18 @@
     "abbr": "Be  ",
     "lat": "47.0022",
     "lng": "11.5053",
-    "arrival": "2023-09-04T08:00:00Z",
-    "departure": "2023-09-04T08:14:00Z"
+    "arrival": "2023-09-05T08:00:00Z",
+    "departure": "2023-09-05T08:14:00Z"
   },
   {
     "train_number": "81    ",
     "unit_number": "1216.0022",
     "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
+    "abbr": "----",
     "lat": "47.2634",
     "lng": "11.4017",
-    "arrival": "2023-09-04T07:18:00Z",
-    "departure": "2023-09-04T07:24:00Z"
+    "arrival": "2023-09-05T07:18:00Z",
+    "departure": "2023-09-05T07:24:00Z"
   },
   {
     "train_number": "81    ",
@@ -27,7 +27,7 @@
     "lat": "47.2769",
     "lng": "11.5013",
     "arrival": null,
-    "departure": "2023-09-04T07:10:00Z"
+    "departure": "2023-09-05T07:10:00Z"
   },
   {
     "train_number": "81    ",
@@ -36,8 +36,8 @@
     "abbr": "Jb  ",
     "lat": "47.3884",
     "lng": "11.7783",
-    "arrival": "2023-09-04T06:58:00Z",
-    "departure": "2023-09-04T07:00:00Z"
+    "arrival": "2023-09-05T06:58:00Z",
+    "departure": "2023-09-05T07:00:00Z"
   },
   {
     "train_number": "81    ",
@@ -47,7 +47,7 @@
     "lat": "47.4824",
     "lng": "12.033",
     "arrival": null,
-    "departure": "2023-09-04T06:48:00Z"
+    "departure": "2023-09-05T06:48:00Z"
   },
   {
     "train_number": "81    ",
@@ -56,8 +56,8 @@
     "abbr": "W   ",
     "lat": "47.4912",
     "lng": "12.0603",
-    "arrival": "2023-09-04T06:44:00Z",
-    "departure": "2023-09-04T06:46:00Z"
+    "arrival": "2023-09-05T06:44:00Z",
+    "departure": "2023-09-05T06:46:00Z"
   },
   {
     "train_number": "81    ",
@@ -66,8 +66,8 @@
     "abbr": "K   ",
     "lat": "47.5833",
     "lng": "12.1657",
-    "arrival": "2023-09-04T06:34:00Z",
-    "departure": "2023-09-04T06:36:00Z"
+    "arrival": "2023-09-05T06:34:00Z",
+    "departure": "2023-09-05T06:36:00Z"
   },
   {
     "train_number": "81    ",
@@ -76,17 +76,17 @@
     "abbr": "MRO ",
     "lat": "47.8511",
     "lng": "12.1196",
-    "arrival": "2023-09-04T06:12:00Z",
-    "departure": "2023-09-04T06:14:00Z"
+    "arrival": "2023-09-05T06:12:00Z",
+    "departure": "2023-09-05T06:14:00Z"
   },
   {
-    "train_number": "1280  ",
+    "train_number": "80    ",
     "unit_number": "1216.0022",
     "name": "München Hauptbahnhof",
     "abbr": "MH  ",
     "lat": "48.1399",
     "lng": "11.5604",
-    "arrival": "2023-09-03T20:26:00Z",
-    "departure": "2023-09-04T05:34:00Z"
+    "arrival": "2023-09-04T20:26:00Z",
+    "departure": "2023-09-05T05:34:00Z"
   }
 ]

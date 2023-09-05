@@ -1,0 +1,202 @@
+[
+  {
+    "train_number": "25075 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T21:40:00Z",
+    "departure": "2023-09-05T21:41:00Z"
+  },
+  {
+    "train_number": "25070 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T20:18:00Z",
+    "departure": "2023-09-05T20:19:00Z"
+  },
+  {
+    "train_number": "25067 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T19:40:00Z",
+    "departure": "2023-09-05T19:41:00Z"
+  },
+  {
+    "train_number": "25062 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T18:18:00Z",
+    "departure": "2023-09-05T18:19:00Z"
+  },
+  {
+    "train_number": "25059 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T17:40:00Z",
+    "departure": "2023-09-05T17:41:00Z"
+  },
+  {
+    "train_number": "25054 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T16:18:00Z",
+    "departure": "2023-09-05T16:19:00Z"
+  },
+  {
+    "train_number": "25051 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T15:40:00Z",
+    "departure": "2023-09-05T15:41:00Z"
+  },
+  {
+    "train_number": "25046 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T14:18:00Z",
+    "departure": "2023-09-05T14:19:00Z"
+  },
+  {
+    "train_number": "25043 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T13:40:00Z",
+    "departure": "2023-09-05T13:41:00Z"
+  },
+  {
+    "train_number": "25038 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T12:18:00Z",
+    "departure": "2023-09-05T12:19:00Z"
+  },
+  {
+    "train_number": "25035 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T11:40:00Z",
+    "departure": "2023-09-05T11:41:00Z"
+  },
+  {
+    "train_number": "25030 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T10:18:00Z",
+    "departure": "2023-09-05T10:19:00Z"
+  },
+  {
+    "train_number": "25027 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T09:40:00Z",
+    "departure": "2023-09-05T09:41:00Z"
+  },
+  {
+    "train_number": "25022 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T08:18:00Z",
+    "departure": "2023-09-05T08:19:00Z"
+  },
+  {
+    "train_number": "25019 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T07:40:00Z",
+    "departure": "2023-09-05T07:41:00Z"
+  },
+  {
+    "train_number": "25014 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T06:18:00Z",
+    "departure": "2023-09-05T06:19:00Z"
+  },
+  {
+    "train_number": "25011 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T05:40:00Z",
+    "departure": "2023-09-05T05:41:00Z"
+  },
+  {
+    "train_number": "25006 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T04:18:00Z",
+    "departure": "2023-09-05T04:19:00Z"
+  },
+  {
+    "train_number": "25003 ",
+    "unit_number": "4124.0014",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T03:40:00Z",
+    "departure": "2023-09-05T03:41:00Z"
+  },
+  {
+    "train_number": "84387 ",
+    "unit_number": "4124.0014",
+    "name": "Floridsdorf-Fbf (in F)",
+    "abbr": "O   ",
+    "lat": "48.2568",
+    "lng": "16.4004",
+    "arrival": "2023-09-01T06:50:00Z",
+    "departure": "2023-09-05T02:27:00Z"
+  }
+]
