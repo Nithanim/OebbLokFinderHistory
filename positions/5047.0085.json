@@ -1,0 +1,82 @@
+[
+  {
+    "train_number": "3256  ",
+    "unit_number": "5047.0085",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-09-07T16:32:00Z",
+    "departure": "2023-09-07T17:45:00Z"
+  },
+  {
+    "train_number": "3216  ",
+    "unit_number": "5047.0085",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-09-07T14:12:00Z",
+    "departure": "2023-09-07T15:30:00Z"
+  },
+  {
+    "train_number": "3212  ",
+    "unit_number": "5047.0085",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-09-07T11:12:00Z",
+    "departure": "2023-09-07T11:50:00Z"
+  },
+  {
+    "train_number": "5947  ",
+    "unit_number": "5047.0085",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-09-07T04:56:00Z",
+    "departure": "2023-09-07T08:50:00Z"
+  },
+  {
+    "train_number": "5947  ",
+    "unit_number": "5047.0085",
+    "name": "Neumarkt-Kallham (in Neu)",
+    "abbr": "Neu ",
+    "lat": "48.2714",
+    "lng": "13.7245",
+    "arrival": "2023-09-07T04:37:00Z",
+    "departure": "2023-09-07T04:38:00Z"
+  },
+  {
+    "train_number": "5942  ",
+    "unit_number": "5047.0085",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-09-07T04:14:00Z",
+    "departure": "2023-09-07T04:19:00Z"
+  },
+  {
+    "train_number": "5941  ",
+    "unit_number": "5047.0085",
+    "name": "Neumarkt-Kallham (in Neu)",
+    "abbr": "Neu ",
+    "lat": "48.2714",
+    "lng": "13.7245",
+    "arrival": "2023-09-07T03:00:00Z",
+    "departure": "2023-09-07T03:53:00Z"
+  },
+  {
+    "train_number": "3487  ",
+    "unit_number": "5047.0085",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-09-06T18:56:00Z",
+    "departure": "2023-09-07T02:42:00Z"
+  }
+]

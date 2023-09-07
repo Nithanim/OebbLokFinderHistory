@@ -1,93 +1,73 @@
 [
   {
-    "train_number": "60    ",
+    "train_number": "95892 ",
     "unit_number": "1116.0153",
-    "name": "St.Valentin (in Sv)",
-    "abbr": "Sv  ",
-    "lat": "48.1784",
-    "lng": "14.5219",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
     "arrival": null,
-    "departure": "2023-09-06T09:25:00Z"
+    "departure": "2023-09-07T20:26:00Z"
   },
   {
-    "train_number": "60    ",
-    "unit_number": "1116.0153",
-    "name": "Amstetten (in Ams)",
-    "abbr": "Ams ",
-    "lat": "48.1215",
-    "lng": "14.8792",
-    "arrival": null,
-    "departure": "2023-09-06T09:12:00Z"
-  },
-  {
-    "train_number": "60    ",
-    "unit_number": "1116.0153",
-    "name": "Ybbs a.d.Donau",
-    "abbr": "Y   ",
-    "lat": "48.158",
-    "lng": "15.0981",
-    "arrival": null,
-    "departure": "2023-09-06T09:07:00Z"
-  },
-  {
-    "train_number": "60    ",
+    "train_number": "95892 ",
     "unit_number": "1116.0153",
     "name": "Pöchlarn",
     "abbr": "Poe ",
     "lat": "48.208",
     "lng": "15.2148",
     "arrival": null,
-    "departure": "2023-09-06T09:03:00Z"
+    "departure": "2023-09-07T19:08:00Z"
   },
   {
-    "train_number": "60    ",
+    "train_number": "RG50  ",
     "unit_number": "1116.0153",
-    "name": "St.Pölten Hbf (in Pb)",
-    "abbr": "Pb  ",
-    "lat": "48.2081",
-    "lng": "15.6237",
-    "arrival": "2023-09-06T08:50:00Z",
-    "departure": "2023-09-06T08:52:00Z"
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
+    "arrival": "2023-09-07T19:00:00Z",
+    "departure": "2023-09-07T19:00:00Z"
   },
   {
-    "train_number": "60    ",
+    "train_number": "95891 ",
     "unit_number": "1116.0153",
-    "name": "Wien Meidling (in Wbf)",
-    "abbr": "Mi  ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": "2023-09-06T08:27:00Z",
-    "departure": "2023-09-06T08:29:00Z"
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
+    "arrival": null,
+    "departure": "2023-09-07T18:21:00Z"
   },
   {
-    "train_number": "1060  ",
-    "unit_number": "1116.0153",
-    "name": "Wien Hauptbahnhof (in Wbf)",
-    "abbr": "Wbf ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": "2023-09-06T08:14:00Z",
-    "departure": "2023-09-06T08:21:00Z"
-  },
-  {
-    "train_number": "761   ",
-    "unit_number": "1116.0153",
-    "name": "Wien Hauptbahnhof (in Wbf)",
-    "abbr": "Wbf ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": "2023-09-06T06:39:00Z",
-    "departure": "2023-09-06T06:55:00Z"
-  },
-  {
-    "train_number": "761   ",
+    "train_number": "95891 ",
     "unit_number": "1116.0153",
     "name": "Wien Meidling (in Wbf)",
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-09-06T06:32:00Z",
-    "departure": "2023-09-06T06:34:00Z"
+    "arrival": null,
+    "departure": "2023-09-07T17:03:00Z"
+  },
+  {
+    "train_number": "RG50  ",
+    "unit_number": "1116.0153",
+    "name": "Wien Hbf Autoreis. (in Wbf)",
+    "abbr": "Of  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-07T17:00:00Z",
+    "departure": "2023-09-07T17:00:00Z"
+  },
+  {
+    "train_number": "761   ",
+    "unit_number": "1116.0153",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-07T06:32:00Z",
+    "departure": "2023-09-07T06:34:00Z"
   },
   {
     "train_number": "761   ",
@@ -96,8 +76,8 @@
     "abbr": "Pb  ",
     "lat": "48.2081",
     "lng": "15.6237",
-    "arrival": "2023-09-06T06:08:00Z",
-    "departure": "2023-09-06T06:10:00Z"
+    "arrival": "2023-09-07T06:08:00Z",
+    "departure": "2023-09-07T06:10:00Z"
   },
   {
     "train_number": "761   ",
@@ -107,7 +87,7 @@
     "lat": "48.208",
     "lng": "15.2148",
     "arrival": null,
-    "departure": "2023-09-06T05:56:00Z"
+    "departure": "2023-09-07T05:56:00Z"
   },
   {
     "train_number": "761   ",
@@ -117,7 +97,7 @@
     "lat": "48.158",
     "lng": "15.0981",
     "arrival": null,
-    "departure": "2023-09-06T05:52:00Z"
+    "departure": "2023-09-07T05:52:00Z"
   },
   {
     "train_number": "761   ",
@@ -127,7 +107,7 @@
     "lat": "48.1215",
     "lng": "14.8792",
     "arrival": null,
-    "departure": "2023-09-06T05:47:00Z"
+    "departure": "2023-09-07T05:47:00Z"
   },
   {
     "train_number": "761   ",
@@ -137,7 +117,7 @@
     "lat": "48.1784",
     "lng": "14.5219",
     "arrival": null,
-    "departure": "2023-09-06T05:35:00Z"
+    "departure": "2023-09-07T05:35:00Z"
   },
   {
     "train_number": "761   ",
@@ -147,7 +127,7 @@
     "lat": "48.2212",
     "lng": "14.4668",
     "arrival": null,
-    "departure": "2023-09-06T05:30:00Z"
+    "departure": "2023-09-07T05:30:00Z"
   },
   {
     "train_number": "761   ",
@@ -156,8 +136,8 @@
     "abbr": "Lz  ",
     "lat": "48.2908",
     "lng": "14.2927",
-    "arrival": "2023-09-06T05:15:00Z",
-    "departure": "2023-09-06T05:17:00Z"
+    "arrival": "2023-09-07T05:15:00Z",
+    "departure": "2023-09-07T05:17:00Z"
   },
   {
     "train_number": "761   ",
@@ -166,8 +146,8 @@
     "abbr": "We  ",
     "lat": "48.1662",
     "lng": "14.0273",
-    "arrival": "2023-09-06T04:59:00Z",
-    "departure": "2023-09-06T05:01:00Z"
+    "arrival": "2023-09-07T04:59:00Z",
+    "departure": "2023-09-07T05:01:00Z"
   },
   {
     "train_number": "761   ",
@@ -176,8 +156,8 @@
     "abbr": "At  ",
     "lat": "48.0112",
     "lng": "13.7193",
-    "arrival": "2023-09-06T04:43:00Z",
-    "departure": "2023-09-06T04:45:00Z"
+    "arrival": "2023-09-07T04:43:00Z",
+    "departure": "2023-09-07T04:45:00Z"
   },
   {
     "train_number": "761   ",
@@ -187,16 +167,16 @@
     "lat": "47.9676",
     "lng": "13.2406",
     "arrival": null,
-    "departure": "2023-09-06T04:18:00Z"
+    "departure": "2023-09-07T04:18:00Z"
   },
   {
-    "train_number": "840   ",
+    "train_number": "60    ",
     "unit_number": "1116.0153",
     "name": "Salzburg Hbf (in Sb)",
     "abbr": "Sb  ",
     "lat": "47.8135",
     "lng": "13.0466",
-    "arrival": "2023-09-05T21:49:00Z",
-    "departure": "2023-09-06T04:01:00Z"
+    "arrival": "2023-09-06T10:53:00Z",
+    "departure": "2023-09-07T04:01:00Z"
   }
 ]
