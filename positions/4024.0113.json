@@ -1,163 +1,13 @@
 [
   {
-    "train_number": "4265  ",
+    "train_number": "1743  ",
     "unit_number": "4024.0113",
     "name": "Villach Hbf",
     "abbr": "Vb  ",
     "lat": "46.6186",
     "lng": "13.8484",
-    "arrival": "2023-09-07T22:19:00Z",
-    "departure": "2023-09-08T02:50:00Z"
-  },
-  {
-    "train_number": "4698  ",
-    "unit_number": "4024.0113",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": "2023-09-07T18:15:00Z",
-    "departure": "2023-09-07T21:40:00Z"
-  },
-  {
-    "train_number": "4696  ",
-    "unit_number": "4024.0113",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": "2023-09-07T17:15:00Z",
-    "departure": "2023-09-07T17:37:00Z"
-  },
-  {
-    "train_number": "4694  ",
-    "unit_number": "4024.0113",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": "2023-09-07T16:15:00Z",
-    "departure": "2023-09-07T16:37:00Z"
-  },
-  {
-    "train_number": "4692  ",
-    "unit_number": "4024.0113",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": "2023-09-07T15:15:00Z",
-    "departure": "2023-09-07T15:37:00Z"
-  },
-  {
-    "train_number": "4690  ",
-    "unit_number": "4024.0113",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": "2023-09-07T14:15:00Z",
-    "departure": "2023-09-07T14:37:00Z"
-  },
-  {
-    "train_number": "4688  ",
-    "unit_number": "4024.0113",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": "2023-09-07T13:15:00Z",
-    "departure": "2023-09-07T13:37:00Z"
-  },
-  {
-    "train_number": "4686  ",
-    "unit_number": "4024.0113",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": "2023-09-07T12:15:00Z",
-    "departure": "2023-09-07T12:37:00Z"
-  },
-  {
-    "train_number": "4684  ",
-    "unit_number": "4024.0113",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": "2023-09-07T11:15:00Z",
-    "departure": "2023-09-07T11:37:00Z"
-  },
-  {
-    "train_number": "4682  ",
-    "unit_number": "4024.0113",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": "2023-09-07T10:15:00Z",
-    "departure": "2023-09-07T10:37:00Z"
-  },
-  {
-    "train_number": "4678  ",
-    "unit_number": "4024.0113",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": "2023-09-07T08:15:00Z",
-    "departure": "2023-09-07T08:37:00Z"
-  },
-  {
-    "train_number": "4676  ",
-    "unit_number": "4024.0113",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": "2023-09-07T07:15:00Z",
-    "departure": "2023-09-07T07:37:00Z"
-  },
-  {
-    "train_number": "4674  ",
-    "unit_number": "4024.0113",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": "2023-09-07T06:32:00Z",
-    "departure": "2023-09-07T06:37:00Z"
-  },
-  {
-    "train_number": "4672  ",
-    "unit_number": "4024.0113",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": "2023-09-07T05:51:00Z",
-    "departure": "2023-09-07T05:56:00Z"
-  },
-  {
-    "train_number": "7582  ",
-    "unit_number": "4024.0113",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": "2023-09-07T05:06:00Z",
-    "departure": "2023-09-07T05:14:00Z"
-  },
-  {
-    "train_number": "7580  ",
-    "unit_number": "4024.0113",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": "2023-09-07T04:19:00Z",
-    "departure": "2023-09-07T04:28:00Z"
+    "arrival": "2023-09-08T04:57:00Z",
+    "departure": "2023-09-08T22:18:00Z"
   },
   {
     "train_number": "4208  ",
@@ -166,8 +16,8 @@
     "abbr": "Kt  ",
     "lat": "46.6156",
     "lng": "14.3137",
-    "arrival": "2023-09-07T03:29:00Z",
-    "departure": "2023-09-07T03:41:00Z"
+    "arrival": "2023-09-08T03:29:00Z",
+    "departure": "2023-09-08T04:17:00Z"
   },
   {
     "train_number": "4265  ",
@@ -176,7 +26,7 @@
     "abbr": "Vb  ",
     "lat": "46.6186",
     "lng": "13.8484",
-    "arrival": "2023-09-06T22:19:00Z",
-    "departure": "2023-09-07T02:50:00Z"
+    "arrival": "2023-09-07T22:19:00Z",
+    "departure": "2023-09-08T02:50:00Z"
   }
 ]

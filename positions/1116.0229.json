@@ -1,172 +1,32 @@
 [
   {
-    "train_number": "55039 ",
+    "train_number": "63025 ",
     "unit_number": "1116.0229",
     "name": "Wien Zvbf-Einfgr. (in Zur)",
     "abbr": "Ze  ",
     "lat": "48.1453",
     "lng": "16.43",
-    "arrival": "2023-09-08T00:47:00Z",
-    "departure": "2023-09-08T03:17:00Z"
+    "arrival": "2023-09-08T19:41:00Z",
+    "departure": "2023-09-09T03:17:00Z"
   },
   {
-    "train_number": "55039 ",
+    "train_number": "63025 ",
     "unit_number": "1116.0229",
-    "name": "Wien Meidling (in Wbf)",
-    "abbr": "Mi  ",
-    "lat": "48.1747",
-    "lng": "16.3348",
+    "name": "Tulln a. d. Donau (in Tu)",
+    "abbr": "Tu  ",
+    "lat": "48.3275",
+    "lng": "16.0644",
     "arrival": null,
-    "departure": "2023-09-08T00:33:00Z"
+    "departure": "2023-09-08T18:51:00Z"
   },
   {
-    "train_number": "55039 ",
+    "train_number": "63024 ",
     "unit_number": "1116.0229",
-    "name": "St.Pölten Hbf (in Pb)",
-    "abbr": "Pb  ",
-    "lat": "48.2081",
-    "lng": "15.6237",
+    "name": "Tulln a. d. Donau (in Tu)",
+    "abbr": "Tu  ",
+    "lat": "48.3275",
+    "lng": "16.0644",
     "arrival": null,
-    "departure": "2023-09-07T23:46:00Z"
-  },
-  {
-    "train_number": "55039 ",
-    "unit_number": "1116.0229",
-    "name": "Pöchlarn",
-    "abbr": "Poe ",
-    "lat": "48.208",
-    "lng": "15.2148",
-    "arrival": null,
-    "departure": "2023-09-07T23:13:00Z"
-  },
-  {
-    "train_number": "55039 ",
-    "unit_number": "1116.0229",
-    "name": "Ybbs a.d.Donau",
-    "abbr": "Y   ",
-    "lat": "48.158",
-    "lng": "15.0981",
-    "arrival": null,
-    "departure": "2023-09-07T23:05:00Z"
-  },
-  {
-    "train_number": "55039 ",
-    "unit_number": "1116.0229",
-    "name": "Amstetten (in Ams)",
-    "abbr": "Ams ",
-    "lat": "48.1215",
-    "lng": "14.8792",
-    "arrival": null,
-    "departure": "2023-09-07T22:53:00Z"
-  },
-  {
-    "train_number": "55039 ",
-    "unit_number": "1116.0229",
-    "name": "St.Valentin (in Sv)",
-    "abbr": "Sv  ",
-    "lat": "48.1784",
-    "lng": "14.5219",
-    "arrival": null,
-    "departure": "2023-09-07T22:26:00Z"
-  },
-  {
-    "train_number": "55039 ",
-    "unit_number": "1116.0229",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-09-07T21:54:00Z",
-    "departure": "2023-09-07T21:59:00Z"
-  },
-  {
-    "train_number": "55039 ",
-    "unit_number": "1116.0229",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": null,
-    "departure": "2023-09-07T21:36:00Z"
-  },
-  {
-    "train_number": "55039 ",
-    "unit_number": "1116.0229",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": null,
-    "departure": "2023-09-07T21:12:00Z"
-  },
-  {
-    "train_number": "55039 ",
-    "unit_number": "1116.0229",
-    "name": "Steindorf b.Straßw. (in Nst)",
-    "abbr": "Nst ",
-    "lat": "47.9676",
-    "lng": "13.2406",
-    "arrival": null,
-    "departure": "2023-09-07T20:40:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0229",
-    "name": "Salzburg Gnigl-Vbf (in Sb)",
-    "abbr": "Sr  ",
-    "lat": "47.8075",
-    "lng": "13.0021",
-    "arrival": null,
-    "departure": "2023-09-07T20:17:00Z"
-  },
-  {
-    "train_number": "54380 ",
-    "unit_number": "1116.0229",
-    "name": "Steindorf b.Straßw. (in Nst)",
-    "abbr": "Nst ",
-    "lat": "47.9676",
-    "lng": "13.2406",
-    "arrival": null,
-    "departure": "2023-09-07T07:11:00Z"
-  },
-  {
-    "train_number": "54380 ",
-    "unit_number": "1116.0229",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": null,
-    "departure": "2023-09-07T06:40:00Z"
-  },
-  {
-    "train_number": "54380 ",
-    "unit_number": "1116.0229",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": null,
-    "departure": "2023-09-07T06:16:00Z"
-  },
-  {
-    "train_number": "54380 ",
-    "unit_number": "1116.0229",
-    "name": "Wels Vbf-Einfgr (in Wev)",
-    "abbr": "Wei ",
-    "lat": "48.1765",
-    "lng": "14.0501",
-    "arrival": null,
-    "departure": "2023-09-07T06:12:00Z"
-  },
-  {
-    "train_number": "54839 ",
-    "unit_number": "1116.0229",
-    "name": "Wels Vbf (in Wev)",
-    "abbr": "Wev ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": "2023-09-06T23:28:00Z",
-    "departure": "2023-09-07T06:09:00Z"
+    "departure": "2023-09-08T03:02:00Z"
   }
 ]

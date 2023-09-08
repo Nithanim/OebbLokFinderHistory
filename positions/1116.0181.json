@@ -1,0 +1,102 @@
+[
+  {
+    "train_number": "2101  ",
+    "unit_number": "1116.0181",
+    "name": "Schwarzenau",
+    "abbr": "Swu ",
+    "lat": "48.7464",
+    "lng": "15.2673",
+    "arrival": "2023-09-09T02:12:00Z",
+    "departure": "2023-09-09T02:12:00Z"
+  },
+  {
+    "train_number": "Vhz   ",
+    "unit_number": "1116.0181",
+    "name": "Gmünd N.Ö.",
+    "abbr": "Gm  ",
+    "lat": "48.7646",
+    "lng": "14.985",
+    "arrival": "2023-09-09T01:51:00Z",
+    "departure": "2023-09-09T01:51:00Z"
+  },
+  {
+    "train_number": "2132  ",
+    "unit_number": "1116.0181",
+    "name": "Schwarzenau",
+    "abbr": "Swu ",
+    "lat": "48.7464",
+    "lng": "15.2673",
+    "arrival": "2023-09-08T19:23:00Z",
+    "departure": "2023-09-08T19:23:00Z"
+  },
+  {
+    "train_number": "2132  ",
+    "unit_number": "1116.0181",
+    "name": "Sigmundsherberg",
+    "abbr": "Sh  ",
+    "lat": "48.6852",
+    "lng": "15.7462",
+    "arrival": "2023-09-08T18:45:00Z",
+    "departure": "2023-09-08T18:46:00Z"
+  },
+  {
+    "train_number": "2132  ",
+    "unit_number": "1116.0181",
+    "name": "Absdorf-Hippersdorf (in Ah)",
+    "abbr": "Ah  ",
+    "lat": "48.4018",
+    "lng": "15.9862",
+    "arrival": "2023-09-08T18:05:00Z",
+    "departure": "2023-09-08T18:06:00Z"
+  },
+  {
+    "train_number": "2132  ",
+    "unit_number": "1116.0181",
+    "name": "Tulln a. d. Donau (in Tu)",
+    "abbr": "Tu  ",
+    "lat": "48.3275",
+    "lng": "16.0644",
+    "arrival": "2023-09-08T17:56:00Z",
+    "departure": "2023-09-08T17:57:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0181",
+    "name": "Wien FJBf (in Wf)",
+    "abbr": "Wf  ",
+    "lat": "48.227",
+    "lng": "16.3611",
+    "arrival": null,
+    "departure": "2023-09-08T17:28:00Z"
+  },
+  {
+    "train_number": "84433 ",
+    "unit_number": "1116.0181",
+    "name": "W. Hütteldorf GzGr (in Hf)",
+    "abbr": "----",
+    "lat": "48.1964",
+    "lng": "16.3374",
+    "arrival": "2023-09-08T13:02:00Z",
+    "departure": "2023-09-08T13:21:00Z"
+  },
+  {
+    "train_number": "87548 ",
+    "unit_number": "1116.0181",
+    "name": "Wien Westbf (in Ws)",
+    "abbr": "Ws  ",
+    "lat": "48.1964",
+    "lng": "16.3374",
+    "arrival": "2023-09-08T04:12:00Z",
+    "departure": "2023-09-08T12:56:00Z"
+  },
+  {
+    "train_number": "2376  ",
+    "unit_number": "1116.0181",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-05T21:53:00Z",
+    "departure": "2023-09-08T04:02:00Z"
+  }
+]
