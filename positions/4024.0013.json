@@ -1,72 +1,152 @@
 [
   {
-    "train_number": "3664  ",
-    "unit_number": "4024.0013",
-    "name": "St.Valentin (in Sv)",
-    "abbr": "Sv  ",
-    "lat": "48.1784",
-    "lng": "14.5219",
-    "arrival": "2023-09-08T16:07:00Z",
-    "departure": "2023-09-09T04:50:00Z"
-  },
-  {
-    "train_number": "3663  ",
-    "unit_number": "4024.0013",
-    "name": "St.Valentin (in Sv)",
-    "abbr": "Sv  ",
-    "lat": "48.1784",
-    "lng": "14.5219",
-    "arrival": "2023-09-08T14:17:00Z",
-    "departure": "2023-09-08T14:21:00Z"
-  },
-  {
-    "train_number": "3663  ",
-    "unit_number": "4024.0013",
-    "name": "Enns",
-    "abbr": "Ens ",
-    "lat": "48.2212",
-    "lng": "14.4668",
-    "arrival": "2023-09-08T14:10:00Z",
-    "departure": "2023-09-08T14:11:00Z"
-  },
-  {
-    "train_number": "3992  ",
+    "train_number": "3976  ",
     "unit_number": "4024.0013",
     "name": "Linz Hbf",
     "abbr": "Lz  ",
     "lat": "48.2908",
     "lng": "14.2927",
-    "arrival": "2023-09-08T05:43:00Z",
-    "departure": "2023-09-08T13:53:00Z"
+    "arrival": "2023-09-09T17:24:00Z",
+    "departure": "2023-09-09T20:36:00Z"
   },
   {
-    "train_number": "3600  ",
+    "train_number": "3972  ",
     "unit_number": "4024.0013",
     "name": "Linz Hbf",
     "abbr": "Lz  ",
     "lat": "48.2908",
     "lng": "14.2927",
-    "arrival": "2023-09-08T04:19:00Z",
-    "departure": "2023-09-08T04:36:00Z"
+    "arrival": "2023-09-09T16:24:00Z",
+    "departure": "2023-09-09T16:36:00Z"
   },
   {
-    "train_number": "3600  ",
+    "train_number": "3964  ",
     "unit_number": "4024.0013",
-    "name": "Enns",
-    "abbr": "Ens ",
-    "lat": "48.2212",
-    "lng": "14.4668",
-    "arrival": "2023-09-08T04:02:00Z",
-    "departure": "2023-09-08T04:03:00Z"
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-09-09T15:24:00Z",
+    "departure": "2023-09-09T15:36:00Z"
   },
   {
-    "train_number": "3600  ",
+    "train_number": "3962  ",
     "unit_number": "4024.0013",
-    "name": "St.Valentin (in Sv)",
-    "abbr": "Sv  ",
-    "lat": "48.1784",
-    "lng": "14.5219",
-    "arrival": "2023-09-08T03:55:00Z",
-    "departure": "2023-09-08T03:56:00Z"
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-09-09T14:24:00Z",
+    "departure": "2023-09-09T14:36:00Z"
+  },
+  {
+    "train_number": "3960  ",
+    "unit_number": "4024.0013",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-09-09T13:24:00Z",
+    "departure": "2023-09-09T13:36:00Z"
+  },
+  {
+    "train_number": "3956  ",
+    "unit_number": "4024.0013",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-09-09T12:24:00Z",
+    "departure": "2023-09-09T12:36:00Z"
+  },
+  {
+    "train_number": "3952  ",
+    "unit_number": "4024.0013",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-09-09T11:24:00Z",
+    "departure": "2023-09-09T11:36:00Z"
+  },
+  {
+    "train_number": "3948  ",
+    "unit_number": "4024.0013",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-09-09T10:24:00Z",
+    "departure": "2023-09-09T10:36:00Z"
+  },
+  {
+    "train_number": "3942  ",
+    "unit_number": "4024.0013",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-09-09T09:24:00Z",
+    "departure": "2023-09-09T09:36:00Z"
+  },
+  {
+    "train_number": "3940  ",
+    "unit_number": "4024.0013",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-09-09T08:24:00Z",
+    "departure": "2023-09-09T08:36:00Z"
+  },
+  {
+    "train_number": "3938  ",
+    "unit_number": "4024.0013",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-09-09T07:24:00Z",
+    "departure": "2023-09-09T07:36:00Z"
+  },
+  {
+    "train_number": "3936  ",
+    "unit_number": "4024.0013",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-09-09T06:24:00Z",
+    "departure": "2023-09-09T06:36:00Z"
+  },
+  {
+    "train_number": "3932  ",
+    "unit_number": "4024.0013",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-09-09T05:24:00Z",
+    "departure": "2023-09-09T05:36:00Z"
+  },
+  {
+    "train_number": "3924  ",
+    "unit_number": "4024.0013",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-09-09T04:24:00Z",
+    "departure": "2023-09-09T04:36:00Z"
+  },
+  {
+    "train_number": "3920  ",
+    "unit_number": "4024.0013",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-09-09T03:24:00Z",
+    "departure": "2023-09-09T03:36:00Z"
   }
 ]
