@@ -6,8 +6,8 @@
     "abbr": "Vps ",
     "lat": "46.7704",
     "lng": "14.3672",
-    "arrival": "2023-09-09T19:56:00Z",
-    "departure": "2023-09-10T03:58:00Z"
+    "arrival": "2023-09-10T19:56:00Z",
+    "departure": "2023-09-11T04:57:00Z"
   },
   {
     "train_number": "4329  ",
@@ -16,8 +16,8 @@
     "abbr": "Vb  ",
     "lat": "46.6186",
     "lng": "13.8484",
-    "arrival": "2023-09-09T18:06:00Z",
-    "departure": "2023-09-09T18:53:00Z"
+    "arrival": "2023-09-10T18:06:00Z",
+    "departure": "2023-09-10T18:53:00Z"
   },
   {
     "train_number": "4323  ",
@@ -26,57 +26,67 @@
     "abbr": "Vb  ",
     "lat": "46.6186",
     "lng": "13.8484",
-    "arrival": "2023-09-09T15:06:00Z",
-    "departure": "2023-09-09T15:53:00Z"
+    "arrival": "2023-09-10T15:06:00Z",
+    "departure": "2023-09-10T15:53:00Z"
   },
   {
-    "train_number": "4302  ",
+    "train_number": "4320  ",
     "unit_number": "4024.0113",
     "name": "St.Veit a.d.Glan (in Vps)",
     "abbr": "Vps ",
     "lat": "46.7704",
     "lng": "14.3672",
-    "arrival": "2023-09-09T05:46:00Z",
-    "departure": "2023-09-09T14:01:00Z"
+    "arrival": "2023-09-10T13:56:00Z",
+    "departure": "2023-09-10T14:01:00Z"
   },
   {
-    "train_number": "4302  ",
+    "train_number": "4317  ",
     "unit_number": "4024.0113",
     "name": "Villach Hbf",
     "abbr": "Vb  ",
     "lat": "46.6186",
     "lng": "13.8484",
-    "arrival": "2023-09-09T04:39:00Z",
-    "departure": "2023-09-09T04:42:00Z"
+    "arrival": "2023-09-10T12:06:00Z",
+    "departure": "2023-09-10T12:53:00Z"
   },
   {
-    "train_number": "85747 ",
-    "unit_number": "4024.0113",
-    "name": "Rosenbach",
-    "abbr": "Rn  ",
-    "lat": "46.5309",
-    "lng": "14.0354",
-    "arrival": "2023-09-09T03:52:00Z",
-    "departure": "2023-09-09T04:07:00Z"
-  },
-  {
-    "train_number": "85747 ",
+    "train_number": "4311  ",
     "unit_number": "4024.0113",
     "name": "Villach Hbf",
     "abbr": "Vb  ",
     "lat": "46.6186",
     "lng": "13.8484",
-    "arrival": "2023-09-09T03:22:00Z",
-    "departure": "2023-09-09T03:23:00Z"
+    "arrival": "2023-09-10T09:06:00Z",
+    "departure": "2023-09-10T09:53:00Z"
   },
   {
-    "train_number": null,
+    "train_number": "4306  ",
     "unit_number": "4024.0113",
-    "name": "Villach Hbf-Ostbf (in Vb)",
-    "abbr": "Vbo ",
+    "name": "St.Veit a.d.Glan (in Vps)",
+    "abbr": "Vps ",
+    "lat": "46.7704",
+    "lng": "14.3672",
+    "arrival": "2023-09-10T07:56:00Z",
+    "departure": "2023-09-10T08:01:00Z"
+  },
+  {
+    "train_number": "4303  ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
     "lat": "46.6186",
     "lng": "13.8484",
-    "arrival": null,
-    "departure": "2023-09-09T03:19:00Z"
+    "arrival": "2023-09-10T05:08:00Z",
+    "departure": "2023-09-10T06:53:00Z"
+  },
+  {
+    "train_number": "4334  ",
+    "unit_number": "4024.0113",
+    "name": "St.Veit a.d.Glan (in Vps)",
+    "abbr": "Vps ",
+    "lat": "46.7704",
+    "lng": "14.3672",
+    "arrival": "2023-09-09T19:56:00Z",
+    "departure": "2023-09-10T03:58:00Z"
   }
 ]
