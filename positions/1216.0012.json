@@ -1,0 +1,32 @@
+[
+  {
+    "train_number": "18344 ",
+    "unit_number": "1216.0012",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-09-11T12:39:00Z",
+    "departure": "2023-09-12T22:05:00Z"
+  },
+  {
+    "train_number": "43881 ",
+    "unit_number": "1216.0012",
+    "name": "Brennero/Brenner",
+    "abbr": "Be  ",
+    "lat": "47.0022",
+    "lng": "11.5053",
+    "arrival": "2023-09-11T11:01:00Z",
+    "departure": "2023-09-11T12:00:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1216.0012",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": null,
+    "departure": "2023-09-11T10:15:00Z"
+  }
+]

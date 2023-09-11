@@ -1,0 +1,102 @@
+[
+  {
+    "train_number": "45100 ",
+    "unit_number": "1116.0157",
+    "name": "Rosenheim",
+    "abbr": "MRO ",
+    "lat": "47.8511",
+    "lng": "12.1196",
+    "arrival": null,
+    "departure": "2023-09-11T23:08:00Z"
+  },
+  {
+    "train_number": "45100 ",
+    "unit_number": "1116.0157",
+    "name": "Kufstein",
+    "abbr": "K   ",
+    "lat": "47.5833",
+    "lng": "12.1657",
+    "arrival": "2023-09-11T22:40:00Z",
+    "departure": "2023-09-11T22:43:00Z"
+  },
+  {
+    "train_number": "45100 ",
+    "unit_number": "1116.0157",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": null,
+    "departure": "2023-09-11T22:27:00Z"
+  },
+  {
+    "train_number": "45100 ",
+    "unit_number": "1116.0157",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-09-11T22:25:00Z"
+  },
+  {
+    "train_number": "64436 ",
+    "unit_number": "1116.0157",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
+    "arrival": "2023-09-11T19:07:00Z",
+    "departure": "2023-09-11T21:50:00Z"
+  },
+  {
+    "train_number": "64436 ",
+    "unit_number": "1116.0157",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-09-11T18:34:00Z"
+  },
+  {
+    "train_number": "45194 ",
+    "unit_number": "1116.0157",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-09-11T15:50:00Z",
+    "departure": "2023-09-11T18:31:00Z"
+  },
+  {
+    "train_number": "45194 ",
+    "unit_number": "1116.0157",
+    "name": "Kitzbühel",
+    "abbr": "Kzb ",
+    "lat": "47.4542",
+    "lng": "12.391",
+    "arrival": null,
+    "departure": "2023-09-11T15:21:00Z"
+  },
+  {
+    "train_number": "45192 ",
+    "unit_number": "1116.0157",
+    "name": "Kitzbühel",
+    "abbr": "Kzb ",
+    "lat": "47.4542",
+    "lng": "12.391",
+    "arrival": null,
+    "departure": "2023-09-11T03:53:00Z"
+  },
+  {
+    "train_number": "49837 ",
+    "unit_number": "1116.0157",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-09-10T16:01:00Z",
+    "departure": "2023-09-11T03:26:00Z"
+  }
+]
