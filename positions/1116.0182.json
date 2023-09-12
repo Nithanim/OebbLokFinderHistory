@@ -1,102 +1,162 @@
 [
   {
+    "train_number": "45152 ",
+    "unit_number": "1116.0182",
+    "name": "Kufstein",
+    "abbr": "K   ",
+    "lat": "47.5833",
+    "lng": "12.1657",
+    "arrival": "2023-09-12T11:04:00Z",
+    "departure": "2023-09-12T11:37:00Z"
+  },
+  {
+    "train_number": "88357 ",
+    "unit_number": "1116.0182",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-09-12T08:55:00Z",
+    "departure": "2023-09-12T10:51:00Z"
+  },
+  {
+    "train_number": "88357 ",
+    "unit_number": "1116.0182",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-09-12T08:53:00Z"
+  },
+  {
     "train_number": "47982 ",
     "unit_number": "1116.0182",
-    "name": "Stainach-Irdning",
-    "abbr": "Rg  ",
-    "lat": "47.5293",
-    "lng": "14.1078",
-    "arrival": null,
-    "departure": "2023-09-12T01:55:00Z"
+    "name": "Jenbach",
+    "abbr": "Jb  ",
+    "lat": "47.3884",
+    "lng": "11.7783",
+    "arrival": "2023-09-12T08:22:00Z",
+    "departure": "2023-09-12T08:35:00Z"
   },
   {
     "train_number": "47982 ",
     "unit_number": "1116.0182",
-    "name": "Selzthal (in Sl)",
-    "abbr": "Sl  ",
-    "lat": "47.5505",
-    "lng": "14.3134",
-    "arrival": "2023-09-12T01:20:00Z",
-    "departure": "2023-09-12T01:40:00Z"
-  },
-  {
-    "train_number": "88801 ",
-    "unit_number": "1116.0182",
-    "name": "St.Michael (in M)",
-    "abbr": "M   ",
-    "lat": "47.3445",
-    "lng": "15.0103",
-    "arrival": "2023-09-11T23:45:00Z",
-    "departure": "2023-09-12T00:32:00Z"
-  },
-  {
-    "train_number": "88916 ",
-    "unit_number": "1116.0182",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": "2023-09-11T09:10:00Z",
-    "departure": "2023-09-11T23:38:00Z"
-  },
-  {
-    "train_number": "62580 ",
-    "unit_number": "1116.0182",
-    "name": "St.Michael (in M)",
-    "abbr": "M   ",
-    "lat": "47.3445",
-    "lng": "15.0103",
-    "arrival": "2023-09-11T08:45:00Z",
-    "departure": "2023-09-11T09:03:00Z"
-  },
-  {
-    "train_number": "62580 ",
-    "unit_number": "1116.0182",
-    "name": "Zeltweg",
-    "abbr": "Zg  ",
-    "lat": "47.1887",
-    "lng": "14.7425",
-    "arrival": "2023-09-11T07:45:00Z",
-    "departure": "2023-09-11T08:06:00Z"
-  },
-  {
-    "train_number": "62580 ",
-    "unit_number": "1116.0182",
-    "name": "St.Veit a.d.Glan (in Vps)",
-    "abbr": "Vps ",
-    "lat": "46.7704",
-    "lng": "14.3672",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
     "arrival": null,
-    "departure": "2023-09-11T06:18:00Z"
+    "departure": "2023-09-12T08:04:00Z"
   },
   {
-    "train_number": "62580 ",
+    "train_number": "47982 ",
     "unit_number": "1116.0182",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": null,
-    "departure": "2023-09-11T06:00:00Z"
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-09-12T07:46:00Z",
+    "departure": "2023-09-12T08:03:00Z"
   },
   {
-    "train_number": "62580 ",
+    "train_number": "47982 ",
     "unit_number": "1116.0182",
-    "name": "Villach Hbf",
-    "abbr": "Vb  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
-    "arrival": null,
-    "departure": "2023-09-11T05:33:00Z"
+    "name": "Kufstein",
+    "abbr": "K   ",
+    "lat": "47.5833",
+    "lng": "12.1657",
+    "arrival": "2023-09-12T07:31:00Z",
+    "departure": "2023-09-12T07:34:00Z"
   },
   {
-    "train_number": null,
+    "train_number": "47982 ",
     "unit_number": "1116.0182",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
+    "name": "Traunstein",
+    "abbr": "MTS ",
+    "lat": "47.8697",
+    "lng": "12.6391",
     "arrival": null,
-    "departure": "2023-09-11T05:22:00Z"
+    "departure": "2023-09-12T05:30:00Z"
+  },
+  {
+    "train_number": "47982 ",
+    "unit_number": "1116.0182",
+    "name": "Freilassing",
+    "abbr": "MFL ",
+    "lat": "47.8368",
+    "lng": "12.9764",
+    "arrival": null,
+    "departure": "2023-09-12T04:49:00Z"
+  },
+  {
+    "train_number": "47982 ",
+    "unit_number": "1116.0182",
+    "name": "Salzburg Liefering (in Sb)",
+    "abbr": "Lfg ",
+    "lat": "47.8229",
+    "lng": "13.0021",
+    "arrival": null,
+    "departure": "2023-09-12T04:46:00Z"
+  },
+  {
+    "train_number": "47982 ",
+    "unit_number": "1116.0182",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-09-12T04:37:00Z",
+    "departure": "2023-09-12T04:40:00Z"
+  },
+  {
+    "train_number": "47982 ",
+    "unit_number": "1116.0182",
+    "name": "Salzburg Gnigl-Vbf (in Sb)",
+    "abbr": "Sr  ",
+    "lat": "47.8075",
+    "lng": "13.0021",
+    "arrival": "2023-09-12T04:29:00Z",
+    "departure": "2023-09-12T04:33:00Z"
+  },
+  {
+    "train_number": "47982 ",
+    "unit_number": "1116.0182",
+    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
+    "abbr": "Sre ",
+    "lat": "47.8075",
+    "lng": "13.0687",
+    "arrival": null,
+    "departure": "2023-09-12T04:28:00Z"
+  },
+  {
+    "train_number": "47982 ",
+    "unit_number": "1116.0182",
+    "name": "Bischofshofen (in Bo)",
+    "abbr": "Bo  ",
+    "lat": "47.42",
+    "lng": "13.2199",
+    "arrival": null,
+    "departure": "2023-09-12T03:52:00Z"
+  },
+  {
+    "train_number": "47982 ",
+    "unit_number": "1116.0182",
+    "name": "Bischofshofen Fbf (in Bo)",
+    "abbr": "Bob ",
+    "lat": "47.42",
+    "lng": "13.2199",
+    "arrival": "2023-09-12T03:27:00Z",
+    "departure": "2023-09-12T03:52:00Z"
+  },
+  {
+    "train_number": "47982 ",
+    "unit_number": "1116.0182",
+    "name": "Bischofshofen (in Bo)",
+    "abbr": "Bo  ",
+    "lat": "47.42",
+    "lng": "13.2199",
+    "arrival": null,
+    "departure": "2023-09-12T03:25:00Z"
   }
 ]

@@ -1,0 +1,102 @@
+[
+  {
+    "train_number": "45711 ",
+    "unit_number": "1016.0021",
+    "name": "Bludenz",
+    "abbr": "B   ",
+    "lat": "47.155",
+    "lng": "9.81448",
+    "arrival": "2023-09-12T19:33:00Z",
+    "departure": "2023-09-13T04:30:00Z"
+  },
+  {
+    "train_number": "45711 ",
+    "unit_number": "1016.0021",
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
+    "arrival": null,
+    "departure": "2023-09-12T19:17:00Z"
+  },
+  {
+    "train_number": "45724 ",
+    "unit_number": "1016.0021",
+    "name": "Buchs (SG)",
+    "abbr": "Bc  ",
+    "lat": "47.171",
+    "lng": "9.4779",
+    "arrival": "2023-09-12T13:21:00Z",
+    "departure": "2023-09-12T18:53:00Z"
+  },
+  {
+    "train_number": "45724 ",
+    "unit_number": "1016.0021",
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
+    "arrival": null,
+    "departure": "2023-09-12T13:05:00Z"
+  },
+  {
+    "train_number": "79807 ",
+    "unit_number": "1016.0021",
+    "name": "Bludenz",
+    "abbr": "B   ",
+    "lat": "47.155",
+    "lng": "9.81448",
+    "arrival": "2023-09-12T09:06:00Z",
+    "departure": "2023-09-12T12:46:00Z"
+  },
+  {
+    "train_number": "79807 ",
+    "unit_number": "1016.0021",
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
+    "arrival": "2023-09-12T08:23:00Z",
+    "departure": "2023-09-12T08:47:00Z"
+  },
+  {
+    "train_number": "45712 ",
+    "unit_number": "1016.0021",
+    "name": "Buchs (SG)",
+    "abbr": "Bc  ",
+    "lat": "47.171",
+    "lng": "9.4779",
+    "arrival": "2023-09-12T07:16:00Z",
+    "departure": "2023-09-12T08:08:00Z"
+  },
+  {
+    "train_number": "45712 ",
+    "unit_number": "1016.0021",
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
+    "arrival": "2023-09-12T06:24:00Z",
+    "departure": "2023-09-12T06:55:00Z"
+  },
+  {
+    "train_number": "42834 ",
+    "unit_number": "1016.0021",
+    "name": "Bludenz",
+    "abbr": "B   ",
+    "lat": "47.155",
+    "lng": "9.81448",
+    "arrival": "2023-09-12T05:14:00Z",
+    "departure": "2023-09-12T06:04:00Z"
+  },
+  {
+    "train_number": "45861 ",
+    "unit_number": "1016.0021",
+    "name": "Landeck-Zams",
+    "abbr": "Le  ",
+    "lat": "47.148",
+    "lng": "10.5782",
+    "arrival": "2023-09-11T18:35:00Z",
+    "departure": "2023-09-12T04:14:00Z"
+  }
+]
