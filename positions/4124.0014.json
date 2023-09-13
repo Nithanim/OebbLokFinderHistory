@@ -1,202 +1,202 @@
 [
   {
-    "train_number": "2643  ",
+    "train_number": "2638  ",
     "unit_number": "4124.0014",
     "name": "Neusiedl am See",
     "abbr": "Ns  ",
     "lat": "47.9558",
     "lng": "16.8235",
-    "arrival": "2023-09-12T12:55:00Z",
-    "departure": "2023-09-12T12:59:00Z"
+    "arrival": "2023-09-13T11:55:00Z",
+    "departure": "2023-09-13T12:01:00Z"
   },
   {
-    "train_number": "2643  ",
+    "train_number": "2638  ",
+    "unit_number": "4124.0014",
+    "name": "Eisenstadt (in E)",
+    "abbr": "E   ",
+    "lat": "47.8391",
+    "lng": "16.529",
+    "arrival": "2023-09-13T11:26:00Z",
+    "departure": "2023-09-13T11:27:00Z"
+  },
+  {
+    "train_number": "7833  ",
+    "unit_number": "4124.0014",
+    "name": "Eisenstadt (in E)",
+    "abbr": "E   ",
+    "lat": "47.8391",
+    "lng": "16.529",
+    "arrival": "2023-09-13T11:07:00Z",
+    "departure": "2023-09-13T11:08:00Z"
+  },
+  {
+    "train_number": "7836  ",
+    "unit_number": "4124.0014",
+    "name": "Eisenstadt Schule (in E)",
+    "abbr": "Esu ",
+    "lat": "47.8391",
+    "lng": "16.529",
+    "arrival": "2023-09-13T10:53:00Z",
+    "departure": "2023-09-13T11:05:00Z"
+  },
+  {
+    "train_number": "7836  ",
+    "unit_number": "4124.0014",
+    "name": "Eisenstadt (in E)",
+    "abbr": "E   ",
+    "lat": "47.8391",
+    "lng": "16.529",
+    "arrival": "2023-09-13T10:51:00Z",
+    "departure": "2023-09-13T10:52:00Z"
+  },
+  {
+    "train_number": "2631  ",
+    "unit_number": "4124.0014",
+    "name": "Eisenstadt (in E)",
+    "abbr": "E   ",
+    "lat": "47.8391",
+    "lng": "16.529",
+    "arrival": "2023-09-13T10:26:00Z",
+    "departure": "2023-09-13T10:33:00Z"
+  },
+  {
+    "train_number": "2631  ",
+    "unit_number": "4124.0014",
+    "name": "Neusiedl am See",
+    "abbr": "Ns  ",
+    "lat": "47.9558",
+    "lng": "16.8235",
+    "arrival": "2023-09-13T09:55:00Z",
+    "departure": "2023-09-13T09:59:00Z"
+  },
+  {
+    "train_number": "2631  ",
     "unit_number": "4124.0014",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-09-12T12:21:00Z"
+    "departure": "2023-09-13T09:21:00Z"
   },
   {
-    "train_number": "2634  ",
+    "train_number": "2622  ",
     "unit_number": "4124.0014",
     "name": "Wien Hauptbahnhof (in Wbf)",
     "abbr": "Wbf ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-09-12T11:43:00Z",
-    "departure": "2023-09-12T12:15:00Z"
+    "arrival": "2023-09-13T08:43:00Z",
+    "departure": "2023-09-13T09:15:00Z"
   },
   {
-    "train_number": "2634  ",
+    "train_number": "2622  ",
     "unit_number": "4124.0014",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-09-12T11:36:00Z"
+    "departure": "2023-09-13T08:36:00Z"
   },
   {
-    "train_number": "7934  ",
+    "train_number": "7922  ",
     "unit_number": "4124.0014",
     "name": "Neusiedl am See",
     "abbr": "Ns  ",
     "lat": "47.9558",
     "lng": "16.8235",
-    "arrival": "2023-09-12T10:57:00Z",
-    "departure": "2023-09-12T11:01:00Z"
+    "arrival": "2023-09-13T07:57:00Z",
+    "departure": "2023-09-13T08:01:00Z"
   },
   {
-    "train_number": "7934  ",
+    "train_number": "7922  ",
     "unit_number": "4124.0014",
     "name": "St. Andrä am Zicksee",
     "abbr": "SAZ ",
     "lat": "47.7825",
     "lng": "16.928",
-    "arrival": "2023-09-12T10:28:00Z",
-    "departure": "2023-09-12T10:30:00Z"
+    "arrival": "2023-09-13T07:28:00Z",
+    "departure": "2023-09-13T07:30:00Z"
   },
   {
-    "train_number": "7927  ",
+    "train_number": "7915  ",
     "unit_number": "4124.0014",
     "name": "St. Andrä am Zicksee",
     "abbr": "SAZ ",
     "lat": "47.7825",
     "lng": "16.928",
-    "arrival": "2023-09-12T09:28:00Z",
-    "departure": "2023-09-12T09:29:00Z"
+    "arrival": "2023-09-13T06:28:00Z",
+    "departure": "2023-09-13T06:29:00Z"
   },
   {
-    "train_number": "2627  ",
+    "train_number": "2615  ",
     "unit_number": "4124.0014",
     "name": "Neusiedl am See",
     "abbr": "Ns  ",
     "lat": "47.9558",
     "lng": "16.8235",
-    "arrival": "2023-09-12T08:55:00Z",
-    "departure": "2023-09-12T09:01:00Z"
+    "arrival": "2023-09-13T05:55:00Z",
+    "departure": "2023-09-13T06:01:00Z"
   },
   {
-    "train_number": "2627  ",
+    "train_number": "2615  ",
     "unit_number": "4124.0014",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-09-12T08:21:00Z"
+    "departure": "2023-09-13T05:21:00Z"
   },
   {
-    "train_number": "2618  ",
+    "train_number": "2606  ",
     "unit_number": "4124.0014",
     "name": "Wien Hauptbahnhof (in Wbf)",
     "abbr": "Wbf ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-09-12T07:43:00Z",
-    "departure": "2023-09-12T08:15:00Z"
+    "arrival": "2023-09-13T04:43:00Z",
+    "departure": "2023-09-13T05:15:00Z"
   },
   {
-    "train_number": "2618  ",
+    "train_number": "2606  ",
     "unit_number": "4124.0014",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-09-12T07:36:00Z"
+    "departure": "2023-09-13T04:36:00Z"
   },
   {
-    "train_number": "2618  ",
+    "train_number": "2606  ",
     "unit_number": "4124.0014",
     "name": "Neusiedl am See",
     "abbr": "Ns  ",
     "lat": "47.9558",
     "lng": "16.8235",
-    "arrival": "2023-09-12T06:55:00Z",
-    "departure": "2023-09-12T07:01:00Z"
+    "arrival": "2023-09-13T03:55:00Z",
+    "departure": "2023-09-13T04:01:00Z"
   },
   {
-    "train_number": "2618  ",
+    "train_number": "2606  ",
     "unit_number": "4124.0014",
     "name": "Eisenstadt (in E)",
     "abbr": "E   ",
     "lat": "47.8391",
     "lng": "16.529",
-    "arrival": "2023-09-12T06:26:00Z",
-    "departure": "2023-09-12T06:27:00Z"
+    "arrival": "2023-09-13T03:26:00Z",
+    "departure": "2023-09-13T03:27:00Z"
   },
   {
-    "train_number": "84356 ",
+    "train_number": "84340 ",
     "unit_number": "4124.0014",
     "name": "Eisenstadt (in E)",
     "abbr": "E   ",
     "lat": "47.8391",
     "lng": "16.529",
-    "arrival": "2023-09-12T05:33:00Z",
-    "departure": "2023-09-12T05:55:00Z"
-  },
-  {
-    "train_number": "2609  ",
-    "unit_number": "4124.0014",
-    "name": "Eisenstadt (in E)",
-    "abbr": "E   ",
-    "lat": "47.8391",
-    "lng": "16.529",
-    "arrival": "2023-09-12T05:07:00Z",
-    "departure": "2023-09-12T05:08:00Z"
-  },
-  {
-    "train_number": "2609  ",
-    "unit_number": "4124.0014",
-    "name": "Neusiedl am See",
-    "abbr": "Ns  ",
-    "lat": "47.9558",
-    "lng": "16.8235",
-    "arrival": "2023-09-12T04:28:00Z",
-    "departure": "2023-09-12T04:31:00Z"
-  },
-  {
-    "train_number": "26011 ",
-    "unit_number": "4124.0014",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-09-12T03:27:00Z"
-  },
-  {
-    "train_number": "2600  ",
-    "unit_number": "4124.0014",
-    "name": "Wien Hauptbahnhof (in Wbf)",
-    "abbr": "Wbf ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": "2023-09-12T03:12:00Z",
-    "departure": "2023-09-12T03:20:00Z"
-  },
-  {
-    "train_number": "2600  ",
-    "unit_number": "4124.0014",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-09-12T03:05:00Z"
-  },
-  {
-    "train_number": "7900  ",
-    "unit_number": "4124.0014",
-    "name": "Neusiedl am See",
-    "abbr": "Ns  ",
-    "lat": "47.9558",
-    "lng": "16.8235",
-    "arrival": "2023-09-12T02:26:00Z",
-    "departure": "2023-09-12T02:30:00Z"
+    "arrival": "2023-09-13T02:16:00Z",
+    "departure": "2023-09-13T02:55:00Z"
   }
 ]
