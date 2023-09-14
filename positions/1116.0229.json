@@ -1,72 +1,202 @@
 [
   {
-    "train_number": "62    ",
+    "train_number": "754   ",
     "unit_number": "1116.0229",
-    "name": "Wien Hauptbahnhof (in Wbf)",
-    "abbr": "Wbf ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": "2023-09-13T10:21:00Z",
-    "departure": "2023-09-14T04:28:00Z"
+    "name": "Mürzzuschlag (in Mz)",
+    "abbr": "Mz  ",
+    "lat": "47.6079",
+    "lng": "15.677",
+    "arrival": "2023-09-14T16:30:00Z",
+    "departure": "2023-09-14T16:32:00Z"
   },
   {
-    "train_number": "62    ",
+    "train_number": "754   ",
+    "unit_number": "1116.0229",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": "2023-09-14T16:00:00Z",
+    "departure": "2023-09-14T16:02:00Z"
+  },
+  {
+    "train_number": "754   ",
+    "unit_number": "1116.0229",
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
+    "arrival": null,
+    "departure": "2023-09-14T15:28:00Z"
+  },
+  {
+    "train_number": "657   ",
+    "unit_number": "1116.0229",
+    "name": "Graz Hbf (in G)",
+    "abbr": "G   ",
+    "lat": "47.0733",
+    "lng": "15.4163",
+    "arrival": "2023-09-14T14:34:00Z",
+    "departure": "2023-09-14T15:25:00Z"
+  },
+  {
+    "train_number": "657   ",
+    "unit_number": "1116.0229",
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
+    "arrival": null,
+    "departure": "2023-09-14T14:31:00Z"
+  },
+  {
+    "train_number": "657   ",
+    "unit_number": "1116.0229",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": "2023-09-14T13:57:00Z",
+    "departure": "2023-09-14T13:59:00Z"
+  },
+  {
+    "train_number": "657   ",
+    "unit_number": "1116.0229",
+    "name": "Mürzzuschlag (in Mz)",
+    "abbr": "Mz  ",
+    "lat": "47.6079",
+    "lng": "15.677",
+    "arrival": "2023-09-14T13:28:00Z",
+    "departure": "2023-09-14T13:30:00Z"
+  },
+  {
+    "train_number": "657   ",
+    "unit_number": "1116.0229",
+    "name": "Payerbach-Reichenau",
+    "abbr": "Pr  ",
+    "lat": "47.696",
+    "lng": "15.8632",
+    "arrival": null,
+    "departure": "2023-09-14T12:52:00Z"
+  },
+  {
+    "train_number": "657   ",
+    "unit_number": "1116.0229",
+    "name": "Neunkirchen N.Ö.",
+    "abbr": "Nek ",
+    "lat": "47.731",
+    "lng": "16.0826",
+    "arrival": null,
+    "departure": "2023-09-14T12:41:00Z"
+  },
+  {
+    "train_number": "657   ",
+    "unit_number": "1116.0229",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": "2023-09-14T12:28:00Z",
+    "departure": "2023-09-14T12:32:00Z"
+  },
+  {
+    "train_number": "657   ",
+    "unit_number": "1116.0229",
+    "name": "Leobersdorf",
+    "abbr": "Lb  ",
+    "lat": "47.9375",
+    "lng": "16.2313",
+    "arrival": null,
+    "departure": "2023-09-14T12:21:00Z"
+  },
+  {
+    "train_number": "657   ",
+    "unit_number": "1116.0229",
+    "name": "Mödling",
+    "abbr": "Md  ",
+    "lat": "48.0858",
+    "lng": "16.2958",
+    "arrival": null,
+    "departure": "2023-09-14T12:13:00Z"
+  },
+  {
+    "train_number": "657   ",
+    "unit_number": "1116.0229",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-14T12:03:00Z",
+    "departure": "2023-09-14T12:05:00Z"
+  },
+  {
+    "train_number": "162   ",
+    "unit_number": "1116.0229",
+    "name": "Wien Hauptbahnhof (in Wbf)",
+    "abbr": "----",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-14T07:18:00Z",
+    "departure": "2023-09-14T11:58:00Z"
+  },
+  {
+    "train_number": "162   ",
     "unit_number": "1116.0229",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
-    "arrival": "2023-09-13T10:12:00Z",
-    "departure": "2023-09-13T10:14:00Z"
+    "arrival": null,
+    "departure": "2023-09-14T07:12:00Z"
   },
   {
-    "train_number": "62    ",
+    "train_number": "162   ",
     "unit_number": "1116.0229",
     "name": "Parndorf",
     "abbr": "Par ",
     "lat": "47.987",
     "lng": "16.8702",
     "arrival": null,
-    "departure": "2023-09-13T09:45:00Z"
+    "departure": "2023-09-14T06:45:00Z"
   },
   {
-    "train_number": "62    ",
+    "train_number": "162   ",
     "unit_number": "1116.0229",
     "name": "Hegyeshalom",
     "abbr": "He  ",
     "lat": "47.9139",
     "lng": "17.1455",
-    "arrival": "2023-09-13T09:29:00Z",
-    "departure": "2023-09-13T09:32:00Z"
+    "arrival": "2023-09-14T06:29:00Z",
+    "departure": "2023-09-14T06:32:00Z"
   },
   {
-    "train_number": "62    ",
+    "train_number": "162   ",
     "unit_number": "1116.0229",
     "name": "Tatabanya",
     "abbr": "TB  ",
     "lat": "47.587",
     "lng": "18.3923",
-    "arrival": "2023-09-13T08:25:00Z",
-    "departure": "2023-09-13T08:26:00Z"
+    "arrival": "2023-09-14T05:25:00Z",
+    "departure": "2023-09-14T05:26:00Z"
   },
   {
-    "train_number": "62    ",
+    "train_number": "162   ",
     "unit_number": "1116.0229",
     "name": "Budapest-Ferencvaros",
     "abbr": "BUFE",
     "lat": "47.4687",
     "lng": "19.0882",
     "arrival": null,
-    "departure": "2023-09-13T07:47:00Z"
+    "departure": "2023-09-14T04:47:00Z"
   },
   {
-    "train_number": "67    ",
+    "train_number": "261   ",
     "unit_number": "1116.0229",
     "name": "Budapest Keleti",
     "abbr": "BPK ",
     "lat": "47.501",
     "lng": "19.0869",
-    "arrival": "2023-09-12T18:19:00Z",
-    "departure": "2023-09-13T07:40:00Z"
+    "arrival": "2023-09-13T22:19:00Z",
+    "departure": "2023-09-14T04:40:00Z"
   }
 ]

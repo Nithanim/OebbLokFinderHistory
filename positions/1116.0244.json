@@ -1,73 +1,13 @@
 [
   {
-    "train_number": "539   ",
-    "unit_number": "1116.0244",
-    "name": "Payerbach-Reichenau",
-    "abbr": "Pr  ",
-    "lat": "47.696",
-    "lng": "15.8632",
-    "arrival": null,
-    "departure": "2023-09-13T13:12:00Z"
-  },
-  {
-    "train_number": "539   ",
-    "unit_number": "1116.0244",
-    "name": "Neunkirchen N.Ö.",
-    "abbr": "Nek ",
-    "lat": "47.731",
-    "lng": "16.0826",
-    "arrival": null,
-    "departure": "2023-09-13T13:01:00Z"
-  },
-  {
-    "train_number": "539   ",
-    "unit_number": "1116.0244",
-    "name": "Wr. Neustadt Hbf (in Nb)",
-    "abbr": "Nb  ",
-    "lat": "47.8113",
-    "lng": "16.2337",
-    "arrival": "2023-09-13T12:50:00Z",
-    "departure": "2023-09-13T12:52:00Z"
-  },
-  {
-    "train_number": "539   ",
-    "unit_number": "1116.0244",
-    "name": "Leobersdorf",
-    "abbr": "Lb  ",
-    "lat": "47.9375",
-    "lng": "16.2313",
-    "arrival": null,
-    "departure": "2023-09-13T12:43:00Z"
-  },
-  {
-    "train_number": "539   ",
-    "unit_number": "1116.0244",
-    "name": "Mödling",
-    "abbr": "Md  ",
-    "lat": "48.0858",
-    "lng": "16.2958",
-    "arrival": null,
-    "departure": "2023-09-13T12:34:00Z"
-  },
-  {
-    "train_number": "539   ",
-    "unit_number": "1116.0244",
-    "name": "Wien Meidling (in Wbf)",
-    "abbr": "Mi  ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": "2023-09-13T12:23:00Z",
-    "departure": "2023-09-13T12:25:00Z"
-  },
-  {
     "train_number": "534   ",
     "unit_number": "1116.0244",
     "name": "Wien Hauptbahnhof (in Wbf)",
     "abbr": "Wbf ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-09-13T11:42:00Z",
-    "departure": "2023-09-13T12:18:00Z"
+    "arrival": "2023-09-14T11:42:00Z",
+    "departure": "2023-09-15T12:18:00Z"
   },
   {
     "train_number": "534   ",
@@ -76,8 +16,8 @@
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-09-13T11:35:00Z",
-    "departure": "2023-09-13T11:37:00Z"
+    "arrival": "2023-09-14T11:35:00Z",
+    "departure": "2023-09-14T11:37:00Z"
   },
   {
     "train_number": "534   ",
@@ -87,7 +27,7 @@
     "lat": "48.0858",
     "lng": "16.2958",
     "arrival": null,
-    "departure": "2023-09-13T11:25:00Z"
+    "departure": "2023-09-14T11:25:00Z"
   },
   {
     "train_number": "534   ",
@@ -97,7 +37,7 @@
     "lat": "47.9375",
     "lng": "16.2313",
     "arrival": null,
-    "departure": "2023-09-13T11:15:00Z"
+    "departure": "2023-09-14T11:15:00Z"
   },
   {
     "train_number": "534   ",
@@ -106,8 +46,8 @@
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-09-13T11:06:00Z",
-    "departure": "2023-09-13T11:08:00Z"
+    "arrival": "2023-09-14T11:06:00Z",
+    "departure": "2023-09-14T11:08:00Z"
   },
   {
     "train_number": "534   ",
@@ -117,7 +57,7 @@
     "lat": "47.731",
     "lng": "16.0826",
     "arrival": null,
-    "departure": "2023-09-13T10:58:00Z"
+    "departure": "2023-09-14T10:58:00Z"
   },
   {
     "train_number": "534   ",
@@ -127,7 +67,7 @@
     "lat": "47.696",
     "lng": "15.8632",
     "arrival": null,
-    "departure": "2023-09-13T10:47:00Z"
+    "departure": "2023-09-14T10:47:00Z"
   },
   {
     "train_number": "534   ",
@@ -137,7 +77,7 @@
     "lat": "47.6079",
     "lng": "15.677",
     "arrival": null,
-    "departure": "2023-09-13T10:11:00Z"
+    "departure": "2023-09-14T10:11:00Z"
   },
   {
     "train_number": "534   ",
@@ -146,8 +86,8 @@
     "abbr": "Bm  ",
     "lat": "47.4134",
     "lng": "15.2797",
-    "arrival": "2023-09-13T09:43:00Z",
-    "departure": "2023-09-13T09:45:00Z"
+    "arrival": "2023-09-14T09:43:00Z",
+    "departure": "2023-09-14T09:45:00Z"
   },
   {
     "train_number": "534   ",
@@ -156,8 +96,8 @@
     "abbr": "Leb ",
     "lat": "47.3867",
     "lng": "15.0898",
-    "arrival": "2023-09-13T09:32:00Z",
-    "departure": "2023-09-13T09:33:00Z"
+    "arrival": "2023-09-14T09:32:00Z",
+    "departure": "2023-09-14T09:33:00Z"
   },
   {
     "train_number": "534   ",
@@ -167,7 +107,7 @@
     "lat": "47.1887",
     "lng": "14.7425",
     "arrival": null,
-    "departure": "2023-09-13T09:07:00Z"
+    "departure": "2023-09-14T09:07:00Z"
   },
   {
     "train_number": "534   ",
@@ -176,8 +116,8 @@
     "abbr": "Vps ",
     "lat": "46.7704",
     "lng": "14.3672",
-    "arrival": "2023-09-13T07:51:00Z",
-    "departure": "2023-09-13T07:53:00Z"
+    "arrival": "2023-09-14T07:51:00Z",
+    "departure": "2023-09-14T07:53:00Z"
   },
   {
     "train_number": "534   ",
@@ -186,8 +126,8 @@
     "abbr": "Kt  ",
     "lat": "46.6156",
     "lng": "14.3137",
-    "arrival": "2023-09-13T07:37:00Z",
-    "departure": "2023-09-13T07:39:00Z"
+    "arrival": "2023-09-14T07:37:00Z",
+    "departure": "2023-09-14T07:39:00Z"
   },
   {
     "train_number": "534   ",
@@ -196,7 +136,7 @@
     "abbr": "Vb  ",
     "lat": "46.6186",
     "lng": "13.8484",
-    "arrival": "2023-09-13T07:09:00Z",
-    "departure": "2023-09-13T07:14:00Z"
+    "arrival": "2023-09-14T07:09:00Z",
+    "departure": "2023-09-14T07:14:00Z"
   }
 ]

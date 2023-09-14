@@ -1,0 +1,142 @@
+[
+  {
+    "train_number": "86651 ",
+    "unit_number": "1116.0231",
+    "name": "Wien Westbf (in Ws)",
+    "abbr": "Ws  ",
+    "lat": "48.1964",
+    "lng": "16.3374",
+    "arrival": "2023-09-14T14:18:00Z",
+    "departure": "2023-09-14T14:26:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0231",
+    "name": "Kledering (in Zur)",
+    "abbr": "Za  ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-09-14T13:57:00Z"
+  },
+  {
+    "train_number": "64005 ",
+    "unit_number": "1116.0231",
+    "name": "Korneuburg",
+    "abbr": "Ko  ",
+    "lat": "48.3429",
+    "lng": "16.3289",
+    "arrival": null,
+    "departure": "2023-09-14T12:10:00Z"
+  },
+  {
+    "train_number": "64005 ",
+    "unit_number": "1116.0231",
+    "name": "Stockerau (in Su)",
+    "abbr": "Su  ",
+    "lat": "48.3824",
+    "lng": "16.2126",
+    "arrival": "2023-09-14T11:57:00Z",
+    "departure": "2023-09-14T12:00:00Z"
+  },
+  {
+    "train_number": "64005 ",
+    "unit_number": "1116.0231",
+    "name": "Hollabrunn",
+    "abbr": "Oh  ",
+    "lat": "48.563",
+    "lng": "16.0722",
+    "arrival": null,
+    "departure": "2023-09-14T11:22:00Z"
+  },
+  {
+    "train_number": "64004 ",
+    "unit_number": "1116.0231",
+    "name": "Retz",
+    "abbr": "R   ",
+    "lat": "48.7539",
+    "lng": "15.9574",
+    "arrival": "2023-09-14T08:58:00Z",
+    "departure": "2023-09-14T10:56:00Z"
+  },
+  {
+    "train_number": "64004 ",
+    "unit_number": "1116.0231",
+    "name": "Hollabrunn",
+    "abbr": "Oh  ",
+    "lat": "48.563",
+    "lng": "16.0722",
+    "arrival": null,
+    "departure": "2023-09-14T08:21:00Z"
+  },
+  {
+    "train_number": "64004 ",
+    "unit_number": "1116.0231",
+    "name": "Stockerau (in Su)",
+    "abbr": "Su  ",
+    "lat": "48.3824",
+    "lng": "16.2126",
+    "arrival": "2023-09-14T07:20:00Z",
+    "departure": "2023-09-14T07:32:00Z"
+  },
+  {
+    "train_number": "64004 ",
+    "unit_number": "1116.0231",
+    "name": "Korneuburg",
+    "abbr": "Ko  ",
+    "lat": "48.3429",
+    "lng": "16.3289",
+    "arrival": null,
+    "departure": "2023-09-14T07:11:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0231",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-09-14T05:55:00Z"
+  },
+  {
+    "train_number": "47306 ",
+    "unit_number": "1116.0231",
+    "name": "Wien Erdbergerlände (in El)",
+    "abbr": "El  ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": "2023-09-14T03:45:00Z",
+    "departure": "2023-09-14T04:20:00Z"
+  },
+  {
+    "train_number": "47306 ",
+    "unit_number": "1116.0231",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-09-14T03:36:00Z"
+  },
+  {
+    "train_number": "47306 ",
+    "unit_number": "1116.0231",
+    "name": "Parndorf",
+    "abbr": "Par ",
+    "lat": "47.987",
+    "lng": "16.8702",
+    "arrival": null,
+    "departure": "2023-09-14T02:59:00Z"
+  },
+  {
+    "train_number": "44381 ",
+    "unit_number": "1116.0231",
+    "name": "Hegyeshalom",
+    "abbr": "He  ",
+    "lat": "47.9139",
+    "lng": "17.1455",
+    "arrival": "2023-09-13T22:42:00Z",
+    "departure": "2023-09-14T02:40:00Z"
+  }
+]
