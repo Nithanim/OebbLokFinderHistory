@@ -1,13 +1,33 @@
 [
   {
+    "train_number": "5987  ",
+    "unit_number": "5047.0085",
+    "name": "Neumarkt-Kallham (in Neu)",
+    "abbr": "Neu ",
+    "lat": "48.2714",
+    "lng": "13.7245",
+    "arrival": "2023-09-15T19:19:00Z",
+    "departure": "2023-09-15T21:20:00Z"
+  },
+  {
+    "train_number": "5987  ",
+    "unit_number": "5047.0085",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-09-15T18:59:00Z",
+    "departure": "2023-09-15T19:01:00Z"
+  },
+  {
     "train_number": "5956  ",
     "unit_number": "5047.0085",
     "name": "Braunau am Inn (in Bru)",
     "abbr": "Bru ",
     "lat": "48.2591",
     "lng": "13.0486",
-    "arrival": "2023-09-14T12:15:00Z",
-    "departure": "2023-09-15T10:47:00Z"
+    "arrival": "2023-09-15T12:15:00Z",
+    "departure": "2023-09-15T18:24:00Z"
   },
   {
     "train_number": "5955  ",
@@ -16,47 +36,17 @@
     "abbr": "Rd  ",
     "lat": "48.2005",
     "lng": "13.4877",
-    "arrival": "2023-09-14T11:23:00Z",
-    "departure": "2023-09-14T11:37:00Z"
+    "arrival": "2023-09-15T11:23:00Z",
+    "departure": "2023-09-15T11:37:00Z"
   },
   {
-    "train_number": "5944  ",
+    "train_number": "5956  ",
     "unit_number": "5047.0085",
     "name": "Braunau am Inn (in Bru)",
     "abbr": "Bru ",
     "lat": "48.2591",
     "lng": "13.0486",
-    "arrival": "2023-09-14T05:18:00Z",
-    "departure": "2023-09-14T10:47:00Z"
-  },
-  {
-    "train_number": "5944  ",
-    "unit_number": "5047.0085",
-    "name": "Ried im Innkreis",
-    "abbr": "Rd  ",
-    "lat": "48.2005",
-    "lng": "13.4877",
-    "arrival": "2023-09-14T04:41:00Z",
-    "departure": "2023-09-14T04:43:00Z"
-  },
-  {
-    "train_number": "84930 ",
-    "unit_number": "5047.0085",
-    "name": "Neumarkt-Kallham (in Neu)",
-    "abbr": "Neu ",
-    "lat": "48.2714",
-    "lng": "13.7245",
-    "arrival": "2023-09-14T04:08:00Z",
-    "departure": "2023-09-14T04:20:00Z"
-  },
-  {
-    "train_number": "84860 ",
-    "unit_number": "5047.0085",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": "2023-09-14T02:38:00Z",
-    "departure": "2023-09-14T03:42:00Z"
+    "arrival": "2023-09-14T12:15:00Z",
+    "departure": "2023-09-15T10:47:00Z"
   }
 ]

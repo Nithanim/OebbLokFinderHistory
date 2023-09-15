@@ -1,0 +1,22 @@
+[
+  {
+    "train_number": "RFahrt",
+    "unit_number": "1016.0020",
+    "name": "Salzburg Gnigl-Vbf (in Sb)",
+    "abbr": "Sr  ",
+    "lat": "47.8075",
+    "lng": "13.0021",
+    "arrival": "2023-09-15T06:30:00Z",
+    "departure": "2023-09-15T07:00:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1016.0020",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": null,
+    "departure": "2023-09-15T06:20:00Z"
+  }
+]

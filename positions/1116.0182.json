@@ -1,0 +1,72 @@
+[
+  {
+    "train_number": "47983 ",
+    "unit_number": "1116.0182",
+    "name": "Kufstein",
+    "abbr": "K   ",
+    "lat": "47.5833",
+    "lng": "12.1657",
+    "arrival": "2023-09-16T02:25:00Z",
+    "departure": "2023-09-16T02:28:00Z"
+  },
+  {
+    "train_number": "47983 ",
+    "unit_number": "1116.0182",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-09-16T01:53:00Z",
+    "departure": "2023-09-16T02:15:00Z"
+  },
+  {
+    "train_number": "47983 ",
+    "unit_number": "1116.0182",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-09-16T01:50:00Z"
+  },
+  {
+    "train_number": "88354 ",
+    "unit_number": "1116.0182",
+    "name": "Jenbach",
+    "abbr": "Jb  ",
+    "lat": "47.3884",
+    "lng": "11.7783",
+    "arrival": "2023-09-15T23:58:00Z",
+    "departure": "2023-09-16T01:31:00Z"
+  },
+  {
+    "train_number": "88354 ",
+    "unit_number": "1116.0182",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-09-15T23:44:00Z"
+  },
+  {
+    "train_number": "42175 ",
+    "unit_number": "1116.0182",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-09-15T09:14:00Z",
+    "departure": "2023-09-15T23:41:00Z"
+  },
+  {
+    "train_number": "42175 ",
+    "unit_number": "1116.0182",
+    "name": "Kufstein",
+    "abbr": "K   ",
+    "lat": "47.5833",
+    "lng": "12.1657",
+    "arrival": "2023-09-15T08:18:00Z",
+    "departure": "2023-09-15T09:02:00Z"
+  }
+]

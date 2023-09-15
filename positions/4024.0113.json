@@ -1,5 +1,75 @@
 [
   {
+    "train_number": "4243  ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-09-15T15:09:00Z",
+    "departure": "2023-09-15T15:10:00Z"
+  },
+  {
+    "train_number": "4243  ",
+    "unit_number": "4024.0113",
+    "name": "Klagenfurt Hbf (in Kt)",
+    "abbr": "Kt  ",
+    "lat": "46.6156",
+    "lng": "14.3137",
+    "arrival": "2023-09-15T14:30:00Z",
+    "departure": "2023-09-15T14:32:00Z"
+  },
+  {
+    "train_number": "4320  ",
+    "unit_number": "4024.0113",
+    "name": "St.Veit a.d.Glan (in Vps)",
+    "abbr": "Vps ",
+    "lat": "46.7704",
+    "lng": "14.3672",
+    "arrival": "2023-09-15T13:56:00Z",
+    "departure": "2023-09-15T14:12:00Z"
+  },
+  {
+    "train_number": "4317  ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-09-15T12:06:00Z",
+    "departure": "2023-09-15T12:53:00Z"
+  },
+  {
+    "train_number": "4311  ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-09-15T09:06:00Z",
+    "departure": "2023-09-15T09:53:00Z"
+  },
+  {
+    "train_number": "4306  ",
+    "unit_number": "4024.0113",
+    "name": "St.Veit a.d.Glan (in Vps)",
+    "abbr": "Vps ",
+    "lat": "46.7704",
+    "lng": "14.3672",
+    "arrival": "2023-09-15T07:56:00Z",
+    "departure": "2023-09-15T08:01:00Z"
+  },
+  {
+    "train_number": "4305  ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-09-15T06:06:00Z",
+    "departure": "2023-09-15T06:53:00Z"
+  },
+  {
     "train_number": "4334  ",
     "unit_number": "4024.0113",
     "name": "St.Veit a.d.Glan (in Vps)",
@@ -8,45 +78,5 @@
     "lng": "14.3672",
     "arrival": "2023-09-14T19:56:00Z",
     "departure": "2023-09-15T04:57:00Z"
-  },
-  {
-    "train_number": "4329  ",
-    "unit_number": "4024.0113",
-    "name": "Villach Hbf",
-    "abbr": "Vb  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
-    "arrival": "2023-09-14T18:06:00Z",
-    "departure": "2023-09-14T18:53:00Z"
-  },
-  {
-    "train_number": "85367 ",
-    "unit_number": "4024.0113",
-    "name": "Villach Hbf",
-    "abbr": "Vb  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
-    "arrival": "2023-09-14T06:23:00Z",
-    "departure": "2023-09-14T15:53:00Z"
-  },
-  {
-    "train_number": "1734  ",
-    "unit_number": "4024.0113",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": "2023-09-14T05:27:00Z",
-    "departure": "2023-09-14T05:52:00Z"
-  },
-  {
-    "train_number": "1734  ",
-    "unit_number": "4024.0113",
-    "name": "Villach Hbf",
-    "abbr": "Vb  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
-    "arrival": "2023-09-14T04:56:00Z",
-    "departure": "2023-09-14T04:59:00Z"
   }
 ]

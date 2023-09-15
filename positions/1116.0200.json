@@ -1,202 +1,42 @@
 [
   {
-    "train_number": "724   ",
-    "unit_number": "1116.0200",
-    "name": "Pöchlarn",
-    "abbr": "Poe ",
-    "lat": "48.208",
-    "lng": "15.2148",
-    "arrival": null,
-    "departure": "2023-09-14T16:28:00Z"
-  },
-  {
-    "train_number": "724   ",
-    "unit_number": "1116.0200",
-    "name": "St.Pölten Hbf (in Pb)",
-    "abbr": "Pb  ",
-    "lat": "48.2081",
-    "lng": "15.6237",
-    "arrival": "2023-09-14T16:13:00Z",
-    "departure": "2023-09-14T16:15:00Z"
-  },
-  {
-    "train_number": "724   ",
-    "unit_number": "1116.0200",
-    "name": "Wien Meidling (in Wbf)",
-    "abbr": "Mi  ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": "2023-09-14T15:47:00Z",
-    "departure": "2023-09-14T15:49:00Z"
-  },
-  {
-    "train_number": "529   ",
-    "unit_number": "1116.0200",
-    "name": "Wien Hauptbahnhof (in Wbf)",
-    "abbr": "Wbf ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": "2023-09-14T14:18:00Z",
-    "departure": "2023-09-14T15:42:00Z"
-  },
-  {
-    "train_number": "529   ",
-    "unit_number": "1116.0200",
-    "name": "Wien Meidling (in Wbf)",
-    "abbr": "Mi  ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": "2023-09-14T14:11:00Z",
-    "departure": "2023-09-14T14:13:00Z"
-  },
-  {
-    "train_number": "529   ",
-    "unit_number": "1116.0200",
-    "name": "St.Pölten Hbf (in Pb)",
-    "abbr": "Pb  ",
-    "lat": "48.2081",
-    "lng": "15.6237",
-    "arrival": "2023-09-14T13:45:00Z",
-    "departure": "2023-09-14T13:47:00Z"
-  },
-  {
-    "train_number": "529   ",
-    "unit_number": "1116.0200",
-    "name": "Pöchlarn",
-    "abbr": "Poe ",
-    "lat": "48.208",
-    "lng": "15.2148",
-    "arrival": null,
-    "departure": "2023-09-14T13:32:00Z"
-  },
-  {
-    "train_number": "529   ",
-    "unit_number": "1116.0200",
-    "name": "Ybbs a.d.Donau",
-    "abbr": "Y   ",
-    "lat": "48.158",
-    "lng": "15.0981",
-    "arrival": null,
-    "departure": "2023-09-14T13:29:00Z"
-  },
-  {
-    "train_number": "529   ",
-    "unit_number": "1116.0200",
-    "name": "Amstetten (in Ams)",
-    "abbr": "Ams ",
-    "lat": "48.1215",
-    "lng": "14.8792",
-    "arrival": null,
-    "departure": "2023-09-14T13:22:00Z"
-  },
-  {
-    "train_number": "529   ",
-    "unit_number": "1116.0200",
-    "name": "St.Valentin (in Sv)",
-    "abbr": "Sv  ",
-    "lat": "48.1784",
-    "lng": "14.5219",
-    "arrival": null,
-    "departure": "2023-09-14T13:09:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0200",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": null,
-    "departure": "2023-09-14T12:58:00Z"
-  },
-  {
-    "train_number": "18097 ",
-    "unit_number": "1116.0200",
-    "name": "Kirchdorf a.d.Krems",
-    "abbr": "Kik ",
-    "lat": "47.9051",
-    "lng": "14.1167",
-    "arrival": null,
-    "departure": "2023-09-14T10:25:00Z"
-  },
-  {
-    "train_number": "90092 ",
-    "unit_number": "1116.0200",
-    "name": "Kirchdorf a.d.Krems",
-    "abbr": "Kik ",
-    "lat": "47.9051",
-    "lng": "14.1167",
-    "arrival": null,
-    "departure": "2023-09-14T08:07:00Z"
-  },
-  {
-    "train_number": "90092 ",
-    "unit_number": "1116.0200",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": null,
-    "departure": "2023-09-14T07:07:00Z"
-  },
-  {
-    "train_number": "90092 ",
+    "train_number": "87771 ",
     "unit_number": "1116.0200",
     "name": "Linz Vbf-West (in Lzv)",
-    "abbr": "Lr  ",
+    "abbr": "----",
     "lat": "48.2607",
     "lng": "14.2927",
-    "arrival": "2023-09-14T05:52:00Z",
-    "departure": "2023-09-14T06:52:00Z"
+    "arrival": "2023-09-15T11:21:00Z",
+    "departure": "2023-09-15T11:37:00Z"
   },
   {
-    "train_number": "90092 ",
+    "train_number": "58962 ",
     "unit_number": "1116.0200",
-    "name": "Enns",
-    "abbr": "Ens ",
-    "lat": "48.2212",
-    "lng": "14.4668",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-09-15T10:43:00Z",
+    "departure": "2023-09-15T10:46:00Z"
+  },
+  {
+    "train_number": "58962 ",
+    "unit_number": "1116.0200",
+    "name": "Kirchdorf a.d.Krems",
+    "abbr": "Kik ",
+    "lat": "47.9051",
+    "lng": "14.1167",
     "arrival": null,
-    "departure": "2023-09-14T05:44:00Z"
+    "departure": "2023-09-15T10:01:00Z"
   },
   {
-    "train_number": "90092 ",
+    "train_number": "58691 ",
     "unit_number": "1116.0200",
-    "name": "St.Valentin (in Sv)",
-    "abbr": "Sv  ",
-    "lat": "48.1784",
-    "lng": "14.5219",
+    "name": "Kirchdorf a.d.Krems",
+    "abbr": "Kik ",
+    "lat": "47.9051",
+    "lng": "14.1167",
     "arrival": null,
-    "departure": "2023-09-14T05:39:00Z"
-  },
-  {
-    "train_number": "90092 ",
-    "unit_number": "1116.0200",
-    "name": "Amstetten (in Ams)",
-    "abbr": "Ams ",
-    "lat": "48.1215",
-    "lng": "14.8792",
-    "arrival": null,
-    "departure": "2023-09-14T05:16:00Z"
-  },
-  {
-    "train_number": "18096 ",
-    "unit_number": "1116.0200",
-    "name": "Ybbs a.d.Donau",
-    "abbr": "Y   ",
-    "lat": "48.158",
-    "lng": "15.0981",
-    "arrival": "2023-09-14T04:20:00Z",
-    "departure": "2023-09-14T05:00:00Z"
-  },
-  {
-    "train_number": "55185 ",
-    "unit_number": "1116.0200",
-    "name": "Amstetten (in Ams)",
-    "abbr": "Ams ",
-    "lat": "48.1215",
-    "lng": "14.8792",
-    "arrival": "2023-09-14T02:00:00Z",
-    "departure": "2023-09-14T04:09:00Z"
+    "departure": "2023-09-15T02:40:00Z"
   }
 ]
