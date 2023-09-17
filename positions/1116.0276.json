@@ -1,5 +1,115 @@
 [
   {
+    "train_number": "58673 ",
+    "unit_number": "1116.0276",
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-09-17T23:13:00Z",
+    "departure": "2023-09-18T15:21:00Z"
+  },
+  {
+    "train_number": "58673 ",
+    "unit_number": "1116.0276",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": null,
+    "departure": "2023-09-17T22:28:00Z"
+  },
+  {
+    "train_number": "88956 ",
+    "unit_number": "1116.0276",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": "2023-09-17T16:28:00Z",
+    "departure": "2023-09-17T22:18:00Z"
+  },
+  {
+    "train_number": "58668 ",
+    "unit_number": "1116.0276",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": "2023-09-17T15:21:00Z",
+    "departure": "2023-09-17T15:46:00Z"
+  },
+  {
+    "train_number": "58668 ",
+    "unit_number": "1116.0276",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": "2023-09-17T15:03:00Z",
+    "departure": "2023-09-17T15:10:00Z"
+  },
+  {
+    "train_number": "58668 ",
+    "unit_number": "1116.0276",
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-09-17T13:57:00Z",
+    "departure": "2023-09-17T14:08:00Z"
+  },
+  {
+    "train_number": "88809 ",
+    "unit_number": "1116.0276",
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-09-17T07:09:00Z",
+    "departure": "2023-09-17T08:55:00Z"
+  },
+  {
+    "train_number": "88809 ",
+    "unit_number": "1116.0276",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": "2023-09-17T06:18:00Z",
+    "departure": "2023-09-17T06:30:00Z"
+  },
+  {
+    "train_number": "88946 ",
+    "unit_number": "1116.0276",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": "2023-09-17T04:04:00Z",
+    "departure": "2023-09-17T06:11:00Z"
+  },
+  {
+    "train_number": "47406 ",
+    "unit_number": "1116.0276",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": null,
+    "departure": "2023-09-17T03:28:00Z"
+  },
+  {
+    "train_number": "47406 ",
+    "unit_number": "1116.0276",
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
+    "arrival": null,
+    "departure": "2023-09-17T02:29:00Z"
+  },
+  {
     "train_number": "47406 ",
     "unit_number": "1116.0276",
     "name": "Graz Hbf (in G)",
@@ -8,95 +118,5 @@
     "lng": "15.4163",
     "arrival": "2023-09-16T22:27:00Z",
     "departure": "2023-09-17T02:27:00Z"
-  },
-  {
-    "train_number": "47406 ",
-    "unit_number": "1116.0276",
-    "name": "Werndorf",
-    "abbr": "Wr  ",
-    "lat": "46.9171",
-    "lng": "15.477",
-    "arrival": null,
-    "departure": "2023-09-16T22:12:00Z"
-  },
-  {
-    "train_number": "47401 ",
-    "unit_number": "1116.0276",
-    "name": "Spielfeld-Straß",
-    "abbr": "Sd  ",
-    "lat": "46.71",
-    "lng": "15.6282",
-    "arrival": "2023-09-16T21:24:00Z",
-    "departure": "2023-09-16T21:44:00Z"
-  },
-  {
-    "train_number": "47401 ",
-    "unit_number": "1116.0276",
-    "name": "Werndorf",
-    "abbr": "Wr  ",
-    "lat": "46.9171",
-    "lng": "15.477",
-    "arrival": null,
-    "departure": "2023-09-16T20:57:00Z"
-  },
-  {
-    "train_number": "47401 ",
-    "unit_number": "1116.0276",
-    "name": "Graz Hbf (in G)",
-    "abbr": "G   ",
-    "lat": "47.0733",
-    "lng": "15.4163",
-    "arrival": null,
-    "departure": "2023-09-16T20:45:00Z"
-  },
-  {
-    "train_number": "47401 ",
-    "unit_number": "1116.0276",
-    "name": "Graz Vbf (in G)",
-    "abbr": "Gi  ",
-    "lat": "47.0885",
-    "lng": "15.4077",
-    "arrival": null,
-    "departure": "2023-09-16T20:41:00Z"
-  },
-  {
-    "train_number": "47401 ",
-    "unit_number": "1116.0276",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": null,
-    "departure": "2023-09-16T19:45:00Z"
-  },
-  {
-    "train_number": "18192 ",
-    "unit_number": "1116.0276",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": "2023-09-16T09:15:00Z",
-    "departure": "2023-09-16T18:46:00Z"
-  },
-  {
-    "train_number": "18192 ",
-    "unit_number": "1116.0276",
-    "name": "Bruck a.d.Mur (in Bm)",
-    "abbr": "Bm  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
-    "arrival": null,
-    "departure": "2023-09-16T09:01:00Z"
-  },
-  {
-    "train_number": "54650 ",
-    "unit_number": "1116.0276",
-    "name": "Bruck a.d.Mur-Fbf (in Bm)",
-    "abbr": "Bk  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
-    "arrival": "2023-09-16T02:18:00Z",
-    "departure": "2023-09-16T09:00:00Z"
   }
 ]

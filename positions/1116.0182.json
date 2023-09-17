@@ -1,5 +1,135 @@
 [
   {
+    "train_number": "54797 ",
+    "unit_number": "1116.0182",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": null,
+    "departure": "2023-09-18T02:08:00Z"
+  },
+  {
+    "train_number": "54797 ",
+    "unit_number": "1116.0182",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": null,
+    "departure": "2023-09-18T02:01:00Z"
+  },
+  {
+    "train_number": "54797 ",
+    "unit_number": "1116.0182",
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-09-17T23:41:00Z",
+    "departure": "2023-09-18T01:12:00Z"
+  },
+  {
+    "train_number": "54797 ",
+    "unit_number": "1116.0182",
+    "name": "Kirchdorf a.d.Krems",
+    "abbr": "Kik ",
+    "lat": "47.9051",
+    "lng": "14.1167",
+    "arrival": null,
+    "departure": "2023-09-17T22:43:00Z"
+  },
+  {
+    "train_number": "54797 ",
+    "unit_number": "1116.0182",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": null,
+    "departure": "2023-09-17T21:59:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0182",
+    "name": "Linz Vbf-Ost Reih. (in Lzv)",
+    "abbr": "Lo  ",
+    "lat": "48.2607",
+    "lng": "14.2927",
+    "arrival": null,
+    "departure": "2023-09-17T21:51:00Z"
+  },
+  {
+    "train_number": "90041 ",
+    "unit_number": "1116.0182",
+    "name": "Voest Alpine Linz",
+    "abbr": "Ms  ",
+    "lat": "48.2607",
+    "lng": "14.2927",
+    "arrival": "2023-09-17T16:39:00Z",
+    "departure": "2023-09-17T17:00:00Z"
+  },
+  {
+    "train_number": "90041 ",
+    "unit_number": "1116.0182",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": null,
+    "departure": "2023-09-17T16:13:00Z"
+  },
+  {
+    "train_number": "90041 ",
+    "unit_number": "1116.0182",
+    "name": "Kirchdorf a.d.Krems",
+    "abbr": "Kik ",
+    "lat": "47.9051",
+    "lng": "14.1167",
+    "arrival": null,
+    "departure": "2023-09-17T14:08:00Z"
+  },
+  {
+    "train_number": "90041 ",
+    "unit_number": "1116.0182",
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-09-17T11:08:00Z",
+    "departure": "2023-09-17T11:34:00Z"
+  },
+  {
+    "train_number": "90041 ",
+    "unit_number": "1116.0182",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": null,
+    "departure": "2023-09-17T09:53:00Z"
+  },
+  {
+    "train_number": "90041 ",
+    "unit_number": "1116.0182",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": null,
+    "departure": "2023-09-17T09:36:00Z"
+  },
+  {
+    "train_number": "90041 ",
+    "unit_number": "1116.0182",
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
+    "arrival": null,
+    "departure": "2023-09-17T08:12:00Z"
+  },
+  {
     "train_number": "89957 ",
     "unit_number": "1116.0182",
     "name": "Graz Hbf (in G)",
@@ -8,75 +138,5 @@
     "lng": "15.4163",
     "arrival": "2023-09-16T11:14:00Z",
     "departure": "2023-09-17T08:08:00Z"
-  },
-  {
-    "train_number": "89957 ",
-    "unit_number": "1116.0182",
-    "name": "Graz Vbf (in G)",
-    "abbr": "Gi  ",
-    "lat": "47.0885",
-    "lng": "15.4077",
-    "arrival": null,
-    "departure": "2023-09-16T11:09:00Z"
-  },
-  {
-    "train_number": "48931 ",
-    "unit_number": "1116.0182",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": null,
-    "departure": "2023-09-16T09:50:00Z"
-  },
-  {
-    "train_number": "48931 ",
-    "unit_number": "1116.0182",
-    "name": "St.Michael (in M)",
-    "abbr": "M   ",
-    "lat": "47.3445",
-    "lng": "15.0103",
-    "arrival": null,
-    "departure": "2023-09-16T09:41:00Z"
-  },
-  {
-    "train_number": "48931 ",
-    "unit_number": "1116.0182",
-    "name": "Selzthal (in Sl)",
-    "abbr": "Sl  ",
-    "lat": "47.5505",
-    "lng": "14.3134",
-    "arrival": "2023-09-16T08:51:00Z",
-    "departure": "2023-09-16T08:54:00Z"
-  },
-  {
-    "train_number": "48931 ",
-    "unit_number": "1116.0182",
-    "name": "Kirchdorf a.d.Krems",
-    "abbr": "Kik ",
-    "lat": "47.9051",
-    "lng": "14.1167",
-    "arrival": "2023-09-16T07:49:00Z",
-    "departure": "2023-09-16T07:56:00Z"
-  },
-  {
-    "train_number": "48931 ",
-    "unit_number": "1116.0182",
-    "name": "Wels Vbf-Einfgr (in Wev)",
-    "abbr": "Wei ",
-    "lat": "48.1765",
-    "lng": "14.0501",
-    "arrival": null,
-    "departure": "2023-09-16T06:46:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0182",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": null,
-    "departure": "2023-09-16T06:42:00Z"
   }
 ]

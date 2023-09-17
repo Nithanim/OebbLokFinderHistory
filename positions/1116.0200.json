@@ -1,152 +1,82 @@
 [
   {
-    "train_number": "49404 ",
+    "train_number": "45987 ",
     "unit_number": "1116.0200",
-    "name": "Rosenbach",
-    "abbr": "Rn  ",
-    "lat": "46.5309",
-    "lng": "14.0354",
-    "arrival": null,
-    "departure": "2023-09-17T01:59:00Z"
+    "name": "Salzburg Gnigl-Vbf (in Sb)",
+    "abbr": "Sr  ",
+    "lat": "47.8075",
+    "lng": "13.0021",
+    "arrival": "2023-09-17T23:06:00Z",
+    "departure": "2023-09-18T03:00:00Z"
   },
   {
-    "train_number": "89319 ",
-    "unit_number": "1116.0200",
-    "name": "Rosenbach",
-    "abbr": "Rn  ",
-    "lat": "46.5309",
-    "lng": "14.0354",
-    "arrival": null,
-    "departure": "2023-09-17T01:05:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0200",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
-    "arrival": null,
-    "departure": "2023-09-17T00:47:00Z"
-  },
-  {
-    "train_number": "44863 ",
-    "unit_number": "1116.0200",
-    "name": "Wels Vbf-Einfgr (in Wev)",
-    "abbr": "Wei ",
-    "lat": "48.1765",
-    "lng": "14.0501",
-    "arrival": "2023-09-16T10:50:00Z",
-    "departure": "2023-09-16T11:00:00Z"
-  },
-  {
-    "train_number": "44863 ",
-    "unit_number": "1116.0200",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": null,
-    "departure": "2023-09-16T10:46:00Z"
-  },
-  {
-    "train_number": "44863 ",
-    "unit_number": "1116.0200",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": null,
-    "departure": "2023-09-16T10:24:00Z"
-  },
-  {
-    "train_number": "44863 ",
-    "unit_number": "1116.0200",
-    "name": "Steindorf b.Straßw. (in Nst)",
-    "abbr": "Nst ",
-    "lat": "47.9676",
-    "lng": "13.2406",
-    "arrival": "2023-09-16T09:04:00Z",
-    "departure": "2023-09-16T09:12:00Z"
-  },
-  {
-    "train_number": "44863 ",
+    "train_number": "45987 ",
     "unit_number": "1116.0200",
     "name": "Salzburg Hbf (in Sb)",
-    "abbr": "----",
+    "abbr": "Sb  ",
     "lat": "47.8135",
     "lng": "13.0466",
-    "arrival": "2023-09-16T08:21:00Z",
-    "departure": "2023-09-16T08:38:00Z"
+    "arrival": null,
+    "departure": "2023-09-17T23:02:00Z"
   },
   {
-    "train_number": "44863 ",
+    "train_number": "45987 ",
     "unit_number": "1116.0200",
     "name": "Salzburg Liefering (in Sb)",
     "abbr": "Lfg ",
     "lat": "47.8229",
     "lng": "13.0021",
     "arrival": null,
-    "departure": "2023-09-16T08:16:00Z"
+    "departure": "2023-09-17T22:54:00Z"
   },
   {
-    "train_number": "44863 ",
+    "train_number": "45987 ",
     "unit_number": "1116.0200",
     "name": "Freilassing",
     "abbr": "MFL ",
     "lat": "47.8368",
     "lng": "12.9764",
-    "arrival": null,
-    "departure": "2023-09-16T08:14:00Z"
+    "arrival": "2023-09-17T22:52:00Z",
+    "departure": "2023-09-17T22:52:00Z"
   },
   {
-    "train_number": "44863 ",
+    "train_number": "45987 ",
     "unit_number": "1116.0200",
     "name": "Traunstein",
     "abbr": "MTS ",
     "lat": "47.8697",
     "lng": "12.6391",
     "arrival": null,
-    "departure": "2023-09-16T07:52:00Z"
+    "departure": "2023-09-17T21:54:00Z"
   },
   {
-    "train_number": "44863 ",
+    "train_number": "45987 ",
     "unit_number": "1116.0200",
-    "name": "Kufstein",
-    "abbr": "----",
-    "lat": "47.5833",
-    "lng": "12.1657",
-    "arrival": "2023-09-16T06:42:00Z",
-    "departure": "2023-09-16T06:46:00Z"
-  },
-  {
-    "train_number": "44863 ",
-    "unit_number": "1116.0200",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-09-16T06:01:00Z",
-    "departure": "2023-09-16T06:30:00Z"
-  },
-  {
-    "train_number": "44863 ",
-    "unit_number": "1116.0200",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
+    "name": "Rosenheim",
+    "abbr": "MRO ",
+    "lat": "47.8511",
+    "lng": "12.1196",
     "arrival": null,
-    "departure": "2023-09-16T05:58:00Z"
+    "departure": "2023-09-17T19:58:00Z"
   },
   {
-    "train_number": "44856 ",
+    "train_number": "48486 ",
     "unit_number": "1116.0200",
-    "name": "Hall in Tirol",
-    "abbr": "H   ",
-    "lat": "47.2769",
-    "lng": "11.5013",
-    "arrival": "2023-09-15T23:15:00Z",
-    "departure": "2023-09-16T05:25:00Z"
+    "name": "Rosenheim",
+    "abbr": "MRO ",
+    "lat": "47.8511",
+    "lng": "12.1196",
+    "arrival": null,
+    "departure": "2023-09-17T03:56:00Z"
+  },
+  {
+    "train_number": "48486 ",
+    "unit_number": "1116.0200",
+    "name": "Traunstein",
+    "abbr": "MTS ",
+    "lat": "47.8697",
+    "lng": "12.6391",
+    "arrival": null,
+    "departure": "2023-09-17T02:25:00Z"
   }
 ]
