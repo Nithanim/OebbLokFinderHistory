@@ -1,82 +1,202 @@
 [
   {
-    "train_number": "3977  ",
-    "unit_number": "4024.0014",
-    "name": "Kirchdorf a.d.Krems",
-    "abbr": "Kik ",
-    "lat": "47.9051",
-    "lng": "14.1167",
-    "arrival": "2023-09-17T19:33:00Z",
-    "departure": "2023-09-18T02:55:00Z"
-  },
-  {
-    "train_number": "4415  ",
-    "unit_number": "4024.0014",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-09-17T15:41:00Z",
-    "departure": "2023-09-17T18:36:00Z"
-  },
-  {
-    "train_number": "4415  ",
+    "train_number": "5916  ",
     "unit_number": "4024.0014",
     "name": "Wels Hbf",
     "abbr": "We  ",
     "lat": "48.1662",
     "lng": "14.0273",
-    "arrival": "2023-09-17T15:24:00Z",
-    "departure": "2023-09-17T15:25:00Z"
+    "arrival": "2023-09-18T17:07:00Z",
+    "departure": "2023-09-18T17:09:00Z"
   },
   {
-    "train_number": "4415  ",
+    "train_number": "1785  ",
+    "unit_number": "4024.0014",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-09-18T16:10:00Z",
+    "departure": "2023-09-18T16:50:00Z"
+  },
+  {
+    "train_number": "1785  ",
+    "unit_number": "4024.0014",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-09-18T15:51:00Z",
+    "departure": "2023-09-18T15:53:00Z"
+  },
+  {
+    "train_number": "1785  ",
+    "unit_number": "4024.0014",
+    "name": "Neumarkt-Kallham (in Neu)",
+    "abbr": "Neu ",
+    "lat": "48.2714",
+    "lng": "13.7245",
+    "arrival": "2023-09-18T15:27:00Z",
+    "departure": "2023-09-18T15:28:00Z"
+  },
+  {
+    "train_number": "1785  ",
+    "unit_number": "4024.0014",
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": "2023-09-18T15:01:00Z",
+    "departure": "2023-09-18T15:02:00Z"
+  },
+  {
+    "train_number": "5932  ",
+    "unit_number": "4024.0014",
+    "name": "Passau Hbf",
+    "abbr": "Pa  ",
+    "lat": "48.5729",
+    "lng": "13.4342",
+    "arrival": "2023-09-18T14:24:00Z",
+    "departure": "2023-09-18T14:48:00Z"
+  },
+  {
+    "train_number": "5932  ",
+    "unit_number": "4024.0014",
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": "2023-09-18T14:10:00Z",
+    "departure": "2023-09-18T14:11:00Z"
+  },
+  {
+    "train_number": "5935  ",
+    "unit_number": "4024.0014",
+    "name": "Neumarkt-Kallham (in Neu)",
+    "abbr": "Neu ",
+    "lat": "48.2714",
+    "lng": "13.7245",
+    "arrival": "2023-09-18T12:20:00Z",
+    "departure": "2023-09-18T13:40:00Z"
+  },
+  {
+    "train_number": "5935  ",
+    "unit_number": "4024.0014",
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": "2023-09-18T11:48:00Z",
+    "departure": "2023-09-18T11:49:00Z"
+  },
+  {
+    "train_number": "1778  ",
+    "unit_number": "4024.0014",
+    "name": "Passau Hbf",
+    "abbr": "Pa  ",
+    "lat": "48.5729",
+    "lng": "13.4342",
+    "arrival": "2023-09-18T11:12:00Z",
+    "departure": "2023-09-18T11:36:00Z"
+  },
+  {
+    "train_number": "1778  ",
+    "unit_number": "4024.0014",
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": "2023-09-18T10:56:00Z",
+    "departure": "2023-09-18T10:57:00Z"
+  },
+  {
+    "train_number": "1778  ",
+    "unit_number": "4024.0014",
+    "name": "Neumarkt-Kallham (in Neu)",
+    "abbr": "Neu ",
+    "lat": "48.2714",
+    "lng": "13.7245",
+    "arrival": "2023-09-18T10:31:00Z",
+    "departure": "2023-09-18T10:32:00Z"
+  },
+  {
+    "train_number": "1778  ",
+    "unit_number": "4024.0014",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-09-18T10:07:00Z",
+    "departure": "2023-09-18T10:09:00Z"
+  },
+  {
+    "train_number": "5051  ",
+    "unit_number": "4024.0014",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-09-18T05:29:00Z",
+    "departure": "2023-09-18T09:50:00Z"
+  },
+  {
+    "train_number": "5051  ",
+    "unit_number": "4024.0014",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-09-18T05:04:00Z",
+    "departure": "2023-09-18T05:06:00Z"
+  },
+  {
+    "train_number": "5051  ",
     "unit_number": "4024.0014",
     "name": "Attnang-Puchheim",
     "abbr": "At  ",
     "lat": "48.0112",
     "lng": "13.7193",
-    "arrival": "2023-09-17T14:52:00Z",
-    "departure": "2023-09-17T14:53:00Z"
+    "arrival": "2023-09-18T04:29:00Z",
+    "departure": "2023-09-18T04:31:00Z"
   },
   {
-    "train_number": "4415  ",
+    "train_number": "5051  ",
     "unit_number": "4024.0014",
-    "name": "Gmunden",
-    "abbr": "Gz  ",
-    "lat": "47.9254",
-    "lng": "13.783",
-    "arrival": "2023-09-17T14:35:00Z",
-    "departure": "2023-09-17T14:36:00Z"
+    "name": "Steindorf b.Straßw. (in Nst)",
+    "abbr": "Nst ",
+    "lat": "47.9676",
+    "lng": "13.2406",
+    "arrival": null,
+    "departure": "2023-09-18T03:50:00Z"
   },
   {
-    "train_number": "3418  ",
+    "train_number": "5051  ",
     "unit_number": "4024.0014",
-    "name": "Gmunden",
-    "abbr": "Gz  ",
-    "lat": "47.9254",
-    "lng": "13.783",
-    "arrival": "2023-09-17T11:23:00Z",
-    "departure": "2023-09-17T11:24:00Z"
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-09-18T03:27:00Z",
+    "departure": "2023-09-18T03:30:00Z"
   },
   {
-    "train_number": "3409  ",
+    "train_number": "5051  ",
     "unit_number": "4024.0014",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": "2023-09-17T06:52:00Z",
-    "departure": "2023-09-17T11:08:00Z"
+    "name": "Salzburg Liefering (in Sb)",
+    "abbr": "Lfg ",
+    "lat": "47.8229",
+    "lng": "13.0021",
+    "arrival": "2023-09-18T03:19:00Z",
+    "departure": "2023-09-18T03:19:00Z"
   },
   {
-    "train_number": "3409  ",
+    "train_number": "25796 ",
     "unit_number": "4024.0014",
-    "name": "Gmunden",
-    "abbr": "Gz  ",
-    "lat": "47.9254",
-    "lng": "13.783",
-    "arrival": "2023-09-17T06:22:00Z",
-    "departure": "2023-09-17T06:36:00Z"
+    "name": "Freilassing",
+    "abbr": "MFL ",
+    "lat": "47.8368",
+    "lng": "12.9764",
+    "arrival": "2023-09-17T19:43:00Z",
+    "departure": "2023-09-18T03:17:00Z"
   }
 ]

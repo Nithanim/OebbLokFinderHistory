@@ -1,0 +1,12 @@
+[
+  {
+    "train_number": "Ty1216",
+    "unit_number": "1216.0012",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-09-18T14:00:00Z",
+    "departure": "2023-09-19T06:10:00Z"
+  }
+]

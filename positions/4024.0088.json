@@ -1,5 +1,195 @@
 [
   {
+    "train_number": "5228  ",
+    "unit_number": "4024.0088",
+    "name": "Jenbach",
+    "abbr": "Jb  ",
+    "lat": "47.3884",
+    "lng": "11.7783",
+    "arrival": "2023-09-18T16:13:00Z",
+    "departure": "2023-09-18T16:14:00Z"
+  },
+  {
+    "train_number": "5228  ",
+    "unit_number": "4024.0088",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-09-18T15:56:00Z"
+  },
+  {
+    "train_number": "5034  ",
+    "unit_number": "4024.0088",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-09-18T15:40:00Z",
+    "departure": "2023-09-18T15:54:00Z"
+  },
+  {
+    "train_number": "5034  ",
+    "unit_number": "4024.0088",
+    "name": "Kitzbühel",
+    "abbr": "Kzb ",
+    "lat": "47.4542",
+    "lng": "12.391",
+    "arrival": "2023-09-18T15:00:00Z",
+    "departure": "2023-09-18T15:01:00Z"
+  },
+  {
+    "train_number": "5033  ",
+    "unit_number": "4024.0088",
+    "name": "Kitzbühel",
+    "abbr": "Kzb ",
+    "lat": "47.4542",
+    "lng": "12.391",
+    "arrival": "2023-09-18T14:01:00Z",
+    "departure": "2023-09-18T14:02:00Z"
+  },
+  {
+    "train_number": "5317  ",
+    "unit_number": "4024.0088",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-09-18T13:07:00Z",
+    "departure": "2023-09-18T13:22:00Z"
+  },
+  {
+    "train_number": "5317  ",
+    "unit_number": "4024.0088",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-09-18T13:04:00Z"
+  },
+  {
+    "train_number": "5317  ",
+    "unit_number": "4024.0088",
+    "name": "Jenbach",
+    "abbr": "Jb  ",
+    "lat": "47.3884",
+    "lng": "11.7783",
+    "arrival": "2023-09-18T12:47:00Z",
+    "departure": "2023-09-18T12:48:00Z"
+  },
+  {
+    "train_number": "5317  ",
+    "unit_number": "4024.0088",
+    "name": "Schwaz",
+    "abbr": "Sw  ",
+    "lat": "47.3497",
+    "lng": "11.7016",
+    "arrival": "2023-09-18T12:41:00Z",
+    "departure": "2023-09-18T12:42:00Z"
+  },
+  {
+    "train_number": "5317  ",
+    "unit_number": "4024.0088",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
+    "arrival": "2023-09-18T12:29:00Z",
+    "departure": "2023-09-18T12:30:00Z"
+  },
+  {
+    "train_number": "5379  ",
+    "unit_number": "4024.0088",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-09-18T12:06:00Z",
+    "departure": "2023-09-18T12:21:00Z"
+  },
+  {
+    "train_number": "5379  ",
+    "unit_number": "4024.0088",
+    "name": "Imst-Pitztal",
+    "abbr": "Im  ",
+    "lat": "47.219",
+    "lng": "10.7619",
+    "arrival": "2023-09-18T11:16:00Z",
+    "departure": "2023-09-18T11:18:00Z"
+  },
+  {
+    "train_number": "5374  ",
+    "unit_number": "4024.0088",
+    "name": "Landeck-Zams",
+    "abbr": "Le  ",
+    "lat": "47.148",
+    "lng": "10.5782",
+    "arrival": "2023-09-18T10:56:00Z",
+    "departure": "2023-09-18T11:01:00Z"
+  },
+  {
+    "train_number": "5374  ",
+    "unit_number": "4024.0088",
+    "name": "Imst-Pitztal",
+    "abbr": "Im  ",
+    "lat": "47.219",
+    "lng": "10.7619",
+    "arrival": "2023-09-18T10:40:00Z",
+    "departure": "2023-09-18T10:41:00Z"
+  },
+  {
+    "train_number": "5373  ",
+    "unit_number": "4024.0088",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-09-18T09:06:00Z",
+    "departure": "2023-09-18T09:52:00Z"
+  },
+  {
+    "train_number": "5373  ",
+    "unit_number": "4024.0088",
+    "name": "Imst-Pitztal",
+    "abbr": "Im  ",
+    "lat": "47.219",
+    "lng": "10.7619",
+    "arrival": "2023-09-18T08:16:00Z",
+    "departure": "2023-09-18T08:20:00Z"
+  },
+  {
+    "train_number": "5146  ",
+    "unit_number": "4024.0088",
+    "name": "Landeck-Zams",
+    "abbr": "Le  ",
+    "lat": "47.148",
+    "lng": "10.5782",
+    "arrival": "2023-09-18T07:15:00Z",
+    "departure": "2023-09-18T08:01:00Z"
+  },
+  {
+    "train_number": "5146  ",
+    "unit_number": "4024.0088",
+    "name": "Imst-Pitztal",
+    "abbr": "Im  ",
+    "lat": "47.219",
+    "lng": "10.7619",
+    "arrival": "2023-09-18T06:58:00Z",
+    "departure": "2023-09-18T06:58:00Z"
+  },
+  {
+    "train_number": "5243  ",
+    "unit_number": "4024.0088",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-09-18T04:38:00Z",
+    "departure": "2023-09-18T05:59:00Z"
+  },
+  {
     "train_number": "5274  ",
     "unit_number": "4024.0088",
     "name": "Brennero/Brenner",
@@ -8,45 +198,5 @@
     "lng": "11.5053",
     "arrival": "2023-09-17T21:44:00Z",
     "departure": "2023-09-18T03:58:00Z"
-  },
-  {
-    "train_number": "5137  ",
-    "unit_number": "4024.0088",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-09-17T20:31:00Z",
-    "departure": "2023-09-17T21:05:00Z"
-  },
-  {
-    "train_number": "5365  ",
-    "unit_number": "4024.0088",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-09-17T05:59:00Z",
-    "departure": "2023-09-17T17:20:00Z"
-  },
-  {
-    "train_number": "5365  ",
-    "unit_number": "4024.0088",
-    "name": "Imst-Pitztal",
-    "abbr": "Im  ",
-    "lat": "47.219",
-    "lng": "10.7619",
-    "arrival": "2023-09-17T05:03:00Z",
-    "departure": "2023-09-17T05:04:00Z"
-  },
-  {
-    "train_number": "5390  ",
-    "unit_number": "4024.0088",
-    "name": "Landeck-Zams",
-    "abbr": "Le  ",
-    "lat": "47.148",
-    "lng": "10.5782",
-    "arrival": "2023-09-16T18:58:00Z",
-    "departure": "2023-09-17T04:47:00Z"
   }
 ]

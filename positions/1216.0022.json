@@ -1,112 +1,82 @@
 [
   {
-    "train_number": "53444 ",
-    "unit_number": "1216.0022",
-    "name": "Jenbach",
-    "abbr": "Jb  ",
-    "lat": "47.3884",
-    "lng": "11.7783",
-    "arrival": null,
-    "departure": "2023-09-17T18:31:00Z"
-  },
-  {
-    "train_number": "53445 ",
-    "unit_number": "1216.0022",
-    "name": "Schwaz",
-    "abbr": "Sw  ",
-    "lat": "47.3497",
-    "lng": "11.7016",
-    "arrival": null,
-    "departure": "2023-09-17T15:36:00Z"
-  },
-  {
-    "train_number": "53445 ",
-    "unit_number": "1216.0022",
-    "name": "Jenbach",
-    "abbr": "Jb  ",
-    "lat": "47.3884",
-    "lng": "11.7783",
-    "arrival": null,
-    "departure": "2023-09-17T15:30:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1216.0022",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
-    "arrival": null,
-    "departure": "2023-09-17T15:10:00Z"
-  },
-  {
-    "train_number": "49846 ",
-    "unit_number": "1216.0022",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
-    "arrival": null,
-    "departure": "2023-09-17T12:19:00Z"
-  },
-  {
     "train_number": "49845 ",
     "unit_number": "1216.0022",
-    "name": "Brennero/Brenner",
-    "abbr": "Be  ",
-    "lat": "47.0022",
-    "lng": "11.5053",
-    "arrival": "2023-09-17T10:20:00Z",
-    "departure": "2023-09-17T11:00:00Z"
-  },
-  {
-    "train_number": "49845 ",
-    "unit_number": "1216.0022",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-09-17T09:12:00Z",
-    "departure": "2023-09-17T09:39:00Z"
-  },
-  {
-    "train_number": "49845 ",
-    "unit_number": "1216.0022",
-    "name": "Hall in Tirol",
-    "abbr": "H   ",
-    "lat": "47.2769",
-    "lng": "11.5013",
+    "name": "Rosenheim",
+    "abbr": "MRO ",
+    "lat": "47.8511",
+    "lng": "12.1196",
     "arrival": null,
-    "departure": "2023-09-17T09:02:00Z"
+    "departure": "2023-09-19T02:00:00Z"
   },
   {
-    "train_number": "49845 ",
+    "train_number": "49842 ",
     "unit_number": "1216.0022",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
+    "name": "Rosenheim",
+    "abbr": "MRO ",
+    "lat": "47.8511",
+    "lng": "12.1196",
     "arrival": null,
-    "departure": "2023-09-17T08:32:00Z"
+    "departure": "2023-09-18T19:11:00Z"
   },
   {
-    "train_number": "18341 ",
+    "train_number": "49842 ",
+    "unit_number": "1216.0022",
+    "name": "Kufstein",
+    "abbr": "K   ",
+    "lat": "47.5833",
+    "lng": "12.1657",
+    "arrival": "2023-09-18T18:35:00Z",
+    "departure": "2023-09-18T18:40:00Z"
+  },
+  {
+    "train_number": "49842 ",
     "unit_number": "1216.0022",
     "name": "Wörgl Hbf (in W)",
     "abbr": "W   ",
     "lat": "47.4912",
     "lng": "12.0603",
-    "arrival": "2023-09-17T03:08:00Z",
-    "departure": "2023-09-17T08:30:00Z"
+    "arrival": null,
+    "departure": "2023-09-18T18:24:00Z"
   },
   {
-    "train_number": "18341 ",
+    "train_number": "49842 ",
     "unit_number": "1216.0022",
     "name": "Wörgl Hbf-T. N. (in W)",
     "abbr": "Wtn ",
     "lat": "47.4824",
     "lng": "12.033",
     "arrival": null,
-    "departure": "2023-09-17T03:06:00Z"
+    "departure": "2023-09-18T18:22:00Z"
+  },
+  {
+    "train_number": "45153 ",
+    "unit_number": "1216.0022",
+    "name": "Brennero/Brenner",
+    "abbr": "Be  ",
+    "lat": "47.0022",
+    "lng": "11.5053",
+    "arrival": "2023-09-18T14:42:00Z",
+    "departure": "2023-09-18T17:09:00Z"
+  },
+  {
+    "train_number": "45153 ",
+    "unit_number": "1216.0022",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-09-18T13:24:00Z"
+  },
+  {
+    "train_number": "95383 ",
+    "unit_number": "1216.0022",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-09-17T17:10:00Z",
+    "departure": "2023-09-18T13:21:00Z"
   }
 ]
