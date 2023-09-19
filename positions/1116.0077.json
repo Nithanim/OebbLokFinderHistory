@@ -1,73 +1,43 @@
 [
   {
-    "train_number": "54531 ",
-    "unit_number": "1116.0077",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-09-18T23:03:00Z",
-    "departure": "2023-09-18T23:33:00Z"
-  },
-  {
-    "train_number": "54531 ",
-    "unit_number": "1116.0077",
-    "name": "Bischofshofen (in Bo)",
-    "abbr": "Bo  ",
-    "lat": "47.42",
-    "lng": "13.2199",
-    "arrival": null,
-    "departure": "2023-09-18T22:49:00Z"
-  },
-  {
-    "train_number": "54531 ",
-    "unit_number": "1116.0077",
-    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
-    "abbr": "Sre ",
-    "lat": "47.8075",
-    "lng": "13.0687",
-    "arrival": null,
-    "departure": "2023-09-18T22:12:00Z"
-  },
-  {
-    "train_number": "54854 ",
+    "train_number": "41820 ",
     "unit_number": "1116.0077",
     "name": "Salzburg Gnigl-Vbf (in Sb)",
     "abbr": "Sr  ",
     "lat": "47.8075",
     "lng": "13.0021",
-    "arrival": "2023-09-18T11:48:00Z",
-    "departure": "2023-09-18T22:07:00Z"
+    "arrival": "2023-09-19T07:10:00Z",
+    "departure": "2023-09-19T07:24:00Z"
   },
   {
-    "train_number": "54854 ",
+    "train_number": "41820 ",
     "unit_number": "1116.0077",
     "name": "Salzburg Gnigl-Einfgr. (in Sb)",
     "abbr": "Sre ",
     "lat": "47.8075",
     "lng": "13.0687",
-    "arrival": "2023-09-18T11:37:00Z",
-    "departure": "2023-09-18T11:44:00Z"
+    "arrival": null,
+    "departure": "2023-09-19T07:07:00Z"
   },
   {
-    "train_number": "54854 ",
+    "train_number": "41820 ",
     "unit_number": "1116.0077",
     "name": "Bischofshofen (in Bo)",
     "abbr": "Bo  ",
     "lat": "47.42",
     "lng": "13.2199",
     "arrival": null,
-    "departure": "2023-09-18T10:52:00Z"
+    "departure": "2023-09-19T06:28:00Z"
   },
   {
-    "train_number": "54854 ",
+    "train_number": "41820 ",
     "unit_number": "1116.0077",
     "name": "Schwarzach-St.Veit",
-    "abbr": "----",
+    "abbr": "Swa ",
     "lat": "47.3186",
     "lng": "13.1561",
-    "arrival": "2023-09-18T10:20:00Z",
-    "departure": "2023-09-18T10:38:00Z"
+    "arrival": "2023-09-19T05:50:00Z",
+    "departure": "2023-09-19T06:14:00Z"
   },
   {
     "train_number": null,
@@ -77,6 +47,6 @@
     "lat": "46.5674",
     "lng": "13.8238",
     "arrival": null,
-    "departure": "2023-09-18T08:26:00Z"
+    "departure": "2023-09-19T03:36:00Z"
   }
 ]

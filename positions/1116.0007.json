@@ -1,82 +1,132 @@
 [
   {
-    "train_number": "85546 ",
-    "unit_number": "1116.0007",
-    "name": "Imst-Pitztal",
-    "abbr": "Im  ",
-    "lat": "47.219",
-    "lng": "10.7619",
-    "arrival": "2023-09-18T21:57:00Z",
-    "departure": "2023-09-18T22:05:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0007",
-    "name": "Innsbruck Westbf (in I)",
-    "abbr": "Wt  ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": null,
-    "departure": "2023-09-18T21:25:00Z"
-  },
-  {
-    "train_number": "59440 ",
-    "unit_number": "1116.0007",
-    "name": "Imst-Pitztal",
-    "abbr": "Im  ",
-    "lat": "47.219",
-    "lng": "10.7619",
-    "arrival": null,
-    "departure": "2023-09-18T10:47:00Z"
-  },
-  {
-    "train_number": "59440 ",
+    "train_number": "45861 ",
     "unit_number": "1116.0007",
     "name": "Landeck-Zams",
     "abbr": "Le  ",
     "lat": "47.148",
     "lng": "10.5782",
-    "arrival": null,
-    "departure": "2023-09-18T10:32:00Z"
+    "arrival": "2023-09-19T18:35:00Z",
+    "departure": "2023-09-20T02:10:00Z"
   },
   {
-    "train_number": "59440 ",
+    "train_number": "45861 ",
     "unit_number": "1116.0007",
     "name": "Bludenz",
     "abbr": "B   ",
     "lat": "47.155",
     "lng": "9.81448",
-    "arrival": "2023-09-18T08:37:00Z",
-    "departure": "2023-09-18T09:07:00Z"
+    "arrival": null,
+    "departure": "2023-09-19T17:35:00Z"
   },
   {
-    "train_number": "59440 ",
+    "train_number": "45861 ",
     "unit_number": "1116.0007",
     "name": "Feldkirch",
     "abbr": "Fk  ",
     "lat": "47.2417",
     "lng": "9.60519",
     "arrival": null,
-    "departure": "2023-09-18T08:13:00Z"
+    "departure": "2023-09-19T17:15:00Z"
   },
   {
-    "train_number": "59440 ",
+    "train_number": "45861 ",
     "unit_number": "1116.0007",
     "name": "Dornbirn (in Do)",
     "abbr": "Do  ",
     "lat": "47.4176",
     "lng": "9.73871",
     "arrival": null,
-    "departure": "2023-09-18T07:45:00Z"
+    "departure": "2023-09-19T16:52:00Z"
   },
   {
-    "train_number": "55440 ",
+    "train_number": "49898 ",
     "unit_number": "1116.0007",
     "name": "Wolfurt (in Wo)",
     "abbr": "Wo  ",
     "lat": "47.457",
     "lng": "9.74133",
-    "arrival": "2023-09-18T01:45:00Z",
-    "departure": "2023-09-18T07:39:00Z"
+    "arrival": "2023-09-19T10:03:00Z",
+    "departure": "2023-09-19T16:48:00Z"
+  },
+  {
+    "train_number": "49898 ",
+    "unit_number": "1116.0007",
+    "name": "Dornbirn (in Do)",
+    "abbr": "Do  ",
+    "lat": "47.4176",
+    "lng": "9.73871",
+    "arrival": null,
+    "departure": "2023-09-19T09:58:00Z"
+  },
+  {
+    "train_number": "49898 ",
+    "unit_number": "1116.0007",
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
+    "arrival": null,
+    "departure": "2023-09-19T09:39:00Z"
+  },
+  {
+    "train_number": "49898 ",
+    "unit_number": "1116.0007",
+    "name": "Bludenz",
+    "abbr": "B   ",
+    "lat": "47.155",
+    "lng": "9.81448",
+    "arrival": "2023-09-19T08:54:00Z",
+    "departure": "2023-09-19T09:20:00Z"
+  },
+  {
+    "train_number": "49898 ",
+    "unit_number": "1116.0007",
+    "name": "Landeck-Zams",
+    "abbr": "Le  ",
+    "lat": "47.148",
+    "lng": "10.5782",
+    "arrival": "2023-09-19T07:19:00Z",
+    "departure": "2023-09-19T07:49:00Z"
+  },
+  {
+    "train_number": "49898 ",
+    "unit_number": "1116.0007",
+    "name": "Imst-Pitztal",
+    "abbr": "Im  ",
+    "lat": "47.219",
+    "lng": "10.7619",
+    "arrival": null,
+    "departure": "2023-09-19T07:04:00Z"
+  },
+  {
+    "train_number": "5357  ",
+    "unit_number": "1116.0007",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-09-19T05:01:00Z",
+    "departure": "2023-09-19T06:21:00Z"
+  },
+  {
+    "train_number": "5357  ",
+    "unit_number": "1116.0007",
+    "name": "Imst-Pitztal",
+    "abbr": "Im  ",
+    "lat": "47.219",
+    "lng": "10.7619",
+    "arrival": "2023-09-19T04:17:00Z",
+    "departure": "2023-09-19T04:19:00Z"
+  },
+  {
+    "train_number": "Vhz   ",
+    "unit_number": "1116.0007",
+    "name": "Landeck-Zams",
+    "abbr": "Le  ",
+    "lat": "47.148",
+    "lng": "10.5782",
+    "arrival": "2023-09-19T04:04:00Z",
+    "departure": "2023-09-19T04:04:00Z"
   }
 ]
