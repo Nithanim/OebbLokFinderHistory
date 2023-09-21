@@ -1,0 +1,32 @@
+[
+  {
+    "train_number": "40687 ",
+    "unit_number": "1293.0018",
+    "name": "Brennero/Brenner",
+    "abbr": "Be  ",
+    "lat": "47.0022",
+    "lng": "11.5053",
+    "arrival": "2023-09-21T03:11:00Z",
+    "departure": "2023-09-21T02:50:00Z"
+  },
+  {
+    "train_number": "40687 ",
+    "unit_number": "1293.0018",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": null,
+    "departure": "2023-09-21T02:29:00Z"
+  },
+  {
+    "train_number": "40687 ",
+    "unit_number": "1293.0018",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
+    "arrival": "2023-09-21T01:56:00Z",
+    "departure": "2023-09-21T02:19:00Z"
+  }
+]
