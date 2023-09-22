@@ -1,43 +1,13 @@
 [
   {
-    "train_number": "66681 ",
-    "unit_number": "1063.0039",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": null,
-    "departure": "2023-09-22T01:42:00Z"
-  },
-  {
-    "train_number": "66681 ",
-    "unit_number": "1063.0039",
-    "name": "Bruck a.d.Mur (in Bm)",
-    "abbr": "Bm  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
-    "arrival": null,
-    "departure": "2023-09-22T01:21:00Z"
-  },
-  {
-    "train_number": "74655 ",
-    "unit_number": "1063.0039",
-    "name": "Bruck a.d.Mur-Fbf (in Bm)",
-    "abbr": "Bk  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
-    "arrival": "2023-09-21T16:04:00Z",
-    "departure": "2023-09-22T01:18:00Z"
-  },
-  {
     "train_number": "64623 ",
     "unit_number": "1063.0039",
     "name": "Bruck a.d.Mur-Fbf (in Bm)",
     "abbr": "Bk  ",
     "lat": "47.4134",
     "lng": "15.2797",
-    "arrival": "2023-09-21T11:20:00Z",
-    "departure": "2023-09-21T15:09:00Z"
+    "arrival": "2023-09-22T11:20:00Z",
+    "departure": "2023-09-22T15:09:00Z"
   },
   {
     "train_number": "89753 ",
@@ -46,8 +16,8 @@
     "abbr": "Bk  ",
     "lat": "47.4134",
     "lng": "15.2797",
-    "arrival": "2023-09-21T06:16:00Z",
-    "departure": "2023-09-21T07:21:00Z"
+    "arrival": "2023-09-22T06:16:00Z",
+    "departure": "2023-09-22T07:21:00Z"
   },
   {
     "train_number": "88902 ",
@@ -56,8 +26,8 @@
     "abbr": "Bk  ",
     "lat": "47.4134",
     "lng": "15.2797",
-    "arrival": "2023-09-21T02:30:00Z",
-    "departure": "2023-09-21T03:22:00Z"
+    "arrival": "2023-09-22T02:30:00Z",
+    "departure": "2023-09-22T03:22:00Z"
   },
   {
     "train_number": "88902 ",
@@ -67,7 +37,7 @@
     "lat": "47.4134",
     "lng": "15.2797",
     "arrival": null,
-    "departure": "2023-09-21T02:27:00Z"
+    "departure": "2023-09-22T02:27:00Z"
   },
   {
     "train_number": "88902 ",
@@ -77,6 +47,6 @@
     "lat": "47.3867",
     "lng": "15.0898",
     "arrival": null,
-    "departure": "2023-09-21T02:14:00Z"
+    "departure": "2023-09-22T02:14:00Z"
   }
 ]
