@@ -1,0 +1,72 @@
+[
+  {
+    "train_number": "20083 ",
+    "unit_number": "4024.0130",
+    "name": "Wien Westbf (in Ws)",
+    "abbr": "Ws  ",
+    "lat": "48.1964",
+    "lng": "16.3374",
+    "arrival": "2023-09-23T18:04:00Z",
+    "departure": "2023-09-23T18:30:00Z"
+  },
+  {
+    "train_number": "20031 ",
+    "unit_number": "4024.0130",
+    "name": "Wien Westbf (in Ws)",
+    "abbr": "Ws  ",
+    "lat": "48.1964",
+    "lng": "16.3374",
+    "arrival": "2023-09-23T16:30:00Z",
+    "departure": "2023-09-23T17:00:00Z"
+  },
+  {
+    "train_number": "20075 ",
+    "unit_number": "4024.0130",
+    "name": "Wien Westbf (in Ws)",
+    "abbr": "Ws  ",
+    "lat": "48.1964",
+    "lng": "16.3374",
+    "arrival": "2023-09-23T14:04:00Z",
+    "departure": "2023-09-23T14:30:00Z"
+  },
+  {
+    "train_number": "20023 ",
+    "unit_number": "4024.0130",
+    "name": "Wien Westbf (in Ws)",
+    "abbr": "Ws  ",
+    "lat": "48.1964",
+    "lng": "16.3374",
+    "arrival": "2023-09-23T12:30:00Z",
+    "departure": "2023-09-23T13:00:00Z"
+  },
+  {
+    "train_number": "20211 ",
+    "unit_number": "4024.0130",
+    "name": "Wien Westbf (in Ws)",
+    "abbr": "Ws  ",
+    "lat": "48.1964",
+    "lng": "16.3374",
+    "arrival": "2023-09-23T10:04:00Z",
+    "departure": "2023-09-23T10:30:00Z"
+  },
+  {
+    "train_number": "20073 ",
+    "unit_number": "4024.0130",
+    "name": "Wien Westbf (in Ws)",
+    "abbr": "Ws  ",
+    "lat": "48.1964",
+    "lng": "16.3374",
+    "arrival": "2023-09-23T06:04:00Z",
+    "departure": "2023-09-23T09:00:00Z"
+  },
+  {
+    "train_number": "20007 ",
+    "unit_number": "4024.0130",
+    "name": "Wien Westbf (in Ws)",
+    "abbr": "Ws  ",
+    "lat": "48.1964",
+    "lng": "16.3374",
+    "arrival": "2023-09-23T04:30:00Z",
+    "departure": "2023-09-23T05:00:00Z"
+  }
+]

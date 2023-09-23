@@ -1,142 +1,202 @@
 [
   {
-    "train_number": "57092 ",
+    "train_number": "48440 ",
     "unit_number": "1116.0158",
-    "name": "Hohenau",
-    "abbr": "Nh  ",
-    "lat": "48.5981",
-    "lng": "16.9008",
-    "arrival": "2023-09-22T15:01:00Z",
-    "departure": "2023-09-23T01:18:00Z"
+    "name": "Bischofshofen (in Bo)",
+    "abbr": "Bo  ",
+    "lat": "47.42",
+    "lng": "13.2199",
+    "arrival": null,
+    "departure": "2023-09-23T18:28:00Z"
   },
   {
-    "train_number": "57092 ",
+    "train_number": "48440 ",
+    "unit_number": "1116.0158",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-09-23T17:45:00Z",
+    "departure": "2023-09-23T18:13:00Z"
+  },
+  {
+    "train_number": "48440 ",
+    "unit_number": "1116.0158",
+    "name": "Villach Westbf",
+    "abbr": "Vf  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-09-23T15:37:00Z",
+    "departure": "2023-09-23T15:40:00Z"
+  },
+  {
+    "train_number": "48440 ",
+    "unit_number": "1116.0158",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": null,
+    "departure": "2023-09-23T14:54:00Z"
+  },
+  {
+    "train_number": "49405 ",
+    "unit_number": "1116.0158",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": null,
+    "departure": "2023-09-23T13:15:00Z"
+  },
+  {
+    "train_number": "49405 ",
+    "unit_number": "1116.0158",
+    "name": "Villach Westbf",
+    "abbr": "Vf  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-09-23T11:29:00Z",
+    "departure": "2023-09-23T12:48:00Z"
+  },
+  {
+    "train_number": "49405 ",
+    "unit_number": "1116.0158",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": null,
+    "departure": "2023-09-23T11:25:00Z"
+  },
+  {
+    "train_number": "49405 ",
+    "unit_number": "1116.0158",
+    "name": "Klagenfurt Hbf (in Kt)",
+    "abbr": "Kt  ",
+    "lat": "46.6156",
+    "lng": "14.3137",
+    "arrival": null,
+    "departure": "2023-09-23T10:50:00Z"
+  },
+  {
+    "train_number": "49405 ",
+    "unit_number": "1116.0158",
+    "name": "St.Veit a.d.Glan (in Vps)",
+    "abbr": "Vps ",
+    "lat": "46.7704",
+    "lng": "14.3672",
+    "arrival": null,
+    "departure": "2023-09-23T10:31:00Z"
+  },
+  {
+    "train_number": "49405 ",
+    "unit_number": "1116.0158",
+    "name": "Zeltweg",
+    "abbr": "Zg  ",
+    "lat": "47.1887",
+    "lng": "14.7425",
+    "arrival": null,
+    "departure": "2023-09-23T09:08:00Z"
+  },
+  {
+    "train_number": "49405 ",
+    "unit_number": "1116.0158",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": null,
+    "departure": "2023-09-23T08:38:00Z"
+  },
+  {
+    "train_number": "49405 ",
+    "unit_number": "1116.0158",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": null,
+    "departure": "2023-09-23T08:21:00Z"
+  },
+  {
+    "train_number": "49405 ",
+    "unit_number": "1116.0158",
+    "name": "Mürzzuschlag (in Mz)",
+    "abbr": "Mz  ",
+    "lat": "47.6079",
+    "lng": "15.677",
+    "arrival": null,
+    "departure": "2023-09-23T07:17:00Z"
+  },
+  {
+    "train_number": "49405 ",
+    "unit_number": "1116.0158",
+    "name": "Payerbach-Reichenau",
+    "abbr": "Pr  ",
+    "lat": "47.696",
+    "lng": "15.8632",
+    "arrival": null,
+    "departure": "2023-09-23T06:32:00Z"
+  },
+  {
+    "train_number": "49405 ",
+    "unit_number": "1116.0158",
+    "name": "Neunkirchen N.Ö.",
+    "abbr": "Nek ",
+    "lat": "47.731",
+    "lng": "16.0826",
+    "arrival": null,
+    "departure": "2023-09-23T05:57:00Z"
+  },
+  {
+    "train_number": "49405 ",
+    "unit_number": "1116.0158",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": null,
+    "departure": "2023-09-23T05:44:00Z"
+  },
+  {
+    "train_number": "49405 ",
+    "unit_number": "1116.0158",
+    "name": "Ebenfurth (in Ef)",
+    "abbr": "Ef  ",
+    "lat": "47.8777",
+    "lng": "16.3621",
+    "arrival": null,
+    "departure": "2023-09-23T05:28:00Z"
+  },
+  {
+    "train_number": "49405 ",
+    "unit_number": "1116.0158",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": "2023-09-23T04:37:00Z",
+    "departure": "2023-09-23T04:40:00Z"
+  },
+  {
+    "train_number": "49405 ",
     "unit_number": "1116.0158",
     "name": "Gänserndorf",
     "abbr": "Gae ",
     "lat": "48.3401",
     "lng": "16.7324",
     "arrival": null,
-    "departure": "2023-09-22T14:36:00Z"
+    "departure": "2023-09-23T03:51:00Z"
   },
   {
-    "train_number": "57092 ",
+    "train_number": "49405 ",
     "unit_number": "1116.0158",
-    "name": "Korneuburg",
-    "abbr": "Ko  ",
-    "lat": "48.3429",
-    "lng": "16.3289",
-    "arrival": "2023-09-22T13:50:00Z",
-    "departure": "2023-09-22T13:59:00Z"
-  },
-  {
-    "train_number": "57092 ",
-    "unit_number": "1116.0158",
-    "name": "Stockerau (in Su)",
-    "abbr": "Su  ",
-    "lat": "48.3824",
-    "lng": "16.2126",
-    "arrival": "2023-09-22T13:16:00Z",
-    "departure": "2023-09-22T13:37:00Z"
-  },
-  {
-    "train_number": "57092 ",
-    "unit_number": "1116.0158",
-    "name": "Pöchlarn",
-    "abbr": "Poe ",
-    "lat": "48.208",
-    "lng": "15.2148",
-    "arrival": null,
-    "departure": "2023-09-22T11:12:00Z"
-  },
-  {
-    "train_number": "57092 ",
-    "unit_number": "1116.0158",
-    "name": "Ybbs a.d.Donau",
-    "abbr": "Y   ",
-    "lat": "48.158",
-    "lng": "15.0981",
-    "arrival": null,
-    "departure": "2023-09-22T11:00:00Z"
-  },
-  {
-    "train_number": "57092 ",
-    "unit_number": "1116.0158",
-    "name": "Amstetten (in Ams)",
-    "abbr": "Ams ",
-    "lat": "48.1215",
-    "lng": "14.8792",
-    "arrival": null,
-    "departure": "2023-09-22T10:45:00Z"
-  },
-  {
-    "train_number": "57092 ",
-    "unit_number": "1116.0158",
-    "name": "St.Valentin (in Sv)",
-    "abbr": "Sv  ",
-    "lat": "48.1784",
-    "lng": "14.5219",
-    "arrival": null,
-    "departure": "2023-09-22T10:13:00Z"
-  },
-  {
-    "train_number": "57092 ",
-    "unit_number": "1116.0158",
-    "name": "Enns",
-    "abbr": "Ens ",
-    "lat": "48.2212",
-    "lng": "14.4668",
-    "arrival": null,
-    "departure": "2023-09-22T10:06:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0158",
-    "name": "Voest Alpine Linz",
-    "abbr": "Ms  ",
-    "lat": "48.2607",
-    "lng": "14.2927",
-    "arrival": null,
-    "departure": "2023-09-22T09:39:00Z"
-  },
-  {
-    "train_number": "3009  ",
-    "unit_number": "1116.0158",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": "2023-09-22T06:36:00Z",
-    "departure": "2023-09-22T06:37:00Z"
-  },
-  {
-    "train_number": "3047  ",
-    "unit_number": "1116.0158",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": "2023-09-22T05:26:00Z",
-    "departure": "2023-09-22T06:10:00Z"
-  },
-  {
-    "train_number": "3047  ",
-    "unit_number": "1116.0158",
-    "name": "Steindorf b.Straßw. (in Nst)",
-    "abbr": "Nst ",
-    "lat": "47.9676",
-    "lng": "13.2406",
-    "arrival": null,
-    "departure": "2023-09-22T04:45:00Z"
-  },
-  {
-    "train_number": "87284 ",
-    "unit_number": "1116.0158",
-    "name": "Salzburg Hbf (in Sb)",
-    "abbr": "Sb  ",
-    "lat": "47.8135",
-    "lng": "13.0466",
-    "arrival": "2023-09-22T02:24:00Z",
-    "departure": "2023-09-22T04:17:00Z"
+    "name": "Hohenau",
+    "abbr": "Nh  ",
+    "lat": "48.5981",
+    "lng": "16.9008",
+    "arrival": "2023-09-23T02:52:00Z",
+    "departure": "2023-09-23T03:24:00Z"
   }
 ]
