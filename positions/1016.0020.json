@@ -1,62 +1,22 @@
 [
   {
-    "train_number": "53336 ",
+    "train_number": "79218 ",
     "unit_number": "1016.0020",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
-    "arrival": "2023-09-24T14:50:00Z",
-    "departure": "2023-09-25T06:10:00Z"
+    "name": "Kiefersfelden",
+    "abbr": "MKI ",
+    "lat": "47.5833",
+    "lng": "12.1657",
+    "arrival": "2023-09-25T10:10:00Z",
+    "departure": "2023-09-25T11:15:00Z"
   },
   {
-    "train_number": "53336 ",
+    "train_number": "88325 ",
     "unit_number": "1016.0020",
-    "name": "Jenbach",
-    "abbr": "Jb  ",
-    "lat": "47.3884",
-    "lng": "11.7783",
-    "arrival": null,
-    "departure": "2023-09-24T14:31:00Z"
-  },
-  {
-    "train_number": "53336 ",
-    "unit_number": "1016.0020",
-    "name": "Schwaz",
-    "abbr": "Sw  ",
-    "lat": "47.3497",
-    "lng": "11.7016",
-    "arrival": null,
-    "departure": "2023-09-24T14:24:00Z"
-  },
-  {
-    "train_number": "53337 ",
-    "unit_number": "1016.0020",
-    "name": "Schwaz",
-    "abbr": "Sw  ",
-    "lat": "47.3497",
-    "lng": "11.7016",
-    "arrival": null,
-    "departure": "2023-09-24T11:36:00Z"
-  },
-  {
-    "train_number": "53337 ",
-    "unit_number": "1016.0020",
-    "name": "Jenbach",
-    "abbr": "Jb  ",
-    "lat": "47.3884",
-    "lng": "11.7783",
-    "arrival": null,
-    "departure": "2023-09-24T11:31:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1016.0020",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
-    "arrival": null,
-    "departure": "2023-09-24T11:10:00Z"
+    "name": "Kufstein",
+    "abbr": "K   ",
+    "lat": "47.5833",
+    "lng": "12.1657",
+    "arrival": "2023-09-25T02:04:00Z",
+    "departure": "2023-09-25T10:00:00Z"
   }
 ]
