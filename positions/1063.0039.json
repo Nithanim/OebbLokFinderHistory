@@ -6,8 +6,8 @@
     "abbr": "Bm  ",
     "lat": "47.4134",
     "lng": "15.2797",
-    "arrival": "2023-09-26T01:59:00Z",
-    "departure": "2023-09-26T02:19:00Z"
+    "arrival": "2023-09-27T01:59:00Z",
+    "departure": "2023-09-27T02:19:00Z"
   },
   {
     "train_number": "Bk1   ",
@@ -16,57 +16,57 @@
     "abbr": "Bk  ",
     "lat": "47.4134",
     "lng": "15.2797",
-    "arrival": "2023-09-26T01:55:00Z",
-    "departure": "2023-09-26T01:55:00Z"
+    "arrival": "2023-09-27T01:55:00Z",
+    "departure": "2023-09-27T01:55:00Z"
   },
   {
-    "train_number": "64623 ",
-    "unit_number": "1063.0039",
-    "name": "Bruck a.d.Mur-Fbf (in Bm)",
-    "abbr": "Bk  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
-    "arrival": "2023-09-25T11:20:00Z",
-    "departure": "2023-09-25T15:09:00Z"
-  },
-  {
-    "train_number": "89753 ",
-    "unit_number": "1063.0039",
-    "name": "Bruck a.d.Mur-Fbf (in Bm)",
-    "abbr": "Bk  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
-    "arrival": "2023-09-25T06:16:00Z",
-    "departure": "2023-09-25T07:21:00Z"
-  },
-  {
-    "train_number": "88902 ",
-    "unit_number": "1063.0039",
-    "name": "Bruck a.d.Mur-Fbf (in Bm)",
-    "abbr": "Bk  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
-    "arrival": "2023-09-25T02:30:00Z",
-    "departure": "2023-09-25T03:22:00Z"
-  },
-  {
-    "train_number": "88902 ",
+    "train_number": "74697 ",
     "unit_number": "1063.0039",
     "name": "Bruck a.d.Mur (in Bm)",
     "abbr": "Bm  ",
     "lat": "47.4134",
     "lng": "15.2797",
-    "arrival": null,
-    "departure": "2023-09-25T02:27:00Z"
+    "arrival": "2023-09-26T15:34:00Z",
+    "departure": "2023-09-26T15:56:00Z"
   },
   {
-    "train_number": "88902 ",
+    "train_number": "Bk1   ",
     "unit_number": "1063.0039",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": null,
-    "departure": "2023-09-25T02:14:00Z"
+    "name": "Bruck a.d.Mur-Fbf (in Bm)",
+    "abbr": "Bk  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": "2023-09-26T15:00:00Z",
+    "departure": "2023-09-26T15:30:00Z"
+  },
+  {
+    "train_number": "74693 ",
+    "unit_number": "1063.0039",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": "2023-09-26T07:56:00Z",
+    "departure": "2023-09-26T08:10:00Z"
+  },
+  {
+    "train_number": "Bk1   ",
+    "unit_number": "1063.0039",
+    "name": "Bruck a.d.Mur-Fbf (in Bm)",
+    "abbr": "Bk  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": "2023-09-26T07:52:00Z",
+    "departure": "2023-09-26T07:52:00Z"
+  },
+  {
+    "train_number": "74699 ",
+    "unit_number": "1063.0039",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": "2023-09-26T01:59:00Z",
+    "departure": "2023-09-26T02:19:00Z"
   }
 ]
