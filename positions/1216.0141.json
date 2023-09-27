@@ -1,5 +1,135 @@
 [
   {
+    "train_number": "45428 ",
+    "unit_number": "1216.0141",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": null,
+    "departure": "2023-09-28T00:07:00Z"
+  },
+  {
+    "train_number": "45411 ",
+    "unit_number": "1216.0141",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": null,
+    "departure": "2023-09-27T23:21:00Z"
+  },
+  {
+    "train_number": "18260 ",
+    "unit_number": "1216.0141",
+    "name": "Villach Süd Gvbf Ausfgr",
+    "abbr": "Va  ",
+    "lat": "46.5674",
+    "lng": "13.8238",
+    "arrival": "2023-09-27T23:02:00Z",
+    "departure": "2023-09-27T23:03:00Z"
+  },
+  {
+    "train_number": "18260 ",
+    "unit_number": "1216.0141",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": null,
+    "departure": "2023-09-27T22:51:00Z"
+  },
+  {
+    "train_number": "18260 ",
+    "unit_number": "1216.0141",
+    "name": "Klagenfurt Hbf (in Kt)",
+    "abbr": "Kt  ",
+    "lat": "46.6156",
+    "lng": "14.3137",
+    "arrival": null,
+    "departure": "2023-09-27T22:21:00Z"
+  },
+  {
+    "train_number": "18260 ",
+    "unit_number": "1216.0141",
+    "name": "St.Veit a.d.Glan (in Vps)",
+    "abbr": "Vps ",
+    "lat": "46.7704",
+    "lng": "14.3672",
+    "arrival": null,
+    "departure": "2023-09-27T22:05:00Z"
+  },
+  {
+    "train_number": "90860 ",
+    "unit_number": "1216.0141",
+    "name": "St.Veit a.d.Glan (in Vps)",
+    "abbr": "Vps ",
+    "lat": "46.7704",
+    "lng": "14.3672",
+    "arrival": null,
+    "departure": "2023-09-27T21:05:00Z"
+  },
+  {
+    "train_number": "90860 ",
+    "unit_number": "1216.0141",
+    "name": "Klagenfurt Hbf (in Kt)",
+    "abbr": "Kt  ",
+    "lat": "46.6156",
+    "lng": "14.3137",
+    "arrival": null,
+    "departure": "2023-09-27T20:35:00Z"
+  },
+  {
+    "train_number": "90860 ",
+    "unit_number": "1216.0141",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": null,
+    "departure": "2023-09-27T20:09:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1216.0141",
+    "name": "Villach Süd Gvbf Ausfgr",
+    "abbr": "Va  ",
+    "lat": "46.5674",
+    "lng": "13.8238",
+    "arrival": null,
+    "departure": "2023-09-27T20:00:00Z"
+  },
+  {
+    "train_number": "76545 ",
+    "unit_number": "1216.0141",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": null,
+    "departure": "2023-09-27T16:46:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1216.0141",
+    "name": "Villach Hbf-Ostbf (in Vb)",
+    "abbr": "Vbo ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": null,
+    "departure": "2023-09-27T16:43:00Z"
+  },
+  {
+    "train_number": "212   ",
+    "unit_number": "1216.0141",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": "2023-09-27T08:28:00Z",
+    "departure": "2023-09-27T08:29:00Z"
+  },
+  {
     "train_number": "213   ",
     "unit_number": "1216.0141",
     "name": "Dobova",
@@ -8,45 +138,5 @@
     "lng": "15.6597",
     "arrival": "2023-09-26T18:08:00Z",
     "departure": "2023-09-27T05:45:00Z"
-  },
-  {
-    "train_number": "213   ",
-    "unit_number": "1216.0141",
-    "name": "Rosenbach",
-    "abbr": "Rn  ",
-    "lat": "46.5309",
-    "lng": "14.0354",
-    "arrival": null,
-    "departure": "2023-09-26T15:18:00Z"
-  },
-  {
-    "train_number": "212   ",
-    "unit_number": "1216.0141",
-    "name": "Villach Hbf",
-    "abbr": "Vb  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
-    "arrival": "2023-09-26T08:58:00Z",
-    "departure": "2023-09-26T14:53:00Z"
-  },
-  {
-    "train_number": "212   ",
-    "unit_number": "1216.0141",
-    "name": "Rosenbach",
-    "abbr": "Rn  ",
-    "lat": "46.5309",
-    "lng": "14.0354",
-    "arrival": "2023-09-26T08:28:00Z",
-    "departure": "2023-09-26T08:29:00Z"
-  },
-  {
-    "train_number": "213   ",
-    "unit_number": "1216.0141",
-    "name": "Dobova",
-    "abbr": "DO  ",
-    "lat": "45.8977",
-    "lng": "15.6597",
-    "arrival": "2023-09-25T18:08:00Z",
-    "departure": "2023-09-26T05:45:00Z"
   }
 ]
