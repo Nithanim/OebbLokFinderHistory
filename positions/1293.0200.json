@@ -1,202 +1,102 @@
 [
   {
-    "train_number": "88121 ",
+    "train_number": "41173 ",
     "unit_number": "1293.0200",
-    "name": "Voest Alpine Linz",
-    "abbr": "Ms  ",
-    "lat": "48.2607",
-    "lng": "14.2927",
-    "arrival": "2023-09-27T23:26:00Z",
-    "departure": "2023-09-27T23:49:00Z"
-  },
-  {
-    "train_number": "88102 ",
-    "unit_number": "1293.0200",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-09-27T22:24:00Z",
-    "departure": "2023-09-27T23:15:00Z"
-  },
-  {
-    "train_number": "48440 ",
-    "unit_number": "1293.0200",
-    "name": "Voest Alpine Linz",
-    "abbr": "Ms  ",
-    "lat": "48.2607",
-    "lng": "14.2927",
-    "arrival": "2023-09-27T21:46:00Z",
-    "departure": "2023-09-27T22:12:00Z"
-  },
-  {
-    "train_number": "48440 ",
-    "unit_number": "1293.0200",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-09-27T21:27:00Z",
-    "departure": "2023-09-27T21:34:00Z"
-  },
-  {
-    "train_number": "48440 ",
-    "unit_number": "1293.0200",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
+    "name": "Neunkirchen N.Ö.",
+    "abbr": "Nek ",
+    "lat": "47.731",
+    "lng": "16.0826",
     "arrival": null,
-    "departure": "2023-09-27T21:07:00Z"
+    "departure": "2023-09-29T02:01:00Z"
   },
   {
-    "train_number": "48440 ",
+    "train_number": "41173 ",
     "unit_number": "1293.0200",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
     "arrival": null,
-    "departure": "2023-09-27T20:37:00Z"
+    "departure": "2023-09-29T01:48:00Z"
   },
   {
-    "train_number": "48440 ",
+    "train_number": "41173 ",
     "unit_number": "1293.0200",
-    "name": "Steindorf b.Straßw. (in Nst)",
-    "abbr": "Nst ",
-    "lat": "47.9676",
-    "lng": "13.2406",
+    "name": "Leobersdorf",
+    "abbr": "Lb  ",
+    "lat": "47.9375",
+    "lng": "16.2313",
     "arrival": null,
-    "departure": "2023-09-27T20:03:00Z"
+    "departure": "2023-09-29T01:34:00Z"
   },
   {
-    "train_number": "48440 ",
+    "train_number": "41173 ",
     "unit_number": "1293.0200",
-    "name": "Salzburg Gnigl-Vbf (in Sb)",
-    "abbr": "Sr  ",
-    "lat": "47.8075",
-    "lng": "13.0021",
-    "arrival": "2023-09-27T19:10:00Z",
-    "departure": "2023-09-27T19:39:00Z"
-  },
-  {
-    "train_number": "48440 ",
-    "unit_number": "1293.0200",
-    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
-    "abbr": "Sre ",
-    "lat": "47.8075",
-    "lng": "13.0687",
+    "name": "Mödling",
+    "abbr": "Md  ",
+    "lat": "48.0858",
+    "lng": "16.2958",
     "arrival": null,
-    "departure": "2023-09-27T19:07:00Z"
+    "departure": "2023-09-29T01:17:00Z"
   },
   {
-    "train_number": "48440 ",
+    "train_number": "41173 ",
     "unit_number": "1293.0200",
-    "name": "Bischofshofen (in Bo)",
-    "abbr": "Bo  ",
-    "lat": "47.42",
-    "lng": "13.2199",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
     "arrival": null,
-    "departure": "2023-09-27T18:28:00Z"
+    "departure": "2023-09-29T01:07:00Z"
   },
   {
-    "train_number": "48440 ",
+    "train_number": "41173 ",
     "unit_number": "1293.0200",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-09-27T17:45:00Z",
-    "departure": "2023-09-27T18:13:00Z"
-  },
-  {
-    "train_number": "48440 ",
-    "unit_number": "1293.0200",
-    "name": "Villach Westbf",
-    "abbr": "Vf  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
-    "arrival": "2023-09-27T15:37:00Z",
-    "departure": "2023-09-27T15:40:00Z"
-  },
-  {
-    "train_number": "48440 ",
-    "unit_number": "1293.0200",
-    "name": "Rosenbach",
-    "abbr": "Rn  ",
-    "lat": "46.5309",
-    "lng": "14.0354",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
     "arrival": null,
-    "departure": "2023-09-27T14:54:00Z"
+    "departure": "2023-09-29T00:58:00Z"
   },
   {
-    "train_number": "18272 ",
+    "train_number": "41173 ",
     "unit_number": "1293.0200",
-    "name": "Rosenbach",
-    "abbr": "Rn  ",
-    "lat": "46.5309",
-    "lng": "14.0354",
+    "name": "Kledering (in Zur)",
+    "abbr": "Za  ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": "2023-09-29T00:20:00Z",
+    "departure": "2023-09-29T00:57:00Z"
+  },
+  {
+    "train_number": "41173 ",
+    "unit_number": "1293.0200",
+    "name": "Parndorf",
+    "abbr": "Par ",
+    "lat": "47.987",
+    "lng": "16.8702",
     "arrival": null,
-    "departure": "2023-09-27T12:56:00Z"
+    "departure": "2023-09-28T23:46:00Z"
   },
   {
-    "train_number": null,
+    "train_number": "41173 ",
     "unit_number": "1293.0200",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
-    "arrival": null,
-    "departure": "2023-09-27T12:39:00Z"
+    "name": "Hegyeshalom",
+    "abbr": "He  ",
+    "lat": "47.9139",
+    "lng": "17.1455",
+    "arrival": "2023-09-28T22:10:00Z",
+    "departure": "2023-09-28T23:28:00Z"
   },
   {
-    "train_number": "44235 ",
+    "train_number": "42182 ",
     "unit_number": "1293.0200",
-    "name": "Tarvisio Boscoverde",
-    "abbr": "Tbv ",
-    "lat": "46.5059",
-    "lng": "13.6081",
-    "arrival": "2023-09-27T10:47:00Z",
-    "departure": "2023-09-27T11:08:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1293.0200",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
-    "arrival": null,
-    "departure": "2023-09-27T10:22:00Z"
-  },
-  {
-    "train_number": "48229 ",
-    "unit_number": "1293.0200",
-    "name": "Tarvisio Boscoverde",
-    "abbr": "Tbv ",
-    "lat": "46.5059",
-    "lng": "13.6081",
-    "arrival": "2023-09-27T08:55:00Z",
-    "departure": "2023-09-27T09:02:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1293.0200",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
-    "arrival": null,
-    "departure": "2023-09-27T08:33:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1293.0200",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
-    "arrival": null,
-    "departure": "2023-09-27T04:00:00Z"
+    "name": "SOROKSÁRI ÚT RENDEZÖ",
+    "abbr": "BKR ",
+    "lat": "47.4687",
+    "lng": "19.0882",
+    "arrival": "2023-09-28T03:42:00Z",
+    "departure": "2023-09-28T18:30:00Z"
   }
 ]
