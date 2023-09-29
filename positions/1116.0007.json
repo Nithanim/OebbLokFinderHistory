@@ -1,202 +1,152 @@
 [
   {
-    "train_number": "49416 ",
+    "train_number": "47406 ",
     "unit_number": "1116.0007",
-    "name": "Payerbach-Reichenau",
-    "abbr": "Pr  ",
-    "lat": "47.696",
-    "lng": "15.8632",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
     "arrival": null,
-    "departure": "2023-09-28T16:04:00Z"
+    "departure": "2023-09-29T23:28:00Z"
   },
   {
-    "train_number": "49416 ",
-    "unit_number": "1116.0007",
-    "name": "Mürzzuschlag (in Mz)",
-    "abbr": "Mz  ",
-    "lat": "47.6079",
-    "lng": "15.677",
-    "arrival": null,
-    "departure": "2023-09-28T15:26:00Z"
-  },
-  {
-    "train_number": "49416 ",
-    "unit_number": "1116.0007",
-    "name": "Bruck a.d.Mur (in Bm)",
-    "abbr": "Bm  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
-    "arrival": null,
-    "departure": "2023-09-28T14:32:00Z"
-  },
-  {
-    "train_number": "49416 ",
+    "train_number": "47406 ",
     "unit_number": "1116.0007",
     "name": "Graz Vbf (in G)",
     "abbr": "Gi  ",
     "lat": "47.0885",
     "lng": "15.4077",
     "arrival": null,
-    "departure": "2023-09-28T13:41:00Z"
+    "departure": "2023-09-29T22:31:00Z"
   },
   {
-    "train_number": "49416 ",
+    "train_number": "47406 ",
     "unit_number": "1116.0007",
     "name": "Graz Hbf (in G)",
     "abbr": "G   ",
     "lat": "47.0733",
     "lng": "15.4163",
     "arrival": null,
-    "departure": "2023-09-28T13:37:00Z"
+    "departure": "2023-09-29T22:27:00Z"
   },
   {
-    "train_number": "49416 ",
+    "train_number": "47406 ",
     "unit_number": "1116.0007",
     "name": "Werndorf",
     "abbr": "Wr  ",
     "lat": "46.9171",
     "lng": "15.477",
     "arrival": null,
-    "departure": "2023-09-28T13:22:00Z"
+    "departure": "2023-09-29T22:12:00Z"
   },
   {
-    "train_number": "49415 ",
+    "train_number": "47401 ",
     "unit_number": "1116.0007",
     "name": "Spielfeld-Straß",
     "abbr": "Sd  ",
     "lat": "46.71",
     "lng": "15.6282",
-    "arrival": "2023-09-28T11:22:00Z",
-    "departure": "2023-09-28T12:39:00Z"
+    "arrival": "2023-09-29T21:24:00Z",
+    "departure": "2023-09-29T21:44:00Z"
   },
   {
-    "train_number": "49415 ",
+    "train_number": "47401 ",
     "unit_number": "1116.0007",
     "name": "Werndorf",
     "abbr": "Wr  ",
     "lat": "46.9171",
     "lng": "15.477",
     "arrival": null,
-    "departure": "2023-09-28T10:46:00Z"
+    "departure": "2023-09-29T20:57:00Z"
   },
   {
-    "train_number": "49415 ",
+    "train_number": "47401 ",
     "unit_number": "1116.0007",
     "name": "Graz Hbf (in G)",
     "abbr": "G   ",
     "lat": "47.0733",
     "lng": "15.4163",
     "arrival": null,
-    "departure": "2023-09-28T10:29:00Z"
+    "departure": "2023-09-29T20:45:00Z"
   },
   {
-    "train_number": "49415 ",
+    "train_number": "47401 ",
     "unit_number": "1116.0007",
     "name": "Graz Vbf (in G)",
     "abbr": "Gi  ",
     "lat": "47.0885",
     "lng": "15.4077",
     "arrival": null,
-    "departure": "2023-09-28T10:25:00Z"
+    "departure": "2023-09-29T20:41:00Z"
   },
   {
-    "train_number": "49415 ",
+    "train_number": "47401 ",
     "unit_number": "1116.0007",
-    "name": "Bruck a.d.Mur (in Bm)",
-    "abbr": "Bm  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
     "arrival": null,
-    "departure": "2023-09-28T09:45:00Z"
+    "departure": "2023-09-29T19:45:00Z"
   },
   {
-    "train_number": "49415 ",
+    "train_number": "88956 ",
     "unit_number": "1116.0007",
-    "name": "Mürzzuschlag (in Mz)",
-    "abbr": "Mz  ",
-    "lat": "47.6079",
-    "lng": "15.677",
-    "arrival": null,
-    "departure": "2023-09-28T08:38:00Z"
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": "2023-09-29T16:28:00Z",
+    "departure": "2023-09-29T18:46:00Z"
   },
   {
-    "train_number": "49415 ",
+    "train_number": "58668 ",
     "unit_number": "1116.0007",
-    "name": "Payerbach-Reichenau",
-    "abbr": "Pr  ",
-    "lat": "47.696",
-    "lng": "15.8632",
-    "arrival": null,
-    "departure": "2023-09-28T07:59:00Z"
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": "2023-09-29T15:21:00Z",
+    "departure": "2023-09-29T15:46:00Z"
   },
   {
-    "train_number": "49415 ",
+    "train_number": "58668 ",
     "unit_number": "1116.0007",
-    "name": "Neunkirchen N.Ö.",
-    "abbr": "Nek ",
-    "lat": "47.731",
-    "lng": "16.0826",
-    "arrival": null,
-    "departure": "2023-09-28T06:53:00Z"
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": "2023-09-29T15:03:00Z",
+    "departure": "2023-09-29T15:10:00Z"
   },
   {
-    "train_number": "49415 ",
+    "train_number": "58668 ",
     "unit_number": "1116.0007",
-    "name": "Wr. Neustadt Hbf (in Nb)",
-    "abbr": "Nb  ",
-    "lat": "47.8113",
-    "lng": "16.2337",
-    "arrival": null,
-    "departure": "2023-09-28T06:39:00Z"
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-09-29T13:57:00Z",
+    "departure": "2023-09-29T14:08:00Z"
   },
   {
-    "train_number": "49415 ",
+    "train_number": "72643 ",
     "unit_number": "1116.0007",
-    "name": "Ebenfurth (in Ef)",
-    "abbr": "Ef  ",
-    "lat": "47.8777",
-    "lng": "16.3621",
-    "arrival": null,
-    "departure": "2023-09-28T06:30:00Z"
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-09-29T04:19:00Z",
+    "departure": "2023-09-29T08:55:00Z"
   },
   {
-    "train_number": "49415 ",
+    "train_number": "Sl21  ",
     "unit_number": "1116.0007",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": "2023-09-28T05:36:00Z",
-    "departure": "2023-09-28T05:50:00Z"
-  },
-  {
-    "train_number": "49415 ",
-    "unit_number": "1116.0007",
-    "name": "Gänserndorf",
-    "abbr": "Gae ",
-    "lat": "48.3401",
-    "lng": "16.7324",
-    "arrival": null,
-    "departure": "2023-09-28T04:53:00Z"
-  },
-  {
-    "train_number": "49415 ",
-    "unit_number": "1116.0007",
-    "name": "Hohenau",
-    "abbr": "Nh  ",
-    "lat": "48.5981",
-    "lng": "16.9008",
-    "arrival": "2023-09-28T03:51:00Z",
-    "departure": "2023-09-28T04:24:00Z"
-  },
-  {
-    "train_number": "79569 ",
-    "unit_number": "1116.0007",
-    "name": "Hohenau",
-    "abbr": "Nh  ",
-    "lat": "48.5981",
-    "lng": "16.9008",
-    "arrival": "2023-09-27T19:32:00Z",
-    "departure": "2023-09-28T02:30:00Z"
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-09-29T03:06:00Z",
+    "departure": "2023-09-29T03:06:00Z"
   }
 ]

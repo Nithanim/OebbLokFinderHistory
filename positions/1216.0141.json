@@ -1,52 +1,62 @@
 [
   {
-    "train_number": "213   ",
-    "unit_number": "1216.0141",
-    "name": "Dobova",
-    "abbr": "DO  ",
-    "lat": "45.8977",
-    "lng": "15.6597",
-    "arrival": "2023-09-28T18:08:00Z",
-    "departure": "2023-09-29T05:45:00Z"
-  },
-  {
-    "train_number": "213   ",
+    "train_number": "45411 ",
     "unit_number": "1216.0141",
     "name": "Rosenbach",
     "abbr": "Rn  ",
     "lat": "46.5309",
     "lng": "14.0354",
     "arrival": null,
-    "departure": "2023-09-28T15:18:00Z"
+    "departure": "2023-09-29T23:21:00Z"
   },
   {
-    "train_number": "212   ",
+    "train_number": null,
     "unit_number": "1216.0141",
-    "name": "Villach Hbf",
-    "abbr": "Vb  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
-    "arrival": "2023-09-28T08:58:00Z",
-    "departure": "2023-09-28T14:53:00Z"
+    "name": "Villach Süd Gvbf Ausfgr",
+    "abbr": "Va  ",
+    "lat": "46.5674",
+    "lng": "13.8238",
+    "arrival": null,
+    "departure": "2023-09-29T23:03:00Z"
   },
   {
-    "train_number": "212   ",
+    "train_number": "41173 ",
+    "unit_number": "1216.0141",
+    "name": "Tarvisio Boscoverde",
+    "abbr": "Tbv ",
+    "lat": "46.5059",
+    "lng": "13.6081",
+    "arrival": "2023-09-29T11:12:00Z",
+    "departure": "2023-09-29T12:00:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1216.0141",
+    "name": "Villach Westbf",
+    "abbr": "Vf  ",
+    "lat": "46.6092",
+    "lng": "13.8407",
+    "arrival": null,
+    "departure": "2023-09-29T10:30:00Z"
+  },
+  {
+    "train_number": "314   ",
     "unit_number": "1216.0141",
     "name": "Rosenbach",
     "abbr": "Rn  ",
     "lat": "46.5309",
     "lng": "14.0354",
-    "arrival": "2023-09-28T08:28:00Z",
-    "departure": "2023-09-28T08:29:00Z"
+    "arrival": "2023-09-29T06:43:00Z",
+    "departure": "2023-09-29T06:44:00Z"
   },
   {
-    "train_number": "213   ",
+    "train_number": "315   ",
     "unit_number": "1216.0141",
     "name": "Dobova",
     "abbr": "DO  ",
     "lat": "45.8977",
     "lng": "15.6597",
-    "arrival": "2023-09-27T18:08:00Z",
-    "departure": "2023-09-28T05:45:00Z"
+    "arrival": "2023-09-28T20:42:00Z",
+    "departure": "2023-09-29T03:40:00Z"
   }
 ]
