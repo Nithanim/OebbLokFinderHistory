@@ -1,202 +1,202 @@
 [
   {
-    "train_number": "26058 ",
-    "unit_number": "4124.0013",
-    "name": "Ebenfurth (in Ef)",
-    "abbr": "Ef  ",
-    "lat": "47.8777",
-    "lng": "16.3621",
-    "arrival": "2023-09-29T16:10:00Z",
-    "departure": "2023-09-29T16:10:00Z"
-  },
-  {
-    "train_number": "26058 ",
+    "train_number": "26066 ",
     "unit_number": "4124.0013",
     "name": "Wien Meidling (in Wbf)",
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-09-29T15:16:00Z",
-    "departure": "2023-09-29T15:18:00Z"
+    "arrival": "2023-09-30T17:16:00Z",
+    "departure": "2023-09-30T17:18:00Z"
   },
   {
-    "train_number": "26058 ",
+    "train_number": "26066 ",
     "unit_number": "4124.0013",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-09-29T15:01:00Z"
+    "departure": "2023-09-30T17:01:00Z"
   },
   {
-    "train_number": "26051 ",
+    "train_number": "26057 ",
     "unit_number": "4124.0013",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-09-29T13:27:00Z"
+    "departure": "2023-09-30T14:57:00Z"
   },
   {
-    "train_number": "26048 ",
-    "unit_number": "4124.0013",
-    "name": "Wien Hauptbahnhof (in Wbf)",
-    "abbr": "Wbf ",
-    "lat": "48.185",
-    "lng": "16.3778",
-    "arrival": "2023-09-29T12:39:00Z",
-    "departure": "2023-09-29T13:20:00Z"
-  },
-  {
-    "train_number": "26048 ",
-    "unit_number": "4124.0013",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-09-29T12:31:00Z"
-  },
-  {
-    "train_number": "26041 ",
-    "unit_number": "4124.0013",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-09-29T10:57:00Z"
-  },
-  {
-    "train_number": "26041 ",
+    "train_number": "26057 ",
     "unit_number": "4124.0013",
     "name": "Wien Meidling (in Wbf)",
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-09-29T10:41:00Z",
-    "departure": "2023-09-29T10:43:00Z"
+    "arrival": "2023-09-30T14:41:00Z",
+    "departure": "2023-09-30T14:43:00Z"
   },
   {
-    "train_number": "26041 ",
+    "train_number": "26057 ",
     "unit_number": "4124.0013",
     "name": "Ebenfurth (in Ef)",
     "abbr": "Ef  ",
     "lat": "47.8777",
     "lng": "16.3621",
-    "arrival": "2023-09-29T09:49:00Z",
-    "departure": "2023-09-29T09:50:00Z"
+    "arrival": "2023-09-30T13:49:00Z",
+    "departure": "2023-09-30T13:50:00Z"
   },
   {
-    "train_number": "26030 ",
+    "train_number": "26046 ",
     "unit_number": "4124.0013",
     "name": "Wr. Neustadt Hbf (in Nb)",
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-09-29T09:23:00Z",
-    "departure": "2023-09-29T09:36:00Z"
+    "arrival": "2023-09-30T13:23:00Z",
+    "departure": "2023-09-30T13:36:00Z"
   },
   {
-    "train_number": "26030 ",
+    "train_number": "26046 ",
     "unit_number": "4124.0013",
     "name": "Ebenfurth (in Ef)",
     "abbr": "Ef  ",
     "lat": "47.8777",
     "lng": "16.3621",
-    "arrival": "2023-09-29T09:10:00Z",
-    "departure": "2023-09-29T09:10:00Z"
+    "arrival": "2023-09-30T13:10:00Z",
+    "departure": "2023-09-30T13:10:00Z"
   },
   {
-    "train_number": "26030 ",
+    "train_number": "26046 ",
     "unit_number": "4124.0013",
     "name": "Wien Meidling (in Wbf)",
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-09-29T08:16:00Z",
-    "departure": "2023-09-29T08:18:00Z"
+    "arrival": "2023-09-30T12:16:00Z",
+    "departure": "2023-09-30T12:18:00Z"
   },
   {
-    "train_number": "26030 ",
+    "train_number": "26046 ",
     "unit_number": "4124.0013",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-09-29T08:01:00Z"
+    "departure": "2023-09-30T12:01:00Z"
   },
   {
-    "train_number": "26023 ",
+    "train_number": "26037 ",
     "unit_number": "4124.0013",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-09-29T06:27:00Z"
+    "departure": "2023-09-30T09:57:00Z"
   },
   {
-    "train_number": "26023 ",
+    "train_number": "26037 ",
     "unit_number": "4124.0013",
     "name": "Wien Meidling (in Wbf)",
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-09-29T06:01:00Z",
-    "departure": "2023-09-29T06:03:00Z"
+    "arrival": "2023-09-30T09:41:00Z",
+    "departure": "2023-09-30T09:43:00Z"
   },
   {
-    "train_number": "26023 ",
+    "train_number": "26037 ",
     "unit_number": "4124.0013",
     "name": "Ebenfurth (in Ef)",
     "abbr": "Ef  ",
     "lat": "47.8777",
     "lng": "16.3621",
-    "arrival": "2023-09-29T05:17:00Z",
-    "departure": "2023-09-29T05:17:00Z"
+    "arrival": "2023-09-30T08:49:00Z",
+    "departure": "2023-09-30T08:50:00Z"
   },
   {
-    "train_number": "26010 ",
+    "train_number": "26026 ",
     "unit_number": "4124.0013",
     "name": "Wr. Neustadt Hbf (in Nb)",
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-09-29T04:23:00Z",
-    "departure": "2023-09-29T05:04:00Z"
+    "arrival": "2023-09-30T08:23:00Z",
+    "departure": "2023-09-30T08:36:00Z"
   },
   {
-    "train_number": "26010 ",
+    "train_number": "26026 ",
     "unit_number": "4124.0013",
     "name": "Ebenfurth (in Ef)",
     "abbr": "Ef  ",
     "lat": "47.8777",
     "lng": "16.3621",
-    "arrival": "2023-09-29T04:10:00Z",
-    "departure": "2023-09-29T04:10:00Z"
+    "arrival": "2023-09-30T08:10:00Z",
+    "departure": "2023-09-30T08:10:00Z"
   },
   {
-    "train_number": "26010 ",
+    "train_number": "26026 ",
     "unit_number": "4124.0013",
     "name": "Wien Meidling (in Wbf)",
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-09-29T03:16:00Z",
-    "departure": "2023-09-29T03:18:00Z"
+    "arrival": "2023-09-30T07:16:00Z",
+    "departure": "2023-09-30T07:18:00Z"
   },
   {
-    "train_number": "26010 ",
+    "train_number": "26026 ",
     "unit_number": "4124.0013",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-09-29T03:01:00Z"
+    "departure": "2023-09-30T07:01:00Z"
+  },
+  {
+    "train_number": "26017 ",
+    "unit_number": "4124.0013",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-09-30T04:57:00Z"
+  },
+  {
+    "train_number": "26017 ",
+    "unit_number": "4124.0013",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-09-30T04:41:00Z",
+    "departure": "2023-09-30T04:43:00Z"
+  },
+  {
+    "train_number": "26017 ",
+    "unit_number": "4124.0013",
+    "name": "Ebenfurth (in Ef)",
+    "abbr": "Ef  ",
+    "lat": "47.8777",
+    "lng": "16.3621",
+    "arrival": "2023-09-30T03:49:00Z",
+    "departure": "2023-09-30T03:50:00Z"
+  },
+  {
+    "train_number": "26082 ",
+    "unit_number": "4124.0013",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": "2023-09-29T22:10:00Z",
+    "departure": "2023-09-30T03:36:00Z"
   }
 ]

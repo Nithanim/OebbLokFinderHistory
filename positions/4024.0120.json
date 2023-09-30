@@ -1,5 +1,185 @@
 [
   {
+    "train_number": "3092  ",
+    "unit_number": "4024.0120",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-10-01T00:37:00Z",
+    "departure": "2023-10-01T02:11:00Z"
+  },
+  {
+    "train_number": "3092  ",
+    "unit_number": "4024.0120",
+    "name": "Steindorf b.Straßw. (in Nst)",
+    "abbr": "Nst ",
+    "lat": "47.9676",
+    "lng": "13.2406",
+    "arrival": null,
+    "departure": "2023-10-01T00:09:00Z"
+  },
+  {
+    "train_number": "3091  ",
+    "unit_number": "4024.0120",
+    "name": "Steindorf b.Straßw. (in Nst)",
+    "abbr": "Nst ",
+    "lat": "47.9676",
+    "lng": "13.2406",
+    "arrival": null,
+    "departure": "2023-10-01T00:00:00Z"
+  },
+  {
+    "train_number": "1527  ",
+    "unit_number": "4024.0120",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-09-30T18:51:00Z",
+    "departure": "2023-09-30T23:34:00Z"
+  },
+  {
+    "train_number": "1527  ",
+    "unit_number": "4024.0120",
+    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
+    "abbr": "Sre ",
+    "lat": "47.8075",
+    "lng": "13.0687",
+    "arrival": null,
+    "departure": "2023-09-30T18:46:00Z"
+  },
+  {
+    "train_number": "1527  ",
+    "unit_number": "4024.0120",
+    "name": "Bischofshofen (in Bo)",
+    "abbr": "Bo  ",
+    "lat": "47.42",
+    "lng": "13.2199",
+    "arrival": "2023-09-30T18:02:00Z",
+    "departure": "2023-09-30T18:04:00Z"
+  },
+  {
+    "train_number": "1527  ",
+    "unit_number": "4024.0120",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-09-30T17:48:00Z",
+    "departure": "2023-09-30T17:49:00Z"
+  },
+  {
+    "train_number": "1527  ",
+    "unit_number": "4024.0120",
+    "name": "Kitzbühel",
+    "abbr": "Kzb ",
+    "lat": "47.4542",
+    "lng": "12.391",
+    "arrival": "2023-09-30T16:24:00Z",
+    "departure": "2023-09-30T16:25:00Z"
+  },
+  {
+    "train_number": "1516  ",
+    "unit_number": "4024.0120",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-09-30T14:08:00Z",
+    "departure": "2023-09-30T15:52:00Z"
+  },
+  {
+    "train_number": "1516  ",
+    "unit_number": "4024.0120",
+    "name": "Kitzbühel",
+    "abbr": "Kzb ",
+    "lat": "47.4542",
+    "lng": "12.391",
+    "arrival": "2023-09-30T13:35:00Z",
+    "departure": "2023-09-30T13:35:00Z"
+  },
+  {
+    "train_number": "1516  ",
+    "unit_number": "4024.0120",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-09-30T12:10:00Z",
+    "departure": "2023-09-30T12:12:00Z"
+  },
+  {
+    "train_number": "1516  ",
+    "unit_number": "4024.0120",
+    "name": "Bischofshofen (in Bo)",
+    "abbr": "Bo  ",
+    "lat": "47.42",
+    "lng": "13.2199",
+    "arrival": "2023-09-30T11:55:00Z",
+    "departure": "2023-09-30T11:56:00Z"
+  },
+  {
+    "train_number": "1516  ",
+    "unit_number": "4024.0120",
+    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
+    "abbr": "Sre ",
+    "lat": "47.8075",
+    "lng": "13.0687",
+    "arrival": null,
+    "departure": "2023-09-30T11:12:00Z"
+  },
+  {
+    "train_number": "1503  ",
+    "unit_number": "4024.0120",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-09-30T06:51:00Z",
+    "departure": "2023-09-30T11:08:00Z"
+  },
+  {
+    "train_number": "1503  ",
+    "unit_number": "4024.0120",
+    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
+    "abbr": "Sre ",
+    "lat": "47.8075",
+    "lng": "13.0687",
+    "arrival": null,
+    "departure": "2023-09-30T06:46:00Z"
+  },
+  {
+    "train_number": "1503  ",
+    "unit_number": "4024.0120",
+    "name": "Bischofshofen (in Bo)",
+    "abbr": "Bo  ",
+    "lat": "47.42",
+    "lng": "13.2199",
+    "arrival": "2023-09-30T06:02:00Z",
+    "departure": "2023-09-30T06:04:00Z"
+  },
+  {
+    "train_number": "1503  ",
+    "unit_number": "4024.0120",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-09-30T05:48:00Z",
+    "departure": "2023-09-30T05:49:00Z"
+  },
+  {
+    "train_number": "1503  ",
+    "unit_number": "4024.0120",
+    "name": "Kitzbühel",
+    "abbr": "Kzb ",
+    "lat": "47.4542",
+    "lng": "12.391",
+    "arrival": "2023-09-30T04:19:00Z",
+    "departure": "2023-09-30T04:20:00Z"
+  },
+  {
     "train_number": "31528 ",
     "unit_number": "4024.0120",
     "name": "Wörgl Hbf (in W)",
@@ -8,135 +188,5 @@
     "lng": "12.0603",
     "arrival": "2023-09-29T20:12:00Z",
     "departure": "2023-09-30T03:42:00Z"
-  },
-  {
-    "train_number": "31528 ",
-    "unit_number": "4024.0120",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
-    "arrival": "2023-09-29T19:37:00Z",
-    "departure": "2023-09-29T19:38:00Z"
-  },
-  {
-    "train_number": "1529  ",
-    "unit_number": "4024.0120",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
-    "arrival": "2023-09-29T17:24:00Z",
-    "departure": "2023-09-29T17:25:00Z"
-  },
-  {
-    "train_number": "31520 ",
-    "unit_number": "4024.0120",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-09-29T16:08:00Z",
-    "departure": "2023-09-29T16:50:00Z"
-  },
-  {
-    "train_number": "31520 ",
-    "unit_number": "4024.0120",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
-    "arrival": "2023-09-29T15:35:00Z",
-    "departure": "2023-09-29T15:35:00Z"
-  },
-  {
-    "train_number": "1521  ",
-    "unit_number": "4024.0120",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
-    "arrival": "2023-09-29T13:24:00Z",
-    "departure": "2023-09-29T13:25:00Z"
-  },
-  {
-    "train_number": "31512 ",
-    "unit_number": "4024.0120",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-09-29T12:08:00Z",
-    "departure": "2023-09-29T12:50:00Z"
-  },
-  {
-    "train_number": "31512 ",
-    "unit_number": "4024.0120",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
-    "arrival": "2023-09-29T11:35:00Z",
-    "departure": "2023-09-29T11:35:00Z"
-  },
-  {
-    "train_number": "1513  ",
-    "unit_number": "4024.0120",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
-    "arrival": "2023-09-29T09:24:00Z",
-    "departure": "2023-09-29T09:25:00Z"
-  },
-  {
-    "train_number": "31504 ",
-    "unit_number": "4024.0120",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-09-29T08:08:00Z",
-    "departure": "2023-09-29T08:50:00Z"
-  },
-  {
-    "train_number": "31504 ",
-    "unit_number": "4024.0120",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
-    "arrival": "2023-09-29T07:35:00Z",
-    "departure": "2023-09-29T07:35:00Z"
-  },
-  {
-    "train_number": "1505  ",
-    "unit_number": "4024.0120",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
-    "arrival": "2023-09-29T05:24:00Z",
-    "departure": "2023-09-29T05:25:00Z"
-  },
-  {
-    "train_number": "5004  ",
-    "unit_number": "4024.0120",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-09-29T04:28:00Z",
-    "departure": "2023-09-29T04:49:00Z"
-  },
-  {
-    "train_number": "5004  ",
-    "unit_number": "4024.0120",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
-    "arrival": "2023-09-29T03:51:00Z",
-    "departure": "2023-09-29T03:52:00Z"
   }
 ]

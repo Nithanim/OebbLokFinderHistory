@@ -1,5 +1,75 @@
 [
   {
+    "train_number": "21083 ",
+    "unit_number": "4024.0089",
+    "name": "Tulln a. d. Donau (in Tu)",
+    "abbr": "Tu  ",
+    "lat": "48.3275",
+    "lng": "16.0644",
+    "arrival": "2023-09-30T22:02:00Z",
+    "departure": "2023-10-01T03:38:00Z"
+  },
+  {
+    "train_number": "21072 ",
+    "unit_number": "4024.0089",
+    "name": "Tulln Stadt (in Tu)",
+    "abbr": "Tus ",
+    "lat": "48.3284",
+    "lng": "16.0538",
+    "arrival": "2023-09-30T21:55:00Z",
+    "departure": "2023-09-30T22:00:00Z"
+  },
+  {
+    "train_number": "21072 ",
+    "unit_number": "4024.0089",
+    "name": "Tulln a. d. Donau (in Tu)",
+    "abbr": "Tu  ",
+    "lat": "48.3275",
+    "lng": "16.0644",
+    "arrival": "2023-09-30T21:52:00Z",
+    "departure": "2023-09-30T21:53:00Z"
+  },
+  {
+    "train_number": "21013 ",
+    "unit_number": "4024.0089",
+    "name": "Wien FJBf (in Wf)",
+    "abbr": "Wf  ",
+    "lat": "48.227",
+    "lng": "16.3611",
+    "arrival": "2023-09-30T05:51:00Z",
+    "departure": "2023-09-30T21:09:00Z"
+  },
+  {
+    "train_number": "21013 ",
+    "unit_number": "4024.0089",
+    "name": "Tulln a. d. Donau (in Tu)",
+    "abbr": "Tu  ",
+    "lat": "48.3275",
+    "lng": "16.0644",
+    "arrival": "2023-09-30T05:02:00Z",
+    "departure": "2023-09-30T05:08:00Z"
+  },
+  {
+    "train_number": "21002 ",
+    "unit_number": "4024.0089",
+    "name": "Tulln a. d. Donau (in Tu)",
+    "abbr": "Tu  ",
+    "lat": "48.3275",
+    "lng": "16.0644",
+    "arrival": "2023-09-30T04:22:00Z",
+    "departure": "2023-09-30T04:27:00Z"
+  },
+  {
+    "train_number": "21003 ",
+    "unit_number": "4024.0089",
+    "name": "Wien FJBf (in Wf)",
+    "abbr": "Wf  ",
+    "lat": "48.227",
+    "lng": "16.3611",
+    "arrival": "2023-09-30T03:21:00Z",
+    "departure": "2023-09-30T03:39:00Z"
+  },
+  {
     "train_number": "21087 ",
     "unit_number": "4024.0089",
     "name": "Tulln a. d. Donau (in Tu)",
@@ -8,85 +78,5 @@
     "lng": "16.0644",
     "arrival": "2023-09-29T23:02:00Z",
     "departure": "2023-09-30T02:38:00Z"
-  },
-  {
-    "train_number": "21076 ",
-    "unit_number": "4024.0089",
-    "name": "Tulln Stadt (in Tu)",
-    "abbr": "Tus ",
-    "lat": "48.3284",
-    "lng": "16.0538",
-    "arrival": "2023-09-29T22:55:00Z",
-    "departure": "2023-09-29T23:00:00Z"
-  },
-  {
-    "train_number": "21076 ",
-    "unit_number": "4024.0089",
-    "name": "Tulln a. d. Donau (in Tu)",
-    "abbr": "Tu  ",
-    "lat": "48.3275",
-    "lng": "16.0644",
-    "arrival": "2023-09-29T22:52:00Z",
-    "departure": "2023-09-29T22:53:00Z"
-  },
-  {
-    "train_number": "Steht ",
-    "unit_number": "4024.0089",
-    "name": "Wien FJBf (in Wf)",
-    "abbr": "Wf  ",
-    "lat": "48.227",
-    "lng": "16.3611",
-    "arrival": "2023-09-29T22:00:00Z",
-    "departure": "2023-09-29T22:09:00Z"
-  },
-  {
-    "train_number": "21077 ",
-    "unit_number": "4024.0089",
-    "name": "Tulln a. d. Donau (in Tu)",
-    "abbr": "Tu  ",
-    "lat": "48.3275",
-    "lng": "16.0644",
-    "arrival": "2023-09-29T21:07:00Z",
-    "departure": "2023-09-29T21:08:00Z"
-  },
-  {
-    "train_number": "21068 ",
-    "unit_number": "4024.0089",
-    "name": "Tulln Stadt (in Tu)",
-    "abbr": "Tus ",
-    "lat": "48.3284",
-    "lng": "16.0538",
-    "arrival": "2023-09-29T21:00:00Z",
-    "departure": "2023-09-29T21:05:00Z"
-  },
-  {
-    "train_number": "21068 ",
-    "unit_number": "4024.0089",
-    "name": "Tulln a. d. Donau (in Tu)",
-    "abbr": "Tu  ",
-    "lat": "48.3275",
-    "lng": "16.0644",
-    "arrival": "2023-09-29T20:52:00Z",
-    "departure": "2023-09-29T20:58:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "4024.0089",
-    "name": "Wien FJBf (in Wf)",
-    "abbr": "Wf  ",
-    "lat": "48.227",
-    "lng": "16.3611",
-    "arrival": null,
-    "departure": "2023-09-29T20:09:00Z"
-  },
-  {
-    "train_number": "84703 ",
-    "unit_number": "4024.0089",
-    "name": "Wien Westbf (in Ws)",
-    "abbr": "Ws  ",
-    "lat": "48.1964",
-    "lng": "16.3374",
-    "arrival": "2023-09-28T19:56:00Z",
-    "departure": "2023-09-29T03:56:00Z"
   }
 ]

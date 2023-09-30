@@ -1,202 +1,142 @@
 [
   {
-    "train_number": "48441 ",
+    "train_number": "45801 ",
+    "unit_number": "1116.0182",
+    "name": "Bischofshofen (in Bo)",
+    "abbr": "Bo  ",
+    "lat": "47.42",
+    "lng": "13.2199",
+    "arrival": null,
+    "departure": "2023-10-01T01:51:00Z"
+  },
+  {
+    "train_number": "47820 ",
+    "unit_number": "1116.0182",
+    "name": "Bischofshofen Fbf (in Bo)",
+    "abbr": "Bob ",
+    "lat": "47.4118",
+    "lng": "13.2191",
+    "arrival": "2023-09-30T17:19:00Z",
+    "departure": "2023-10-01T01:51:00Z"
+  },
+  {
+    "train_number": "47820 ",
+    "unit_number": "1116.0182",
+    "name": "Bischofshofen (in Bo)",
+    "abbr": "Bo  ",
+    "lat": "47.42",
+    "lng": "13.2199",
+    "arrival": null,
+    "departure": "2023-09-30T17:17:00Z"
+  },
+  {
+    "train_number": "47820 ",
+    "unit_number": "1116.0182",
+    "name": "Stainach-Irdning",
+    "abbr": "Rg  ",
+    "lat": "47.5293",
+    "lng": "14.1078",
+    "arrival": null,
+    "departure": "2023-09-30T15:52:00Z"
+  },
+  {
+    "train_number": "48444 ",
+    "unit_number": "1116.0182",
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-09-30T08:42:00Z",
+    "departure": "2023-09-30T15:33:00Z"
+  },
+  {
+    "train_number": "48444 ",
+    "unit_number": "1116.0182",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": "2023-09-30T07:22:00Z",
+    "departure": "2023-09-30T07:44:00Z"
+  },
+  {
+    "train_number": "48444 ",
     "unit_number": "1116.0182",
     "name": "Zeltweg",
     "abbr": "Zg  ",
     "lat": "47.1887",
     "lng": "14.7425",
     "arrival": null,
-    "departure": "2023-09-30T00:31:00Z"
+    "departure": "2023-09-30T06:53:00Z"
   },
   {
-    "train_number": "48441 ",
+    "train_number": "48444 ",
     "unit_number": "1116.0182",
-    "name": "St.Michael (in M)",
-    "abbr": "M   ",
-    "lat": "47.3445",
-    "lng": "15.0103",
+    "name": "St.Veit a.d.Glan (in Vps)",
+    "abbr": "Vps ",
+    "lat": "46.7704",
+    "lng": "14.3672",
     "arrival": null,
-    "departure": "2023-09-30T00:01:00Z"
+    "departure": "2023-09-30T05:19:00Z"
   },
   {
-    "train_number": "48441 ",
+    "train_number": "48444 ",
     "unit_number": "1116.0182",
-    "name": "Selzthal (in Sl)",
-    "abbr": "Sl  ",
-    "lat": "47.5505",
-    "lng": "14.3134",
-    "arrival": "2023-09-29T23:02:00Z",
-    "departure": "2023-09-29T23:14:00Z"
-  },
-  {
-    "train_number": "48441 ",
-    "unit_number": "1116.0182",
-    "name": "Kirchdorf a.d.Krems",
-    "abbr": "Kik ",
-    "lat": "47.9051",
-    "lng": "14.1167",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
     "arrival": null,
-    "departure": "2023-09-29T22:05:00Z"
+    "departure": "2023-09-30T04:24:00Z"
+  },
+  {
+    "train_number": "48444 ",
+    "unit_number": "1116.0182",
+    "name": "Villach Westbf",
+    "abbr": "Vf  ",
+    "lat": "46.6092",
+    "lng": "13.8407",
+    "arrival": "2023-09-30T04:15:00Z",
+    "departure": "2023-09-30T04:20:00Z"
+  },
+  {
+    "train_number": "48444 ",
+    "unit_number": "1116.0182",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": null,
+    "departure": "2023-09-30T03:53:00Z"
   },
   {
     "train_number": "48441 ",
     "unit_number": "1116.0182",
-    "name": "Linz Hbf",
-    "abbr": "----",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-09-29T21:10:00Z",
-    "departure": "2023-09-29T21:13:00Z"
-  },
-  {
-    "train_number": "88091 ",
-    "unit_number": "1116.0182",
-    "name": "Voest Alpine Linz",
-    "abbr": "Ms  ",
-    "lat": "48.263",
-    "lng": "14.3367",
-    "arrival": "2023-09-29T20:12:00Z",
-    "departure": "2023-09-29T20:59:00Z"
-  },
-  {
-    "train_number": "3807  ",
-    "unit_number": "1116.0182",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-09-29T18:24:00Z",
-    "departure": "2023-09-29T20:00:00Z"
-  },
-  {
-    "train_number": "3807  ",
-    "unit_number": "1116.0182",
-    "name": "Freistadt",
-    "abbr": "Fr  ",
-    "lat": "48.4952",
-    "lng": "14.4815",
-    "arrival": "2023-09-29T17:20:00Z",
-    "departure": "2023-09-29T17:21:00Z"
-  },
-  {
-    "train_number": "3807  ",
-    "unit_number": "1116.0182",
-    "name": "Summerau",
-    "abbr": "Smr ",
-    "lat": "48.5572",
-    "lng": "14.4489",
-    "arrival": "2023-09-29T17:07:00Z",
-    "departure": "2023-09-29T17:12:00Z"
-  },
-  {
-    "train_number": "3804  ",
-    "unit_number": "1116.0182",
-    "name": "Ceske Budejovice",
-    "abbr": "CEBU",
-    "lat": "48.9744",
-    "lng": "14.4888",
-    "arrival": "2023-09-29T13:58:00Z",
-    "departure": "2023-09-29T16:03:00Z"
-  },
-  {
-    "train_number": "3804  ",
-    "unit_number": "1116.0182",
-    "name": "Summerau",
-    "abbr": "Smr ",
-    "lat": "48.5572",
-    "lng": "14.4489",
-    "arrival": "2023-09-29T12:47:00Z",
-    "departure": "2023-09-29T12:51:00Z"
-  },
-  {
-    "train_number": "3804  ",
-    "unit_number": "1116.0182",
-    "name": "Freistadt",
-    "abbr": "Fr  ",
-    "lat": "48.4952",
-    "lng": "14.4815",
-    "arrival": "2023-09-29T12:38:00Z",
-    "departure": "2023-09-29T12:39:00Z"
-  },
-  {
-    "train_number": "3803  ",
-    "unit_number": "1116.0182",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-09-29T10:24:00Z",
-    "departure": "2023-09-29T11:35:00Z"
-  },
-  {
-    "train_number": "3803  ",
-    "unit_number": "1116.0182",
-    "name": "Freistadt",
-    "abbr": "Fr  ",
-    "lat": "48.4952",
-    "lng": "14.4815",
-    "arrival": "2023-09-29T09:20:00Z",
-    "departure": "2023-09-29T09:21:00Z"
-  },
-  {
-    "train_number": "3803  ",
-    "unit_number": "1116.0182",
-    "name": "Summerau",
-    "abbr": "Smr ",
-    "lat": "48.5572",
-    "lng": "14.4489",
-    "arrival": "2023-09-29T09:07:00Z",
-    "departure": "2023-09-29T09:12:00Z"
-  },
-  {
-    "train_number": "3800  ",
-    "unit_number": "1116.0182",
-    "name": "Ceske Budejovice",
-    "abbr": "CEBU",
-    "lat": "48.9744",
-    "lng": "14.4888",
-    "arrival": "2023-09-29T07:58:00Z",
-    "departure": "2023-09-29T08:03:00Z"
-  },
-  {
-    "train_number": "3800  ",
-    "unit_number": "1116.0182",
-    "name": "Summerau",
-    "abbr": "Smr ",
-    "lat": "48.5572",
-    "lng": "14.4489",
-    "arrival": "2023-09-29T06:47:00Z",
-    "departure": "2023-09-29T06:52:00Z"
-  },
-  {
-    "train_number": "3800  ",
-    "unit_number": "1116.0182",
-    "name": "Freistadt",
-    "abbr": "Fr  ",
-    "lat": "48.4952",
-    "lng": "14.4815",
-    "arrival": "2023-09-29T06:38:00Z",
-    "departure": "2023-09-29T06:39:00Z"
-  },
-  {
-    "train_number": "3839  ",
-    "unit_number": "1116.0182",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-09-29T04:51:00Z",
-    "departure": "2023-09-29T05:35:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0182",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
     "arrival": null,
-    "departure": "2023-09-29T04:09:00Z"
+    "departure": "2023-09-30T02:53:00Z"
+  },
+  {
+    "train_number": "48441 ",
+    "unit_number": "1116.0182",
+    "name": "Villach Westbf",
+    "abbr": "Vf  ",
+    "lat": "46.6092",
+    "lng": "13.8407",
+    "arrival": "2023-09-30T02:27:00Z",
+    "departure": "2023-09-30T02:32:00Z"
+  },
+  {
+    "train_number": "48441 ",
+    "unit_number": "1116.0182",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": null,
+    "departure": "2023-09-30T02:25:00Z"
   }
 ]
