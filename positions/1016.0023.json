@@ -1,132 +1,162 @@
 [
   {
-    "train_number": "56505 ",
+    "train_number": "1380  ",
     "unit_number": "1016.0023",
-    "name": "Villach Hbf",
-    "abbr": "Vb  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
-    "arrival": null,
-    "departure": "2023-10-01T00:52:00Z"
+    "name": "München Hauptbahnhof",
+    "abbr": "MH  ",
+    "lat": "48.1399",
+    "lng": "11.5604",
+    "arrival": "2023-10-01T19:02:00Z",
+    "departure": "2023-10-01T21:05:00Z"
   },
   {
-    "train_number": "56505 ",
+    "train_number": "1380  ",
     "unit_number": "1016.0023",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
+    "name": "Rosenheim",
+    "abbr": "MRO ",
+    "lat": "47.8511",
+    "lng": "12.1196",
     "arrival": null,
-    "departure": "2023-10-01T00:18:00Z"
+    "departure": "2023-10-01T18:23:00Z"
   },
   {
-    "train_number": "56505 ",
+    "train_number": "1380  ",
     "unit_number": "1016.0023",
-    "name": "St.Veit a.d.Glan (in Vps)",
-    "abbr": "Vps ",
-    "lat": "46.7704",
-    "lng": "14.3672",
+    "name": "Traunstein",
+    "abbr": "MTS ",
+    "lat": "47.8697",
+    "lng": "12.6391",
     "arrival": null,
-    "departure": "2023-10-01T00:03:00Z"
+    "departure": "2023-10-01T17:52:00Z"
   },
   {
-    "train_number": "56505 ",
+    "train_number": "1380  ",
     "unit_number": "1016.0023",
-    "name": "Zeltweg",
-    "abbr": "Zg  ",
-    "lat": "47.1887",
-    "lng": "14.7425",
-    "arrival": null,
-    "departure": "2023-09-30T22:47:00Z"
+    "name": "Freilassing",
+    "abbr": "MFL ",
+    "lat": "47.8368",
+    "lng": "12.9764",
+    "arrival": "2023-10-01T17:36:00Z",
+    "departure": "2023-10-01T17:36:00Z"
   },
   {
-    "train_number": "56505 ",
+    "train_number": "1380  ",
     "unit_number": "1016.0023",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
+    "name": "Salzburg Liefering (in Sb)",
+    "abbr": "Lfg ",
+    "lat": "47.8229",
+    "lng": "13.0021",
     "arrival": null,
-    "departure": "2023-09-30T22:05:00Z"
+    "departure": "2023-10-01T17:33:00Z"
   },
   {
-    "train_number": "56505 ",
+    "train_number": "1380  ",
     "unit_number": "1016.0023",
-    "name": "Bruck a.d.Mur (in Bm)",
-    "abbr": "Bm  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
-    "arrival": null,
-    "departure": "2023-09-30T21:51:00Z"
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-10-01T17:28:00Z",
+    "departure": "2023-10-01T17:30:00Z"
   },
   {
-    "train_number": "56505 ",
+    "train_number": "1380  ",
     "unit_number": "1016.0023",
-    "name": "Mürzzuschlag (in Mz)",
-    "abbr": "Mz  ",
-    "lat": "47.6079",
-    "lng": "15.677",
+    "name": "Steindorf b.Straßw. (in Nst)",
+    "abbr": "Nst ",
+    "lat": "47.9676",
+    "lng": "13.2406",
     "arrival": null,
-    "departure": "2023-09-30T21:21:00Z"
+    "departure": "2023-10-01T17:07:00Z"
   },
   {
-    "train_number": "56505 ",
+    "train_number": "1380  ",
     "unit_number": "1016.0023",
-    "name": "Payerbach-Reichenau",
-    "abbr": "Pr  ",
-    "lat": "47.696",
-    "lng": "15.8632",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
     "arrival": null,
-    "departure": "2023-09-30T20:42:00Z"
+    "departure": "2023-10-01T16:31:00Z"
   },
   {
-    "train_number": "56505 ",
+    "train_number": "1380  ",
     "unit_number": "1016.0023",
-    "name": "Neunkirchen N.Ö.",
-    "abbr": "Nek ",
-    "lat": "47.731",
-    "lng": "16.0826",
-    "arrival": null,
-    "departure": "2023-09-30T20:06:00Z"
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-10-01T15:56:00Z",
+    "departure": "2023-10-01T16:02:00Z"
   },
   {
-    "train_number": "56505 ",
+    "train_number": "1380  ",
     "unit_number": "1016.0023",
-    "name": "Wr. Neustadt Hbf (in Nb)",
-    "abbr": "Nb  ",
-    "lat": "47.8113",
-    "lng": "16.2337",
-    "arrival": null,
-    "departure": "2023-09-30T19:56:00Z"
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-10-01T15:37:00Z",
+    "departure": "2023-10-01T15:39:00Z"
   },
   {
-    "train_number": "56505 ",
+    "train_number": "1380  ",
     "unit_number": "1016.0023",
-    "name": "Ebenfurth (in Ef)",
-    "abbr": "Ef  ",
-    "lat": "47.8777",
-    "lng": "16.3621",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
     "arrival": null,
-    "departure": "2023-09-30T19:27:00Z"
+    "departure": "2023-10-01T15:22:00Z"
   },
   {
-    "train_number": null,
+    "train_number": "1380  ",
     "unit_number": "1016.0023",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
     "arrival": null,
-    "departure": "2023-09-30T18:51:00Z"
+    "departure": "2023-10-01T14:59:00Z"
   },
   {
-    "train_number": "18103 ",
+    "train_number": "1380  ",
     "unit_number": "1016.0023",
-    "name": "Wien Meidling (in Wbf)",
-    "abbr": "Mi  ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": "2023-09-30T02:25:00Z",
-    "departure": "2023-09-30T15:58:00Z"
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
+    "arrival": null,
+    "departure": "2023-10-01T14:49:00Z"
+  },
+  {
+    "train_number": "1380  ",
+    "unit_number": "1016.0023",
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
+    "arrival": null,
+    "departure": "2023-10-01T14:42:00Z"
+  },
+  {
+    "train_number": "86646 ",
+    "unit_number": "1016.0023",
+    "name": "Wien Westbf (in Ws)",
+    "abbr": "Ws  ",
+    "lat": "48.1964",
+    "lng": "16.3374",
+    "arrival": "2023-10-01T11:34:00Z",
+    "departure": "2023-10-01T13:26:00Z"
+  },
+  {
+    "train_number": "87549 ",
+    "unit_number": "1016.0023",
+    "name": "Kledering (in Zur)",
+    "abbr": "Za  ",
+    "lat": "48.1331",
+    "lng": "16.4396",
+    "arrival": "2023-09-30T16:21:00Z",
+    "departure": "2023-10-01T11:12:00Z"
   }
 ]

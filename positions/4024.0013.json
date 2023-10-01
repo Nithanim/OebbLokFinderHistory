@@ -1,5 +1,105 @@
 [
   {
+    "train_number": "4418  ",
+    "unit_number": "4024.0013",
+    "name": "Stainach-Irdning",
+    "abbr": "Rg  ",
+    "lat": "47.5293",
+    "lng": "14.1078",
+    "arrival": "2023-10-01T18:15:00Z",
+    "departure": "2023-10-01T19:40:00Z"
+  },
+  {
+    "train_number": "4418  ",
+    "unit_number": "4024.0013",
+    "name": "Gmunden",
+    "abbr": "Gz  ",
+    "lat": "47.9254",
+    "lng": "13.783",
+    "arrival": "2023-10-01T16:23:00Z",
+    "departure": "2023-10-01T16:24:00Z"
+  },
+  {
+    "train_number": "3427  ",
+    "unit_number": "4024.0013",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": "2023-10-01T15:51:00Z",
+    "departure": "2023-10-01T16:08:00Z"
+  },
+  {
+    "train_number": "3427  ",
+    "unit_number": "4024.0013",
+    "name": "Gmunden",
+    "abbr": "Gz  ",
+    "lat": "47.9254",
+    "lng": "13.783",
+    "arrival": "2023-10-01T15:35:00Z",
+    "departure": "2023-10-01T15:36:00Z"
+  },
+  {
+    "train_number": "3416  ",
+    "unit_number": "4024.0013",
+    "name": "Stainach-Irdning",
+    "abbr": "Rg  ",
+    "lat": "47.5293",
+    "lng": "14.1078",
+    "arrival": "2023-10-01T12:15:00Z",
+    "departure": "2023-10-01T13:40:00Z"
+  },
+  {
+    "train_number": "3416  ",
+    "unit_number": "4024.0013",
+    "name": "Gmunden",
+    "abbr": "Gz  ",
+    "lat": "47.9254",
+    "lng": "13.783",
+    "arrival": "2023-10-01T10:23:00Z",
+    "departure": "2023-10-01T10:24:00Z"
+  },
+  {
+    "train_number": "3415  ",
+    "unit_number": "4024.0013",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": "2023-10-01T09:51:00Z",
+    "departure": "2023-10-01T10:08:00Z"
+  },
+  {
+    "train_number": "3415  ",
+    "unit_number": "4024.0013",
+    "name": "Gmunden",
+    "abbr": "Gz  ",
+    "lat": "47.9254",
+    "lng": "13.783",
+    "arrival": "2023-10-01T09:35:00Z",
+    "departure": "2023-10-01T09:36:00Z"
+  },
+  {
+    "train_number": "3420  ",
+    "unit_number": "4024.0013",
+    "name": "Stainach-Irdning",
+    "abbr": "Rg  ",
+    "lat": "47.5293",
+    "lng": "14.1078",
+    "arrival": "2023-10-01T06:15:00Z",
+    "departure": "2023-10-01T07:40:00Z"
+  },
+  {
+    "train_number": "3420  ",
+    "unit_number": "4024.0013",
+    "name": "Gmunden",
+    "abbr": "Gz  ",
+    "lat": "47.9254",
+    "lng": "13.783",
+    "arrival": "2023-10-01T04:19:00Z",
+    "departure": "2023-10-01T04:21:00Z"
+  },
+  {
     "train_number": "4419  ",
     "unit_number": "4024.0013",
     "name": "Attnang-Puchheim",
@@ -8,175 +108,5 @@
     "lng": "13.7193",
     "arrival": "2023-09-30T16:52:00Z",
     "departure": "2023-10-01T04:04:00Z"
-  },
-  {
-    "train_number": "4419  ",
-    "unit_number": "4024.0013",
-    "name": "Gmunden",
-    "abbr": "Gz  ",
-    "lat": "47.9254",
-    "lng": "13.783",
-    "arrival": "2023-09-30T16:35:00Z",
-    "departure": "2023-09-30T16:36:00Z"
-  },
-  {
-    "train_number": "4412  ",
-    "unit_number": "4024.0013",
-    "name": "Gmunden",
-    "abbr": "Gz  ",
-    "lat": "47.9254",
-    "lng": "13.783",
-    "arrival": "2023-09-30T13:23:00Z",
-    "departure": "2023-09-30T13:24:00Z"
-  },
-  {
-    "train_number": "4412  ",
-    "unit_number": "4024.0013",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": "2023-09-30T13:07:00Z",
-    "departure": "2023-09-30T13:08:00Z"
-  },
-  {
-    "train_number": "4412  ",
-    "unit_number": "4024.0013",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": "2023-09-30T12:33:00Z",
-    "departure": "2023-09-30T12:34:00Z"
-  },
-  {
-    "train_number": "5063  ",
-    "unit_number": "4024.0013",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-09-30T12:00:00Z",
-    "departure": "2023-09-30T12:18:00Z"
-  },
-  {
-    "train_number": "5063  ",
-    "unit_number": "4024.0013",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": "2023-09-30T11:36:00Z",
-    "departure": "2023-09-30T11:37:00Z"
-  },
-  {
-    "train_number": "5063  ",
-    "unit_number": "4024.0013",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": "2023-09-30T10:55:00Z",
-    "departure": "2023-09-30T11:10:00Z"
-  },
-  {
-    "train_number": "5063  ",
-    "unit_number": "4024.0013",
-    "name": "Steindorf b.Straßw. (in Nst)",
-    "abbr": "Nst ",
-    "lat": "47.9676",
-    "lng": "13.2406",
-    "arrival": null,
-    "departure": "2023-09-30T10:00:00Z"
-  },
-  {
-    "train_number": "5060  ",
-    "unit_number": "4024.0013",
-    "name": "Salzburg Hbf (in Sb)",
-    "abbr": "Sb  ",
-    "lat": "47.8135",
-    "lng": "13.0466",
-    "arrival": "2023-09-30T08:26:00Z",
-    "departure": "2023-09-30T09:34:00Z"
-  },
-  {
-    "train_number": "5060  ",
-    "unit_number": "4024.0013",
-    "name": "Steindorf b.Straßw. (in Nst)",
-    "abbr": "Nst ",
-    "lat": "47.9676",
-    "lng": "13.2406",
-    "arrival": null,
-    "departure": "2023-09-30T07:59:00Z"
-  },
-  {
-    "train_number": "5060  ",
-    "unit_number": "4024.0013",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": "2023-09-30T06:50:00Z",
-    "departure": "2023-09-30T06:51:00Z"
-  },
-  {
-    "train_number": "5060  ",
-    "unit_number": "4024.0013",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": "2023-09-30T06:22:00Z",
-    "departure": "2023-09-30T06:23:00Z"
-  },
-  {
-    "train_number": "2058  ",
-    "unit_number": "4024.0013",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-09-30T05:16:00Z",
-    "departure": "2023-09-30T06:00:00Z"
-  },
-  {
-    "train_number": "2058  ",
-    "unit_number": "4024.0013",
-    "name": "Enns",
-    "abbr": "Ens ",
-    "lat": "48.2212",
-    "lng": "14.4668",
-    "arrival": "2023-09-30T04:56:00Z",
-    "departure": "2023-09-30T04:57:00Z"
-  },
-  {
-    "train_number": "2453  ",
-    "unit_number": "4024.0013",
-    "name": "St.Valentin (in Sv)",
-    "abbr": "Sv  ",
-    "lat": "48.1784",
-    "lng": "14.5219",
-    "arrival": "2023-09-30T04:17:00Z",
-    "departure": "2023-09-30T04:50:00Z"
-  },
-  {
-    "train_number": "2453  ",
-    "unit_number": "4024.0013",
-    "name": "Enns",
-    "abbr": "Ens ",
-    "lat": "48.2212",
-    "lng": "14.4668",
-    "arrival": "2023-09-30T04:10:00Z",
-    "departure": "2023-09-30T04:11:00Z"
-  },
-  {
-    "train_number": "3634  ",
-    "unit_number": "4024.0013",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-09-29T20:04:00Z",
-    "departure": "2023-09-30T03:53:00Z"
   }
 ]

@@ -1,82 +1,42 @@
 [
   {
-    "train_number": "53442 ",
+    "train_number": "43241 ",
+    "unit_number": "1293.0018",
+    "name": "Brennero/Brenner",
+    "abbr": "Be  ",
+    "lat": "47.0022",
+    "lng": "11.5053",
+    "arrival": "2023-10-01T17:20:00Z",
+    "departure": "2023-10-01T18:25:00Z"
+  },
+  {
+    "train_number": "43241 ",
+    "unit_number": "1293.0018",
+    "name": "Jenbach",
+    "abbr": "Jb  ",
+    "lat": "47.3884",
+    "lng": "11.7783",
+    "arrival": null,
+    "departure": "2023-10-01T16:18:00Z"
+  },
+  {
+    "train_number": null,
     "unit_number": "1293.0018",
     "name": "Wörgl Hbf-T. N. (in W)",
     "abbr": "Wtn ",
     "lat": "47.4824",
     "lng": "12.033",
-    "arrival": "2023-09-30T17:47:00Z",
+    "arrival": null,
     "departure": "2023-10-01T16:02:00Z"
   },
   {
-    "train_number": "53332 ",
+    "train_number": "18341 ",
     "unit_number": "1293.0018",
     "name": "Wörgl Hbf-T. N. (in W)",
     "abbr": "Wtn ",
     "lat": "47.4824",
     "lng": "12.033",
-    "arrival": "2023-09-30T12:45:00Z",
-    "departure": "2023-09-30T14:10:00Z"
-  },
-  {
-    "train_number": "53332 ",
-    "unit_number": "1293.0018",
-    "name": "Jenbach",
-    "abbr": "Jb  ",
-    "lat": "47.3884",
-    "lng": "11.7783",
     "arrival": null,
-    "departure": "2023-09-30T12:29:00Z"
-  },
-  {
-    "train_number": "53333 ",
-    "unit_number": "1293.0018",
-    "name": "Schwaz",
-    "abbr": "Sw  ",
-    "lat": "47.3497",
-    "lng": "11.7016",
-    "arrival": null,
-    "departure": "2023-09-30T09:36:00Z"
-  },
-  {
-    "train_number": "53333 ",
-    "unit_number": "1293.0018",
-    "name": "Jenbach",
-    "abbr": "Jb  ",
-    "lat": "47.3884",
-    "lng": "11.7783",
-    "arrival": null,
-    "departure": "2023-09-30T09:31:00Z"
-  },
-  {
-    "train_number": "52338 ",
-    "unit_number": "1293.0018",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
-    "arrival": "2023-09-30T05:51:00Z",
-    "departure": "2023-09-30T09:10:00Z"
-  },
-  {
-    "train_number": "52339 ",
-    "unit_number": "1293.0018",
-    "name": "Schwaz",
-    "abbr": "Sw  ",
-    "lat": "47.3497",
-    "lng": "11.7016",
-    "arrival": null,
-    "departure": "2023-09-30T02:33:00Z"
-  },
-  {
-    "train_number": "52339 ",
-    "unit_number": "1293.0018",
-    "name": "Jenbach",
-    "abbr": "Jb  ",
-    "lat": "47.3884",
-    "lng": "11.7783",
-    "arrival": null,
-    "departure": "2023-09-30T02:28:00Z"
+    "departure": "2023-10-01T03:06:00Z"
   }
 ]

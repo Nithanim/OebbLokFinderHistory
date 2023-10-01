@@ -1,0 +1,22 @@
+[
+  {
+    "train_number": "84434 ",
+    "unit_number": "4024.0103",
+    "name": "W. FJBf-Gürtelbrücke (in Wf)",
+    "abbr": "Wfg ",
+    "lat": "48.2392",
+    "lng": "16.3604",
+    "arrival": "2023-10-01T18:43:00Z",
+    "departure": "2023-10-02T02:39:00Z"
+  },
+  {
+    "train_number": "Steht ",
+    "unit_number": "4024.0103",
+    "name": "Wien Westbf (in Ws)",
+    "abbr": "Ws  ",
+    "lat": "48.1964",
+    "lng": "16.3374",
+    "arrival": "2023-09-30T22:00:00Z",
+    "departure": "2023-10-01T03:04:00Z"
+  }
+]
