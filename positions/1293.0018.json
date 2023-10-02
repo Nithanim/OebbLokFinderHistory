@@ -1,42 +1,72 @@
 [
   {
-    "train_number": "43241 ",
+    "train_number": "41828 ",
     "unit_number": "1293.0018",
-    "name": "Brennero/Brenner",
-    "abbr": "Be  ",
-    "lat": "47.0022",
-    "lng": "11.5053",
-    "arrival": "2023-10-01T17:20:00Z",
-    "departure": "2023-10-01T18:25:00Z"
+    "name": "Tarvisio Boscoverde",
+    "abbr": "Tbv ",
+    "lat": "46.5059",
+    "lng": "13.6081",
+    "arrival": "2023-10-02T20:50:00Z",
+    "departure": "2023-10-02T21:28:00Z"
   },
   {
-    "train_number": "43241 ",
+    "train_number": "49201 ",
     "unit_number": "1293.0018",
-    "name": "Jenbach",
-    "abbr": "Jb  ",
-    "lat": "47.3884",
-    "lng": "11.7783",
-    "arrival": null,
-    "departure": "2023-10-01T16:18:00Z"
+    "name": "Tarvisio Boscoverde",
+    "abbr": "Tbv ",
+    "lat": "46.5059",
+    "lng": "13.6081",
+    "arrival": "2023-10-02T04:06:00Z",
+    "departure": "2023-10-02T04:41:00Z"
   },
   {
     "train_number": null,
     "unit_number": "1293.0018",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
+    "name": "Villach Westbf",
+    "abbr": "Vf  ",
+    "lat": "46.6092",
+    "lng": "13.8407",
     "arrival": null,
-    "departure": "2023-10-01T16:02:00Z"
+    "departure": "2023-10-02T03:40:00Z"
   },
   {
-    "train_number": "18341 ",
+    "train_number": null,
     "unit_number": "1293.0018",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
+    "name": "Tarvisio Boscoverde",
+    "abbr": "Tbv ",
+    "lat": "46.5059",
+    "lng": "13.6081",
     "arrival": null,
-    "departure": "2023-10-01T03:06:00Z"
+    "departure": "2023-10-02T03:35:00Z"
+  },
+  {
+    "train_number": "49201 ",
+    "unit_number": "1293.0018",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": null,
+    "departure": "2023-10-02T03:30:00Z"
+  },
+  {
+    "train_number": "49201 ",
+    "unit_number": "1293.0018",
+    "name": "Klagenfurt Hbf (in Kt)",
+    "abbr": "Kt  ",
+    "lat": "46.6156",
+    "lng": "14.3137",
+    "arrival": null,
+    "departure": "2023-10-02T03:04:00Z"
+  },
+  {
+    "train_number": "49201 ",
+    "unit_number": "1293.0018",
+    "name": "St.Veit a.d.Glan (in Vps)",
+    "abbr": "Vps ",
+    "lat": "46.7704",
+    "lng": "14.3672",
+    "arrival": null,
+    "departure": "2023-10-02T02:50:00Z"
   }
 ]
