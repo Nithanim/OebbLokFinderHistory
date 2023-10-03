@@ -1,112 +1,152 @@
 [
   {
-    "train_number": "54691 ",
+    "train_number": "41485 ",
+    "unit_number": "1293.0012",
+    "name": "Werndorf",
+    "abbr": "Wr  ",
+    "lat": "46.9171",
+    "lng": "15.477",
+    "arrival": null,
+    "departure": "2023-10-03T20:58:00Z"
+  },
+  {
+    "train_number": "41485 ",
+    "unit_number": "1293.0012",
+    "name": "Graz Hbf (in G)",
+    "abbr": "G   ",
+    "lat": "47.0733",
+    "lng": "15.4163",
+    "arrival": null,
+    "departure": "2023-10-03T20:38:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1293.0012",
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
+    "arrival": null,
+    "departure": "2023-10-03T20:35:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1293.0012",
+    "name": "Spielfeld-Straß",
+    "abbr": "Sd  ",
+    "lat": "46.71",
+    "lng": "15.6282",
+    "arrival": null,
+    "departure": "2023-10-03T20:09:00Z"
+  },
+  {
+    "train_number": "41485 ",
     "unit_number": "1293.0012",
     "name": "Leoben Hbf (in Leb)",
     "abbr": "Leb ",
     "lat": "47.3867",
     "lng": "15.0898",
     "arrival": null,
-    "departure": "2023-10-03T02:09:00Z"
+    "departure": "2023-10-03T18:40:00Z"
   },
   {
-    "train_number": "54691 ",
+    "train_number": "41485 ",
     "unit_number": "1293.0012",
     "name": "St.Michael (in M)",
-    "abbr": "----",
+    "abbr": "M   ",
     "lat": "47.3445",
     "lng": "15.0103",
-    "arrival": "2023-10-03T01:55:00Z",
-    "departure": "2023-10-03T02:00:00Z"
+    "arrival": null,
+    "departure": "2023-10-03T18:28:00Z"
   },
   {
-    "train_number": "54691 ",
+    "train_number": "41485 ",
     "unit_number": "1293.0012",
     "name": "Selzthal (in Sl)",
-    "abbr": "----",
+    "abbr": "Sl  ",
     "lat": "47.5505",
     "lng": "14.3134",
-    "arrival": "2023-10-03T00:41:00Z",
-    "departure": "2023-10-03T01:06:00Z"
+    "arrival": "2023-10-03T16:55:00Z",
+    "departure": "2023-10-03T16:58:00Z"
   },
   {
-    "train_number": "54691 ",
+    "train_number": "41485 ",
     "unit_number": "1293.0012",
     "name": "Kirchdorf a.d.Krems",
     "abbr": "Kik ",
     "lat": "47.9051",
     "lng": "14.1167",
     "arrival": null,
-    "departure": "2023-10-02T23:50:00Z"
+    "departure": "2023-10-03T15:32:00Z"
   },
   {
-    "train_number": "54691 ",
+    "train_number": "41485 ",
     "unit_number": "1293.0012",
     "name": "Linz Hbf",
     "abbr": "Lz  ",
     "lat": "48.2908",
     "lng": "14.2927",
     "arrival": null,
-    "departure": "2023-10-02T23:09:00Z"
+    "departure": "2023-10-03T14:28:00Z"
+  },
+  {
+    "train_number": "41485 ",
+    "unit_number": "1293.0012",
+    "name": "Linz Vbf-West (in Lzv)",
+    "abbr": "Lr  ",
+    "lat": "48.276",
+    "lng": "14.3154",
+    "arrival": "2023-10-03T14:18:00Z",
+    "departure": "2023-10-03T14:21:00Z"
+  },
+  {
+    "train_number": "18110 ",
+    "unit_number": "1293.0012",
+    "name": "Enns",
+    "abbr": "Ens ",
+    "lat": "48.2212",
+    "lng": "14.4668",
+    "arrival": "2023-10-03T13:40:00Z",
+    "departure": "2023-10-03T14:00:00Z"
   },
   {
     "train_number": null,
     "unit_number": "1293.0012",
-    "name": "Linz Vbf-Ost Reih. (in Lzv)",
-    "abbr": "Lo  ",
-    "lat": "48.2718",
-    "lng": "14.3196",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
     "arrival": null,
-    "departure": "2023-10-02T23:01:00Z"
+    "departure": "2023-10-03T13:22:00Z"
   },
   {
-    "train_number": "48262 ",
-    "unit_number": "1293.0012",
-    "name": "Voest Alpine Linz",
-    "abbr": "Ms  ",
-    "lat": "48.263",
-    "lng": "14.3367",
-    "arrival": "2023-10-02T06:30:00Z",
-    "departure": "2023-10-02T06:40:00Z"
-  },
-  {
-    "train_number": "48262 ",
-    "unit_number": "1293.0012",
-    "name": "Linz Vbf-Ost-Einf. (in Lzv)",
-    "abbr": "Lm  ",
-    "lat": "48.2607",
-    "lng": "14.3257",
-    "arrival": null,
-    "departure": "2023-10-02T06:18:00Z"
-  },
-  {
-    "train_number": "48262 ",
+    "train_number": "54960 ",
     "unit_number": "1293.0012",
     "name": "Enns",
     "abbr": "Ens ",
     "lat": "48.2212",
     "lng": "14.4668",
     "arrival": null,
-    "departure": "2023-10-02T06:08:00Z"
+    "departure": "2023-10-03T10:17:00Z"
   },
   {
-    "train_number": "48262 ",
+    "train_number": "54960 ",
     "unit_number": "1293.0012",
     "name": "St.Valentin (in Sv)",
     "abbr": "Sv  ",
     "lat": "48.1784",
     "lng": "14.5219",
-    "arrival": null,
-    "departure": "2023-10-02T06:03:00Z"
+    "arrival": "2023-10-03T10:12:00Z",
+    "departure": "2023-10-03T10:12:00Z"
   },
   {
-    "train_number": "48262 ",
+    "train_number": "47424 ",
     "unit_number": "1293.0012",
     "name": "Selzthal (in Sl)",
     "abbr": "Sl  ",
     "lat": "47.5505",
     "lng": "14.3134",
-    "arrival": "2023-10-02T02:15:00Z",
-    "departure": "2023-10-02T02:32:00Z"
+    "arrival": "2023-10-03T01:39:00Z",
+    "departure": "2023-10-03T07:00:00Z"
   }
 ]
