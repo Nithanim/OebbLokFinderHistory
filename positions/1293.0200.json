@@ -1,152 +1,112 @@
 [
   {
-    "train_number": "47802 ",
+    "train_number": "47803 ",
     "unit_number": "1293.0200",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": null,
-    "departure": "2023-10-04T02:15:00Z"
+    "name": "Voest Alpine Linz",
+    "abbr": "Ms  ",
+    "lat": "48.263",
+    "lng": "14.3367",
+    "arrival": "2023-10-05T01:47:00Z",
+    "departure": "2023-10-05T01:58:00Z"
   },
   {
-    "train_number": "47802 ",
+    "train_number": "47803 ",
+    "unit_number": "1293.0200",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": null,
+    "departure": "2023-10-05T01:36:00Z"
+  },
+  {
+    "train_number": "47803 ",
     "unit_number": "1293.0200",
     "name": "Wels Hbf",
     "abbr": "We  ",
     "lat": "48.1662",
     "lng": "14.0273",
     "arrival": null,
-    "departure": "2023-10-04T01:54:00Z"
+    "departure": "2023-10-05T01:18:00Z"
+  },
+  {
+    "train_number": "47803 ",
+    "unit_number": "1293.0200",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": null,
+    "departure": "2023-10-05T00:57:00Z"
+  },
+  {
+    "train_number": "47803 ",
+    "unit_number": "1293.0200",
+    "name": "Steindorf b.Straßw. (in Nst)",
+    "abbr": "Nst ",
+    "lat": "47.9676",
+    "lng": "13.2406",
+    "arrival": null,
+    "departure": "2023-10-05T00:24:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1293.0200",
+    "name": "Salzburg Gnigl-Vbf (in Sb)",
+    "abbr": "Sr  ",
+    "lat": "47.8167",
+    "lng": "13.0639",
+    "arrival": null,
+    "departure": "2023-10-05T00:00:00Z"
+  },
+  {
+    "train_number": "59803 ",
+    "unit_number": "1293.0200",
+    "name": "Rohrdorf (Oberbay)",
+    "abbr": "MRDO",
+    "lat": "47.7982",
+    "lng": "12.1736",
+    "arrival": "2023-10-04T16:45:00Z",
+    "departure": "2023-10-04T19:30:00Z"
+  },
+  {
+    "train_number": "79217 ",
+    "unit_number": "1293.0200",
+    "name": "Kufstein",
+    "abbr": "K   ",
+    "lat": "47.5833",
+    "lng": "12.1657",
+    "arrival": "2023-10-04T11:00:00Z",
+    "departure": "2023-10-04T14:09:00Z"
   },
   {
     "train_number": "47802 ",
     "unit_number": "1293.0200",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
+    "name": "Rohrdorf (Oberbay)",
+    "abbr": "MRDO",
+    "lat": "47.7982",
+    "lng": "12.1736",
+    "arrival": "2023-10-04T05:51:00Z",
+    "departure": "2023-10-04T07:56:00Z"
+  },
+  {
+    "train_number": "47802 ",
+    "unit_number": "1293.0200",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-10-04T03:08:00Z",
+    "departure": "2023-10-04T03:22:00Z"
+  },
+  {
+    "train_number": "47802 ",
+    "unit_number": "1293.0200",
+    "name": "Steindorf b.Straßw. (in Nst)",
+    "abbr": "Nst ",
+    "lat": "47.9676",
+    "lng": "13.2406",
     "arrival": null,
-    "departure": "2023-10-04T01:35:00Z"
-  },
-  {
-    "train_number": "88113 ",
-    "unit_number": "1293.0200",
-    "name": "Voest Alpine Linz",
-    "abbr": "Ms  ",
-    "lat": "48.263",
-    "lng": "14.3367",
-    "arrival": "2023-10-04T00:48:00Z",
-    "departure": "2023-10-04T01:23:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1293.0200",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": null,
-    "departure": "2023-10-04T00:35:00Z"
-  },
-  {
-    "train_number": "68914 ",
-    "unit_number": "1293.0200",
-    "name": "Linz Chemie",
-    "abbr": "Lca ",
-    "lat": "48.2866",
-    "lng": "14.3209",
-    "arrival": "2023-10-03T15:59:00Z",
-    "departure": "2023-10-03T17:11:00Z"
-  },
-  {
-    "train_number": "68913 ",
-    "unit_number": "1293.0200",
-    "name": "Linz Vbf-Ost Reih. (in Lzv)",
-    "abbr": "Lo  ",
-    "lat": "48.2718",
-    "lng": "14.3196",
-    "arrival": "2023-10-03T15:09:00Z",
-    "departure": "2023-10-03T15:48:00Z"
-  },
-  {
-    "train_number": "87722 ",
-    "unit_number": "1293.0200",
-    "name": "Linz Chemie",
-    "abbr": "Lca ",
-    "lat": "48.2866",
-    "lng": "14.3209",
-    "arrival": "2023-10-03T14:36:00Z",
-    "departure": "2023-10-03T14:58:00Z"
-  },
-  {
-    "train_number": "77985 ",
-    "unit_number": "1293.0200",
-    "name": "Linz Vbf-Ost-Einf. (in Lzv)",
-    "abbr": "Lm  ",
-    "lat": "48.2607",
-    "lng": "14.3257",
-    "arrival": "2023-10-03T14:13:00Z",
-    "departure": "2023-10-03T14:23:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1293.0200",
-    "name": "Linz Vbf-West (in Lzv)",
-    "abbr": "Lr  ",
-    "lat": "48.276",
-    "lng": "14.3154",
-    "arrival": null,
-    "departure": "2023-10-03T14:01:00Z"
-  },
-  {
-    "train_number": "68910 ",
-    "unit_number": "1293.0200",
-    "name": "Linz Chemie",
-    "abbr": "Lca ",
-    "lat": "48.2866",
-    "lng": "14.3209",
-    "arrival": "2023-10-03T11:35:00Z",
-    "departure": "2023-10-03T13:13:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1293.0200",
-    "name": "Linz Vbf-Ost Reih. (in Lzv)",
-    "abbr": "Lo  ",
-    "lat": "48.2718",
-    "lng": "14.3196",
-    "arrival": null,
-    "departure": "2023-10-03T11:24:00Z"
-  },
-  {
-    "train_number": "64923 ",
-    "unit_number": "1293.0200",
-    "name": "Enns",
-    "abbr": "Ens ",
-    "lat": "48.2212",
-    "lng": "14.4668",
-    "arrival": "2023-10-03T02:57:00Z",
-    "departure": "2023-10-03T03:32:00Z"
-  },
-  {
-    "train_number": "64923 ",
-    "unit_number": "1293.0200",
-    "name": "Linz Vbf-Ost-Einf. (in Lzv)",
-    "abbr": "Lm  ",
-    "lat": "48.2607",
-    "lng": "14.3257",
-    "arrival": null,
-    "departure": "2023-10-03T02:44:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1293.0200",
-    "name": "Linz Vbf-Ost Reih. (in Lzv)",
-    "abbr": "Lo  ",
-    "lat": "48.2718",
-    "lng": "14.3196",
-    "arrival": null,
-    "departure": "2023-10-03T02:33:00Z"
+    "departure": "2023-10-04T02:46:00Z"
   }
 ]

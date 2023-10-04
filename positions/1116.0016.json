@@ -1,0 +1,152 @@
+[
+  {
+    "train_number": "63025 ",
+    "unit_number": "1116.0016",
+    "name": "Tulln a. d. Donau (in Tu)",
+    "abbr": "Tu  ",
+    "lat": "48.3275",
+    "lng": "16.0644",
+    "arrival": null,
+    "departure": "2023-10-04T18:51:00Z"
+  },
+  {
+    "train_number": "59093 ",
+    "unit_number": "1116.0016",
+    "name": "Tulln a. d. Donau (in Tu)",
+    "abbr": "Tu  ",
+    "lat": "48.3275",
+    "lng": "16.0644",
+    "arrival": "2023-10-04T16:04:00Z",
+    "departure": "2023-10-04T17:17:00Z"
+  },
+  {
+    "train_number": "59093 ",
+    "unit_number": "1116.0016",
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
+    "arrival": null,
+    "departure": "2023-10-04T15:02:00Z"
+  },
+  {
+    "train_number": "59093 ",
+    "unit_number": "1116.0016",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
+    "arrival": null,
+    "departure": "2023-10-04T14:52:00Z"
+  },
+  {
+    "train_number": "59093 ",
+    "unit_number": "1116.0016",
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
+    "arrival": null,
+    "departure": "2023-10-04T14:38:00Z"
+  },
+  {
+    "train_number": "59093 ",
+    "unit_number": "1116.0016",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": null,
+    "departure": "2023-10-04T14:08:00Z"
+  },
+  {
+    "train_number": "59804 ",
+    "unit_number": "1116.0016",
+    "name": "Enns",
+    "abbr": "Ens ",
+    "lat": "48.2212",
+    "lng": "14.4668",
+    "arrival": "2023-10-04T11:22:00Z",
+    "departure": "2023-10-04T14:00:00Z"
+  },
+  {
+    "train_number": "59804 ",
+    "unit_number": "1116.0016",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": "2023-10-04T10:44:00Z",
+    "departure": "2023-10-04T11:13:00Z"
+  },
+  {
+    "train_number": "59804 ",
+    "unit_number": "1116.0016",
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
+    "arrival": null,
+    "departure": "2023-10-04T10:14:00Z"
+  },
+  {
+    "train_number": "59804 ",
+    "unit_number": "1116.0016",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
+    "arrival": null,
+    "departure": "2023-10-04T10:01:00Z"
+  },
+  {
+    "train_number": "59804 ",
+    "unit_number": "1116.0016",
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
+    "arrival": null,
+    "departure": "2023-10-04T09:51:00Z"
+  },
+  {
+    "train_number": "59804 ",
+    "unit_number": "1116.0016",
+    "name": "St.Pölten Hbf (in Pb)",
+    "abbr": "Pb  ",
+    "lat": "48.2081",
+    "lng": "15.6237",
+    "arrival": null,
+    "departure": "2023-10-04T09:26:00Z"
+  },
+  {
+    "train_number": "59804 ",
+    "unit_number": "1116.0016",
+    "name": "Herzogenburg (in Ho)",
+    "abbr": "Ho  ",
+    "lat": "48.2759",
+    "lng": "15.6966",
+    "arrival": null,
+    "departure": "2023-10-04T08:48:00Z"
+  },
+  {
+    "train_number": "Rübe  ",
+    "unit_number": "1116.0016",
+    "name": "Tulln a. d. Donau (in Tu)",
+    "abbr": "Tu  ",
+    "lat": "48.3275",
+    "lng": "16.0644",
+    "arrival": "2023-10-04T07:45:00Z",
+    "departure": "2023-10-04T07:46:00Z"
+  },
+  {
+    "train_number": "63024 ",
+    "unit_number": "1116.0016",
+    "name": "Tulln a. d. Donau (in Tu)",
+    "abbr": "Tu  ",
+    "lat": "48.3275",
+    "lng": "16.0644",
+    "arrival": null,
+    "departure": "2023-10-04T03:02:00Z"
+  }
+]

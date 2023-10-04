@@ -1,202 +1,202 @@
 [
   {
-    "train_number": "1511  ",
+    "train_number": "41407 ",
     "unit_number": "1016.0023",
-    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
-    "abbr": "Sre ",
-    "lat": "47.8075",
-    "lng": "13.0687",
+    "name": "Graz Hbf (in G)",
+    "abbr": "G   ",
+    "lat": "47.0733",
+    "lng": "15.4163",
     "arrival": null,
-    "departure": "2023-10-03T10:46:00Z"
+    "departure": "2023-10-04T20:06:00Z"
   },
   {
-    "train_number": "1511  ",
+    "train_number": "41407 ",
     "unit_number": "1016.0023",
-    "name": "Bischofshofen (in Bo)",
-    "abbr": "Bo  ",
-    "lat": "47.42",
-    "lng": "13.2199",
-    "arrival": "2023-10-03T10:02:00Z",
-    "departure": "2023-10-03T10:04:00Z"
-  },
-  {
-    "train_number": "1511  ",
-    "unit_number": "1016.0023",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-10-03T09:48:00Z",
-    "departure": "2023-10-03T09:49:00Z"
-  },
-  {
-    "train_number": "1511  ",
-    "unit_number": "1016.0023",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
-    "arrival": "2023-10-03T08:24:00Z",
-    "departure": "2023-10-03T08:25:00Z"
-  },
-  {
-    "train_number": "5341  ",
-    "unit_number": "1016.0023",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-10-03T07:36:00Z",
-    "departure": "2023-10-03T07:52:00Z"
-  },
-  {
-    "train_number": "5341  ",
-    "unit_number": "1016.0023",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
     "arrival": null,
-    "departure": "2023-10-03T07:33:00Z"
+    "departure": "2023-10-04T20:02:00Z"
   },
   {
-    "train_number": "5341  ",
+    "train_number": "41407 ",
     "unit_number": "1016.0023",
-    "name": "Jenbach",
-    "abbr": "Jb  ",
-    "lat": "47.3884",
-    "lng": "11.7783",
-    "arrival": "2023-10-03T07:16:00Z",
-    "departure": "2023-10-03T07:17:00Z"
-  },
-  {
-    "train_number": "5341  ",
-    "unit_number": "1016.0023",
-    "name": "Schwaz",
-    "abbr": "Sw  ",
-    "lat": "47.3497",
-    "lng": "11.7016",
-    "arrival": "2023-10-03T07:10:00Z",
-    "departure": "2023-10-03T07:11:00Z"
-  },
-  {
-    "train_number": "5341  ",
-    "unit_number": "1016.0023",
-    "name": "Hall in Tirol",
-    "abbr": "H   ",
-    "lat": "47.2769",
-    "lng": "11.5013",
-    "arrival": "2023-10-03T06:59:00Z",
-    "departure": "2023-10-03T07:00:00Z"
-  },
-  {
-    "train_number": "1500  ",
-    "unit_number": "1016.0023",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-10-03T06:33:00Z",
-    "departure": "2023-10-03T06:50:00Z"
-  },
-  {
-    "train_number": "1500  ",
-    "unit_number": "1016.0023",
-    "name": "Hall in Tirol",
-    "abbr": "H   ",
-    "lat": "47.2769",
-    "lng": "11.5013",
-    "arrival": "2023-10-03T06:24:00Z",
-    "departure": "2023-10-03T06:25:00Z"
-  },
-  {
-    "train_number": "1500  ",
-    "unit_number": "1016.0023",
-    "name": "Schwaz",
-    "abbr": "Sw  ",
-    "lat": "47.3497",
-    "lng": "11.7016",
-    "arrival": "2023-10-03T06:13:00Z",
-    "departure": "2023-10-03T06:14:00Z"
-  },
-  {
-    "train_number": "1500  ",
-    "unit_number": "1016.0023",
-    "name": "Jenbach",
-    "abbr": "Jb  ",
-    "lat": "47.3884",
-    "lng": "11.7783",
-    "arrival": "2023-10-03T06:08:00Z",
-    "departure": "2023-10-03T06:09:00Z"
-  },
-  {
-    "train_number": "1500  ",
-    "unit_number": "1016.0023",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
     "arrival": null,
-    "departure": "2023-10-03T05:51:00Z"
+    "departure": "2023-10-04T19:15:00Z"
   },
   {
-    "train_number": "1500  ",
+    "train_number": "41407 ",
     "unit_number": "1016.0023",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-10-03T05:42:00Z",
-    "departure": "2023-10-03T05:49:00Z"
-  },
-  {
-    "train_number": "1500  ",
-    "unit_number": "1016.0023",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
-    "arrival": "2023-10-03T05:07:00Z",
-    "departure": "2023-10-03T05:08:00Z"
-  },
-  {
-    "train_number": "1500  ",
-    "unit_number": "1016.0023",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-10-03T03:34:00Z",
-    "departure": "2023-10-03T03:36:00Z"
-  },
-  {
-    "train_number": "1500  ",
-    "unit_number": "1016.0023",
-    "name": "Bischofshofen (in Bo)",
-    "abbr": "Bo  ",
-    "lat": "47.42",
-    "lng": "13.2199",
-    "arrival": "2023-10-03T03:17:00Z",
-    "departure": "2023-10-03T03:18:00Z"
-  },
-  {
-    "train_number": "1500  ",
-    "unit_number": "1016.0023",
-    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
-    "abbr": "Sre ",
-    "lat": "47.8075",
-    "lng": "13.0687",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
     "arrival": null,
-    "departure": "2023-10-03T02:34:00Z"
+    "departure": "2023-10-04T19:09:00Z"
   },
   {
-    "train_number": "237   ",
+    "train_number": "41407 ",
     "unit_number": "1016.0023",
-    "name": "Salzburg Hbf (in Sb)",
-    "abbr": "Sb  ",
-    "lat": "47.8135",
-    "lng": "13.0466",
-    "arrival": "2023-10-02T23:28:00Z",
-    "departure": "2023-10-03T02:30:00Z"
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-10-04T18:18:00Z",
+    "departure": "2023-10-04T18:21:00Z"
+  },
+  {
+    "train_number": "41407 ",
+    "unit_number": "1016.0023",
+    "name": "Kirchdorf a.d.Krems",
+    "abbr": "Kik ",
+    "lat": "47.9051",
+    "lng": "14.1167",
+    "arrival": null,
+    "departure": "2023-10-04T17:17:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1016.0023",
+    "name": "Wels Vbf-Terminal (in Wev)",
+    "abbr": "Wek ",
+    "lat": "48.1856",
+    "lng": "14.0664",
+    "arrival": null,
+    "departure": "2023-10-04T16:10:00Z"
+  },
+  {
+    "train_number": "87031 ",
+    "unit_number": "1016.0023",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": null,
+    "departure": "2023-10-04T11:02:00Z"
+  },
+  {
+    "train_number": "47854 ",
+    "unit_number": "1016.0023",
+    "name": "Steindorf b.Straßw. (in Nst)",
+    "abbr": "Nst ",
+    "lat": "47.9676",
+    "lng": "13.2406",
+    "arrival": "2023-10-04T10:07:00Z",
+    "departure": "2023-10-04T10:33:00Z"
+  },
+  {
+    "train_number": "47854 ",
+    "unit_number": "1016.0023",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": null,
+    "departure": "2023-10-04T09:29:00Z"
+  },
+  {
+    "train_number": "47854 ",
+    "unit_number": "1016.0023",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-10-04T08:17:00Z",
+    "departure": "2023-10-04T08:30:00Z"
+  },
+  {
+    "train_number": "47854 ",
+    "unit_number": "1016.0023",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": null,
+    "departure": "2023-10-04T07:39:00Z"
+  },
+  {
+    "train_number": "47854 ",
+    "unit_number": "1016.0023",
+    "name": "Linz Vbf-West (in Lzv)",
+    "abbr": "Lr  ",
+    "lat": "48.276",
+    "lng": "14.3154",
+    "arrival": "2023-10-04T07:27:00Z",
+    "departure": "2023-10-04T07:30:00Z"
+  },
+  {
+    "train_number": "47854 ",
+    "unit_number": "1016.0023",
+    "name": "Enns",
+    "abbr": "Ens ",
+    "lat": "48.2212",
+    "lng": "14.4668",
+    "arrival": null,
+    "departure": "2023-10-04T07:00:00Z"
+  },
+  {
+    "train_number": "47854 ",
+    "unit_number": "1016.0023",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": null,
+    "departure": "2023-10-04T06:55:00Z"
+  },
+  {
+    "train_number": "47854 ",
+    "unit_number": "1016.0023",
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
+    "arrival": null,
+    "departure": "2023-10-04T06:29:00Z"
+  },
+  {
+    "train_number": "47854 ",
+    "unit_number": "1016.0023",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
+    "arrival": null,
+    "departure": "2023-10-04T06:17:00Z"
+  },
+  {
+    "train_number": "47854 ",
+    "unit_number": "1016.0023",
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
+    "arrival": null,
+    "departure": "2023-10-04T06:09:00Z"
+  },
+  {
+    "train_number": "47854 ",
+    "unit_number": "1016.0023",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": "2023-10-04T04:15:00Z",
+    "departure": "2023-10-04T04:27:00Z"
+  },
+  {
+    "train_number": "55039 ",
+    "unit_number": "1016.0023",
+    "name": "Wien Zvbf-Einfgr. (in Zur)",
+    "abbr": "Ze  ",
+    "lat": "48.1568",
+    "lng": "16.4193",
+    "arrival": "2023-10-04T00:47:00Z",
+    "departure": "2023-10-04T02:44:00Z"
   }
 ]
