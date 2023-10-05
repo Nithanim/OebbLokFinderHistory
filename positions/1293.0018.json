@@ -1,92 +1,142 @@
 [
   {
-    "train_number": "54350 ",
+    "train_number": "42859 ",
+    "unit_number": "1293.0018",
+    "name": "Tarvisio Boscoverde",
+    "abbr": "Tbv ",
+    "lat": "46.5059",
+    "lng": "13.6081",
+    "arrival": "2023-10-06T01:30:00Z",
+    "departure": "2023-10-06T02:15:00Z"
+  },
+  {
+    "train_number": "42859 ",
+    "unit_number": "1293.0018",
+    "name": "Villach Westbf",
+    "abbr": "Vf  ",
+    "lat": "46.6092",
+    "lng": "13.8407",
+    "arrival": "2023-10-06T00:32:00Z",
+    "departure": "2023-10-06T01:04:00Z"
+  },
+  {
+    "train_number": "42859 ",
+    "unit_number": "1293.0018",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-10-05T22:07:00Z",
+    "departure": "2023-10-05T22:35:00Z"
+  },
+  {
+    "train_number": "42859 ",
     "unit_number": "1293.0018",
     "name": "Bischofshofen (in Bo)",
     "abbr": "Bo  ",
     "lat": "47.42",
     "lng": "13.2199",
     "arrival": null,
-    "departure": "2023-10-05T01:32:00Z"
+    "departure": "2023-10-05T21:54:00Z"
   },
   {
-    "train_number": "54350 ",
+    "train_number": "42859 ",
     "unit_number": "1293.0018",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-10-05T00:58:00Z",
-    "departure": "2023-10-05T01:20:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1293.0018",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
+    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
+    "abbr": "Sre ",
+    "lat": "47.8075",
+    "lng": "13.0687",
     "arrival": null,
-    "departure": "2023-10-04T23:03:00Z"
+    "departure": "2023-10-05T21:18:00Z"
   },
   {
-    "train_number": "48440 ",
+    "train_number": "42859 ",
     "unit_number": "1293.0018",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-10-04T17:45:00Z",
-    "departure": "2023-10-04T18:54:00Z"
+    "name": "Salzburg Gnigl-Vbf (in Sb)",
+    "abbr": "Sr  ",
+    "lat": "47.8167",
+    "lng": "13.0639",
+    "arrival": "2023-10-05T20:37:00Z",
+    "departure": "2023-10-05T21:15:00Z"
   },
   {
-    "train_number": "48440 ",
+    "train_number": "42859 ",
     "unit_number": "1293.0018",
-    "name": "Villach Westbf",
-    "abbr": "Vf  ",
-    "lat": "46.6092",
-    "lng": "13.8407",
-    "arrival": "2023-10-04T15:37:00Z",
-    "departure": "2023-10-04T15:40:00Z"
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-10-05T20:31:00Z",
+    "departure": "2023-10-05T20:31:00Z"
   },
   {
-    "train_number": "48440 ",
+    "train_number": "42859 ",
     "unit_number": "1293.0018",
-    "name": "Rosenbach",
-    "abbr": "Rn  ",
-    "lat": "46.5309",
-    "lng": "14.0354",
+    "name": "Salzburg Liefering (in Sb)",
+    "abbr": "Lfg ",
+    "lat": "47.8229",
+    "lng": "13.0021",
     "arrival": null,
-    "departure": "2023-10-04T14:54:00Z"
+    "departure": "2023-10-05T20:24:00Z"
   },
   {
-    "train_number": "18277 ",
+    "train_number": "42859 ",
     "unit_number": "1293.0018",
-    "name": "Rosenbach",
-    "abbr": "Rn  ",
-    "lat": "46.5309",
-    "lng": "14.0354",
+    "name": "Freilassing",
+    "abbr": "MFL ",
+    "lat": "47.8368",
+    "lng": "12.9764",
+    "arrival": "2023-10-05T20:21:00Z",
+    "departure": "2023-10-05T20:21:00Z"
+  },
+  {
+    "train_number": "42859 ",
+    "unit_number": "1293.0018",
+    "name": "Traunstein",
+    "abbr": "MTS ",
+    "lat": "47.8697",
+    "lng": "12.6391",
     "arrival": null,
-    "departure": "2023-10-04T12:59:00Z"
+    "departure": "2023-10-05T19:52:00Z"
   },
   {
-    "train_number": null,
+    "train_number": "42859 ",
     "unit_number": "1293.0018",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
-    "arrival": null,
-    "departure": "2023-10-04T12:35:00Z"
+    "name": "Rosenheim",
+    "abbr": "MRO ",
+    "lat": "47.8511",
+    "lng": "12.1196",
+    "arrival": "2023-10-05T18:56:00Z",
+    "departure": "2023-10-05T18:59:00Z"
   },
   {
-    "train_number": "45242 ",
+    "train_number": "42859 ",
     "unit_number": "1293.0018",
-    "name": "Tarvisio Boscoverde",
-    "abbr": "Tbv ",
-    "lat": "46.5059",
-    "lng": "13.6081",
-    "arrival": "2023-10-04T10:28:00Z",
-    "departure": "2023-10-04T10:55:00Z"
+    "name": "München Ost Rbf",
+    "abbr": "MOR ",
+    "lat": "48.1342",
+    "lng": "11.6404",
+    "arrival": "2023-10-05T16:44:00Z",
+    "departure": "2023-10-05T18:30:00Z"
+  },
+  {
+    "train_number": "42859 ",
+    "unit_number": "1293.0018",
+    "name": "München Laim Rbf",
+    "abbr": "MLR ",
+    "lat": "48.1454",
+    "lng": "11.5032",
+    "arrival": "2023-10-05T16:18:00Z",
+    "departure": "2023-10-05T16:21:00Z"
+  },
+  {
+    "train_number": "42858 ",
+    "unit_number": "1293.0018",
+    "name": "München Laim Rbf",
+    "abbr": "MLR ",
+    "lat": "48.1454",
+    "lng": "11.5032",
+    "arrival": "2023-10-05T02:20:00Z",
+    "departure": "2023-10-05T02:38:00Z"
   }
 ]

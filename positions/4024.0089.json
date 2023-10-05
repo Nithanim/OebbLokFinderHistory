@@ -1,202 +1,202 @@
 [
   {
-    "train_number": "21079 ",
-    "unit_number": "4024.0089",
-    "name": "Wien FJBf (in Wf)",
-    "abbr": "Wf  ",
-    "lat": "48.227",
-    "lng": "16.3611",
-    "arrival": "2023-10-04T22:21:00Z",
-    "departure": "2023-10-04T22:39:00Z"
-  },
-  {
-    "train_number": "21079 ",
+    "train_number": "21070 ",
     "unit_number": "4024.0089",
     "name": "Tulln a. d. Donau (in Tu)",
     "abbr": "Tu  ",
     "lat": "48.3275",
     "lng": "16.0644",
-    "arrival": "2023-10-04T21:32:00Z",
-    "departure": "2023-10-04T21:38:00Z"
+    "arrival": "2023-10-05T21:22:00Z",
+    "departure": "2023-10-05T21:27:00Z"
   },
   {
-    "train_number": "21079 ",
+    "train_number": "21071 ",
+    "unit_number": "4024.0089",
+    "name": "Wien FJBf (in Wf)",
+    "abbr": "Wf  ",
+    "lat": "48.227",
+    "lng": "16.3611",
+    "arrival": "2023-10-05T20:21:00Z",
+    "departure": "2023-10-05T20:39:00Z"
+  },
+  {
+    "train_number": "21071 ",
+    "unit_number": "4024.0089",
+    "name": "Tulln a. d. Donau (in Tu)",
+    "abbr": "Tu  ",
+    "lat": "48.3275",
+    "lng": "16.0644",
+    "arrival": "2023-10-05T19:32:00Z",
+    "departure": "2023-10-05T19:38:00Z"
+  },
+  {
+    "train_number": "21071 ",
     "unit_number": "4024.0089",
     "name": "Herzogenburg (in Ho)",
     "abbr": "Ho  ",
     "lat": "48.2759",
     "lng": "15.6966",
-    "arrival": "2023-10-04T20:28:00Z",
-    "departure": "2023-10-04T20:29:00Z"
+    "arrival": "2023-10-05T18:28:00Z",
+    "departure": "2023-10-05T18:29:00Z"
   },
   {
-    "train_number": "21058 ",
+    "train_number": "21046 ",
     "unit_number": "4024.0089",
     "name": "St.Pölten Hbf (in Pb)",
     "abbr": "Pb  ",
     "lat": "48.2081",
     "lng": "15.6237",
-    "arrival": "2023-10-04T19:44:00Z",
-    "departure": "2023-10-04T20:12:00Z"
+    "arrival": "2023-10-05T16:49:00Z",
+    "departure": "2023-10-05T18:12:00Z"
   },
   {
-    "train_number": "21058 ",
+    "train_number": "21046 ",
     "unit_number": "4024.0089",
     "name": "Herzogenburg (in Ho)",
     "abbr": "Ho  ",
     "lat": "48.2759",
     "lng": "15.6966",
-    "arrival": "2023-10-04T19:22:00Z",
-    "departure": "2023-10-04T19:30:00Z"
+    "arrival": "2023-10-05T16:22:00Z",
+    "departure": "2023-10-05T16:30:00Z"
   },
   {
-    "train_number": "21058 ",
+    "train_number": "21046 ",
     "unit_number": "4024.0089",
     "name": "Tulln a. d. Donau (in Tu)",
     "abbr": "Tu  ",
     "lat": "48.3275",
     "lng": "16.0644",
-    "arrival": "2023-10-04T18:22:00Z",
-    "departure": "2023-10-04T18:27:00Z"
+    "arrival": "2023-10-05T15:22:00Z",
+    "departure": "2023-10-05T15:27:00Z"
   },
   {
-    "train_number": "21059 ",
+    "train_number": "21047 ",
     "unit_number": "4024.0089",
     "name": "Wien FJBf (in Wf)",
     "abbr": "Wf  ",
     "lat": "48.227",
     "lng": "16.3611",
-    "arrival": "2023-10-04T17:21:00Z",
-    "departure": "2023-10-04T17:39:00Z"
+    "arrival": "2023-10-05T14:21:00Z",
+    "departure": "2023-10-05T14:39:00Z"
   },
   {
-    "train_number": "21059 ",
+    "train_number": "21047 ",
     "unit_number": "4024.0089",
     "name": "Tulln a. d. Donau (in Tu)",
     "abbr": "Tu  ",
     "lat": "48.3275",
     "lng": "16.0644",
-    "arrival": "2023-10-04T16:32:00Z",
-    "departure": "2023-10-04T16:38:00Z"
+    "arrival": "2023-10-05T13:32:00Z",
+    "departure": "2023-10-05T13:38:00Z"
   },
   {
-    "train_number": "21059 ",
+    "train_number": "21047 ",
     "unit_number": "4024.0089",
     "name": "Herzogenburg (in Ho)",
     "abbr": "Ho  ",
     "lat": "48.2759",
     "lng": "15.6966",
-    "arrival": "2023-10-04T15:31:00Z",
-    "departure": "2023-10-04T15:31:00Z"
+    "arrival": "2023-10-05T12:28:00Z",
+    "departure": "2023-10-05T12:29:00Z"
   },
   {
-    "train_number": "21038 ",
+    "train_number": "21018 ",
     "unit_number": "4024.0089",
     "name": "St.Pölten Hbf (in Pb)",
     "abbr": "Pb  ",
     "lat": "48.2081",
     "lng": "15.6237",
-    "arrival": "2023-10-04T14:49:00Z",
-    "departure": "2023-10-04T15:12:00Z"
+    "arrival": "2023-10-05T09:44:00Z",
+    "departure": "2023-10-05T12:12:00Z"
   },
   {
-    "train_number": "21038 ",
+    "train_number": "21018 ",
     "unit_number": "4024.0089",
     "name": "Herzogenburg (in Ho)",
     "abbr": "Ho  ",
     "lat": "48.2759",
     "lng": "15.6966",
-    "arrival": "2023-10-04T14:22:00Z",
-    "departure": "2023-10-04T14:30:00Z"
+    "arrival": "2023-10-05T09:22:00Z",
+    "departure": "2023-10-05T09:30:00Z"
   },
   {
-    "train_number": "21038 ",
+    "train_number": "21018 ",
     "unit_number": "4024.0089",
     "name": "Tulln a. d. Donau (in Tu)",
     "abbr": "Tu  ",
     "lat": "48.3275",
     "lng": "16.0644",
-    "arrival": "2023-10-04T13:22:00Z",
-    "departure": "2023-10-04T13:27:00Z"
+    "arrival": "2023-10-05T08:22:00Z",
+    "departure": "2023-10-05T08:27:00Z"
   },
   {
-    "train_number": "21031 ",
+    "train_number": "21019 ",
     "unit_number": "4024.0089",
     "name": "Wien FJBf (in Wf)",
     "abbr": "Wf  ",
     "lat": "48.227",
     "lng": "16.3611",
-    "arrival": "2023-10-04T10:21:00Z",
-    "departure": "2023-10-04T12:39:00Z"
+    "arrival": "2023-10-05T07:21:00Z",
+    "departure": "2023-10-05T07:39:00Z"
   },
   {
-    "train_number": "21031 ",
+    "train_number": "21019 ",
     "unit_number": "4024.0089",
     "name": "Tulln a. d. Donau (in Tu)",
     "abbr": "Tu  ",
     "lat": "48.3275",
     "lng": "16.0644",
-    "arrival": "2023-10-04T09:32:00Z",
-    "departure": "2023-10-04T09:38:00Z"
+    "arrival": "2023-10-05T06:32:00Z",
+    "departure": "2023-10-05T06:38:00Z"
   },
   {
-    "train_number": "21031 ",
+    "train_number": "21019 ",
     "unit_number": "4024.0089",
     "name": "Herzogenburg (in Ho)",
     "abbr": "Ho  ",
     "lat": "48.2759",
     "lng": "15.6966",
-    "arrival": "2023-10-04T08:28:00Z",
-    "departure": "2023-10-04T08:29:00Z"
+    "arrival": "2023-10-05T05:29:00Z",
+    "departure": "2023-10-05T05:30:00Z"
   },
   {
-    "train_number": "21010 ",
+    "train_number": "21000 ",
     "unit_number": "4024.0089",
     "name": "St.Pölten Hbf (in Pb)",
     "abbr": "Pb  ",
     "lat": "48.2081",
     "lng": "15.6237",
-    "arrival": "2023-10-04T07:44:00Z",
-    "departure": "2023-10-04T08:12:00Z"
+    "arrival": "2023-10-05T05:04:00Z",
+    "departure": "2023-10-05T05:13:00Z"
   },
   {
-    "train_number": "21010 ",
+    "train_number": "21000 ",
     "unit_number": "4024.0089",
     "name": "Herzogenburg (in Ho)",
     "abbr": "Ho  ",
     "lat": "48.2759",
     "lng": "15.6966",
-    "arrival": "2023-10-04T07:22:00Z",
-    "departure": "2023-10-04T07:30:00Z"
+    "arrival": "2023-10-05T04:51:00Z",
+    "departure": "2023-10-05T04:52:00Z"
   },
   {
-    "train_number": "21010 ",
+    "train_number": "21000 ",
     "unit_number": "4024.0089",
     "name": "Tulln a. d. Donau (in Tu)",
     "abbr": "Tu  ",
     "lat": "48.3275",
     "lng": "16.0644",
-    "arrival": "2023-10-04T06:22:00Z",
-    "departure": "2023-10-04T06:27:00Z"
+    "arrival": "2023-10-05T03:52:00Z",
+    "departure": "2023-10-05T03:57:00Z"
   },
   {
-    "train_number": null,
+    "train_number": "21001 ",
     "unit_number": "4024.0089",
     "name": "Wien FJBf (in Wf)",
     "abbr": "Wf  ",
     "lat": "48.227",
     "lng": "16.3611",
-    "arrival": null,
-    "departure": "2023-10-04T05:39:00Z"
-  },
-  {
-    "train_number": "85150 ",
-    "unit_number": "4024.0089",
-    "name": "Wien Westbf (in Ws)",
-    "abbr": "Ws  ",
-    "lat": "48.1964",
-    "lng": "16.3374",
-    "arrival": "2023-10-03T17:56:00Z",
-    "departure": "2023-10-04T03:56:00Z"
+    "arrival": "2023-10-05T02:51:00Z",
+    "departure": "2023-10-05T03:09:00Z"
   }
 ]

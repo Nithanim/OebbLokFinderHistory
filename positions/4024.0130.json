@@ -1,5 +1,15 @@
 [
   {
+    "train_number": "84441 ",
+    "unit_number": "4024.0130",
+    "name": "W. FJBf-Gürtelbrücke (in Wf)",
+    "abbr": "Wfg ",
+    "lat": "48.2392",
+    "lng": "16.3604",
+    "arrival": "2023-10-05T22:58:00Z",
+    "departure": "2023-10-06T02:39:00Z"
+  },
+  {
     "train_number": "84443 ",
     "unit_number": "4024.0130",
     "name": "W. FJBf-Gürtelbrücke (in Wf)",
@@ -8,15 +18,5 @@
     "lng": "16.3604",
     "arrival": "2023-10-04T23:13:00Z",
     "departure": "2023-10-05T02:27:00Z"
-  },
-  {
-    "train_number": "84439 ",
-    "unit_number": "4024.0130",
-    "name": "W. FJBf-Gürtelbrücke (in Wf)",
-    "abbr": "Wfg ",
-    "lat": "48.2392",
-    "lng": "16.3604",
-    "arrival": "2023-10-03T22:53:00Z",
-    "departure": "2023-10-04T02:42:00Z"
   }
 ]
