@@ -1,63 +1,143 @@
 [
   {
-    "train_number": "41384 ",
-    "unit_number": "1116.0016",
-    "name": "Ybbs a.d.Donau",
-    "abbr": "Y   ",
-    "lat": "48.158",
-    "lng": "15.0981",
-    "arrival": null,
-    "departure": "2023-10-05T23:23:00Z"
-  },
-  {
-    "train_number": "41384 ",
+    "train_number": "55087 ",
     "unit_number": "1116.0016",
     "name": "Pöchlarn",
     "abbr": "Poe ",
     "lat": "48.208",
     "lng": "15.2148",
     "arrival": null,
-    "departure": "2023-10-05T23:09:00Z"
+    "departure": "2023-10-06T21:18:00Z"
   },
   {
-    "train_number": "41384 ",
+    "train_number": "55087 ",
     "unit_number": "1116.0016",
-    "name": "Kledering (in Zur)",
-    "abbr": "Za  ",
-    "lat": "48.1331",
-    "lng": "16.4396",
-    "arrival": "2023-10-05T21:00:00Z",
-    "departure": "2023-10-05T21:15:00Z"
-  },
-  {
-    "train_number": "41384 ",
-    "unit_number": "1116.0016",
-    "name": "Parndorf",
-    "abbr": "Par ",
-    "lat": "47.987",
-    "lng": "16.8702",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
     "arrival": null,
-    "departure": "2023-10-05T20:18:00Z"
+    "departure": "2023-10-06T21:09:00Z"
   },
   {
-    "train_number": "18467 ",
+    "train_number": "55087 ",
     "unit_number": "1116.0016",
-    "name": "Hegyeshalom",
-    "abbr": "He  ",
-    "lat": "47.9139",
-    "lng": "17.1455",
-    "arrival": "2023-10-05T19:30:00Z",
-    "departure": "2023-10-05T20:00:00Z"
-  },
-  {
-    "train_number": "18467 ",
-    "unit_number": "1116.0016",
-    "name": "Parndorf",
-    "abbr": "Par ",
-    "lat": "47.987",
-    "lng": "16.8702",
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
     "arrival": null,
-    "departure": "2023-10-05T19:15:00Z"
+    "departure": "2023-10-06T20:58:00Z"
+  },
+  {
+    "train_number": "55087 ",
+    "unit_number": "1116.0016",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": null,
+    "departure": "2023-10-06T20:26:00Z"
+  },
+  {
+    "train_number": "55087 ",
+    "unit_number": "1116.0016",
+    "name": "Enns",
+    "abbr": "Ens ",
+    "lat": "48.2212",
+    "lng": "14.4668",
+    "arrival": null,
+    "departure": "2023-10-06T20:19:00Z"
+  },
+  {
+    "train_number": "55087 ",
+    "unit_number": "1116.0016",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": null,
+    "departure": "2023-10-06T19:53:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0016",
+    "name": "Wels Vbf (in Wev)",
+    "abbr": "Wev ",
+    "lat": "48.1834",
+    "lng": "14.0628",
+    "arrival": null,
+    "departure": "2023-10-06T19:34:00Z"
+  },
+  {
+    "train_number": "91200 ",
+    "unit_number": "1116.0016",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": null,
+    "departure": "2023-10-06T15:38:00Z"
+  },
+  {
+    "train_number": "91200 ",
+    "unit_number": "1116.0016",
+    "name": "Linz Vbf-West (in Lzv)",
+    "abbr": "Lr  ",
+    "lat": "48.276",
+    "lng": "14.3154",
+    "arrival": "2023-10-06T15:14:00Z",
+    "departure": "2023-10-06T15:30:00Z"
+  },
+  {
+    "train_number": "91200 ",
+    "unit_number": "1116.0016",
+    "name": "Enns",
+    "abbr": "Ens ",
+    "lat": "48.2212",
+    "lng": "14.4668",
+    "arrival": null,
+    "departure": "2023-10-06T15:04:00Z"
+  },
+  {
+    "train_number": "91200 ",
+    "unit_number": "1116.0016",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": null,
+    "departure": "2023-10-06T15:00:00Z"
+  },
+  {
+    "train_number": "91200 ",
+    "unit_number": "1116.0016",
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
+    "arrival": null,
+    "departure": "2023-10-06T14:33:00Z"
+  },
+  {
+    "train_number": "91200 ",
+    "unit_number": "1116.0016",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
+    "arrival": null,
+    "departure": "2023-10-06T14:21:00Z"
+  },
+  {
+    "train_number": "91200 ",
+    "unit_number": "1116.0016",
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
+    "arrival": null,
+    "departure": "2023-10-06T14:11:00Z"
   },
   {
     "train_number": null,
@@ -67,136 +147,56 @@
     "lat": "48.1331",
     "lng": "16.4396",
     "arrival": null,
-    "departure": "2023-10-05T18:50:00Z"
+    "departure": "2023-10-06T12:00:00Z"
   },
   {
-    "train_number": "44312 ",
+    "train_number": "59204 ",
     "unit_number": "1116.0016",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-10-05T17:56:00Z"
+    "departure": "2023-10-06T11:19:00Z"
   },
   {
-    "train_number": "44312 ",
+    "train_number": "Rübe  ",
+    "unit_number": "1116.0016",
+    "name": "Ebenfurth (in Ef)",
+    "abbr": "Ef  ",
+    "lat": "47.8777",
+    "lng": "16.3621",
+    "arrival": "2023-10-06T10:18:00Z",
+    "departure": "2023-10-06T10:19:00Z"
+  },
+  {
+    "train_number": "41126 ",
+    "unit_number": "1116.0016",
+    "name": "Kledering (in Zur)",
+    "abbr": "Za  ",
+    "lat": "48.1331",
+    "lng": "16.4396",
+    "arrival": "2023-10-06T06:02:00Z",
+    "departure": "2023-10-06T08:28:00Z"
+  },
+  {
+    "train_number": "41126 ",
     "unit_number": "1116.0016",
     "name": "Parndorf",
     "abbr": "Par ",
     "lat": "47.987",
     "lng": "16.8702",
     "arrival": null,
-    "departure": "2023-10-05T17:09:00Z"
+    "departure": "2023-10-06T05:30:00Z"
   },
   {
-    "train_number": "44312 ",
+    "train_number": "41126 ",
     "unit_number": "1116.0016",
     "name": "Hegyeshalom",
     "abbr": "He  ",
     "lat": "47.9139",
     "lng": "17.1455",
-    "arrival": "2023-10-05T15:38:00Z",
-    "departure": "2023-10-05T16:49:00Z"
-  },
-  {
-    "train_number": "44312 ",
-    "unit_number": "1116.0016",
-    "name": "Gyoer-Rendezoe",
-    "abbr": "GVR ",
-    "lat": "47.6822",
-    "lng": "17.634",
-    "arrival": null,
-    "departure": "2023-10-05T14:51:00Z"
-  },
-  {
-    "train_number": "44312 ",
-    "unit_number": "1116.0016",
-    "name": "Tatabanya",
-    "abbr": "TB  ",
-    "lat": "47.587",
-    "lng": "18.3923",
-    "arrival": null,
-    "departure": "2023-10-05T13:46:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0016",
-    "name": "Budapest-Ferencvaros",
-    "abbr": "BUFE",
-    "lat": "47.4687",
-    "lng": "19.0882",
-    "arrival": null,
-    "departure": "2023-10-05T12:52:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0016",
-    "name": "Hegyeshalom",
-    "abbr": "He  ",
-    "lat": "47.9139",
-    "lng": "17.1455",
-    "arrival": null,
-    "departure": "2023-10-05T04:47:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0016",
-    "name": "Wien Erdbergerlände (in El)",
-    "abbr": "El  ",
-    "lat": "48.1849",
-    "lng": "16.4302",
-    "arrival": null,
-    "departure": "2023-10-05T04:20:00Z"
-  },
-  {
-    "train_number": "44313 ",
-    "unit_number": "1116.0016",
-    "name": "Parndorf",
-    "abbr": "Par ",
-    "lat": "47.987",
-    "lng": "16.8702",
-    "arrival": null,
-    "departure": "2023-10-05T03:47:00Z"
-  },
-  {
-    "train_number": "47306 ",
-    "unit_number": "1116.0016",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-10-05T03:36:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0016",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-10-05T03:09:00Z"
-  },
-  {
-    "train_number": "47306 ",
-    "unit_number": "1116.0016",
-    "name": "Parndorf",
-    "abbr": "Par ",
-    "lat": "47.987",
-    "lng": "16.8702",
-    "arrival": null,
-    "departure": "2023-10-05T02:59:00Z"
-  },
-  {
-    "train_number": "85609 ",
-    "unit_number": "1116.0016",
-    "name": "Hegyeshalom",
-    "abbr": "He  ",
-    "lat": "47.9139",
-    "lng": "17.1455",
-    "arrival": "2023-10-05T01:26:00Z",
-    "departure": "2023-10-05T02:40:00Z"
+    "arrival": "2023-10-06T04:12:00Z",
+    "departure": "2023-10-06T05:10:00Z"
   }
 ]

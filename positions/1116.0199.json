@@ -1,182 +1,202 @@
 [
   {
-    "train_number": "42859 ",
+    "train_number": "47859 ",
     "unit_number": "1116.0199",
-    "name": "Villach Westbf",
-    "abbr": "Vf  ",
-    "lat": "46.6092",
-    "lng": "13.8407",
-    "arrival": "2023-10-06T00:32:00Z",
-    "departure": "2023-10-06T02:28:00Z"
-  },
-  {
-    "train_number": "42859 ",
-    "unit_number": "1116.0199",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-10-05T22:07:00Z",
-    "departure": "2023-10-05T22:35:00Z"
-  },
-  {
-    "train_number": "42859 ",
-    "unit_number": "1116.0199",
-    "name": "Bischofshofen (in Bo)",
-    "abbr": "Bo  ",
-    "lat": "47.42",
-    "lng": "13.2199",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
     "arrival": null,
-    "departure": "2023-10-05T21:54:00Z"
+    "departure": "2023-10-06T23:17:00Z"
   },
   {
-    "train_number": "42859 ",
+    "train_number": "47859 ",
     "unit_number": "1116.0199",
-    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
-    "abbr": "Sre ",
-    "lat": "47.8075",
-    "lng": "13.0687",
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
     "arrival": null,
-    "departure": "2023-10-05T21:18:00Z"
+    "departure": "2023-10-06T23:05:00Z"
+  },
+  {
+    "train_number": "47859 ",
+    "unit_number": "1116.0199",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": null,
+    "departure": "2023-10-06T22:38:00Z"
+  },
+  {
+    "train_number": "47859 ",
+    "unit_number": "1116.0199",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": null,
+    "departure": "2023-10-06T22:19:00Z"
   },
   {
     "train_number": null,
     "unit_number": "1116.0199",
-    "name": "Salzburg Gnigl-Vbf (in Sb)",
-    "abbr": "Sr  ",
-    "lat": "47.8167",
-    "lng": "13.0639",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
     "arrival": null,
-    "departure": "2023-10-05T21:15:00Z"
+    "departure": "2023-10-06T22:00:00Z"
   },
   {
-    "train_number": "895   ",
+    "train_number": "55896 ",
     "unit_number": "1116.0199",
-    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
-    "abbr": "Sre ",
-    "lat": "47.8075",
-    "lng": "13.0687",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
     "arrival": null,
-    "departure": "2023-10-05T19:43:00Z"
+    "departure": "2023-10-06T20:15:00Z"
   },
   {
-    "train_number": "895   ",
+    "train_number": null,
     "unit_number": "1116.0199",
-    "name": "Bischofshofen (in Bo)",
-    "abbr": "Bo  ",
-    "lat": "47.42",
-    "lng": "13.2199",
-    "arrival": "2023-10-05T19:05:00Z",
-    "departure": "2023-10-05T19:07:00Z"
-  },
-  {
-    "train_number": "895   ",
-    "unit_number": "1116.0199",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-10-05T18:48:00Z",
-    "departure": "2023-10-05T18:52:00Z"
-  },
-  {
-    "train_number": "113   ",
-    "unit_number": "1116.0199",
-    "name": "Villach Hbf",
-    "abbr": "Vb  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
-    "arrival": "2023-10-05T14:43:00Z",
-    "departure": "2023-10-05T17:16:00Z"
-  },
-  {
-    "train_number": "113   ",
-    "unit_number": "1116.0199",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-10-05T13:09:00Z",
-    "departure": "2023-10-05T13:11:00Z"
-  },
-  {
-    "train_number": "113   ",
-    "unit_number": "1116.0199",
-    "name": "Bischofshofen (in Bo)",
-    "abbr": "Bo  ",
-    "lat": "47.42",
-    "lng": "13.2199",
-    "arrival": "2023-10-05T12:52:00Z",
-    "departure": "2023-10-05T12:54:00Z"
-  },
-  {
-    "train_number": "113   ",
-    "unit_number": "1116.0199",
-    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
-    "abbr": "Sre ",
-    "lat": "47.8075",
-    "lng": "13.0687",
+    "name": "Linz Vbf-Ost Reih. (in Lzv)",
+    "abbr": "Lo  ",
+    "lat": "48.2718",
+    "lng": "14.3196",
     "arrival": null,
-    "departure": "2023-10-05T12:17:00Z"
+    "departure": "2023-10-06T20:07:00Z"
   },
   {
-    "train_number": "113   ",
+    "train_number": "3807  ",
     "unit_number": "1116.0199",
-    "name": "Salzburg Hbf (in Sb)",
-    "abbr": "Sb  ",
-    "lat": "47.8135",
-    "lng": "13.0466",
-    "arrival": "2023-10-05T11:59:00Z",
-    "departure": "2023-10-05T12:12:00Z"
+    "name": "Freistadt",
+    "abbr": "Fr  ",
+    "lat": "48.4952",
+    "lng": "14.4815",
+    "arrival": "2023-10-06T17:20:00Z",
+    "departure": "2023-10-06T17:21:00Z"
   },
   {
-    "train_number": "113   ",
+    "train_number": "3807  ",
     "unit_number": "1116.0199",
-    "name": "Salzburg Liefering (in Sb)",
-    "abbr": "Lfg ",
-    "lat": "47.8229",
-    "lng": "13.0021",
+    "name": "Summerau",
+    "abbr": "Smr ",
+    "lat": "48.5572",
+    "lng": "14.4489",
+    "arrival": "2023-10-06T17:07:00Z",
+    "departure": "2023-10-06T17:12:00Z"
+  },
+  {
+    "train_number": "3804  ",
+    "unit_number": "1116.0199",
+    "name": "Ceske Budejovice",
+    "abbr": "CEBU",
+    "lat": "48.9744",
+    "lng": "14.4888",
+    "arrival": "2023-10-06T13:58:00Z",
+    "departure": "2023-10-06T16:03:00Z"
+  },
+  {
+    "train_number": "3804  ",
+    "unit_number": "1116.0199",
+    "name": "Summerau",
+    "abbr": "Smr ",
+    "lat": "48.5572",
+    "lng": "14.4489",
+    "arrival": "2023-10-06T12:47:00Z",
+    "departure": "2023-10-06T12:51:00Z"
+  },
+  {
+    "train_number": "3804  ",
+    "unit_number": "1116.0199",
+    "name": "Freistadt",
+    "abbr": "Fr  ",
+    "lat": "48.4952",
+    "lng": "14.4815",
+    "arrival": "2023-10-06T12:38:00Z",
+    "departure": "2023-10-06T12:39:00Z"
+  },
+  {
+    "train_number": "3803  ",
+    "unit_number": "1116.0199",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-10-06T10:24:00Z",
+    "departure": "2023-10-06T11:35:00Z"
+  },
+  {
+    "train_number": "3803  ",
+    "unit_number": "1116.0199",
+    "name": "Freistadt",
+    "abbr": "Fr  ",
+    "lat": "48.4952",
+    "lng": "14.4815",
+    "arrival": "2023-10-06T09:20:00Z",
+    "departure": "2023-10-06T09:21:00Z"
+  },
+  {
+    "train_number": "3803  ",
+    "unit_number": "1116.0199",
+    "name": "Summerau",
+    "abbr": "Smr ",
+    "lat": "48.5572",
+    "lng": "14.4489",
+    "arrival": "2023-10-06T09:07:00Z",
+    "departure": "2023-10-06T09:12:00Z"
+  },
+  {
+    "train_number": "3800  ",
+    "unit_number": "1116.0199",
+    "name": "Ceske Budejovice",
+    "abbr": "CEBU",
+    "lat": "48.9744",
+    "lng": "14.4888",
+    "arrival": "2023-10-06T07:58:00Z",
+    "departure": "2023-10-06T08:03:00Z"
+  },
+  {
+    "train_number": "3800  ",
+    "unit_number": "1116.0199",
+    "name": "Summerau",
+    "abbr": "Smr ",
+    "lat": "48.5572",
+    "lng": "14.4489",
+    "arrival": "2023-10-06T06:47:00Z",
+    "departure": "2023-10-06T06:52:00Z"
+  },
+  {
+    "train_number": "3800  ",
+    "unit_number": "1116.0199",
+    "name": "Freistadt",
+    "abbr": "Fr  ",
+    "lat": "48.4952",
+    "lng": "14.4815",
+    "arrival": "2023-10-06T06:38:00Z",
+    "departure": "2023-10-06T06:39:00Z"
+  },
+  {
+    "train_number": "3839  ",
+    "unit_number": "1116.0199",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-10-06T04:51:00Z",
+    "departure": "2023-10-06T05:35:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0199",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
     "arrival": null,
-    "departure": "2023-10-05T11:54:00Z"
-  },
-  {
-    "train_number": "113   ",
-    "unit_number": "1116.0199",
-    "name": "Freilassing",
-    "abbr": "MFL ",
-    "lat": "47.8368",
-    "lng": "12.9764",
-    "arrival": "2023-10-05T11:50:00Z",
-    "departure": "2023-10-05T11:52:00Z"
-  },
-  {
-    "train_number": "113   ",
-    "unit_number": "1116.0199",
-    "name": "Traunstein",
-    "abbr": "MTS ",
-    "lat": "47.8697",
-    "lng": "12.6391",
-    "arrival": "2023-10-05T11:31:00Z",
-    "departure": "2023-10-05T11:33:00Z"
-  },
-  {
-    "train_number": "113   ",
-    "unit_number": "1116.0199",
-    "name": "Rosenheim",
-    "abbr": "MRO ",
-    "lat": "47.8511",
-    "lng": "12.1196",
-    "arrival": "2023-10-05T10:55:00Z",
-    "departure": "2023-10-05T10:57:00Z"
-  },
-  {
-    "train_number": "113   ",
-    "unit_number": "1116.0199",
-    "name": "München Hauptbahnhof",
-    "abbr": "MH  ",
-    "lat": "48.1399",
-    "lng": "11.5604",
-    "arrival": "2023-10-05T10:11:00Z",
-    "departure": "2023-10-05T10:18:00Z"
+    "departure": "2023-10-06T04:09:00Z"
   }
 ]

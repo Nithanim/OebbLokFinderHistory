@@ -1,0 +1,42 @@
+[
+  {
+    "train_number": "Vhz   ",
+    "unit_number": "1216.0012",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-10-06T23:42:00Z",
+    "departure": "2023-10-07T03:00:00Z"
+  },
+  {
+    "train_number": "236   ",
+    "unit_number": "1216.0012",
+    "name": "Tarvisio Boscoverde",
+    "abbr": "Tbv ",
+    "lat": "46.5059",
+    "lng": "13.6081",
+    "arrival": "2023-10-06T21:58:00Z",
+    "departure": "2023-10-06T22:05:00Z"
+  },
+  {
+    "train_number": "237   ",
+    "unit_number": "1216.0012",
+    "name": "Tarvisio Boscoverde",
+    "abbr": "Tbv ",
+    "lat": "46.5059",
+    "lng": "13.6081",
+    "arrival": "2023-10-06T03:23:00Z",
+    "departure": "2023-10-06T03:30:00Z"
+  },
+  {
+    "train_number": "Vhz   ",
+    "unit_number": "1216.0012",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-10-05T23:42:00Z",
+    "departure": "2023-10-06T03:00:00Z"
+  }
+]
