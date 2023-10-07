@@ -1,33 +1,83 @@
 [
   {
-    "train_number": "62628 ",
+    "train_number": "Steht ",
+    "unit_number": "1116.0168",
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-10-07T22:00:00Z",
+    "departure": "2023-10-08T08:55:00Z"
+  },
+  {
+    "train_number": "48974 ",
     "unit_number": "1116.0168",
     "name": "St.Michael (in M)",
     "abbr": "M   ",
     "lat": "47.3445",
     "lng": "15.0103",
     "arrival": null,
-    "departure": "2023-10-06T23:29:00Z"
+    "departure": "2023-10-07T16:22:00Z"
   },
   {
-    "train_number": "62628 ",
+    "train_number": "18203 ",
     "unit_number": "1116.0168",
     "name": "Leoben Hbf (in Leb)",
     "abbr": "Leb ",
     "lat": "47.3867",
     "lng": "15.0898",
-    "arrival": null,
-    "departure": "2023-10-06T23:19:00Z"
+    "arrival": "2023-10-07T12:06:00Z",
+    "departure": "2023-10-07T16:16:00Z"
   },
   {
-    "train_number": "62628 ",
+    "train_number": "18203 ",
+    "unit_number": "1116.0168",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": null,
+    "departure": "2023-10-07T11:54:00Z"
+  },
+  {
+    "train_number": "54960 ",
+    "unit_number": "1116.0168",
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-10-07T06:43:00Z",
+    "departure": "2023-10-07T10:13:00Z"
+  },
+  {
+    "train_number": "54960 ",
+    "unit_number": "1116.0168",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": null,
+    "departure": "2023-10-07T05:59:00Z"
+  },
+  {
+    "train_number": "54960 ",
+    "unit_number": "1116.0168",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": "2023-10-07T05:44:00Z",
+    "departure": "2023-10-07T05:48:00Z"
+  },
+  {
+    "train_number": "54960 ",
     "unit_number": "1116.0168",
     "name": "Bruck a.d.Mur (in Bm)",
     "abbr": "Bm  ",
     "lat": "47.4134",
     "lng": "15.2797",
     "arrival": null,
-    "departure": "2023-10-06T23:03:00Z"
+    "departure": "2023-10-07T05:32:00Z"
   },
   {
     "train_number": "88954 ",
@@ -37,116 +87,6 @@
     "lat": "47.4219",
     "lng": "15.28",
     "arrival": "2023-10-06T22:21:00Z",
-    "departure": "2023-10-06T23:00:00Z"
-  },
-  {
-    "train_number": "88954 ",
-    "unit_number": "1116.0168",
-    "name": "Bruck a.d.Mur (in Bm)",
-    "abbr": "Bm  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
-    "arrival": null,
-    "departure": "2023-10-06T22:18:00Z"
-  },
-  {
-    "train_number": "88954 ",
-    "unit_number": "1116.0168",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": "2023-10-06T21:59:00Z",
-    "departure": "2023-10-06T22:06:00Z"
-  },
-  {
-    "train_number": "56658 ",
-    "unit_number": "1116.0168",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "----",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": "2023-10-06T20:57:00Z",
-    "departure": "2023-10-06T21:29:00Z"
-  },
-  {
-    "train_number": "56658 ",
-    "unit_number": "1116.0168",
-    "name": "Zeltweg",
-    "abbr": "Zg  ",
-    "lat": "47.1887",
-    "lng": "14.7425",
-    "arrival": null,
-    "departure": "2023-10-06T20:15:00Z"
-  },
-  {
-    "train_number": "56658 ",
-    "unit_number": "1116.0168",
-    "name": "St.Veit a.d.Glan (in Vps)",
-    "abbr": "Vps ",
-    "lat": "46.7704",
-    "lng": "14.3672",
-    "arrival": null,
-    "departure": "2023-10-06T18:55:00Z"
-  },
-  {
-    "train_number": "56658 ",
-    "unit_number": "1116.0168",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": null,
-    "departure": "2023-10-06T18:37:00Z"
-  },
-  {
-    "train_number": "56658 ",
-    "unit_number": "1116.0168",
-    "name": "Villach Hbf",
-    "abbr": "Vb  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
-    "arrival": null,
-    "departure": "2023-10-06T18:10:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0168",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
-    "arrival": null,
-    "departure": "2023-10-06T17:59:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0168",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
-    "arrival": null,
-    "departure": "2023-10-06T06:34:00Z"
-  },
-  {
-    "train_number": "54501 ",
-    "unit_number": "1116.0168",
-    "name": "Villach Hbf",
-    "abbr": "Vb  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
-    "arrival": null,
-    "departure": "2023-10-06T04:16:00Z"
-  },
-  {
-    "train_number": "54501 ",
-    "unit_number": "1116.0168",
-    "name": "St.Veit a.d.Glan (in Vps)",
-    "abbr": "Vps ",
-    "lat": "46.7704",
-    "lng": "14.3672",
-    "arrival": null,
-    "departure": "2023-10-06T03:24:00Z"
+    "departure": "2023-10-07T05:29:00Z"
   }
 ]

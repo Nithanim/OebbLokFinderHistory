@@ -2,11 +2,11 @@
   {
     "train_number": null,
     "unit_number": "1116.0072",
-    "name": "Budapest-Ferencvaros",
-    "abbr": "BUFE",
-    "lat": "47.4687",
-    "lng": "19.0882",
+    "name": "FERENCVAROS KELETI RENDEZOE",
+    "abbr": "BUF1",
+    "lat": "47.4612",
+    "lng": "19.0988",
     "arrival": null,
-    "departure": "2023-10-06T13:17:00Z"
+    "departure": "2023-10-07T07:20:00Z"
   }
 ]

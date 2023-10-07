@@ -1,122 +1,192 @@
 [
   {
-    "train_number": "57643 ",
+    "train_number": "56505 ",
     "unit_number": "1116.0143",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-10-07T01:53:00Z",
-    "departure": "2023-10-07T02:15:00Z"
-  },
-  {
-    "train_number": "57643 ",
-    "unit_number": "1116.0143",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
     "arrival": null,
-    "departure": "2023-10-07T01:50:00Z"
+    "departure": "2023-10-08T00:54:00Z"
   },
   {
-    "train_number": "88354 ",
+    "train_number": "56505 ",
     "unit_number": "1116.0143",
-    "name": "Jenbach",
-    "abbr": "Jb  ",
-    "lat": "47.3884",
-    "lng": "11.7783",
-    "arrival": "2023-10-06T23:58:00Z",
-    "departure": "2023-10-07T01:31:00Z"
-  },
-  {
-    "train_number": "88354 ",
-    "unit_number": "1116.0143",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
+    "name": "St.Veit a.d.Glan (in Vps)",
+    "abbr": "Vps ",
+    "lat": "46.7704",
+    "lng": "14.3672",
     "arrival": null,
-    "departure": "2023-10-06T23:44:00Z"
+    "departure": "2023-10-08T00:03:00Z"
+  },
+  {
+    "train_number": "56505 ",
+    "unit_number": "1116.0143",
+    "name": "Zeltweg",
+    "abbr": "Zg  ",
+    "lat": "47.1887",
+    "lng": "14.7425",
+    "arrival": null,
+    "departure": "2023-10-07T22:46:00Z"
+  },
+  {
+    "train_number": "56505 ",
+    "unit_number": "1116.0143",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": null,
+    "departure": "2023-10-07T22:04:00Z"
+  },
+  {
+    "train_number": "56505 ",
+    "unit_number": "1116.0143",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": null,
+    "departure": "2023-10-07T21:49:00Z"
+  },
+  {
+    "train_number": "56505 ",
+    "unit_number": "1116.0143",
+    "name": "Mürzzuschlag (in Mz)",
+    "abbr": "Mz  ",
+    "lat": "47.6079",
+    "lng": "15.677",
+    "arrival": null,
+    "departure": "2023-10-07T21:20:00Z"
+  },
+  {
+    "train_number": "56505 ",
+    "unit_number": "1116.0143",
+    "name": "Payerbach-Reichenau",
+    "abbr": "Pr  ",
+    "lat": "47.696",
+    "lng": "15.8632",
+    "arrival": null,
+    "departure": "2023-10-07T20:41:00Z"
+  },
+  {
+    "train_number": "56505 ",
+    "unit_number": "1116.0143",
+    "name": "Neunkirchen N.Ö.",
+    "abbr": "Nek ",
+    "lat": "47.731",
+    "lng": "16.0826",
+    "arrival": null,
+    "departure": "2023-10-07T20:07:00Z"
+  },
+  {
+    "train_number": "56505 ",
+    "unit_number": "1116.0143",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": null,
+    "departure": "2023-10-07T19:56:00Z"
+  },
+  {
+    "train_number": "56505 ",
+    "unit_number": "1116.0143",
+    "name": "Ebenfurth (in Ef)",
+    "abbr": "Ef  ",
+    "lat": "47.8777",
+    "lng": "16.3621",
+    "arrival": null,
+    "departure": "2023-10-07T19:38:00Z"
   },
   {
     "train_number": null,
     "unit_number": "1116.0143",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
     "arrival": null,
-    "departure": "2023-10-06T23:41:00Z"
+    "departure": "2023-10-07T18:51:00Z"
   },
   {
-    "train_number": "53440 ",
+    "train_number": "54085 ",
     "unit_number": "1116.0143",
-    "name": "Jenbach",
-    "abbr": "Jb  ",
-    "lat": "47.3884",
-    "lng": "11.7783",
+    "name": "Tulln a. d. Donau (in Tu)",
+    "abbr": "Tu  ",
+    "lat": "48.3275",
+    "lng": "16.0644",
+    "arrival": "2023-10-07T09:43:00Z",
+    "departure": "2023-10-07T10:01:00Z"
+  },
+  {
+    "train_number": "54085 ",
+    "unit_number": "1116.0143",
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
     "arrival": null,
-    "departure": "2023-10-06T16:29:00Z"
+    "departure": "2023-10-07T08:05:00Z"
   },
   {
-    "train_number": "53441 ",
+    "train_number": "54085 ",
     "unit_number": "1116.0143",
-    "name": "Schwaz",
-    "abbr": "Sw  ",
-    "lat": "47.3497",
-    "lng": "11.7016",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
     "arrival": null,
-    "departure": "2023-10-06T13:36:00Z"
+    "departure": "2023-10-07T07:54:00Z"
   },
   {
-    "train_number": "53441 ",
+    "train_number": "54085 ",
     "unit_number": "1116.0143",
-    "name": "Jenbach",
-    "abbr": "Jb  ",
-    "lat": "47.3884",
-    "lng": "11.7783",
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
     "arrival": null,
-    "departure": "2023-10-06T13:30:00Z"
+    "departure": "2023-10-07T07:39:00Z"
   },
   {
-    "train_number": "53330 ",
+    "train_number": "54085 ",
     "unit_number": "1116.0143",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
-    "arrival": "2023-10-06T11:47:00Z",
-    "departure": "2023-10-06T13:10:00Z"
-  },
-  {
-    "train_number": "52338 ",
-    "unit_number": "1116.0143",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
-    "arrival": "2023-10-06T05:51:00Z",
-    "departure": "2023-10-06T08:10:00Z"
-  },
-  {
-    "train_number": "52339 ",
-    "unit_number": "1116.0143",
-    "name": "Schwaz",
-    "abbr": "Sw  ",
-    "lat": "47.3497",
-    "lng": "11.7016",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
     "arrival": null,
-    "departure": "2023-10-06T02:33:00Z"
+    "departure": "2023-10-07T07:08:00Z"
   },
   {
-    "train_number": "52339 ",
+    "train_number": "54085 ",
     "unit_number": "1116.0143",
-    "name": "Jenbach",
-    "abbr": "Jb  ",
-    "lat": "47.3884",
-    "lng": "11.7783",
+    "name": "Enns",
+    "abbr": "Ens ",
+    "lat": "48.2212",
+    "lng": "14.4668",
     "arrival": null,
-    "departure": "2023-10-06T02:28:00Z"
+    "departure": "2023-10-07T07:02:00Z"
+  },
+  {
+    "train_number": "54085 ",
+    "unit_number": "1116.0143",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": null,
+    "departure": "2023-10-07T06:18:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0143",
+    "name": "Wels Vbf (in Wev)",
+    "abbr": "Wev ",
+    "lat": "48.1834",
+    "lng": "14.0628",
+    "arrival": null,
+    "departure": "2023-10-07T05:59:00Z"
   }
 ]
