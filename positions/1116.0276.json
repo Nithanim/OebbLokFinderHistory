@@ -1,0 +1,62 @@
+[
+  {
+    "train_number": "49404 ",
+    "unit_number": "1116.0276",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": null,
+    "departure": "2023-10-09T01:59:00Z"
+  },
+  {
+    "train_number": "89319 ",
+    "unit_number": "1116.0276",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": null,
+    "departure": "2023-10-09T01:05:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0276",
+    "name": "Villach Süd Gvbf Ausfgr",
+    "abbr": "Va  ",
+    "lat": "46.5674",
+    "lng": "13.8238",
+    "arrival": null,
+    "departure": "2023-10-09T00:47:00Z"
+  },
+  {
+    "train_number": "90809 ",
+    "unit_number": "1116.0276",
+    "name": "Villach Westbf",
+    "abbr": "Vf  ",
+    "lat": "46.6092",
+    "lng": "13.8407",
+    "arrival": "2023-10-08T19:00:00Z",
+    "departure": "2023-10-08T19:05:00Z"
+  },
+  {
+    "train_number": "90809 ",
+    "unit_number": "1116.0276",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": null,
+    "departure": "2023-10-08T18:55:00Z"
+  },
+  {
+    "train_number": "90804 ",
+    "unit_number": "1116.0276",
+    "name": "Klagenfurt Hbf (in Kt)",
+    "abbr": "Kt  ",
+    "lat": "46.6156",
+    "lng": "14.3137",
+    "arrival": "2023-10-08T03:00:00Z",
+    "departure": "2023-10-08T18:00:00Z"
+  }
+]

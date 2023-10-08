@@ -1,0 +1,22 @@
+[
+  {
+    "train_number": "18189 ",
+    "unit_number": "1063.0039",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": null,
+    "departure": "2023-10-08T08:00:00Z"
+  },
+  {
+    "train_number": "Bk1   ",
+    "unit_number": "1063.0039",
+    "name": "Bruck a.d.Mur-Fbf (in Bm)",
+    "abbr": "Bk  ",
+    "lat": "47.4219",
+    "lng": "15.28",
+    "arrival": "2023-10-07T01:45:00Z",
+    "departure": "2023-10-08T08:00:00Z"
+  }
+]
