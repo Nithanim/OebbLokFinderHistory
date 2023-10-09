@@ -1,0 +1,42 @@
+[
+  {
+    "train_number": "4982  ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-10-09T22:04:00Z",
+    "departure": "2023-10-10T03:29:00Z"
+  },
+  {
+    "train_number": "4981  ",
+    "unit_number": "4024.0113",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": "2023-10-09T21:26:00Z",
+    "departure": "2023-10-09T21:35:00Z"
+  },
+  {
+    "train_number": "85740 ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-10-09T05:48:00Z",
+    "departure": "2023-10-09T20:56:00Z"
+  },
+  {
+    "train_number": "Steht ",
+    "unit_number": "4024.0113",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-10-08T22:00:00Z",
+    "departure": "2023-10-09T03:29:00Z"
+  }
+]

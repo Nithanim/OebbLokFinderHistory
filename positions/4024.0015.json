@@ -1,122 +1,82 @@
 [
   {
-    "train_number": "25796 ",
+    "train_number": "3664  ",
     "unit_number": "4024.0015",
-    "name": "Freilassing",
-    "abbr": "MFL ",
-    "lat": "47.8368",
-    "lng": "12.9764",
-    "arrival": "2023-10-08T19:43:00Z",
-    "departure": "2023-10-09T03:17:00Z"
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": "2023-10-09T16:07:00Z",
+    "departure": "2023-10-10T04:12:00Z"
   },
   {
-    "train_number": "25796 ",
+    "train_number": "3663  ",
     "unit_number": "4024.0015",
-    "name": "Salzburg Liefering (in Sb)",
-    "abbr": "Lfg ",
-    "lat": "47.8229",
-    "lng": "13.0021",
-    "arrival": "2023-10-08T19:40:00Z",
-    "departure": "2023-10-08T19:40:00Z"
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": "2023-10-09T14:17:00Z",
+    "departure": "2023-10-09T14:21:00Z"
   },
   {
-    "train_number": "5082  ",
+    "train_number": "3663  ",
     "unit_number": "4024.0015",
-    "name": "Salzburg Hbf (in Sb)",
-    "abbr": "Sb  ",
-    "lat": "47.8135",
-    "lng": "13.0466",
-    "arrival": "2023-10-08T19:26:00Z",
-    "departure": "2023-10-08T19:32:00Z"
+    "name": "Enns",
+    "abbr": "Ens ",
+    "lat": "48.2212",
+    "lng": "14.4668",
+    "arrival": "2023-10-09T14:10:00Z",
+    "departure": "2023-10-09T14:11:00Z"
   },
   {
-    "train_number": "5082  ",
-    "unit_number": "4024.0015",
-    "name": "Steindorf b.Straßw. (in Nst)",
-    "abbr": "Nst ",
-    "lat": "47.9676",
-    "lng": "13.2406",
-    "arrival": null,
-    "departure": "2023-10-08T18:59:00Z"
-  },
-  {
-    "train_number": "5082  ",
-    "unit_number": "4024.0015",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": "2023-10-08T17:50:00Z",
-    "departure": "2023-10-08T17:51:00Z"
-  },
-  {
-    "train_number": "5082  ",
-    "unit_number": "4024.0015",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": "2023-10-08T17:22:00Z",
-    "departure": "2023-10-08T17:23:00Z"
-  },
-  {
-    "train_number": "3869  ",
+    "train_number": "3837  ",
     "unit_number": "4024.0015",
     "name": "Linz Hbf",
     "abbr": "Lz  ",
     "lat": "48.2908",
     "lng": "14.2927",
-    "arrival": "2023-10-08T15:24:00Z",
-    "departure": "2023-10-08T17:00:00Z"
+    "arrival": "2023-10-09T06:10:00Z",
+    "departure": "2023-10-09T13:53:00Z"
   },
   {
-    "train_number": "3863  ",
+    "train_number": "3934  ",
     "unit_number": "4024.0015",
     "name": "Linz Hbf",
     "abbr": "Lz  ",
     "lat": "48.2908",
     "lng": "14.2927",
-    "arrival": "2023-10-08T12:24:00Z",
-    "departure": "2023-10-08T12:35:00Z"
+    "arrival": "2023-10-09T05:54:00Z",
+    "departure": "2023-10-09T05:56:00Z"
   },
   {
-    "train_number": "3005  ",
+    "train_number": "3923  ",
+    "unit_number": "4024.0015",
+    "name": "Kirchdorf a.d.Krems",
+    "abbr": "Kik ",
+    "lat": "47.9051",
+    "lng": "14.1167",
+    "arrival": "2023-10-09T04:33:00Z",
+    "departure": "2023-10-09T04:55:00Z"
+  },
+  {
+    "train_number": "3920  ",
     "unit_number": "4024.0015",
     "name": "Linz Hbf",
     "abbr": "Lz  ",
     "lat": "48.2908",
     "lng": "14.2927",
-    "arrival": "2023-10-08T05:00:00Z",
-    "departure": "2023-10-08T10:35:00Z"
+    "arrival": "2023-10-09T03:24:00Z",
+    "departure": "2023-10-09T03:36:00Z"
   },
   {
-    "train_number": "3005  ",
+    "train_number": "3989  ",
     "unit_number": "4024.0015",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": "2023-10-08T04:36:00Z",
-    "departure": "2023-10-08T04:37:00Z"
-  },
-  {
-    "train_number": "4403  ",
-    "unit_number": "4024.0015",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": "2023-10-08T03:38:00Z",
-    "departure": "2023-10-08T04:10:00Z"
-  },
-  {
-    "train_number": "4403  ",
-    "unit_number": "4024.0015",
-    "name": "Gmunden",
-    "abbr": "Gz  ",
-    "lat": "47.9254",
-    "lng": "13.783",
-    "arrival": "2023-10-08T03:20:00Z",
-    "departure": "2023-10-08T03:21:00Z"
+    "name": "Kirchdorf a.d.Krems",
+    "abbr": "Kik ",
+    "lat": "47.9051",
+    "lng": "14.1167",
+    "arrival": "2023-10-08T22:33:00Z",
+    "departure": "2023-10-09T02:25:00Z"
   }
 ]
