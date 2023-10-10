@@ -1,52 +1,182 @@
 [
   {
-    "train_number": "18263 ",
+    "train_number": "41940 ",
     "unit_number": "1016.0021",
-    "name": "Rosenbach",
-    "abbr": "Rn  ",
-    "lat": "46.5309",
-    "lng": "14.0354",
-    "arrival": null,
-    "departure": "2023-10-10T01:27:00Z"
+    "name": "Passau Gbf",
+    "abbr": "Pag ",
+    "lat": "48.5729",
+    "lng": "13.4342",
+    "arrival": "2023-10-10T18:56:00Z",
+    "departure": "2023-10-10T19:00:00Z"
   },
   {
-    "train_number": "48403 ",
+    "train_number": "41940 ",
     "unit_number": "1016.0021",
-    "name": "Rosenbach",
-    "abbr": "Rn  ",
-    "lat": "46.5309",
-    "lng": "14.0354",
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
     "arrival": null,
-    "departure": "2023-10-09T23:10:00Z"
+    "departure": "2023-10-10T18:39:00Z"
   },
   {
-    "train_number": "48403 ",
+    "train_number": "41940 ",
     "unit_number": "1016.0021",
-    "name": "Villach Westbf",
-    "abbr": "Vf  ",
-    "lat": "46.6092",
-    "lng": "13.8407",
-    "arrival": "2023-10-09T22:03:00Z",
-    "departure": "2023-10-09T22:43:00Z"
+    "name": "Neumarkt-Kallham (in Neu)",
+    "abbr": "Neu ",
+    "lat": "48.2714",
+    "lng": "13.7245",
+    "arrival": null,
+    "departure": "2023-10-10T18:07:00Z"
+  },
+  {
+    "train_number": "41940 ",
+    "unit_number": "1016.0021",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": null,
+    "departure": "2023-10-10T17:41:00Z"
+  },
+  {
+    "train_number": "41940 ",
+    "unit_number": "1016.0021",
+    "name": "Wels Vbf-Einfgr (in Wev)",
+    "abbr": "Wei ",
+    "lat": "48.1765",
+    "lng": "14.0501",
+    "arrival": null,
+    "departure": "2023-10-10T17:37:00Z"
   },
   {
     "train_number": null,
     "unit_number": "1016.0021",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
+    "name": "Wels Vbf-Terminal (in Wev)",
+    "abbr": "Wek ",
+    "lat": "48.1856",
+    "lng": "14.0664",
     "arrival": null,
-    "departure": "2023-10-09T19:57:00Z"
+    "departure": "2023-10-10T17:30:00Z"
   },
   {
-    "train_number": "45440 ",
+    "train_number": "44929 ",
     "unit_number": "1016.0021",
-    "name": "Rosenbach",
-    "abbr": "Rn  ",
-    "lat": "46.5309",
-    "lng": "14.0354",
+    "name": "Wels Vbf-Einfgr (in Wev)",
+    "abbr": "Wei ",
+    "lat": "48.1765",
+    "lng": "14.0501",
+    "arrival": "2023-10-10T15:52:00Z",
+    "departure": "2023-10-10T15:57:00Z"
+  },
+  {
+    "train_number": "44929 ",
+    "unit_number": "1016.0021",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
     "arrival": null,
-    "departure": "2023-10-09T04:17:00Z"
+    "departure": "2023-10-10T15:47:00Z"
+  },
+  {
+    "train_number": "44929 ",
+    "unit_number": "1016.0021",
+    "name": "Neumarkt-Kallham (in Neu)",
+    "abbr": "Neu ",
+    "lat": "48.2714",
+    "lng": "13.7245",
+    "arrival": null,
+    "departure": "2023-10-10T15:23:00Z"
+  },
+  {
+    "train_number": "44929 ",
+    "unit_number": "1016.0021",
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": null,
+    "departure": "2023-10-10T14:54:00Z"
+  },
+  {
+    "train_number": "44929 ",
+    "unit_number": "1016.0021",
+    "name": "Passau Gbf",
+    "abbr": "Pag ",
+    "lat": "48.5729",
+    "lng": "13.4342",
+    "arrival": "2023-10-10T14:06:00Z",
+    "departure": "2023-10-10T14:37:00Z"
+  },
+  {
+    "train_number": "48914 ",
+    "unit_number": "1016.0021",
+    "name": "München Ost Rbf",
+    "abbr": "MOR ",
+    "lat": "48.1342",
+    "lng": "11.6404",
+    "arrival": null,
+    "departure": "2023-10-10T06:37:00Z"
+  },
+  {
+    "train_number": "48914 ",
+    "unit_number": "1016.0021",
+    "name": "Freilassing",
+    "abbr": "MFL ",
+    "lat": "47.8368",
+    "lng": "12.9764",
+    "arrival": "2023-10-10T04:38:00Z",
+    "departure": "2023-10-10T04:38:00Z"
+  },
+  {
+    "train_number": "48914 ",
+    "unit_number": "1016.0021",
+    "name": "Salzburg Liefering (in Sb)",
+    "abbr": "Lfg ",
+    "lat": "47.8229",
+    "lng": "13.0021",
+    "arrival": null,
+    "departure": "2023-10-10T04:33:00Z"
+  },
+  {
+    "train_number": "48914 ",
+    "unit_number": "1016.0021",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-10-10T04:14:00Z",
+    "departure": "2023-10-10T04:25:00Z"
+  },
+  {
+    "train_number": "48914 ",
+    "unit_number": "1016.0021",
+    "name": "Steindorf b.Straßw. (in Nst)",
+    "abbr": "Nst ",
+    "lat": "47.9676",
+    "lng": "13.2406",
+    "arrival": null,
+    "departure": "2023-10-10T03:44:00Z"
+  },
+  {
+    "train_number": "48914 ",
+    "unit_number": "1016.0021",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": null,
+    "departure": "2023-10-10T02:54:00Z"
+  },
+  {
+    "train_number": "48914 ",
+    "unit_number": "1016.0021",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-10-10T02:17:00Z",
+    "departure": "2023-10-10T02:20:00Z"
   }
 ]

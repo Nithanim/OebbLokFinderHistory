@@ -1,13 +1,193 @@
 [
   {
+    "train_number": "19794 ",
+    "unit_number": "1116.0222",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": "2023-10-10T21:38:00Z",
+    "departure": "2023-10-10T21:40:00Z"
+  },
+  {
+    "train_number": "19794 ",
+    "unit_number": "1116.0222",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": "2023-10-10T21:28:00Z",
+    "departure": "2023-10-10T21:30:00Z"
+  },
+  {
+    "train_number": "19794 ",
+    "unit_number": "1116.0222",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": "2023-10-10T21:01:00Z",
+    "departure": "2023-10-10T21:17:00Z"
+  },
+  {
+    "train_number": "19794 ",
+    "unit_number": "1116.0222",
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
+    "arrival": null,
+    "departure": "2023-10-10T20:26:00Z"
+  },
+  {
+    "train_number": "Vhz464",
+    "unit_number": "1116.0222",
+    "name": "Graz Hbf (in G)",
+    "abbr": "G   ",
+    "lat": "47.0733",
+    "lng": "15.4163",
+    "arrival": "2023-10-10T20:20:00Z",
+    "departure": "2023-10-10T20:25:00Z"
+  },
+  {
+    "train_number": "19793 ",
+    "unit_number": "1116.0222",
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
+    "arrival": null,
+    "departure": "2023-10-10T19:28:00Z"
+  },
+  {
+    "train_number": "19793 ",
+    "unit_number": "1116.0222",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": "2023-10-10T18:46:00Z",
+    "departure": "2023-10-10T18:47:00Z"
+  },
+  {
+    "train_number": "19793 ",
+    "unit_number": "1116.0222",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": "2023-10-10T18:35:00Z",
+    "departure": "2023-10-10T18:36:00Z"
+  },
+  {
+    "train_number": "19792 ",
+    "unit_number": "1116.0222",
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-10-10T09:11:00Z",
+    "departure": "2023-10-10T18:02:00Z"
+  },
+  {
+    "train_number": "19792 ",
+    "unit_number": "1116.0222",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": "2023-10-10T08:34:00Z",
+    "departure": "2023-10-10T08:35:00Z"
+  },
+  {
+    "train_number": "19792 ",
+    "unit_number": "1116.0222",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": "2023-10-10T08:25:00Z",
+    "departure": "2023-10-10T08:27:00Z"
+  },
+  {
+    "train_number": "19792 ",
+    "unit_number": "1116.0222",
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
+    "arrival": null,
+    "departure": "2023-10-10T07:43:00Z"
+  },
+  {
     "train_number": "19795 ",
     "unit_number": "1116.0222",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-10-10T01:59:00Z",
-    "departure": "2023-10-10T02:06:00Z"
+    "name": "Graz Hbf (in G)",
+    "abbr": "G   ",
+    "lat": "47.0733",
+    "lng": "15.4163",
+    "arrival": "2023-10-10T05:43:00Z",
+    "departure": "2023-10-10T07:39:00Z"
+  },
+  {
+    "train_number": "19795 ",
+    "unit_number": "1116.0222",
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
+    "arrival": null,
+    "departure": "2023-10-10T05:41:00Z"
+  },
+  {
+    "train_number": "19795 ",
+    "unit_number": "1116.0222",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": "2023-10-10T04:50:00Z",
+    "departure": "2023-10-10T05:01:00Z"
+  },
+  {
+    "train_number": "19795 ",
+    "unit_number": "1116.0222",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": "2023-10-10T04:38:00Z",
+    "departure": "2023-10-10T04:40:00Z"
+  },
+  {
+    "train_number": "19795 ",
+    "unit_number": "1116.0222",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": "2023-10-10T04:30:00Z",
+    "departure": "2023-10-10T04:31:00Z"
+  },
+  {
+    "train_number": "19795 ",
+    "unit_number": "1116.0222",
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-10-10T03:45:00Z",
+    "departure": "2023-10-10T03:54:00Z"
+  },
+  {
+    "train_number": "19795 ",
+    "unit_number": "1116.0222",
+    "name": "Stainach-Irdning",
+    "abbr": "Rg  ",
+    "lat": "47.5293",
+    "lng": "14.1078",
+    "arrival": "2023-10-10T03:25:00Z",
+    "departure": "2023-10-10T03:26:00Z"
   },
   {
     "train_number": "19795 ",
@@ -16,187 +196,7 @@
     "abbr": "Bo  ",
     "lat": "47.42",
     "lng": "13.2199",
-    "arrival": "2023-10-10T01:35:00Z",
-    "departure": "2023-10-10T01:37:00Z"
-  },
-  {
-    "train_number": "19795 ",
-    "unit_number": "1116.0222",
-    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
-    "abbr": "Sre ",
-    "lat": "47.8075",
-    "lng": "13.0687",
-    "arrival": null,
-    "departure": "2023-10-10T00:53:00Z"
-  },
-  {
-    "train_number": "19795 ",
-    "unit_number": "1116.0222",
-    "name": "Salzburg Hbf (in Sb)",
-    "abbr": "Sb  ",
-    "lat": "47.8135",
-    "lng": "13.0466",
-    "arrival": "2023-10-10T00:50:00Z",
-    "departure": "2023-10-10T00:50:00Z"
-  },
-  {
-    "train_number": "19795 ",
-    "unit_number": "1116.0222",
-    "name": "Salzburg Liefering (in Sb)",
-    "abbr": "Lfg ",
-    "lat": "47.8229",
-    "lng": "13.0021",
-    "arrival": null,
-    "departure": "2023-10-10T00:46:00Z"
-  },
-  {
-    "train_number": "19795 ",
-    "unit_number": "1116.0222",
-    "name": "Freilassing",
-    "abbr": "MFL ",
-    "lat": "47.8368",
-    "lng": "12.9764",
-    "arrival": null,
-    "departure": "2023-10-10T00:45:00Z"
-  },
-  {
-    "train_number": "19795 ",
-    "unit_number": "1116.0222",
-    "name": "München Ost Rbf",
-    "abbr": "MOR ",
-    "lat": "48.1342",
-    "lng": "11.6404",
-    "arrival": "2023-10-09T23:15:00Z",
-    "departure": "2023-10-09T23:15:00Z"
-  },
-  {
-    "train_number": "19795 ",
-    "unit_number": "1116.0222",
-    "name": "Lindau-Reutin (in Lir)",
-    "abbr": "Lir ",
-    "lat": "47.5525",
-    "lng": "9.70313",
-    "arrival": "2023-10-09T20:39:00Z",
-    "departure": "2023-10-09T20:39:00Z"
-  },
-  {
-    "train_number": "82375 ",
-    "unit_number": "1116.0222",
-    "name": "Bregenz (in Bg)",
-    "abbr": "Bg  ",
-    "lat": "47.5029",
-    "lng": "9.73947",
-    "arrival": "2023-10-09T19:55:00Z",
-    "departure": "2023-10-09T20:30:00Z"
-  },
-  {
-    "train_number": "66476 ",
-    "unit_number": "1116.0222",
-    "name": "Wolfurt (in Wo)",
-    "abbr": "Wo  ",
-    "lat": "47.457",
-    "lng": "9.74133",
-    "arrival": "2023-10-09T14:51:00Z",
-    "departure": "2023-10-09T19:50:00Z"
-  },
-  {
-    "train_number": "66476 ",
-    "unit_number": "1116.0222",
-    "name": "Dornbirn (in Do)",
-    "abbr": "Do  ",
-    "lat": "47.4176",
-    "lng": "9.73871",
-    "arrival": null,
-    "departure": "2023-10-09T14:46:00Z"
-  },
-  {
-    "train_number": "66476 ",
-    "unit_number": "1116.0222",
-    "name": "Feldkirch",
-    "abbr": "Fk  ",
-    "lat": "47.2417",
-    "lng": "9.60519",
-    "arrival": "2023-10-09T14:06:00Z",
-    "departure": "2023-10-09T14:25:00Z"
-  },
-  {
-    "train_number": "79807 ",
-    "unit_number": "1116.0222",
-    "name": "Bludenz",
-    "abbr": "B   ",
-    "lat": "47.155",
-    "lng": "9.81448",
-    "arrival": "2023-10-09T09:06:00Z",
-    "departure": "2023-10-09T13:46:00Z"
-  },
-  {
-    "train_number": "79807 ",
-    "unit_number": "1116.0222",
-    "name": "Feldkirch",
-    "abbr": "Fk  ",
-    "lat": "47.2417",
-    "lng": "9.60519",
-    "arrival": "2023-10-09T08:23:00Z",
-    "departure": "2023-10-09T08:47:00Z"
-  },
-  {
-    "train_number": "466   ",
-    "unit_number": "1116.0222",
-    "name": "Buchs (SG)",
-    "abbr": "Bc  ",
-    "lat": "47.171",
-    "lng": "9.4779",
-    "arrival": "2023-10-09T04:56:00Z",
-    "departure": "2023-10-09T08:08:00Z"
-  },
-  {
-    "train_number": "466   ",
-    "unit_number": "1116.0222",
-    "name": "Feldkirch",
-    "abbr": "Fk  ",
-    "lat": "47.2417",
-    "lng": "9.60519",
-    "arrival": "2023-10-09T04:37:00Z",
-    "departure": "2023-10-09T04:40:00Z"
-  },
-  {
-    "train_number": "466   ",
-    "unit_number": "1116.0222",
-    "name": "Bludenz",
-    "abbr": "B   ",
-    "lat": "47.155",
-    "lng": "9.81448",
-    "arrival": "2023-10-09T04:20:00Z",
-    "departure": "2023-10-09T04:25:00Z"
-  },
-  {
-    "train_number": "466   ",
-    "unit_number": "1116.0222",
-    "name": "Landeck-Zams",
-    "abbr": "Le  ",
-    "lat": "47.148",
-    "lng": "10.5782",
-    "arrival": "2023-10-09T03:18:00Z",
-    "departure": "2023-10-09T03:20:00Z"
-  },
-  {
-    "train_number": "466   ",
-    "unit_number": "1116.0222",
-    "name": "Imst-Pitztal",
-    "abbr": "Im  ",
-    "lat": "47.219",
-    "lng": "10.7619",
-    "arrival": null,
-    "departure": "2023-10-09T03:01:00Z"
-  },
-  {
-    "train_number": "466   ",
-    "unit_number": "1116.0222",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-10-09T02:23:00Z",
-    "departure": "2023-10-09T02:31:00Z"
+    "arrival": "2023-10-10T02:18:00Z",
+    "departure": "2023-10-10T02:20:00Z"
   }
 ]

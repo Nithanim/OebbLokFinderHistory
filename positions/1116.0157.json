@@ -1,202 +1,132 @@
 [
   {
-    "train_number": "2337  ",
+    "train_number": "2412  ",
     "unit_number": "1116.0157",
-    "name": "Wien Meidling (in Wbf)",
-    "abbr": "Mi  ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": "2023-10-09T11:34:00Z",
-    "departure": "2023-10-09T11:37:00Z"
+    "name": "Mistelbach",
+    "abbr": "Mb  ",
+    "lat": "48.5646",
+    "lng": "16.5608",
+    "arrival": "2023-10-10T16:04:00Z",
+    "departure": "2023-10-10T16:05:00Z"
   },
   {
-    "train_number": "2330  ",
+    "train_number": "2412  ",
     "unit_number": "1116.0157",
     "name": "Floridsdorf (in F)",
     "abbr": "F   ",
     "lat": "48.2568",
     "lng": "16.4004",
-    "arrival": "2023-10-09T10:49:00Z",
-    "departure": "2023-10-09T11:09:00Z"
+    "arrival": "2023-10-10T15:22:00Z",
+    "departure": "2023-10-10T15:23:00Z"
   },
   {
-    "train_number": "2330  ",
+    "train_number": "2412  ",
     "unit_number": "1116.0157",
     "name": "Wien Meidling (in Wbf)",
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-10-09T10:23:00Z",
-    "departure": "2023-10-09T10:24:00Z"
+    "arrival": "2023-10-10T14:56:00Z",
+    "departure": "2023-10-10T14:57:00Z"
   },
   {
-    "train_number": "2330  ",
+    "train_number": "Vhz   ",
     "unit_number": "1116.0157",
-    "name": "Mödling",
-    "abbr": "Md  ",
-    "lat": "48.0858",
-    "lng": "16.2958",
-    "arrival": "2023-10-09T10:09:00Z",
-    "departure": "2023-10-09T10:10:00Z"
+    "name": "Wien Westbf (in Ws)",
+    "abbr": "Ws  ",
+    "lat": "48.1964",
+    "lng": "16.3374",
+    "arrival": "2023-10-10T13:11:00Z",
+    "departure": "2023-10-10T14:34:00Z"
   },
   {
-    "train_number": "2330  ",
-    "unit_number": "1116.0157",
-    "name": "Leobersdorf",
-    "abbr": "Lb  ",
-    "lat": "47.9375",
-    "lng": "16.2313",
-    "arrival": "2023-10-09T09:50:00Z",
-    "departure": "2023-10-09T09:52:00Z"
-  },
-  {
-    "train_number": "2330  ",
-    "unit_number": "1116.0157",
-    "name": "Wr. Neustadt Hbf (in Nb)",
-    "abbr": "Nb  ",
-    "lat": "47.8113",
-    "lng": "16.2337",
-    "arrival": "2023-10-09T09:25:00Z",
-    "departure": "2023-10-09T09:38:00Z"
-  },
-  {
-    "train_number": "2330  ",
-    "unit_number": "1116.0157",
-    "name": "Neunkirchen N.Ö.",
-    "abbr": "Nek ",
-    "lat": "47.731",
-    "lng": "16.0826",
-    "arrival": "2023-10-09T09:12:00Z",
-    "departure": "2023-10-09T09:13:00Z"
-  },
-  {
-    "train_number": "2317  ",
-    "unit_number": "1116.0157",
-    "name": "Payerbach-Reichenau",
-    "abbr": "Pr  ",
-    "lat": "47.696",
-    "lng": "15.8632",
-    "arrival": "2023-10-09T08:09:00Z",
-    "departure": "2023-10-09T08:53:00Z"
-  },
-  {
-    "train_number": "2317  ",
-    "unit_number": "1116.0157",
-    "name": "Neunkirchen N.Ö.",
-    "abbr": "Nek ",
-    "lat": "47.731",
-    "lng": "16.0826",
-    "arrival": "2023-10-09T07:48:00Z",
-    "departure": "2023-10-09T07:48:00Z"
-  },
-  {
-    "train_number": "2317  ",
-    "unit_number": "1116.0157",
-    "name": "Wr. Neustadt Hbf (in Nb)",
-    "abbr": "Nb  ",
-    "lat": "47.8113",
-    "lng": "16.2337",
-    "arrival": "2023-10-09T07:21:00Z",
-    "departure": "2023-10-09T07:35:00Z"
-  },
-  {
-    "train_number": "2317  ",
-    "unit_number": "1116.0157",
-    "name": "Leobersdorf",
-    "abbr": "Lb  ",
-    "lat": "47.9375",
-    "lng": "16.2313",
-    "arrival": "2023-10-09T07:05:00Z",
-    "departure": "2023-10-09T07:06:00Z"
-  },
-  {
-    "train_number": "2317  ",
-    "unit_number": "1116.0157",
-    "name": "Mödling",
-    "abbr": "Md  ",
-    "lat": "48.0858",
-    "lng": "16.2958",
-    "arrival": "2023-10-09T06:48:00Z",
-    "departure": "2023-10-09T06:49:00Z"
-  },
-  {
-    "train_number": "2317  ",
+    "train_number": "2217  ",
     "unit_number": "1116.0157",
     "name": "Wien Meidling (in Wbf)",
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-10-09T06:34:00Z",
-    "departure": "2023-10-09T06:37:00Z"
+    "arrival": "2023-10-10T06:44:00Z",
+    "departure": "2023-10-10T06:49:00Z"
   },
   {
-    "train_number": "2317  ",
+    "train_number": "2217  ",
     "unit_number": "1116.0157",
     "name": "Floridsdorf (in F)",
     "abbr": "F   ",
     "lat": "48.2568",
     "lng": "16.4004",
-    "arrival": "2023-10-09T06:08:00Z",
-    "departure": "2023-10-09T06:09:00Z"
+    "arrival": "2023-10-10T06:17:00Z",
+    "departure": "2023-10-10T06:19:00Z"
   },
   {
-    "train_number": "2317  ",
+    "train_number": "2217  ",
     "unit_number": "1116.0157",
-    "name": "Gänserndorf",
-    "abbr": "Gae ",
-    "lat": "48.3401",
-    "lng": "16.7324",
-    "arrival": "2023-10-09T05:44:00Z",
-    "departure": "2023-10-09T05:45:00Z"
+    "name": "Korneuburg",
+    "abbr": "Ko  ",
+    "lat": "48.3429",
+    "lng": "16.3289",
+    "arrival": "2023-10-10T06:08:00Z",
+    "departure": "2023-10-10T06:09:00Z"
   },
   {
-    "train_number": "2317  ",
+    "train_number": "2217  ",
     "unit_number": "1116.0157",
-    "name": "Hohenau",
-    "abbr": "Nh  ",
-    "lat": "48.5981",
-    "lng": "16.9008",
-    "arrival": "2023-10-09T05:12:00Z",
-    "departure": "2023-10-09T05:12:00Z"
+    "name": "Stockerau (in Su)",
+    "abbr": "Su  ",
+    "lat": "48.3824",
+    "lng": "16.2126",
+    "arrival": "2023-10-10T06:01:00Z",
+    "departure": "2023-10-10T06:02:00Z"
   },
   {
-    "train_number": "2300  ",
+    "train_number": "2217  ",
     "unit_number": "1116.0157",
-    "name": "Hohenau",
-    "abbr": "Nh  ",
-    "lat": "48.5981",
-    "lng": "16.9008",
-    "arrival": "2023-10-09T04:17:00Z",
-    "departure": "2023-10-09T04:17:00Z"
+    "name": "Hollabrunn",
+    "abbr": "Oh  ",
+    "lat": "48.563",
+    "lng": "16.0722",
+    "arrival": "2023-10-10T05:43:00Z",
+    "departure": "2023-10-10T05:45:00Z"
   },
   {
-    "train_number": "2300  ",
+    "train_number": "2217  ",
     "unit_number": "1116.0157",
-    "name": "Gänserndorf",
-    "abbr": "Gae ",
-    "lat": "48.3401",
-    "lng": "16.7324",
-    "arrival": "2023-10-09T03:45:00Z",
-    "departure": "2023-10-09T03:45:00Z"
+    "name": "Retz",
+    "abbr": "R   ",
+    "lat": "48.7539",
+    "lng": "15.9574",
+    "arrival": "2023-10-10T05:14:00Z",
+    "departure": "2023-10-10T05:16:00Z"
   },
   {
-    "train_number": "2300  ",
+    "train_number": "2217  ",
     "unit_number": "1116.0157",
-    "name": "Floridsdorf (in F)",
-    "abbr": "F   ",
-    "lat": "48.2568",
-    "lng": "16.4004",
-    "arrival": "2023-10-09T03:22:00Z",
-    "departure": "2023-10-09T03:23:00Z"
+    "name": "Satov",
+    "abbr": "S   ",
+    "lat": "48.7808",
+    "lng": "16.026",
+    "arrival": "2023-10-10T05:05:00Z",
+    "departure": "2023-10-10T05:06:00Z"
   },
   {
-    "train_number": null,
+    "train_number": "2282  ",
     "unit_number": "1116.0157",
-    "name": "Wien Meidling (in Wbf)",
-    "abbr": "Mi  ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": null,
-    "departure": "2023-10-09T02:57:00Z"
+    "name": "Satov",
+    "abbr": "S   ",
+    "lat": "48.7808",
+    "lng": "16.026",
+    "arrival": "2023-10-10T04:28:00Z",
+    "departure": "2023-10-10T04:28:00Z"
+  },
+  {
+    "train_number": "Vhz   ",
+    "unit_number": "1116.0157",
+    "name": "Retz",
+    "abbr": "R   ",
+    "lat": "48.7539",
+    "lng": "15.9574",
+    "arrival": "2023-10-10T04:00:00Z",
+    "departure": "2023-10-10T04:20:00Z"
   }
 ]
