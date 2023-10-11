@@ -1,142 +1,182 @@
 [
   {
-    "train_number": "84315 ",
-    "unit_number": "4124.0013",
-    "name": "Hegyeshalom",
-    "abbr": "He  ",
-    "lat": "47.9139",
-    "lng": "17.1455",
-    "arrival": "2023-10-11T01:58:00Z",
-    "departure": "2023-10-11T02:13:00Z"
-  },
-  {
-    "train_number": "84315 ",
-    "unit_number": "4124.0013",
-    "name": "Parndorf",
-    "abbr": "Par ",
-    "lat": "47.987",
-    "lng": "16.8702",
-    "arrival": null,
-    "departure": "2023-10-11T01:43:00Z"
-  },
-  {
-    "train_number": "26085 ",
+    "train_number": "26077 ",
     "unit_number": "4124.0013",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-10-10T21:57:00Z"
+    "departure": "2023-10-11T19:57:00Z"
   },
   {
-    "train_number": "26085 ",
+    "train_number": "26077 ",
     "unit_number": "4124.0013",
     "name": "Wien Meidling (in Wbf)",
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-10-10T21:29:00Z",
-    "departure": "2023-10-10T21:31:00Z"
+    "arrival": "2023-10-11T19:41:00Z",
+    "departure": "2023-10-11T19:43:00Z"
   },
   {
-    "train_number": "26085 ",
+    "train_number": "26077 ",
     "unit_number": "4124.0013",
     "name": "Ebenfurth (in Ef)",
     "abbr": "Ef  ",
     "lat": "47.8777",
     "lng": "16.3621",
-    "arrival": "2023-10-10T20:49:00Z",
-    "departure": "2023-10-10T20:50:00Z"
+    "arrival": "2023-10-11T18:49:00Z",
+    "departure": "2023-10-11T18:50:00Z"
   },
   {
-    "train_number": "26074 ",
+    "train_number": "26066 ",
     "unit_number": "4124.0013",
     "name": "Wr. Neustadt Hbf (in Nb)",
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-10-10T20:23:00Z",
-    "departure": "2023-10-10T20:36:00Z"
+    "arrival": "2023-10-11T18:23:00Z",
+    "departure": "2023-10-11T18:36:00Z"
   },
   {
-    "train_number": "26074 ",
+    "train_number": "26066 ",
     "unit_number": "4124.0013",
     "name": "Ebenfurth (in Ef)",
     "abbr": "Ef  ",
     "lat": "47.8777",
     "lng": "16.3621",
-    "arrival": "2023-10-10T20:10:00Z",
-    "departure": "2023-10-10T20:10:00Z"
+    "arrival": "2023-10-11T18:10:00Z",
+    "departure": "2023-10-11T18:10:00Z"
   },
   {
-    "train_number": "26074 ",
+    "train_number": "26066 ",
     "unit_number": "4124.0013",
     "name": "Wien Meidling (in Wbf)",
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-10-10T19:16:00Z",
-    "departure": "2023-10-10T19:18:00Z"
+    "arrival": "2023-10-11T17:16:00Z",
+    "departure": "2023-10-11T17:18:00Z"
   },
   {
-    "train_number": "26074 ",
+    "train_number": "26066 ",
     "unit_number": "4124.0013",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-10-10T19:01:00Z"
+    "departure": "2023-10-11T17:01:00Z"
   },
   {
-    "train_number": "26067 ",
+    "train_number": "26059 ",
     "unit_number": "4124.0013",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-10-10T17:27:00Z"
+    "departure": "2023-10-11T15:27:00Z"
   },
   {
-    "train_number": "84365 ",
+    "train_number": "2616  ",
     "unit_number": "4124.0013",
     "name": "Wien Hauptbahnhof (in Wbf)",
     "abbr": "Wbf ",
     "lat": "48.185",
     "lng": "16.3778",
-    "arrival": "2023-10-10T16:59:00Z",
-    "departure": "2023-10-10T17:20:00Z"
+    "arrival": "2023-10-11T07:12:00Z",
+    "departure": "2023-10-11T15:20:00Z"
   },
   {
-    "train_number": "84362 ",
-    "unit_number": "4124.0013",
-    "name": "Floridsdorf-Fbf (in F)",
-    "abbr": "O   ",
-    "lat": "48.2707",
-    "lng": "16.42",
-    "arrival": "2023-10-10T06:14:00Z",
-    "departure": "2023-10-10T16:20:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "4124.0013",
-    "name": "Wien Hbf Autoreis. (in Wbf)",
-    "abbr": "Of  ",
-    "lat": "48.178",
-    "lng": "16.3911",
-    "arrival": null,
-    "departure": "2023-10-10T05:32:00Z"
-  },
-  {
-    "train_number": "26016 ",
+    "train_number": "2616  ",
     "unit_number": "4124.0013",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-10-10T04:31:00Z"
+    "departure": "2023-10-11T07:05:00Z"
+  },
+  {
+    "train_number": "2616  ",
+    "unit_number": "4124.0013",
+    "name": "Neusiedl am See",
+    "abbr": "Ns  ",
+    "lat": "47.9558",
+    "lng": "16.8235",
+    "arrival": "2023-10-11T06:24:00Z",
+    "departure": "2023-10-11T06:30:00Z"
+  },
+  {
+    "train_number": "2616  ",
+    "unit_number": "4124.0013",
+    "name": "Eisenstadt (in E)",
+    "abbr": "E   ",
+    "lat": "47.8391",
+    "lng": "16.529",
+    "arrival": "2023-10-11T05:51:00Z",
+    "departure": "2023-10-11T05:52:00Z"
+  },
+  {
+    "train_number": "2611  ",
+    "unit_number": "4124.0013",
+    "name": "Eisenstadt (in E)",
+    "abbr": "E   ",
+    "lat": "47.8391",
+    "lng": "16.529",
+    "arrival": "2023-10-11T05:26:00Z",
+    "departure": "2023-10-11T05:33:00Z"
+  },
+  {
+    "train_number": "2611  ",
+    "unit_number": "4124.0013",
+    "name": "Neusiedl am See",
+    "abbr": "Ns  ",
+    "lat": "47.9558",
+    "lng": "16.8235",
+    "arrival": "2023-10-11T04:55:00Z",
+    "departure": "2023-10-11T04:59:00Z"
+  },
+  {
+    "train_number": "2611  ",
+    "unit_number": "4124.0013",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-10-11T04:21:00Z"
+  },
+  {
+    "train_number": "26014 ",
+    "unit_number": "4124.0013",
+    "name": "Wien Hauptbahnhof (in Wbf)",
+    "abbr": "Wbf ",
+    "lat": "48.185",
+    "lng": "16.3778",
+    "arrival": "2023-10-11T04:09:00Z",
+    "departure": "2023-10-11T04:15:00Z"
+  },
+  {
+    "train_number": "26014 ",
+    "unit_number": "4124.0013",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-10-11T04:01:00Z"
+  },
+  {
+    "train_number": "9440  ",
+    "unit_number": "4124.0013",
+    "name": "Parndorf",
+    "abbr": "Par ",
+    "lat": "47.987",
+    "lng": "16.8702",
+    "arrival": "2023-10-11T02:29:00Z",
+    "departure": "2023-10-11T02:30:00Z"
   }
 ]
