@@ -1,202 +1,182 @@
 [
   {
-    "train_number": "48696 ",
+    "train_number": null,
     "unit_number": "1116.0182",
-    "name": "Neunkirchen N.Ö.",
-    "abbr": "Nek ",
-    "lat": "47.731",
-    "lng": "16.0826",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
     "arrival": null,
-    "departure": "2023-10-12T01:32:00Z"
+    "departure": "2023-10-13T02:03:00Z"
   },
   {
-    "train_number": "48696 ",
+    "train_number": "55093 ",
     "unit_number": "1116.0182",
-    "name": "Payerbach-Reichenau",
-    "abbr": "Pr  ",
-    "lat": "47.696",
-    "lng": "15.8632",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
     "arrival": null,
-    "departure": "2023-10-12T01:03:00Z"
+    "departure": "2023-10-12T18:46:00Z"
   },
   {
-    "train_number": "48696 ",
+    "train_number": "55093 ",
     "unit_number": "1116.0182",
-    "name": "Mürzzuschlag (in Mz)",
-    "abbr": "Mz  ",
-    "lat": "47.6079",
-    "lng": "15.677",
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
     "arrival": null,
-    "departure": "2023-10-12T00:29:00Z"
+    "departure": "2023-10-12T17:21:00Z"
   },
   {
-    "train_number": "48696 ",
+    "train_number": "55093 ",
     "unit_number": "1116.0182",
-    "name": "Bruck a.d.Mur (in Bm)",
-    "abbr": "Bm  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
     "arrival": null,
-    "departure": "2023-10-11T23:34:00Z"
+    "departure": "2023-10-12T17:12:00Z"
   },
   {
-    "train_number": "48696 ",
+    "train_number": "55093 ",
     "unit_number": "1116.0182",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
     "arrival": null,
-    "departure": "2023-10-11T23:18:00Z"
+    "departure": "2023-10-12T16:59:00Z"
   },
   {
-    "train_number": "48696 ",
+    "train_number": "55093 ",
     "unit_number": "1116.0182",
-    "name": "Zeltweg",
-    "abbr": "Zg  ",
-    "lat": "47.1887",
-    "lng": "14.7425",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
     "arrival": null,
-    "departure": "2023-10-11T22:40:00Z"
+    "departure": "2023-10-12T16:29:00Z"
   },
   {
-    "train_number": "48696 ",
+    "train_number": "55093 ",
     "unit_number": "1116.0182",
-    "name": "St.Veit a.d.Glan (in Vps)",
-    "abbr": "Vps ",
-    "lat": "46.7704",
-    "lng": "14.3672",
+    "name": "Enns",
+    "abbr": "Ens ",
+    "lat": "48.2212",
+    "lng": "14.4668",
     "arrival": null,
-    "departure": "2023-10-11T21:10:00Z"
+    "departure": "2023-10-12T16:23:00Z"
   },
   {
-    "train_number": "48696 ",
+    "train_number": "55093 ",
     "unit_number": "1116.0182",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
+    "name": "Linz Vbf-Ost-Einf. (in Lzv)",
+    "abbr": "Lm  ",
+    "lat": "48.2607",
+    "lng": "14.3257",
     "arrival": null,
-    "departure": "2023-10-11T20:51:00Z"
-  },
-  {
-    "train_number": "48696 ",
-    "unit_number": "1116.0182",
-    "name": "Villach Hbf",
-    "abbr": "Vb  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
-    "arrival": null,
-    "departure": "2023-10-11T20:15:00Z"
-  },
-  {
-    "train_number": "48696 ",
-    "unit_number": "1116.0182",
-    "name": "Villach Westbf",
-    "abbr": "Vf  ",
-    "lat": "46.6092",
-    "lng": "13.8407",
-    "arrival": "2023-10-11T20:03:00Z",
-    "departure": "2023-10-11T20:14:00Z"
-  },
-  {
-    "train_number": "48696 ",
-    "unit_number": "1116.0182",
-    "name": "Rosenbach",
-    "abbr": "Rn  ",
-    "lat": "46.5309",
-    "lng": "14.0354",
-    "arrival": null,
-    "departure": "2023-10-11T19:33:00Z"
-  },
-  {
-    "train_number": "18275 ",
-    "unit_number": "1116.0182",
-    "name": "Rosenbach",
-    "abbr": "Rn  ",
-    "lat": "46.5309",
-    "lng": "14.0354",
-    "arrival": null,
-    "departure": "2023-10-11T18:07:00Z"
+    "departure": "2023-10-12T16:12:00Z"
   },
   {
     "train_number": null,
     "unit_number": "1116.0182",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
+    "name": "Linz Vbf-Ost Reih. (in Lzv)",
+    "abbr": "Lo  ",
+    "lat": "48.2718",
+    "lng": "14.3196",
     "arrival": null,
-    "departure": "2023-10-11T17:50:00Z"
+    "departure": "2023-10-12T16:01:00Z"
   },
   {
-    "train_number": null,
+    "train_number": "47513 ",
     "unit_number": "1116.0182",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
-    "arrival": null,
-    "departure": "2023-10-11T08:54:00Z"
+    "name": "Voest Alpine Linz",
+    "abbr": "Ms  ",
+    "lat": "48.263",
+    "lng": "14.3367",
+    "arrival": "2023-10-12T11:15:00Z",
+    "departure": "2023-10-12T11:40:00Z"
   },
   {
-    "train_number": "54509 ",
+    "train_number": "47513 ",
     "unit_number": "1116.0182",
-    "name": "Villach Hbf",
-    "abbr": "Vb  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
+    "name": "Freistadt",
+    "abbr": "Fr  ",
+    "lat": "48.4952",
+    "lng": "14.4815",
     "arrival": null,
-    "departure": "2023-10-11T06:59:00Z"
+    "departure": "2023-10-12T09:30:00Z"
   },
   {
-    "train_number": "54509 ",
+    "train_number": "87766 ",
     "unit_number": "1116.0182",
-    "name": "St.Veit a.d.Glan (in Vps)",
-    "abbr": "Vps ",
-    "lat": "46.7704",
-    "lng": "14.3672",
-    "arrival": null,
-    "departure": "2023-10-11T05:46:00Z"
+    "name": "Summerau",
+    "abbr": "Smr ",
+    "lat": "48.5572",
+    "lng": "14.4489",
+    "arrival": "2023-10-12T08:23:00Z",
+    "departure": "2023-10-12T09:20:00Z"
   },
   {
-    "train_number": "54509 ",
+    "train_number": "87766 ",
     "unit_number": "1116.0182",
-    "name": "Zeltweg",
-    "abbr": "Zg  ",
-    "lat": "47.1887",
-    "lng": "14.7425",
+    "name": "Freistadt",
+    "abbr": "Fr  ",
+    "lat": "48.4952",
+    "lng": "14.4815",
     "arrival": null,
-    "departure": "2023-10-11T04:20:00Z"
+    "departure": "2023-10-12T08:15:00Z"
   },
   {
-    "train_number": "54509 ",
+    "train_number": "87766 ",
     "unit_number": "1116.0182",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": null,
-    "departure": "2023-10-11T03:33:00Z"
+    "name": "Linz Vbf-West (in Lzv)",
+    "abbr": "Lr  ",
+    "lat": "48.276",
+    "lng": "14.3154",
+    "arrival": "2023-10-12T06:58:00Z",
+    "departure": "2023-10-12T07:03:00Z"
   },
   {
-    "train_number": "54509 ",
+    "train_number": "88128 ",
     "unit_number": "1116.0182",
-    "name": "Bruck a.d.Mur (in Bm)",
-    "abbr": "Bm  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
-    "arrival": null,
-    "departure": "2023-10-11T03:15:00Z"
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-10-12T06:30:00Z",
+    "departure": "2023-10-12T06:50:00Z"
   },
   {
-    "train_number": "54509 ",
+    "train_number": "91661 ",
     "unit_number": "1116.0182",
-    "name": "Mürzzuschlag (in Mz)",
-    "abbr": "Mz  ",
-    "lat": "47.6079",
-    "lng": "15.677",
-    "arrival": null,
-    "departure": "2023-10-11T02:41:00Z"
+    "name": "Voest Alpine Linz",
+    "abbr": "Ms  ",
+    "lat": "48.263",
+    "lng": "14.3367",
+    "arrival": "2023-10-12T05:53:00Z",
+    "departure": "2023-10-12T06:15:00Z"
+  },
+  {
+    "train_number": "91661 ",
+    "unit_number": "1116.0182",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-10-12T05:22:00Z",
+    "departure": "2023-10-12T05:22:00Z"
+  },
+  {
+    "train_number": "54839 ",
+    "unit_number": "1116.0182",
+    "name": "Wels Vbf (in Wev)",
+    "abbr": "Wev ",
+    "lat": "48.1834",
+    "lng": "14.0628",
+    "arrival": "2023-10-11T23:28:00Z",
+    "departure": "2023-10-12T05:03:00Z"
   }
 ]

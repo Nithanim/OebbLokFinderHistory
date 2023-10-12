@@ -1,0 +1,82 @@
+[
+  {
+    "train_number": "112   ",
+    "unit_number": "1116.0199",
+    "name": "München Hauptbahnhof",
+    "abbr": "MH  ",
+    "lat": "48.1399",
+    "lng": "11.5604",
+    "arrival": "2023-10-12T13:41:00Z",
+    "departure": "2023-10-12T13:46:00Z"
+  },
+  {
+    "train_number": "112   ",
+    "unit_number": "1116.0199",
+    "name": "Rosenheim",
+    "abbr": "MRO ",
+    "lat": "47.8511",
+    "lng": "12.1196",
+    "arrival": "2023-10-12T13:01:00Z",
+    "departure": "2023-10-12T13:03:00Z"
+  },
+  {
+    "train_number": "112   ",
+    "unit_number": "1116.0199",
+    "name": "Traunstein",
+    "abbr": "MTS ",
+    "lat": "47.8697",
+    "lng": "12.6391",
+    "arrival": "2023-10-12T12:24:00Z",
+    "departure": "2023-10-12T12:26:00Z"
+  },
+  {
+    "train_number": "112   ",
+    "unit_number": "1116.0199",
+    "name": "Freilassing",
+    "abbr": "MFL ",
+    "lat": "47.8368",
+    "lng": "12.9764",
+    "arrival": "2023-10-12T12:06:00Z",
+    "departure": "2023-10-12T12:08:00Z"
+  },
+  {
+    "train_number": "112   ",
+    "unit_number": "1116.0199",
+    "name": "Salzburg Liefering (in Sb)",
+    "abbr": "Lfg ",
+    "lat": "47.8229",
+    "lng": "13.0021",
+    "arrival": null,
+    "departure": "2023-10-12T12:04:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0199",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": null,
+    "departure": "2023-10-12T12:00:00Z"
+  },
+  {
+    "train_number": "82360 ",
+    "unit_number": "1116.0199",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-10-12T02:43:00Z",
+    "departure": "2023-10-12T05:00:00Z"
+  },
+  {
+    "train_number": "82360 ",
+    "unit_number": "1116.0199",
+    "name": "Salzburg Gnigl-Vbf (in Sb)",
+    "abbr": "----",
+    "lat": "47.8167",
+    "lng": "13.0639",
+    "arrival": "2023-10-12T02:32:00Z",
+    "departure": "2023-10-12T02:39:00Z"
+  }
+]
