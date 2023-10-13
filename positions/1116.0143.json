@@ -1,0 +1,152 @@
+[
+  {
+    "train_number": "54549 ",
+    "unit_number": "1116.0143",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-10-14T00:14:00Z",
+    "departure": "2023-10-14T00:31:00Z"
+  },
+  {
+    "train_number": "54549 ",
+    "unit_number": "1116.0143",
+    "name": "Kitzbühel",
+    "abbr": "Kzb ",
+    "lat": "47.4542",
+    "lng": "12.391",
+    "arrival": null,
+    "departure": "2023-10-13T22:51:00Z"
+  },
+  {
+    "train_number": "54549 ",
+    "unit_number": "1116.0143",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-10-13T22:10:00Z",
+    "departure": "2023-10-13T22:20:00Z"
+  },
+  {
+    "train_number": "54549 ",
+    "unit_number": "1116.0143",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-10-13T22:08:00Z"
+  },
+  {
+    "train_number": "54454 ",
+    "unit_number": "1116.0143",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
+    "arrival": "2023-10-13T19:01:00Z",
+    "departure": "2023-10-13T21:30:00Z"
+  },
+  {
+    "train_number": "54454 ",
+    "unit_number": "1116.0143",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-10-13T18:28:00Z"
+  },
+  {
+    "train_number": "54454 ",
+    "unit_number": "1116.0143",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-10-13T18:03:00Z",
+    "departure": "2023-10-13T18:25:00Z"
+  },
+  {
+    "train_number": "54454 ",
+    "unit_number": "1116.0143",
+    "name": "Kitzbühel",
+    "abbr": "Kzb ",
+    "lat": "47.4542",
+    "lng": "12.391",
+    "arrival": null,
+    "departure": "2023-10-13T17:10:00Z"
+  },
+  {
+    "train_number": "54454 ",
+    "unit_number": "1116.0143",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-10-13T15:08:00Z",
+    "departure": "2023-10-13T15:30:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0143",
+    "name": "Villach Süd Gvbf Ausfgr",
+    "abbr": "Va  ",
+    "lat": "46.5674",
+    "lng": "13.8238",
+    "arrival": null,
+    "departure": "2023-10-13T12:33:00Z"
+  },
+  {
+    "train_number": "54541 ",
+    "unit_number": "1116.0143",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-10-13T07:31:00Z",
+    "departure": "2023-10-13T07:57:00Z"
+  },
+  {
+    "train_number": "54541 ",
+    "unit_number": "1116.0143",
+    "name": "Kitzbühel",
+    "abbr": "Kzb ",
+    "lat": "47.4542",
+    "lng": "12.391",
+    "arrival": null,
+    "departure": "2023-10-13T05:42:00Z"
+  },
+  {
+    "train_number": "54541 ",
+    "unit_number": "1116.0143",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-10-13T04:47:00Z",
+    "departure": "2023-10-13T05:05:00Z"
+  },
+  {
+    "train_number": "54541 ",
+    "unit_number": "1116.0143",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-10-13T04:43:00Z"
+  },
+  {
+    "train_number": "88409 ",
+    "unit_number": "1116.0143",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
+    "arrival": "2023-10-13T03:00:00Z",
+    "departure": "2023-10-13T03:58:00Z"
+  }
+]

@@ -1,192 +1,52 @@
 [
   {
-    "train_number": null,
-    "unit_number": "1116.0200",
-    "name": "Linz Vbf-Ost Reih. (in Lzv)",
-    "abbr": "Lo  ",
-    "lat": "48.2718",
-    "lng": "14.3196",
-    "arrival": null,
-    "departure": "2023-10-13T02:13:00Z"
-  },
-  {
-    "train_number": "54931 ",
-    "unit_number": "1116.0200",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": null,
-    "departure": "2023-10-13T00:49:00Z"
-  },
-  {
-    "train_number": "54931 ",
-    "unit_number": "1116.0200",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": null,
-    "departure": "2023-10-13T00:31:00Z"
-  },
-  {
-    "train_number": "54931 ",
-    "unit_number": "1116.0200",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": null,
-    "departure": "2023-10-13T00:09:00Z"
-  },
-  {
-    "train_number": "54931 ",
-    "unit_number": "1116.0200",
-    "name": "Steindorf b.Straßw. (in Nst)",
-    "abbr": "Nst ",
-    "lat": "47.9676",
-    "lng": "13.2406",
-    "arrival": null,
-    "departure": "2023-10-12T23:36:00Z"
-  },
-  {
-    "train_number": null,
+    "train_number": "41820 ",
     "unit_number": "1116.0200",
     "name": "Salzburg Gnigl-Vbf (in Sb)",
     "abbr": "Sr  ",
     "lat": "47.8167",
     "lng": "13.0639",
-    "arrival": null,
-    "departure": "2023-10-12T23:12:00Z"
+    "arrival": "2023-10-13T07:10:00Z",
+    "departure": "2023-10-13T07:24:00Z"
   },
   {
-    "train_number": "895   ",
+    "train_number": "41820 ",
     "unit_number": "1116.0200",
     "name": "Salzburg Gnigl-Einfgr. (in Sb)",
     "abbr": "Sre ",
     "lat": "47.8075",
     "lng": "13.0687",
     "arrival": null,
-    "departure": "2023-10-12T19:43:00Z"
+    "departure": "2023-10-13T07:07:00Z"
   },
   {
-    "train_number": "895   ",
+    "train_number": "41820 ",
     "unit_number": "1116.0200",
     "name": "Bischofshofen (in Bo)",
     "abbr": "Bo  ",
     "lat": "47.42",
     "lng": "13.2199",
-    "arrival": "2023-10-12T19:05:00Z",
-    "departure": "2023-10-12T19:07:00Z"
+    "arrival": null,
+    "departure": "2023-10-13T06:28:00Z"
   },
   {
-    "train_number": "895   ",
+    "train_number": "41820 ",
     "unit_number": "1116.0200",
     "name": "Schwarzach-St.Veit",
     "abbr": "Swa ",
     "lat": "47.3186",
     "lng": "13.1561",
-    "arrival": "2023-10-12T18:48:00Z",
-    "departure": "2023-10-12T18:52:00Z"
+    "arrival": "2023-10-13T05:50:00Z",
+    "departure": "2023-10-13T06:14:00Z"
   },
   {
-    "train_number": "113   ",
+    "train_number": "41820 ",
     "unit_number": "1116.0200",
-    "name": "Villach Hbf",
-    "abbr": "Vb  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
-    "arrival": "2023-10-12T14:43:00Z",
-    "departure": "2023-10-12T17:16:00Z"
-  },
-  {
-    "train_number": "113   ",
-    "unit_number": "1116.0200",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-10-12T13:09:00Z",
-    "departure": "2023-10-12T13:11:00Z"
-  },
-  {
-    "train_number": "113   ",
-    "unit_number": "1116.0200",
-    "name": "Bischofshofen (in Bo)",
-    "abbr": "Bo  ",
-    "lat": "47.42",
-    "lng": "13.2199",
-    "arrival": "2023-10-12T12:52:00Z",
-    "departure": "2023-10-12T12:54:00Z"
-  },
-  {
-    "train_number": "113   ",
-    "unit_number": "1116.0200",
-    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
-    "abbr": "Sre ",
-    "lat": "47.8075",
-    "lng": "13.0687",
-    "arrival": null,
-    "departure": "2023-10-12T12:17:00Z"
-  },
-  {
-    "train_number": "113   ",
-    "unit_number": "1116.0200",
-    "name": "Salzburg Hbf (in Sb)",
-    "abbr": "Sb  ",
-    "lat": "47.8135",
-    "lng": "13.0466",
-    "arrival": "2023-10-12T11:59:00Z",
-    "departure": "2023-10-12T12:12:00Z"
-  },
-  {
-    "train_number": "113   ",
-    "unit_number": "1116.0200",
-    "name": "Salzburg Liefering (in Sb)",
-    "abbr": "Lfg ",
-    "lat": "47.8229",
-    "lng": "13.0021",
-    "arrival": null,
-    "departure": "2023-10-12T11:54:00Z"
-  },
-  {
-    "train_number": "113   ",
-    "unit_number": "1116.0200",
-    "name": "Freilassing",
-    "abbr": "MFL ",
-    "lat": "47.8368",
-    "lng": "12.9764",
-    "arrival": "2023-10-12T11:50:00Z",
-    "departure": "2023-10-12T11:52:00Z"
-  },
-  {
-    "train_number": "113   ",
-    "unit_number": "1116.0200",
-    "name": "Traunstein",
-    "abbr": "MTS ",
-    "lat": "47.8697",
-    "lng": "12.6391",
-    "arrival": "2023-10-12T11:31:00Z",
-    "departure": "2023-10-12T11:33:00Z"
-  },
-  {
-    "train_number": "113   ",
-    "unit_number": "1116.0200",
-    "name": "Rosenheim",
-    "abbr": "MRO ",
-    "lat": "47.8511",
-    "lng": "12.1196",
-    "arrival": "2023-10-12T10:55:00Z",
-    "departure": "2023-10-12T10:57:00Z"
-  },
-  {
-    "train_number": "113   ",
-    "unit_number": "1116.0200",
-    "name": "München Hauptbahnhof",
-    "abbr": "MH  ",
-    "lat": "48.1399",
-    "lng": "11.5604",
-    "arrival": "2023-10-12T10:11:00Z",
-    "departure": "2023-10-12T10:18:00Z"
+    "name": "Villach Süd Gvbf Ausfgr",
+    "abbr": "Va  ",
+    "lat": "46.5674",
+    "lng": "13.8238",
+    "arrival": "2023-10-13T02:39:00Z",
+    "departure": "2023-10-13T03:36:00Z"
   }
 ]

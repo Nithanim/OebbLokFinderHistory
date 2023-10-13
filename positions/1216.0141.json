@@ -1,32 +1,32 @@
 [
   {
-    "train_number": "45448 ",
+    "train_number": "47879 ",
     "unit_number": "1216.0141",
     "name": "Rosenbach",
     "abbr": "Rn  ",
     "lat": "46.5309",
     "lng": "14.0354",
     "arrival": null,
-    "departure": "2023-10-12T21:47:00Z"
-  },
-  {
-    "train_number": "45443 ",
-    "unit_number": "1216.0141",
-    "name": "Rosenbach",
-    "abbr": "Rn  ",
-    "lat": "46.5309",
-    "lng": "14.0354",
-    "arrival": null,
-    "departure": "2023-10-12T07:17:00Z"
+    "departure": "2023-10-13T22:14:00Z"
   },
   {
     "train_number": null,
     "unit_number": "1216.0141",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
+    "name": "Villach Westbf",
+    "abbr": "Vf  ",
+    "lat": "46.6092",
+    "lng": "13.8407",
     "arrival": null,
-    "departure": "2023-10-12T06:59:00Z"
+    "departure": "2023-10-13T20:47:00Z"
+  },
+  {
+    "train_number": "45440 ",
+    "unit_number": "1216.0141",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": null,
+    "departure": "2023-10-13T04:17:00Z"
   }
 ]
