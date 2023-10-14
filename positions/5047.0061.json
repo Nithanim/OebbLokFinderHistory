@@ -1,82 +1,42 @@
 [
   {
+    "train_number": "5943  ",
+    "unit_number": "5047.0061",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-10-14T04:35:00Z",
+    "departure": "2023-10-14T04:37:00Z"
+  },
+  {
+    "train_number": "5943  ",
+    "unit_number": "5047.0061",
+    "name": "Neumarkt-Kallham (in Neu)",
+    "abbr": "Neu ",
+    "lat": "48.2714",
+    "lng": "13.7245",
+    "arrival": "2023-10-14T04:12:00Z",
+    "departure": "2023-10-14T04:13:00Z"
+  },
+  {
+    "train_number": "5943  ",
+    "unit_number": "5047.0061",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-10-14T03:51:00Z",
+    "departure": "2023-10-14T03:52:00Z"
+  },
+  {
     "train_number": "5835  ",
     "unit_number": "5047.0061",
-    "name": "Steindorf b.Straßw. (in Nst)",
-    "abbr": "Nst ",
-    "lat": "47.9676",
-    "lng": "13.2406",
-    "arrival": "2023-10-13T12:08:00Z",
-    "departure": "2023-10-13T12:09:00Z"
-  },
-  {
-    "train_number": "5834  ",
-    "unit_number": "5047.0061",
-    "name": "Neumarkt am Wallersee (in Nst)",
-    "abbr": "Nsk ",
-    "lat": "47.9549",
-    "lng": "13.2248",
-    "arrival": "2023-10-13T05:47:00Z",
-    "departure": "2023-10-13T12:06:00Z"
-  },
-  {
-    "train_number": "5834  ",
-    "unit_number": "5047.0061",
-    "name": "Steindorf b.Straßw. (in Nst)",
-    "abbr": "Nst ",
-    "lat": "47.9676",
-    "lng": "13.2406",
-    "arrival": "2023-10-13T05:44:00Z",
-    "departure": "2023-10-13T05:45:00Z"
-  },
-  {
-    "train_number": "5801  ",
-    "unit_number": "5047.0061",
     "name": "Braunau am Inn (in Bru)",
     "abbr": "Bru ",
     "lat": "48.2591",
     "lng": "13.0486",
-    "arrival": "2023-10-13T04:37:00Z",
-    "departure": "2023-10-13T04:54:00Z"
-  },
-  {
-    "train_number": "5801  ",
-    "unit_number": "5047.0061",
-    "name": "Steindorf b.Straßw. (in Nst)",
-    "abbr": "Nst ",
-    "lat": "47.9676",
-    "lng": "13.2406",
-    "arrival": "2023-10-13T03:45:00Z",
-    "departure": "2023-10-13T03:46:00Z"
-  },
-  {
-    "train_number": "5802  ",
-    "unit_number": "5047.0061",
-    "name": "Neumarkt am Wallersee (in Nst)",
-    "abbr": "Nsk ",
-    "lat": "47.9549",
-    "lng": "13.2248",
-    "arrival": "2023-10-13T03:35:00Z",
-    "departure": "2023-10-13T03:43:00Z"
-  },
-  {
-    "train_number": "5802  ",
-    "unit_number": "5047.0061",
-    "name": "Steindorf b.Straßw. (in Nst)",
-    "abbr": "Nst ",
-    "lat": "47.9676",
-    "lng": "13.2406",
-    "arrival": "2023-10-13T03:32:00Z",
-    "departure": "2023-10-13T03:33:00Z"
-  },
-  {
-    "train_number": "5982  ",
-    "unit_number": "5047.0061",
-    "name": "Braunau am Inn (in Bru)",
-    "abbr": "Bru ",
-    "lat": "48.2591",
-    "lng": "13.0486",
-    "arrival": "2023-10-12T16:41:00Z",
-    "departure": "2023-10-13T02:44:00Z"
+    "arrival": "2023-10-13T12:58:00Z",
+    "departure": "2023-10-14T03:14:00Z"
   }
 ]

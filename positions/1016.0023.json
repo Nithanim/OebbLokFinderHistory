@@ -1,202 +1,142 @@
 [
   {
-    "train_number": "58666 ",
+    "train_number": "88952 ",
+    "unit_number": "1016.0023",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": "2023-10-14T19:06:00Z",
+    "departure": "2023-10-15T10:55:00Z"
+  },
+  {
+    "train_number": "58664 ",
+    "unit_number": "1016.0023",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": "2023-10-14T18:25:00Z",
+    "departure": "2023-10-14T18:45:00Z"
+  },
+  {
+    "train_number": "58664 ",
+    "unit_number": "1016.0023",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": null,
+    "departure": "2023-10-14T18:15:00Z"
+  },
+  {
+    "train_number": "58664 ",
+    "unit_number": "1016.0023",
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-10-14T17:19:00Z",
+    "departure": "2023-10-14T17:22:00Z"
+  },
+  {
+    "train_number": "58664 ",
     "unit_number": "1016.0023",
     "name": "Kirchdorf a.d.Krems",
     "abbr": "Kik ",
     "lat": "47.9051",
     "lng": "14.1167",
     "arrival": null,
-    "departure": "2023-10-13T18:07:00Z"
+    "departure": "2023-10-14T16:09:00Z"
   },
   {
-    "train_number": "58666 ",
+    "train_number": "58664 ",
     "unit_number": "1016.0023",
     "name": "Linz Hbf",
     "abbr": "Lz  ",
     "lat": "48.2908",
     "lng": "14.2927",
     "arrival": null,
-    "departure": "2023-10-13T16:33:00Z"
+    "departure": "2023-10-14T15:08:00Z"
   },
   {
-    "train_number": null,
+    "train_number": "58664 ",
     "unit_number": "1016.0023",
     "name": "Linz Vbf-West (in Lzv)",
     "abbr": "Lr  ",
     "lat": "48.276",
     "lng": "14.3154",
-    "arrival": null,
-    "departure": "2023-10-13T16:25:00Z"
+    "arrival": "2023-10-14T14:11:00Z",
+    "departure": "2023-10-14T15:00:00Z"
   },
   {
-    "train_number": "57905 ",
-    "unit_number": "1016.0023",
-    "name": "Voest Alpine Linz",
-    "abbr": "Ms  ",
-    "lat": "48.263",
-    "lng": "14.3367",
-    "arrival": "2023-10-13T12:32:00Z",
-    "departure": "2023-10-13T12:45:00Z"
-  },
-  {
-    "train_number": "57905 ",
-    "unit_number": "1016.0023",
-    "name": "Linz Vbf-Ost-Einf. (in Lzv)",
-    "abbr": "Lm  ",
-    "lat": "48.2607",
-    "lng": "14.3257",
-    "arrival": null,
-    "departure": "2023-10-13T12:07:00Z"
-  },
-  {
-    "train_number": "57905 ",
+    "train_number": "58664 ",
     "unit_number": "1016.0023",
     "name": "Enns",
     "abbr": "Ens ",
     "lat": "48.2212",
     "lng": "14.4668",
     "arrival": null,
-    "departure": "2023-10-13T11:31:00Z"
+    "departure": "2023-10-14T13:59:00Z"
   },
   {
-    "train_number": "57905 ",
+    "train_number": "58664 ",
     "unit_number": "1016.0023",
     "name": "St.Valentin (in Sv)",
     "abbr": "Sv  ",
     "lat": "48.1784",
     "lng": "14.5219",
     "arrival": null,
-    "departure": "2023-10-13T11:26:00Z"
+    "departure": "2023-10-14T13:52:00Z"
   },
   {
-    "train_number": "57905 ",
+    "train_number": "58663 ",
     "unit_number": "1016.0023",
-    "name": "Amstetten (in Ams)",
-    "abbr": "Ams ",
-    "lat": "48.1215",
-    "lng": "14.8792",
-    "arrival": null,
-    "departure": "2023-10-13T10:57:00Z"
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": "2023-10-14T07:35:00Z",
+    "departure": "2023-10-14T07:35:00Z"
   },
   {
-    "train_number": "57905 ",
+    "train_number": "58663 ",
     "unit_number": "1016.0023",
-    "name": "Ybbs a.d.Donau",
-    "abbr": "Y   ",
-    "lat": "48.158",
-    "lng": "15.0981",
-    "arrival": null,
-    "departure": "2023-10-13T10:45:00Z"
+    "name": "Linz Vbf-West (in Lzv)",
+    "abbr": "Lr  ",
+    "lat": "48.276",
+    "lng": "14.3154",
+    "arrival": "2023-10-14T06:50:00Z",
+    "departure": "2023-10-14T07:17:00Z"
   },
   {
-    "train_number": "57905 ",
+    "train_number": "58663 ",
     "unit_number": "1016.0023",
-    "name": "Pöchlarn",
-    "abbr": "Poe ",
-    "lat": "48.208",
-    "lng": "15.2148",
-    "arrival": null,
-    "departure": "2023-10-13T10:36:00Z"
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-10-14T06:41:00Z",
+    "departure": "2023-10-14T06:41:00Z"
   },
   {
-    "train_number": "57905 ",
+    "train_number": "58663 ",
     "unit_number": "1016.0023",
-    "name": "St.Pölten-Fbf (in Pb)",
-    "abbr": "Pw  ",
-    "lat": "48.2101",
-    "lng": "15.6161",
-    "arrival": "2023-10-13T10:06:00Z",
-    "departure": "2023-10-13T10:11:00Z"
+    "name": "Kirchdorf a.d.Krems",
+    "abbr": "Kik ",
+    "lat": "47.9051",
+    "lng": "14.1167",
+    "arrival": "2023-10-14T04:32:00Z",
+    "departure": "2023-10-14T04:42:00Z"
   },
   {
-    "train_number": "57905 ",
+    "train_number": "58673 ",
     "unit_number": "1016.0023",
-    "name": "St.Pölten Hbf (in Pb)",
-    "abbr": "Pb  ",
-    "lat": "48.2081",
-    "lng": "15.6237",
-    "arrival": null,
-    "departure": "2023-10-13T10:04:00Z"
-  },
-  {
-    "train_number": "57905 ",
-    "unit_number": "1016.0023",
-    "name": "Herzogenburg (in Ho)",
-    "abbr": "Ho  ",
-    "lat": "48.2759",
-    "lng": "15.6966",
-    "arrival": null,
-    "departure": "2023-10-13T09:51:00Z"
-  },
-  {
-    "train_number": "57905 ",
-    "unit_number": "1016.0023",
-    "name": "Stockerau (in Su)",
-    "abbr": "Su  ",
-    "lat": "48.3824",
-    "lng": "16.2126",
-    "arrival": null,
-    "departure": "2023-10-13T08:21:00Z"
-  },
-  {
-    "train_number": "57905 ",
-    "unit_number": "1016.0023",
-    "name": "Korneuburg",
-    "abbr": "Ko  ",
-    "lat": "48.3429",
-    "lng": "16.3289",
-    "arrival": null,
-    "departure": "2023-10-13T08:10:00Z"
-  },
-  {
-    "train_number": "57905 ",
-    "unit_number": "1016.0023",
-    "name": "Gänserndorf",
-    "abbr": "Gae ",
-    "lat": "48.3401",
-    "lng": "16.7324",
-    "arrival": null,
-    "departure": "2023-10-13T06:49:00Z"
-  },
-  {
-    "train_number": "57096 ",
-    "unit_number": "1016.0023",
-    "name": "Hohenau",
-    "abbr": "Nh  ",
-    "lat": "48.5981",
-    "lng": "16.9008",
-    "arrival": "2023-10-13T04:30:00Z",
-    "departure": "2023-10-13T06:21:00Z"
-  },
-  {
-    "train_number": "57096 ",
-    "unit_number": "1016.0023",
-    "name": "Gänserndorf",
-    "abbr": "Gae ",
-    "lat": "48.3401",
-    "lng": "16.7324",
-    "arrival": null,
-    "departure": "2023-10-13T04:06:00Z"
-  },
-  {
-    "train_number": "57096 ",
-    "unit_number": "1016.0023",
-    "name": "Korneuburg",
-    "abbr": "Ko  ",
-    "lat": "48.3429",
-    "lng": "16.3289",
-    "arrival": null,
-    "departure": "2023-10-13T03:07:00Z"
-  },
-  {
-    "train_number": "57096 ",
-    "unit_number": "1016.0023",
-    "name": "Stockerau (in Su)",
-    "abbr": "Su  ",
-    "lat": "48.3824",
-    "lng": "16.2126",
-    "arrival": null,
-    "departure": "2023-10-13T02:57:00Z"
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-10-14T01:07:00Z",
+    "departure": "2023-10-14T03:15:00Z"
   }
 ]
