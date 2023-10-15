@@ -1,5 +1,55 @@
 [
   {
+    "train_number": "5397  ",
+    "unit_number": "4024.0118",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-10-15T21:06:00Z",
+    "departure": "2023-10-15T22:05:00Z"
+  },
+  {
+    "train_number": "5393  ",
+    "unit_number": "4024.0118",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-10-15T19:06:00Z",
+    "departure": "2023-10-15T19:52:00Z"
+  },
+  {
+    "train_number": "5465  ",
+    "unit_number": "4024.0118",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-10-15T17:23:00Z",
+    "departure": "2023-10-15T17:52:00Z"
+  },
+  {
+    "train_number": "5457  ",
+    "unit_number": "4024.0118",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-10-15T13:23:00Z",
+    "departure": "2023-10-15T14:38:00Z"
+  },
+  {
+    "train_number": "5449  ",
+    "unit_number": "4024.0118",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-10-15T09:23:00Z",
+    "departure": "2023-10-15T10:38:00Z"
+  },
+  {
     "train_number": "5329  ",
     "unit_number": "4024.0118",
     "name": "Innsbruck Hbf  (in I)",
@@ -8,85 +58,5 @@
     "lng": "11.4017",
     "arrival": "2023-10-14T18:06:00Z",
     "departure": "2023-10-15T06:38:00Z"
-  },
-  {
-    "train_number": "5267  ",
-    "unit_number": "4024.0118",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-10-14T16:41:00Z",
-    "departure": "2023-10-14T16:52:00Z"
-  },
-  {
-    "train_number": "5385  ",
-    "unit_number": "4024.0118",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-10-14T15:06:00Z",
-    "departure": "2023-10-14T15:19:00Z"
-  },
-  {
-    "train_number": "5261  ",
-    "unit_number": "4024.0118",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-10-14T13:41:00Z",
-    "departure": "2023-10-14T13:52:00Z"
-  },
-  {
-    "train_number": "5379  ",
-    "unit_number": "4024.0118",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-10-14T12:06:00Z",
-    "departure": "2023-10-14T12:19:00Z"
-  },
-  {
-    "train_number": "5255  ",
-    "unit_number": "4024.0118",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-10-14T10:41:00Z",
-    "departure": "2023-10-14T10:52:00Z"
-  },
-  {
-    "train_number": "5373  ",
-    "unit_number": "4024.0118",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-10-14T09:06:00Z",
-    "departure": "2023-10-14T09:19:00Z"
-  },
-  {
-    "train_number": "5441  ",
-    "unit_number": "4024.0118",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-10-14T06:23:00Z",
-    "departure": "2023-10-14T07:52:00Z"
-  },
-  {
-    "train_number": "5395  ",
-    "unit_number": "4024.0118",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-10-13T20:06:00Z",
-    "departure": "2023-10-14T03:42:00Z"
   }
 ]

@@ -1,32 +1,62 @@
 [
   {
-    "train_number": "59127 ",
+    "train_number": "64000 ",
     "unit_number": "1116.0168",
-    "name": "Mistelbach",
-    "abbr": "Mb  ",
-    "lat": "48.5646",
-    "lng": "16.5608",
+    "name": "Retz",
+    "abbr": "R   ",
+    "lat": "48.7539",
+    "lng": "15.9574",
+    "arrival": "2023-10-16T01:32:00Z",
+    "departure": "2023-10-16T04:36:00Z"
+  },
+  {
+    "train_number": "64000 ",
+    "unit_number": "1116.0168",
+    "name": "Hollabrunn",
+    "abbr": "Oh  ",
+    "lat": "48.563",
+    "lng": "16.0722",
     "arrival": null,
-    "departure": "2023-10-14T12:01:00Z"
+    "departure": "2023-10-16T01:09:00Z"
   },
   {
-    "train_number": "59126 ",
+    "train_number": "64000 ",
     "unit_number": "1116.0168",
-    "name": "Laa a.d.Thaya",
-    "abbr": "Laa ",
-    "lat": "48.7233",
-    "lng": "16.4031",
-    "arrival": "2023-10-14T09:49:00Z",
-    "departure": "2023-10-14T11:34:00Z"
+    "name": "Stockerau (in Su)",
+    "abbr": "Su  ",
+    "lat": "48.3824",
+    "lng": "16.2126",
+    "arrival": null,
+    "departure": "2023-10-16T00:51:00Z"
   },
   {
-    "train_number": "59126 ",
+    "train_number": "64000 ",
     "unit_number": "1116.0168",
-    "name": "Mistelbach",
-    "abbr": "Mb  ",
-    "lat": "48.5646",
-    "lng": "16.5608",
-    "arrival": "2023-10-14T08:57:00Z",
-    "departure": "2023-10-14T09:10:00Z"
+    "name": "Korneuburg",
+    "abbr": "Ko  ",
+    "lat": "48.3429",
+    "lng": "16.3289",
+    "arrival": null,
+    "departure": "2023-10-16T00:44:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0168",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-10-15T23:55:00Z"
+  },
+  {
+    "train_number": "86713 ",
+    "unit_number": "1116.0168",
+    "name": "Wien Zvbf-Einfgr. (in Zur)",
+    "abbr": "Ze  ",
+    "lat": "48.1568",
+    "lng": "16.4193",
+    "arrival": "2023-10-14T18:03:00Z",
+    "departure": "2023-10-15T03:17:00Z"
   }
 ]

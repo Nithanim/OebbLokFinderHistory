@@ -1,0 +1,102 @@
+[
+  {
+    "train_number": "47351 ",
+    "unit_number": "1116.0016",
+    "name": "Hegyeshalom",
+    "abbr": "He  ",
+    "lat": "47.9139",
+    "lng": "17.1455",
+    "arrival": "2023-10-15T16:04:00Z",
+    "departure": "2023-10-15T17:20:00Z"
+  },
+  {
+    "train_number": "47351 ",
+    "unit_number": "1116.0016",
+    "name": "Parndorf",
+    "abbr": "Par ",
+    "lat": "47.987",
+    "lng": "16.8702",
+    "arrival": null,
+    "departure": "2023-10-15T15:46:00Z"
+  },
+  {
+    "train_number": "47351 ",
+    "unit_number": "1116.0016",
+    "name": "Kledering (in Zur)",
+    "abbr": "Za  ",
+    "lat": "48.1331",
+    "lng": "16.4396",
+    "arrival": "2023-10-15T15:09:00Z",
+    "departure": "2023-10-15T15:13:00Z"
+  },
+  {
+    "train_number": "47351 ",
+    "unit_number": "1116.0016",
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
+    "arrival": null,
+    "departure": "2023-10-15T13:27:00Z"
+  },
+  {
+    "train_number": "47351 ",
+    "unit_number": "1116.0016",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
+    "arrival": null,
+    "departure": "2023-10-15T13:17:00Z"
+  },
+  {
+    "train_number": "47351 ",
+    "unit_number": "1116.0016",
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
+    "arrival": null,
+    "departure": "2023-10-15T13:04:00Z"
+  },
+  {
+    "train_number": "47351 ",
+    "unit_number": "1116.0016",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": null,
+    "departure": "2023-10-15T12:34:00Z"
+  },
+  {
+    "train_number": "47351 ",
+    "unit_number": "1116.0016",
+    "name": "Enns",
+    "abbr": "Ens ",
+    "lat": "48.2212",
+    "lng": "14.4668",
+    "arrival": null,
+    "departure": "2023-10-15T12:28:00Z"
+  },
+  {
+    "train_number": "88117 ",
+    "unit_number": "1116.0016",
+    "name": "Voest Alpine Linz",
+    "abbr": "Ms  ",
+    "lat": "48.263",
+    "lng": "14.3367",
+    "arrival": "2023-10-15T12:00:00Z",
+    "departure": "2023-10-15T12:13:00Z"
+  },
+  {
+    "train_number": "88082 ",
+    "unit_number": "1116.0016",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-10-15T00:32:00Z",
+    "departure": "2023-10-15T11:48:00Z"
+  }
+]
