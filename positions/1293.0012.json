@@ -1,0 +1,132 @@
+[
+  {
+    "train_number": "44993 ",
+    "unit_number": "1293.0012",
+    "name": "Brennero/Brenner",
+    "abbr": "Be  ",
+    "lat": "47.0022",
+    "lng": "11.5053",
+    "arrival": "2023-10-17T01:01:00Z",
+    "departure": "2023-10-17T02:50:00Z"
+  },
+  {
+    "train_number": "44993 ",
+    "unit_number": "1293.0012",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-10-16T23:46:00Z"
+  },
+  {
+    "train_number": "64439 ",
+    "unit_number": "1293.0012",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-10-16T18:20:00Z",
+    "departure": "2023-10-16T23:45:00Z"
+  },
+  {
+    "train_number": "64439 ",
+    "unit_number": "1293.0012",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-10-16T18:17:00Z"
+  },
+  {
+    "train_number": "44202 ",
+    "unit_number": "1293.0012",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
+    "arrival": "2023-10-16T16:37:00Z",
+    "departure": "2023-10-16T17:38:00Z"
+  },
+  {
+    "train_number": "44202 ",
+    "unit_number": "1293.0012",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": null,
+    "departure": "2023-10-16T16:28:00Z"
+  },
+  {
+    "train_number": "18353 ",
+    "unit_number": "1293.0012",
+    "name": "Brennero/Brenner",
+    "abbr": "Be  ",
+    "lat": "47.0022",
+    "lng": "11.5053",
+    "arrival": "2023-10-16T14:19:00Z",
+    "departure": "2023-10-16T15:52:00Z"
+  },
+  {
+    "train_number": "95361 ",
+    "unit_number": "1293.0012",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-10-16T04:39:00Z",
+    "departure": "2023-10-16T13:40:00Z"
+  },
+  {
+    "train_number": "95361 ",
+    "unit_number": "1293.0012",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
+    "arrival": null,
+    "departure": "2023-10-16T04:32:00Z"
+  },
+  {
+    "train_number": "95361 ",
+    "unit_number": "1293.0012",
+    "name": "Schwaz",
+    "abbr": "Sw  ",
+    "lat": "47.3497",
+    "lng": "11.7016",
+    "arrival": null,
+    "departure": "2023-10-16T04:18:00Z"
+  },
+  {
+    "train_number": "64403 ",
+    "unit_number": "1293.0012",
+    "name": "Jenbach",
+    "abbr": "Jb  ",
+    "lat": "47.3884",
+    "lng": "11.7783",
+    "arrival": "2023-10-16T03:59:00Z",
+    "departure": "2023-10-16T04:13:00Z"
+  },
+  {
+    "train_number": "88409 ",
+    "unit_number": "1293.0012",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
+    "arrival": "2023-10-16T03:00:00Z",
+    "departure": "2023-10-16T03:36:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1293.0012",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": null,
+    "departure": "2023-10-16T02:50:00Z"
+  }
+]

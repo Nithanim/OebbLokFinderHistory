@@ -1,32 +1,12 @@
 [
   {
-    "train_number": "21011 ",
+    "train_number": null,
     "unit_number": "4024.0130",
-    "name": "Tulln a. d. Donau (in Tu)",
-    "abbr": "Tu  ",
-    "lat": "48.3275",
-    "lng": "16.0644",
-    "arrival": "2023-10-15T04:32:00Z",
-    "departure": "2023-10-15T04:38:00Z"
-  },
-  {
-    "train_number": "21011 ",
-    "unit_number": "4024.0130",
-    "name": "Herzogenburg (in Ho)",
-    "abbr": "Ho  ",
-    "lat": "48.2759",
-    "lng": "15.6966",
-    "arrival": "2023-10-15T03:24:00Z",
-    "departure": "2023-10-15T03:28:00Z"
-  },
-  {
-    "train_number": "21066 ",
-    "unit_number": "4024.0130",
-    "name": "St.Pölten Hbf (in Pb)",
-    "abbr": "Pb  ",
-    "lat": "48.2081",
-    "lng": "15.6237",
-    "arrival": "2023-10-14T21:44:00Z",
-    "departure": "2023-10-15T03:12:00Z"
+    "name": "W. FJBf-Gürtelbrücke (in Wf)",
+    "abbr": "Wfg ",
+    "lat": "48.2392",
+    "lng": "16.3604",
+    "arrival": null,
+    "departure": "2023-10-16T02:39:00Z"
   }
 ]
