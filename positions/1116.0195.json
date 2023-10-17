@@ -6,8 +6,8 @@
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-10-16T17:58:00Z",
-    "departure": "2023-10-16T18:06:00Z"
+    "arrival": "2023-10-17T17:58:00Z",
+    "departure": "2023-10-17T18:06:00Z"
   },
   {
     "train_number": "456   ",
@@ -17,7 +17,7 @@
     "lat": "47.731",
     "lng": "16.0826",
     "arrival": null,
-    "departure": "2023-10-16T17:49:00Z"
+    "departure": "2023-10-17T17:49:00Z"
   },
   {
     "train_number": "456   ",
@@ -27,7 +27,7 @@
     "lat": "47.696",
     "lng": "15.8632",
     "arrival": null,
-    "departure": "2023-10-16T17:37:00Z"
+    "departure": "2023-10-17T17:37:00Z"
   },
   {
     "train_number": "456   ",
@@ -37,7 +37,7 @@
     "lat": "47.6079",
     "lng": "15.677",
     "arrival": null,
-    "departure": "2023-10-16T17:00:00Z"
+    "departure": "2023-10-17T17:00:00Z"
   },
   {
     "train_number": "456   ",
@@ -46,8 +46,8 @@
     "abbr": "Bm  ",
     "lat": "47.4134",
     "lng": "15.2797",
-    "arrival": "2023-10-16T16:31:00Z",
-    "departure": "2023-10-16T16:34:00Z"
+    "arrival": "2023-10-17T16:31:00Z",
+    "departure": "2023-10-17T16:34:00Z"
   },
   {
     "train_number": "456   ",
@@ -57,7 +57,7 @@
     "lat": "47.0885",
     "lng": "15.4077",
     "arrival": null,
-    "departure": "2023-10-16T15:59:00Z"
+    "departure": "2023-10-17T15:59:00Z"
   },
   {
     "train_number": null,
@@ -67,7 +67,7 @@
     "lat": "47.0733",
     "lng": "15.4163",
     "arrival": null,
-    "departure": "2023-10-16T15:55:00Z"
+    "departure": "2023-10-17T15:55:00Z"
   },
   {
     "train_number": null,
@@ -77,7 +77,7 @@
     "lat": "47.0885",
     "lng": "15.4077",
     "arrival": null,
-    "departure": "2023-10-16T10:31:00Z"
+    "departure": "2023-10-17T10:31:00Z"
   },
   {
     "train_number": "457   ",
@@ -87,7 +87,7 @@
     "lat": "47.0885",
     "lng": "15.4077",
     "arrival": null,
-    "departure": "2023-10-16T07:58:00Z"
+    "departure": "2023-10-17T07:58:00Z"
   },
   {
     "train_number": "457   ",
@@ -96,8 +96,8 @@
     "abbr": "Bm  ",
     "lat": "47.4134",
     "lng": "15.2797",
-    "arrival": "2023-10-16T07:25:00Z",
-    "departure": "2023-10-16T07:27:00Z"
+    "arrival": "2023-10-17T07:25:00Z",
+    "departure": "2023-10-17T07:27:00Z"
   },
   {
     "train_number": "457   ",
@@ -107,7 +107,7 @@
     "lat": "47.6079",
     "lng": "15.677",
     "arrival": null,
-    "departure": "2023-10-16T06:59:00Z"
+    "departure": "2023-10-17T06:59:00Z"
   },
   {
     "train_number": "457   ",
@@ -117,7 +117,7 @@
     "lat": "47.696",
     "lng": "15.8632",
     "arrival": null,
-    "departure": "2023-10-16T06:19:00Z"
+    "departure": "2023-10-17T06:19:00Z"
   },
   {
     "train_number": "457   ",
@@ -127,7 +127,7 @@
     "lat": "47.731",
     "lng": "16.0826",
     "arrival": null,
-    "departure": "2023-10-16T06:07:00Z"
+    "departure": "2023-10-17T06:07:00Z"
   },
   {
     "train_number": "457   ",
@@ -136,8 +136,8 @@
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-10-16T05:55:00Z",
-    "departure": "2023-10-16T05:57:00Z"
+    "arrival": "2023-10-17T05:55:00Z",
+    "departure": "2023-10-17T05:57:00Z"
   },
   {
     "train_number": "457   ",
@@ -147,7 +147,7 @@
     "lat": "47.8777",
     "lng": "16.3621",
     "arrival": null,
-    "departure": "2023-10-16T05:45:00Z"
+    "departure": "2023-10-17T05:45:00Z"
   },
   {
     "train_number": "457   ",
@@ -157,7 +157,7 @@
     "lat": "48.1747",
     "lng": "16.3348",
     "arrival": null,
-    "departure": "2023-10-16T05:10:00Z"
+    "departure": "2023-10-17T05:10:00Z"
   },
   {
     "train_number": "457   ",
@@ -166,8 +166,8 @@
     "abbr": "Wbf ",
     "lat": "48.185",
     "lng": "16.3778",
-    "arrival": "2023-10-16T05:00:00Z",
-    "departure": "2023-10-16T05:05:00Z"
+    "arrival": "2023-10-17T05:00:00Z",
+    "departure": "2023-10-17T05:05:00Z"
   },
   {
     "train_number": "457   ",
@@ -177,7 +177,7 @@
     "lat": "48.3401",
     "lng": "16.7324",
     "arrival": null,
-    "departure": "2023-10-16T04:23:00Z"
+    "departure": "2023-10-17T04:23:00Z"
   },
   {
     "train_number": "457   ",
@@ -187,7 +187,7 @@
     "lat": "48.5981",
     "lng": "16.9008",
     "arrival": null,
-    "departure": "2023-10-16T04:00:00Z"
+    "departure": "2023-10-17T04:00:00Z"
   },
   {
     "train_number": "79617 ",
@@ -196,7 +196,7 @@
     "abbr": "Nh  ",
     "lat": "48.5981",
     "lng": "16.9008",
-    "arrival": "2023-10-15T21:37:00Z",
-    "departure": "2023-10-16T02:22:00Z"
+    "arrival": "2023-10-16T21:37:00Z",
+    "departure": "2023-10-17T02:22:00Z"
   }
 ]

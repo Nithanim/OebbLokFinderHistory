@@ -1,13 +1,73 @@
 [
   {
+    "train_number": "54761 ",
+    "unit_number": "1063.0039",
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
+    "arrival": "2023-10-18T01:41:00Z",
+    "departure": "2023-10-18T03:17:00Z"
+  },
+  {
+    "train_number": "54761 ",
+    "unit_number": "1063.0039",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": null,
+    "departure": "2023-10-18T00:56:00Z"
+  },
+  {
+    "train_number": "67668 ",
+    "unit_number": "1063.0039",
+    "name": "Bruck a.d.Mur-Fbf (in Bm)",
+    "abbr": "Bk  ",
+    "lat": "47.4219",
+    "lng": "15.28",
+    "arrival": "2023-10-17T22:15:00Z",
+    "departure": "2023-10-18T00:53:00Z"
+  },
+  {
+    "train_number": "67668 ",
+    "unit_number": "1063.0039",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": null,
+    "departure": "2023-10-17T22:12:00Z"
+  },
+  {
+    "train_number": "67668 ",
+    "unit_number": "1063.0039",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": null,
+    "departure": "2023-10-17T21:56:00Z"
+  },
+  {
+    "train_number": "67668 ",
+    "unit_number": "1063.0039",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": "2023-10-17T20:43:00Z",
+    "departure": "2023-10-17T21:47:00Z"
+  },
+  {
     "train_number": "63518 ",
     "unit_number": "1063.0039",
     "name": "Zeltweg",
     "abbr": "Zg  ",
     "lat": "47.1887",
     "lng": "14.7425",
-    "arrival": "2023-10-16T15:15:00Z",
-    "departure": "2023-10-16T15:32:00Z"
+    "arrival": "2023-10-17T15:15:00Z",
+    "departure": "2023-10-17T15:32:00Z"
   },
   {
     "train_number": "88756 ",
@@ -16,8 +76,8 @@
     "abbr": "M   ",
     "lat": "47.3445",
     "lng": "15.0103",
-    "arrival": "2023-10-16T13:54:00Z",
-    "departure": "2023-10-16T14:37:00Z"
+    "arrival": "2023-10-17T13:54:00Z",
+    "departure": "2023-10-17T14:37:00Z"
   },
   {
     "train_number": "63512 ",
@@ -26,8 +86,8 @@
     "abbr": "Zg  ",
     "lat": "47.1887",
     "lng": "14.7425",
-    "arrival": "2023-10-16T10:15:00Z",
-    "departure": "2023-10-16T10:28:00Z"
+    "arrival": "2023-10-17T10:15:00Z",
+    "departure": "2023-10-17T10:28:00Z"
   },
   {
     "train_number": "M2    ",
@@ -36,8 +96,8 @@
     "abbr": "M   ",
     "lat": "47.3445",
     "lng": "15.0103",
-    "arrival": "2023-10-16T09:37:00Z",
-    "departure": "2023-10-16T09:37:00Z"
+    "arrival": "2023-10-17T09:37:00Z",
+    "departure": "2023-10-17T09:37:00Z"
   },
   {
     "train_number": "M2    ",
@@ -46,8 +106,8 @@
     "abbr": "M   ",
     "lat": "47.3445",
     "lng": "15.0103",
-    "arrival": "2023-10-16T07:15:00Z",
-    "departure": "2023-10-16T07:15:00Z"
+    "arrival": "2023-10-17T07:15:00Z",
+    "departure": "2023-10-17T07:15:00Z"
   },
   {
     "train_number": "M2    ",
@@ -56,7 +116,7 @@
     "abbr": "M   ",
     "lat": "47.3445",
     "lng": "15.0103",
-    "arrival": "2023-10-16T03:44:00Z",
-    "departure": "2023-10-16T03:44:00Z"
+    "arrival": "2023-10-17T03:44:00Z",
+    "departure": "2023-10-17T03:44:00Z"
   }
 ]

@@ -1,202 +1,172 @@
 [
   {
-    "train_number": "5988  ",
+    "train_number": "5952  ",
     "unit_number": "5047.0061",
     "name": "Ried im Innkreis",
     "abbr": "Rd  ",
     "lat": "48.2005",
     "lng": "13.4877",
-    "arrival": "2023-10-16T18:59:00Z",
-    "departure": "2023-10-16T19:01:00Z"
+    "arrival": "2023-10-17T21:40:00Z",
+    "departure": "2023-10-18T02:43:00Z"
   },
   {
-    "train_number": "5977  ",
+    "train_number": "5987  ",
     "unit_number": "5047.0061",
     "name": "Neumarkt-Kallham (in Neu)",
     "abbr": "Neu ",
     "lat": "48.2714",
     "lng": "13.7245",
-    "arrival": "2023-10-16T14:19:00Z",
-    "departure": "2023-10-16T18:40:00Z"
+    "arrival": "2023-10-17T19:19:00Z",
+    "departure": "2023-10-17T21:20:00Z"
   },
   {
-    "train_number": "5977  ",
+    "train_number": "5987  ",
     "unit_number": "5047.0061",
     "name": "Ried im Innkreis",
     "abbr": "Rd  ",
     "lat": "48.2005",
     "lng": "13.4877",
-    "arrival": "2023-10-16T13:59:00Z",
-    "departure": "2023-10-16T14:01:00Z"
+    "arrival": "2023-10-17T18:59:00Z",
+    "departure": "2023-10-17T19:01:00Z"
   },
   {
-    "train_number": "5977  ",
+    "train_number": "5982  ",
     "unit_number": "5047.0061",
     "name": "Braunau am Inn (in Bru)",
     "abbr": "Bru ",
     "lat": "48.2591",
     "lng": "13.0486",
-    "arrival": "2023-10-16T13:21:00Z",
-    "departure": "2023-10-16T13:24:00Z"
+    "arrival": "2023-10-17T16:41:00Z",
+    "departure": "2023-10-17T18:24:00Z"
   },
   {
-    "train_number": "5972  ",
+    "train_number": "5982  ",
+    "unit_number": "5047.0061",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-10-17T15:59:00Z",
+    "departure": "2023-10-17T16:01:00Z"
+  },
+  {
+    "train_number": "5979  ",
+    "unit_number": "5047.0061",
+    "name": "Neumarkt-Kallham (in Neu)",
+    "abbr": "Neu ",
+    "lat": "48.2714",
+    "lng": "13.7245",
+    "arrival": "2023-10-17T15:19:00Z",
+    "departure": "2023-10-17T15:40:00Z"
+  },
+  {
+    "train_number": "5979  ",
+    "unit_number": "5047.0061",
+    "name": "Ried im Innkreis",
+    "abbr": "Rd  ",
+    "lat": "48.2005",
+    "lng": "13.4877",
+    "arrival": "2023-10-17T14:59:00Z",
+    "departure": "2023-10-17T15:01:00Z"
+  },
+  {
+    "train_number": "5979  ",
+    "unit_number": "5047.0061",
+    "name": "Braunau am Inn (in Bru)",
+    "abbr": "Bru ",
+    "lat": "48.2591",
+    "lng": "13.0486",
+    "arrival": "2023-10-17T14:21:00Z",
+    "departure": "2023-10-17T14:24:00Z"
+  },
+  {
+    "train_number": "5974  ",
     "unit_number": "5047.0061",
     "name": "Simbach (Inn)",
     "abbr": "Sm  ",
     "lat": "48.2631",
     "lng": "13.0223",
-    "arrival": "2023-10-16T12:45:00Z",
-    "departure": "2023-10-16T13:18:00Z"
+    "arrival": "2023-10-17T13:45:00Z",
+    "departure": "2023-10-17T14:18:00Z"
   },
   {
-    "train_number": "5972  ",
+    "train_number": "5974  ",
     "unit_number": "5047.0061",
     "name": "Braunau am Inn (in Bru)",
     "abbr": "Bru ",
     "lat": "48.2591",
     "lng": "13.0486",
-    "arrival": "2023-10-16T12:41:00Z",
-    "departure": "2023-10-16T12:42:00Z"
+    "arrival": "2023-10-17T13:41:00Z",
+    "departure": "2023-10-17T13:42:00Z"
   },
   {
-    "train_number": "5972  ",
+    "train_number": "5974  ",
     "unit_number": "5047.0061",
     "name": "Ried im Innkreis",
     "abbr": "Rd  ",
     "lat": "48.2005",
     "lng": "13.4877",
-    "arrival": "2023-10-16T11:59:00Z",
-    "departure": "2023-10-16T12:01:00Z"
+    "arrival": "2023-10-17T12:59:00Z",
+    "departure": "2023-10-17T13:01:00Z"
   },
   {
-    "train_number": "5971  ",
+    "train_number": "5957  ",
     "unit_number": "5047.0061",
     "name": "Neumarkt-Kallham (in Neu)",
     "abbr": "Neu ",
     "lat": "48.2714",
     "lng": "13.7245",
-    "arrival": "2023-10-16T11:19:00Z",
-    "departure": "2023-10-16T11:40:00Z"
+    "arrival": "2023-10-17T11:57:00Z",
+    "departure": "2023-10-17T12:40:00Z"
   },
   {
-    "train_number": "5971  ",
+    "train_number": "5957  ",
     "unit_number": "5047.0061",
     "name": "Ried im Innkreis",
     "abbr": "Rd  ",
     "lat": "48.2005",
     "lng": "13.4877",
-    "arrival": "2023-10-16T10:59:00Z",
-    "departure": "2023-10-16T11:01:00Z"
+    "arrival": "2023-10-17T11:35:00Z",
+    "departure": "2023-10-17T11:37:00Z"
   },
   {
-    "train_number": "5971  ",
-    "unit_number": "5047.0061",
-    "name": "Braunau am Inn (in Bru)",
-    "abbr": "Bru ",
-    "lat": "48.2591",
-    "lng": "13.0486",
-    "arrival": "2023-10-16T10:21:00Z",
-    "departure": "2023-10-16T10:24:00Z"
-  },
-  {
-    "train_number": "5966  ",
-    "unit_number": "5047.0061",
-    "name": "Simbach (Inn)",
-    "abbr": "Sm  ",
-    "lat": "48.2631",
-    "lng": "13.0223",
-    "arrival": "2023-10-16T09:45:00Z",
-    "departure": "2023-10-16T10:18:00Z"
-  },
-  {
-    "train_number": "5966  ",
-    "unit_number": "5047.0061",
-    "name": "Braunau am Inn (in Bru)",
-    "abbr": "Bru ",
-    "lat": "48.2591",
-    "lng": "13.0486",
-    "arrival": "2023-10-16T09:41:00Z",
-    "departure": "2023-10-16T09:42:00Z"
-  },
-  {
-    "train_number": "5966  ",
+    "train_number": "5954  ",
     "unit_number": "5047.0061",
     "name": "Ried im Innkreis",
     "abbr": "Rd  ",
     "lat": "48.2005",
     "lng": "13.4877",
-    "arrival": "2023-10-16T08:59:00Z",
-    "departure": "2023-10-16T09:01:00Z"
+    "arrival": "2023-10-17T11:23:00Z",
+    "departure": "2023-10-17T11:25:00Z"
   },
   {
-    "train_number": "5963  ",
+    "train_number": "5951  ",
     "unit_number": "5047.0061",
     "name": "Neumarkt-Kallham (in Neu)",
     "abbr": "Neu ",
     "lat": "48.2714",
     "lng": "13.7245",
-    "arrival": "2023-10-16T07:19:00Z",
-    "departure": "2023-10-16T08:40:00Z"
+    "arrival": "2023-10-17T05:28:00Z",
+    "departure": "2023-10-17T11:01:00Z"
   },
   {
-    "train_number": "5963  ",
+    "train_number": "5951  ",
     "unit_number": "5047.0061",
     "name": "Ried im Innkreis",
     "abbr": "Rd  ",
     "lat": "48.2005",
     "lng": "13.4877",
-    "arrival": "2023-10-16T06:59:00Z",
-    "departure": "2023-10-16T07:01:00Z"
+    "arrival": "2023-10-17T05:06:00Z",
+    "departure": "2023-10-17T05:10:00Z"
   },
   {
-    "train_number": "5944  ",
+    "train_number": "5989  ",
     "unit_number": "5047.0061",
     "name": "Braunau am Inn (in Bru)",
     "abbr": "Bru ",
     "lat": "48.2591",
     "lng": "13.0486",
-    "arrival": "2023-10-16T05:18:00Z",
-    "departure": "2023-10-16T06:24:00Z"
-  },
-  {
-    "train_number": "5944  ",
-    "unit_number": "5047.0061",
-    "name": "Ried im Innkreis",
-    "abbr": "Rd  ",
-    "lat": "48.2005",
-    "lng": "13.4877",
-    "arrival": "2023-10-16T04:41:00Z",
-    "departure": "2023-10-16T04:43:00Z"
-  },
-  {
-    "train_number": "84930 ",
-    "unit_number": "5047.0061",
-    "name": "Neumarkt-Kallham (in Neu)",
-    "abbr": "Neu ",
-    "lat": "48.2714",
-    "lng": "13.7245",
-    "arrival": "2023-10-16T04:08:00Z",
-    "departure": "2023-10-16T04:20:00Z"
-  },
-  {
-    "train_number": "84860 ",
-    "unit_number": "5047.0061",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": "2023-10-16T02:38:00Z",
-    "departure": "2023-10-16T03:42:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "5047.0061",
-    "name": "Linz Hbf Westbrücke (in Lz)",
-    "abbr": "Lzw ",
-    "lat": "48.2828",
-    "lng": "14.285",
-    "arrival": null,
-    "departure": "2023-10-16T02:20:00Z"
+    "arrival": "2023-10-16T20:24:00Z",
+    "departure": "2023-10-17T04:29:00Z"
   }
 ]
