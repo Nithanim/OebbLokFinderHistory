@@ -7,7 +7,7 @@
     "lat": "46.5309",
     "lng": "14.0354",
     "arrival": null,
-    "departure": "2023-10-17T14:12:00Z"
+    "departure": "2023-10-18T13:59:00Z"
   },
   {
     "train_number": null,
@@ -17,6 +17,36 @@
     "lat": "46.5674",
     "lng": "13.8238",
     "arrival": null,
-    "departure": "2023-10-17T13:52:00Z"
+    "departure": "2023-10-18T13:40:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1216.0141",
+    "name": "Tarvisio Boscoverde",
+    "abbr": "Tbv ",
+    "lat": "46.5059",
+    "lng": "13.6081",
+    "arrival": null,
+    "departure": "2023-10-18T12:18:00Z"
+  },
+  {
+    "train_number": "45480 ",
+    "unit_number": "1216.0141",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": null,
+    "departure": "2023-10-18T04:12:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1216.0141",
+    "name": "Villach Süd Gvbf Ausfgr",
+    "abbr": "Va  ",
+    "lat": "46.5674",
+    "lng": "13.8238",
+    "arrival": null,
+    "departure": "2023-10-18T03:34:00Z"
   }
 ]

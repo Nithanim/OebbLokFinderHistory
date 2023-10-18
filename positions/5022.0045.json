@@ -1,153 +1,73 @@
 [
   {
-    "train_number": "7264  ",
-    "unit_number": "5022.0045",
-    "name": "Leobersdorf",
-    "abbr": "Lb  ",
-    "lat": "47.9375",
-    "lng": "16.2313",
-    "arrival": "2023-10-17T18:46:00Z",
-    "departure": "2023-10-17T18:53:00Z"
-  },
-  {
-    "train_number": "7258  ",
-    "unit_number": "5022.0045",
-    "name": "Leobersdorf",
-    "abbr": "Lb  ",
-    "lat": "47.9375",
-    "lng": "16.2313",
-    "arrival": "2023-10-17T17:30:00Z",
-    "departure": "2023-10-17T17:38:00Z"
-  },
-  {
-    "train_number": "85978 ",
-    "unit_number": "5022.0045",
-    "name": "Leobersdorf",
-    "abbr": "Lb  ",
-    "lat": "47.9375",
-    "lng": "16.2313",
-    "arrival": "2023-10-17T13:26:00Z",
-    "departure": "2023-10-17T14:38:00Z"
-  },
-  {
-    "train_number": "7140  ",
+    "train_number": "7172  ",
     "unit_number": "5022.0045",
     "name": "Wr. Neustadt Hbf (in Nb)",
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-10-17T12:25:00Z",
-    "departure": "2023-10-17T13:15:00Z"
+    "arrival": "2023-10-18T20:25:00Z",
+    "departure": "2023-10-19T05:39:00Z"
   },
   {
-    "train_number": "7140  ",
+    "train_number": "7172  ",
     "unit_number": "5022.0045",
     "name": "Mattersburg (in Mr)",
     "abbr": "Mr  ",
     "lat": "47.7359",
     "lng": "16.4088",
-    "arrival": "2023-10-17T12:01:00Z",
-    "departure": "2023-10-17T12:02:00Z"
+    "arrival": "2023-10-18T20:01:00Z",
+    "departure": "2023-10-18T20:02:00Z"
   },
   {
-    "train_number": "7129  ",
+    "train_number": "7163  ",
     "unit_number": "5022.0045",
     "name": "Sopron",
     "abbr": "SOP ",
     "lat": "47.6779",
     "lng": "16.5865",
-    "arrival": "2023-10-17T11:17:00Z",
-    "departure": "2023-10-17T11:44:00Z"
+    "arrival": "2023-10-18T19:17:00Z",
+    "departure": "2023-10-18T19:44:00Z"
   },
   {
-    "train_number": "7129  ",
+    "train_number": "7163  ",
     "unit_number": "5022.0045",
     "name": "Mattersburg (in Mr)",
     "abbr": "Mr  ",
     "lat": "47.7359",
     "lng": "16.4088",
-    "arrival": "2023-10-17T10:58:00Z",
-    "departure": "2023-10-17T11:02:00Z"
+    "arrival": "2023-10-18T18:58:00Z",
+    "departure": "2023-10-18T19:02:00Z"
   },
   {
-    "train_number": "7132  ",
+    "train_number": "6550  ",
     "unit_number": "5022.0045",
     "name": "Wr. Neustadt Hbf (in Nb)",
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-10-17T10:25:00Z",
-    "departure": "2023-10-17T10:37:00Z"
+    "arrival": "2023-10-18T15:57:00Z",
+    "departure": "2023-10-18T18:37:00Z"
   },
   {
-    "train_number": "7132  ",
-    "unit_number": "5022.0045",
-    "name": "Mattersburg (in Mr)",
-    "abbr": "Mr  ",
-    "lat": "47.7359",
-    "lng": "16.4088",
-    "arrival": "2023-10-17T10:01:00Z",
-    "departure": "2023-10-17T10:02:00Z"
-  },
-  {
-    "train_number": "7123  ",
-    "unit_number": "5022.0045",
-    "name": "Sopron",
-    "abbr": "SOP ",
-    "lat": "47.6779",
-    "lng": "16.5865",
-    "arrival": "2023-10-17T09:17:00Z",
-    "departure": "2023-10-17T09:44:00Z"
-  },
-  {
-    "train_number": "7123  ",
-    "unit_number": "5022.0045",
-    "name": "Mattersburg (in Mr)",
-    "abbr": "Mr  ",
-    "lat": "47.7359",
-    "lng": "16.4088",
-    "arrival": "2023-10-17T08:58:00Z",
-    "departure": "2023-10-17T09:02:00Z"
-  },
-  {
-    "train_number": "7124  ",
+    "train_number": "2722  ",
     "unit_number": "5022.0045",
     "name": "Wr. Neustadt Hbf (in Nb)",
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-10-17T08:25:00Z",
-    "departure": "2023-10-17T08:37:00Z"
+    "arrival": "2023-10-18T05:57:00Z",
+    "departure": "2023-10-18T14:00:00Z"
   },
   {
-    "train_number": "7124  ",
+    "train_number": "2701  ",
     "unit_number": "5022.0045",
-    "name": "Mattersburg (in Mr)",
-    "abbr": "Mr  ",
-    "lat": "47.7359",
-    "lng": "16.4088",
-    "arrival": "2023-10-17T08:01:00Z",
-    "departure": "2023-10-17T08:02:00Z"
-  },
-  {
-    "train_number": "7115  ",
-    "unit_number": "5022.0045",
-    "name": "Sopron",
-    "abbr": "SOP ",
-    "lat": "47.6779",
-    "lng": "16.5865",
-    "arrival": "2023-10-17T07:17:00Z",
-    "departure": "2023-10-17T07:44:00Z"
-  },
-  {
-    "train_number": "7115  ",
-    "unit_number": "5022.0045",
-    "name": "Mattersburg (in Mr)",
-    "abbr": "Mr  ",
-    "lat": "47.7359",
-    "lng": "16.4088",
-    "arrival": "2023-10-17T06:58:00Z",
-    "departure": "2023-10-17T07:02:00Z"
+    "name": "Friedberg",
+    "abbr": "Fd  ",
+    "lat": "47.4343",
+    "lng": "16.0531",
+    "arrival": "2023-10-18T04:27:00Z",
+    "departure": "2023-10-18T05:00:00Z"
   },
   {
     "train_number": "7116  ",
@@ -157,46 +77,6 @@
     "lat": "47.8113",
     "lng": "16.2337",
     "arrival": "2023-10-17T06:25:00Z",
-    "departure": "2023-10-17T06:37:00Z"
-  },
-  {
-    "train_number": "7116  ",
-    "unit_number": "5022.0045",
-    "name": "Mattersburg (in Mr)",
-    "abbr": "Mr  ",
-    "lat": "47.7359",
-    "lng": "16.4088",
-    "arrival": "2023-10-17T06:02:00Z",
-    "departure": "2023-10-17T06:03:00Z"
-  },
-  {
-    "train_number": "7109  ",
-    "unit_number": "5022.0045",
-    "name": "Sopron",
-    "abbr": "SOP ",
-    "lat": "47.6779",
-    "lng": "16.5865",
-    "arrival": "2023-10-17T05:41:00Z",
-    "departure": "2023-10-17T05:47:00Z"
-  },
-  {
-    "train_number": "7109  ",
-    "unit_number": "5022.0045",
-    "name": "Mattersburg (in Mr)",
-    "abbr": "Mr  ",
-    "lat": "47.7359",
-    "lng": "16.4088",
-    "arrival": "2023-10-17T05:23:00Z",
-    "departure": "2023-10-17T05:26:00Z"
-  },
-  {
-    "train_number": "7172  ",
-    "unit_number": "5022.0045",
-    "name": "Wr. Neustadt Hbf (in Nb)",
-    "abbr": "Nb  ",
-    "lat": "47.8113",
-    "lng": "16.2337",
-    "arrival": "2023-10-16T20:25:00Z",
-    "departure": "2023-10-17T05:03:00Z"
+    "departure": "2023-10-18T03:00:00Z"
   }
 ]

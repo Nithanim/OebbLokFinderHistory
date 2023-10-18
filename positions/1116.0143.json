@@ -1,202 +1,142 @@
 [
   {
-    "train_number": "54350 ",
+    "train_number": "44199 ",
     "unit_number": "1116.0143",
-    "name": "Bischofshofen (in Bo)",
-    "abbr": "Bo  ",
-    "lat": "47.42",
-    "lng": "13.2199",
+    "name": "München Ost Rbf",
+    "abbr": "MOR ",
+    "lat": "48.1342",
+    "lng": "11.6404",
+    "arrival": "2023-10-19T02:11:00Z",
+    "departure": "2023-10-19T02:42:00Z"
+  },
+  {
+    "train_number": "44199 ",
+    "unit_number": "1116.0143",
+    "name": "Lindau-Reutin (in Lir)",
+    "abbr": "Lir ",
+    "lat": "47.5525",
+    "lng": "9.70313",
+    "arrival": "2023-10-18T22:53:00Z",
+    "departure": "2023-10-18T23:08:00Z"
+  },
+  {
+    "train_number": "44199 ",
+    "unit_number": "1116.0143",
+    "name": "Bregenz (in Bg)",
+    "abbr": "Bg  ",
+    "lat": "47.5029",
+    "lng": "9.73947",
     "arrival": null,
-    "departure": "2023-10-18T01:32:00Z"
+    "departure": "2023-10-18T22:44:00Z"
   },
   {
-    "train_number": "54350 ",
+    "train_number": "44199 ",
     "unit_number": "1116.0143",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "----",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-10-18T00:58:00Z",
-    "departure": "2023-10-18T01:20:00Z"
+    "name": "Wolfurt (in Wo)",
+    "abbr": "Wo  ",
+    "lat": "47.457",
+    "lng": "9.74133",
+    "arrival": "2023-10-18T22:16:00Z",
+    "departure": "2023-10-18T22:38:00Z"
   },
   {
-    "train_number": null,
+    "train_number": "44199 ",
     "unit_number": "1116.0143",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
+    "name": "Dornbirn (in Do)",
+    "abbr": "Do  ",
+    "lat": "47.4176",
+    "lng": "9.73871",
     "arrival": null,
-    "departure": "2023-10-17T23:03:00Z"
+    "departure": "2023-10-18T22:12:00Z"
   },
   {
-    "train_number": "45448 ",
+    "train_number": "44199 ",
     "unit_number": "1116.0143",
-    "name": "Rosenbach",
-    "abbr": "Rn  ",
-    "lat": "46.5309",
-    "lng": "14.0354",
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
+    "arrival": "2023-10-18T21:34:00Z",
+    "departure": "2023-10-18T21:55:00Z"
+  },
+  {
+    "train_number": "45724 ",
+    "unit_number": "1116.0143",
+    "name": "Buchs (SG)",
+    "abbr": "Bc  ",
+    "lat": "47.171",
+    "lng": "9.4779",
+    "arrival": "2023-10-18T13:21:00Z",
+    "departure": "2023-10-18T21:18:00Z"
+  },
+  {
+    "train_number": "45724 ",
+    "unit_number": "1116.0143",
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
     "arrival": null,
-    "departure": "2023-10-17T21:47:00Z"
+    "departure": "2023-10-18T13:05:00Z"
   },
   {
-    "train_number": "41821 ",
+    "train_number": "44194 ",
     "unit_number": "1116.0143",
-    "name": "Rosenbach",
-    "abbr": "Rn  ",
-    "lat": "46.5309",
-    "lng": "14.0354",
+    "name": "Bludenz",
+    "abbr": "B   ",
+    "lat": "47.155",
+    "lng": "9.81448",
+    "arrival": "2023-10-18T04:07:00Z",
+    "departure": "2023-10-18T12:46:00Z"
+  },
+  {
+    "train_number": "44194 ",
+    "unit_number": "1116.0143",
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
     "arrival": null,
-    "departure": "2023-10-17T19:44:00Z"
+    "departure": "2023-10-18T03:50:00Z"
   },
   {
-    "train_number": "41821 ",
+    "train_number": "44194 ",
     "unit_number": "1116.0143",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
-    "arrival": "2023-10-17T19:23:00Z",
-    "departure": "2023-10-17T19:26:00Z"
-  },
-  {
-    "train_number": "41821 ",
-    "unit_number": "1116.0143",
-    "name": "Villach Süd Gvbf Einfgr",
-    "abbr": "Ve  ",
-    "lat": "46.5666",
-    "lng": "13.7983",
-    "arrival": "2023-10-17T19:09:00Z",
-    "departure": "2023-10-17T19:19:00Z"
-  },
-  {
-    "train_number": "88399 ",
-    "unit_number": "1116.0143",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-10-17T13:59:00Z",
-    "departure": "2023-10-17T17:20:00Z"
-  },
-  {
-    "train_number": "88399 ",
-    "unit_number": "1116.0143",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
+    "name": "Dornbirn (in Do)",
+    "abbr": "Do  ",
+    "lat": "47.4176",
+    "lng": "9.73871",
     "arrival": null,
-    "departure": "2023-10-17T12:46:00Z"
+    "departure": "2023-10-18T03:31:00Z"
   },
   {
-    "train_number": "88357 ",
+    "train_number": "44194 ",
     "unit_number": "1116.0143",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-10-17T09:15:00Z",
-    "departure": "2023-10-17T12:15:00Z"
+    "name": "Wolfurt (in Wo)",
+    "abbr": "Wo  ",
+    "lat": "47.457",
+    "lng": "9.74133",
+    "arrival": "2023-10-18T03:17:00Z",
+    "departure": "2023-10-18T03:27:00Z"
   },
   {
-    "train_number": "88357 ",
+    "train_number": "44194 ",
     "unit_number": "1116.0143",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
+    "name": "Bregenz (in Bg)",
+    "abbr": "Bg  ",
+    "lat": "47.5029",
+    "lng": "9.73947",
     "arrival": null,
-    "departure": "2023-10-17T09:13:00Z"
+    "departure": "2023-10-18T03:10:00Z"
   },
   {
-    "train_number": "57462 ",
+    "train_number": "44194 ",
     "unit_number": "1116.0143",
-    "name": "Jenbach",
-    "abbr": "Jb  ",
-    "lat": "47.3884",
-    "lng": "11.7783",
-    "arrival": "2023-10-17T08:38:00Z",
-    "departure": "2023-10-17T08:55:00Z"
-  },
-  {
-    "train_number": "57462 ",
-    "unit_number": "1116.0143",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
-    "arrival": null,
-    "departure": "2023-10-17T08:22:00Z"
-  },
-  {
-    "train_number": "57462 ",
-    "unit_number": "1116.0143",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-10-17T08:19:00Z",
-    "departure": "2023-10-17T08:19:00Z"
-  },
-  {
-    "train_number": "57462 ",
-    "unit_number": "1116.0143",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
-    "arrival": null,
-    "departure": "2023-10-17T07:43:00Z"
-  },
-  {
-    "train_number": "57462 ",
-    "unit_number": "1116.0143",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-10-17T06:25:00Z",
-    "departure": "2023-10-17T06:25:00Z"
-  },
-  {
-    "train_number": "57462 ",
-    "unit_number": "1116.0143",
-    "name": "Bischofshofen (in Bo)",
-    "abbr": "Bo  ",
-    "lat": "47.42",
-    "lng": "13.2199",
-    "arrival": null,
-    "departure": "2023-10-17T06:03:00Z"
-  },
-  {
-    "train_number": "57462 ",
-    "unit_number": "1116.0143",
-    "name": "Stainach-Irdning",
-    "abbr": "Rg  ",
-    "lat": "47.5293",
-    "lng": "14.1078",
-    "arrival": null,
-    "departure": "2023-10-17T04:21:00Z"
-  },
-  {
-    "train_number": "57462 ",
-    "unit_number": "1116.0143",
-    "name": "Selzthal (in Sl)",
-    "abbr": "Sl  ",
-    "lat": "47.5505",
-    "lng": "14.3134",
-    "arrival": "2023-10-17T03:30:00Z",
-    "departure": "2023-10-17T03:58:00Z"
-  },
-  {
-    "train_number": "88801 ",
-    "unit_number": "1116.0143",
-    "name": "St.Michael (in M)",
-    "abbr": "M   ",
-    "lat": "47.3445",
-    "lng": "15.0103",
-    "arrival": "2023-10-17T02:15:00Z",
-    "departure": "2023-10-17T02:42:00Z"
+    "name": "Lindau-Reutin (in Lir)",
+    "abbr": "Lir ",
+    "lat": "47.5525",
+    "lng": "9.70313",
+    "arrival": "2023-10-18T02:54:00Z",
+    "departure": "2023-10-18T03:02:00Z"
   }
 ]

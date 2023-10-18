@@ -1,102 +1,92 @@
 [
   {
-    "train_number": "44180 ",
+    "train_number": "79814 ",
     "unit_number": "1016.0020",
-    "name": "München Ost Rbf",
-    "abbr": "MOR ",
-    "lat": "48.1342",
-    "lng": "11.6404",
-    "arrival": "2023-10-18T00:14:00Z",
-    "departure": "2023-10-18T02:05:00Z"
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
+    "arrival": "2023-10-19T02:12:00Z",
+    "departure": "2023-10-19T02:27:00Z"
+  },
+  {
+    "train_number": "Ty1116",
+    "unit_number": "1016.0020",
+    "name": "Bludenz",
+    "abbr": "B   ",
+    "lat": "47.155",
+    "lng": "9.81448",
+    "arrival": "2023-10-18T14:00:00Z",
+    "departure": "2023-10-19T01:56:00Z"
+  },
+  {
+    "train_number": "79811 ",
+    "unit_number": "1016.0020",
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
+    "arrival": "2023-10-18T06:27:00Z",
+    "departure": "2023-10-18T06:38:00Z"
   },
   {
     "train_number": "44180 ",
     "unit_number": "1016.0020",
-    "name": "Kufstein",
-    "abbr": "K   ",
-    "lat": "47.5833",
-    "lng": "12.1657",
-    "arrival": "2023-10-17T22:40:00Z",
-    "departure": "2023-10-17T23:07:00Z"
+    "name": "Buchs (SG)",
+    "abbr": "Bc  ",
+    "lat": "47.171",
+    "lng": "9.4779",
+    "arrival": "2023-10-18T06:05:00Z",
+    "departure": "2023-10-18T06:13:00Z"
   },
   {
     "train_number": "44180 ",
     "unit_number": "1016.0020",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
+    "arrival": "2023-10-18T05:30:00Z",
+    "departure": "2023-10-18T05:50:00Z"
+  },
+  {
+    "train_number": "44180 ",
+    "unit_number": "1016.0020",
+    "name": "Dornbirn (in Do)",
+    "abbr": "Do  ",
+    "lat": "47.4176",
+    "lng": "9.73871",
     "arrival": null,
-    "departure": "2023-10-17T22:28:00Z"
+    "departure": "2023-10-18T05:11:00Z"
   },
   {
     "train_number": "44180 ",
     "unit_number": "1016.0020",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
+    "name": "Wolfurt (in Wo)",
+    "abbr": "Wo  ",
+    "lat": "47.457",
+    "lng": "9.74133",
+    "arrival": "2023-10-18T05:07:00Z",
+    "departure": "2023-10-18T05:07:00Z"
+  },
+  {
+    "train_number": "44180 ",
+    "unit_number": "1016.0020",
+    "name": "Bregenz (in Bg)",
+    "abbr": "Bg  ",
+    "lat": "47.5029",
+    "lng": "9.73947",
     "arrival": null,
-    "departure": "2023-10-17T22:26:00Z"
+    "departure": "2023-10-18T05:01:00Z"
   },
   {
-    "train_number": "88445 ",
+    "train_number": "44180 ",
     "unit_number": "1016.0020",
-    "name": "Hall in Tirol",
-    "abbr": "H   ",
-    "lat": "47.2769",
-    "lng": "11.5013",
-    "arrival": "2023-10-17T21:07:00Z",
-    "departure": "2023-10-17T21:44:00Z"
-  },
-  {
-    "train_number": "88414 ",
-    "unit_number": "1016.0020",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-10-17T04:50:00Z",
-    "departure": "2023-10-17T20:59:00Z"
-  },
-  {
-    "train_number": "44181 ",
-    "unit_number": "1016.0020",
-    "name": "Hall in Tirol",
-    "abbr": "H   ",
-    "lat": "47.2769",
-    "lng": "11.5013",
-    "arrival": "2023-10-17T04:09:00Z",
-    "departure": "2023-10-17T04:39:00Z"
-  },
-  {
-    "train_number": "44181 ",
-    "unit_number": "1016.0020",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
-    "arrival": null,
-    "departure": "2023-10-17T03:36:00Z"
-  },
-  {
-    "train_number": "44181 ",
-    "unit_number": "1016.0020",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-10-17T03:35:00Z",
-    "departure": "2023-10-17T03:35:00Z"
-  },
-  {
-    "train_number": "44181 ",
-    "unit_number": "1016.0020",
-    "name": "Kufstein",
-    "abbr": "K   ",
-    "lat": "47.5833",
-    "lng": "12.1657",
-    "arrival": "2023-10-17T02:11:00Z",
-    "departure": "2023-10-17T03:23:00Z"
+    "name": "Lindau-Reutin (in Lir)",
+    "abbr": "Lir ",
+    "lat": "47.5525",
+    "lng": "9.70313",
+    "arrival": "2023-10-18T04:49:00Z",
+    "departure": "2023-10-18T04:54:00Z"
   }
 ]
