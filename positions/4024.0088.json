@@ -1,5 +1,195 @@
 [
   {
+    "train_number": "5162  ",
+    "unit_number": "4024.0088",
+    "name": "Schwaz",
+    "abbr": "Sw  ",
+    "lat": "47.3497",
+    "lng": "11.7016",
+    "arrival": "2023-10-19T13:28:00Z",
+    "departure": "2023-10-19T13:28:00Z"
+  },
+  {
+    "train_number": "5159  ",
+    "unit_number": "4024.0088",
+    "name": "Jenbach",
+    "abbr": "Jb  ",
+    "lat": "47.3884",
+    "lng": "11.7783",
+    "arrival": "2023-10-19T12:38:00Z",
+    "departure": "2023-10-19T13:21:00Z"
+  },
+  {
+    "train_number": "5159  ",
+    "unit_number": "4024.0088",
+    "name": "Schwaz",
+    "abbr": "Sw  ",
+    "lat": "47.3497",
+    "lng": "11.7016",
+    "arrival": "2023-10-19T12:31:00Z",
+    "departure": "2023-10-19T12:32:00Z"
+  },
+  {
+    "train_number": "5159  ",
+    "unit_number": "4024.0088",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
+    "arrival": "2023-10-19T12:15:00Z",
+    "departure": "2023-10-19T12:16:00Z"
+  },
+  {
+    "train_number": "5159  ",
+    "unit_number": "4024.0088",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-10-19T12:01:00Z",
+    "departure": "2023-10-19T12:05:00Z"
+  },
+  {
+    "train_number": "5154  ",
+    "unit_number": "4024.0088",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-10-19T09:55:00Z",
+    "departure": "2023-10-19T09:59:00Z"
+  },
+  {
+    "train_number": "5154  ",
+    "unit_number": "4024.0088",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
+    "arrival": "2023-10-19T09:44:00Z",
+    "departure": "2023-10-19T09:44:00Z"
+  },
+  {
+    "train_number": "5154  ",
+    "unit_number": "4024.0088",
+    "name": "Schwaz",
+    "abbr": "Sw  ",
+    "lat": "47.3497",
+    "lng": "11.7016",
+    "arrival": "2023-10-19T09:28:00Z",
+    "departure": "2023-10-19T09:28:00Z"
+  },
+  {
+    "train_number": "5151  ",
+    "unit_number": "4024.0088",
+    "name": "Jenbach",
+    "abbr": "Jb  ",
+    "lat": "47.3884",
+    "lng": "11.7783",
+    "arrival": "2023-10-19T08:38:00Z",
+    "departure": "2023-10-19T09:21:00Z"
+  },
+  {
+    "train_number": "5151  ",
+    "unit_number": "4024.0088",
+    "name": "Schwaz",
+    "abbr": "Sw  ",
+    "lat": "47.3497",
+    "lng": "11.7016",
+    "arrival": "2023-10-19T08:31:00Z",
+    "departure": "2023-10-19T08:32:00Z"
+  },
+  {
+    "train_number": "5151  ",
+    "unit_number": "4024.0088",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
+    "arrival": "2023-10-19T08:15:00Z",
+    "departure": "2023-10-19T08:16:00Z"
+  },
+  {
+    "train_number": "5151  ",
+    "unit_number": "4024.0088",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-10-19T08:01:00Z",
+    "departure": "2023-10-19T08:05:00Z"
+  },
+  {
+    "train_number": "5146  ",
+    "unit_number": "4024.0088",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-10-19T05:55:00Z",
+    "departure": "2023-10-19T05:59:00Z"
+  },
+  {
+    "train_number": "5146  ",
+    "unit_number": "4024.0088",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
+    "arrival": "2023-10-19T05:44:00Z",
+    "departure": "2023-10-19T05:44:00Z"
+  },
+  {
+    "train_number": "5146  ",
+    "unit_number": "4024.0088",
+    "name": "Schwaz",
+    "abbr": "Sw  ",
+    "lat": "47.3497",
+    "lng": "11.7016",
+    "arrival": "2023-10-19T05:28:00Z",
+    "departure": "2023-10-19T05:28:00Z"
+  },
+  {
+    "train_number": "5243  ",
+    "unit_number": "4024.0088",
+    "name": "Jenbach",
+    "abbr": "Jb  ",
+    "lat": "47.3884",
+    "lng": "11.7783",
+    "arrival": "2023-10-19T05:14:00Z",
+    "departure": "2023-10-19T05:21:00Z"
+  },
+  {
+    "train_number": "5243  ",
+    "unit_number": "4024.0088",
+    "name": "Schwaz",
+    "abbr": "Sw  ",
+    "lat": "47.3497",
+    "lng": "11.7016",
+    "arrival": "2023-10-19T05:09:00Z",
+    "departure": "2023-10-19T05:10:00Z"
+  },
+  {
+    "train_number": "5243  ",
+    "unit_number": "4024.0088",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
+    "arrival": "2023-10-19T04:55:00Z",
+    "departure": "2023-10-19T04:56:00Z"
+  },
+  {
+    "train_number": "5243  ",
+    "unit_number": "4024.0088",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-10-19T04:38:00Z",
+    "departure": "2023-10-19T04:46:00Z"
+  },
+  {
     "train_number": "5274  ",
     "unit_number": "4024.0088",
     "name": "Brennero/Brenner",
@@ -8,115 +198,5 @@
     "lng": "11.5053",
     "arrival": "2023-10-18T21:44:00Z",
     "departure": "2023-10-19T03:58:00Z"
-  },
-  {
-    "train_number": "5469  ",
-    "unit_number": "4024.0088",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-10-18T20:23:00Z",
-    "departure": "2023-10-18T21:05:00Z"
-  },
-  {
-    "train_number": "5465  ",
-    "unit_number": "4024.0088",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-10-18T17:23:00Z",
-    "departure": "2023-10-18T18:38:00Z"
-  },
-  {
-    "train_number": "5457  ",
-    "unit_number": "4024.0088",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-10-18T13:23:00Z",
-    "departure": "2023-10-18T14:38:00Z"
-  },
-  {
-    "train_number": "5449  ",
-    "unit_number": "4024.0088",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-10-18T09:23:00Z",
-    "departure": "2023-10-18T10:38:00Z"
-  },
-  {
-    "train_number": "5184  ",
-    "unit_number": "4024.0088",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-10-18T05:29:00Z",
-    "departure": "2023-10-18T06:38:00Z"
-  },
-  {
-    "train_number": "5184  ",
-    "unit_number": "4024.0088",
-    "name": "Hall in Tirol",
-    "abbr": "H   ",
-    "lat": "47.2769",
-    "lng": "11.5013",
-    "arrival": "2023-10-18T05:18:00Z",
-    "departure": "2023-10-18T05:18:00Z"
-  },
-  {
-    "train_number": "5184  ",
-    "unit_number": "4024.0088",
-    "name": "Schwaz",
-    "abbr": "Sw  ",
-    "lat": "47.3497",
-    "lng": "11.7016",
-    "arrival": "2023-10-18T05:02:00Z",
-    "departure": "2023-10-18T05:02:00Z"
-  },
-  {
-    "train_number": "5143  ",
-    "unit_number": "4024.0088",
-    "name": "Jenbach",
-    "abbr": "Jb  ",
-    "lat": "47.3884",
-    "lng": "11.7783",
-    "arrival": "2023-10-18T04:31:00Z",
-    "departure": "2023-10-18T04:55:00Z"
-  },
-  {
-    "train_number": "5143  ",
-    "unit_number": "4024.0088",
-    "name": "Schwaz",
-    "abbr": "Sw  ",
-    "lat": "47.3497",
-    "lng": "11.7016",
-    "arrival": "2023-10-18T04:24:00Z",
-    "departure": "2023-10-18T04:25:00Z"
-  },
-  {
-    "train_number": "5143  ",
-    "unit_number": "4024.0088",
-    "name": "Hall in Tirol",
-    "abbr": "H   ",
-    "lat": "47.2769",
-    "lng": "11.5013",
-    "arrival": "2023-10-18T04:08:00Z",
-    "departure": "2023-10-18T04:09:00Z"
-  },
-  {
-    "train_number": "5143  ",
-    "unit_number": "4024.0088",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-10-18T03:53:00Z",
-    "departure": "2023-10-18T03:58:00Z"
   }
 ]

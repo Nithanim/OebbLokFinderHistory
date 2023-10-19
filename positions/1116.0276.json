@@ -1,72 +1,82 @@
 [
   {
-    "train_number": "62000 ",
+    "train_number": "62009 ",
+    "unit_number": "1116.0276",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": null,
+    "departure": "2023-10-19T20:33:00Z"
+  },
+  {
+    "train_number": "62009 ",
     "unit_number": "1116.0276",
     "name": "St.Pölten Hbf (in Pb)",
     "abbr": "Pb  ",
     "lat": "48.2081",
     "lng": "15.6237",
     "arrival": null,
-    "departure": "2023-10-18T20:41:00Z"
+    "departure": "2023-10-19T19:40:00Z"
   },
   {
     "train_number": null,
+    "unit_number": "1116.0276",
+    "name": "St.Pölten-Fbf (in Pb)",
+    "abbr": "Pw  ",
+    "lat": "48.2101",
+    "lng": "15.6161",
+    "arrival": null,
+    "departure": "2023-10-19T19:37:00Z"
+  },
+  {
+    "train_number": "59004 ",
+    "unit_number": "1116.0276",
+    "name": "St.Pölten Hbf (in Pb)",
+    "abbr": "Pb  ",
+    "lat": "48.2081",
+    "lng": "15.6237",
+    "arrival": null,
+    "departure": "2023-10-19T13:33:00Z"
+  },
+  {
+    "train_number": "59004 ",
+    "unit_number": "1116.0276",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": "2023-10-19T12:19:00Z",
+    "departure": "2023-10-19T12:22:00Z"
+  },
+  {
+    "train_number": "59003 ",
     "unit_number": "1116.0276",
     "name": "Wien Zvbf (in Zur)",
     "abbr": "Zur ",
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-10-18T19:19:00Z"
+    "departure": "2023-10-19T09:57:00Z"
   },
   {
-    "train_number": "68306 ",
+    "train_number": "59003 ",
     "unit_number": "1116.0276",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
+    "name": "St.Pölten Hbf (in Pb)",
+    "abbr": "Pb  ",
+    "lat": "48.2081",
+    "lng": "15.6237",
     "arrival": null,
-    "departure": "2023-10-18T18:28:00Z"
+    "departure": "2023-10-19T08:40:00Z"
   },
   {
-    "train_number": "68306 ",
+    "train_number": "Rübe  ",
     "unit_number": "1116.0276",
-    "name": "Kledering (in Zur)",
-    "abbr": "Za  ",
-    "lat": "48.1331",
-    "lng": "16.4396",
-    "arrival": "2023-10-18T18:12:00Z",
-    "departure": "2023-10-18T18:21:00Z"
-  },
-  {
-    "train_number": "52000 ",
-    "unit_number": "1116.0276",
-    "name": "Herzogenburg (in Ho)",
-    "abbr": "Ho  ",
-    "lat": "48.2759",
-    "lng": "15.6966",
-    "arrival": "2023-10-18T07:59:00Z",
-    "departure": "2023-10-18T15:02:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0276",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-10-18T04:22:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0276",
-    "name": "W. Matzleinsdorf (in Wbf)",
-    "abbr": "Mat ",
-    "lat": "48.1772",
-    "lng": "16.3491",
-    "arrival": null,
-    "departure": "2023-10-18T02:17:00Z"
+    "name": "St.Pölten Hbf (in Pb)",
+    "abbr": "Pb  ",
+    "lat": "48.2081",
+    "lng": "15.6237",
+    "arrival": "2023-10-19T06:16:00Z",
+    "departure": "2023-10-19T06:17:00Z"
   }
 ]
