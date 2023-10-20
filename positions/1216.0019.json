@@ -1,0 +1,22 @@
+[
+  {
+    "train_number": "237   ",
+    "unit_number": "1216.0019",
+    "name": "Tarvisio Boscoverde",
+    "abbr": "Tbv ",
+    "lat": "46.5059",
+    "lng": "13.6081",
+    "arrival": "2023-10-20T03:23:00Z",
+    "departure": "2023-10-20T03:30:00Z"
+  },
+  {
+    "train_number": "633   ",
+    "unit_number": "1216.0019",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-10-19T20:46:00Z",
+    "departure": "2023-10-20T03:00:00Z"
+  }
+]
