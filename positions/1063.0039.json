@@ -1,5 +1,15 @@
 [
   {
+    "train_number": "54761 ",
+    "unit_number": "1063.0039",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": null,
+    "departure": "2023-10-21T02:21:00Z"
+  },
+  {
     "train_number": "67668 ",
     "unit_number": "1063.0039",
     "name": "Bruck a.d.Mur-Fbf (in Bm)",
@@ -8,85 +18,5 @@
     "lng": "15.28",
     "arrival": "2023-10-20T22:15:00Z",
     "departure": "2023-10-21T02:18:00Z"
-  },
-  {
-    "train_number": "67668 ",
-    "unit_number": "1063.0039",
-    "name": "Bruck a.d.Mur (in Bm)",
-    "abbr": "Bm  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
-    "arrival": null,
-    "departure": "2023-10-20T22:12:00Z"
-  },
-  {
-    "train_number": "67668 ",
-    "unit_number": "1063.0039",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": null,
-    "departure": "2023-10-20T21:56:00Z"
-  },
-  {
-    "train_number": "67668 ",
-    "unit_number": "1063.0039",
-    "name": "St.Michael (in M)",
-    "abbr": "M   ",
-    "lat": "47.3445",
-    "lng": "15.0103",
-    "arrival": "2023-10-20T20:43:00Z",
-    "departure": "2023-10-20T21:47:00Z"
-  },
-  {
-    "train_number": "M2    ",
-    "unit_number": "1063.0039",
-    "name": "St.Michael (in M)",
-    "abbr": "M   ",
-    "lat": "47.3445",
-    "lng": "15.0103",
-    "arrival": "2023-10-20T12:30:00Z",
-    "departure": "2023-10-20T13:09:00Z"
-  },
-  {
-    "train_number": "77660 ",
-    "unit_number": "1063.0039",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": "2023-10-20T11:48:00Z",
-    "departure": "2023-10-20T12:00:00Z"
-  },
-  {
-    "train_number": "77661 ",
-    "unit_number": "1063.0039",
-    "name": "Leoben Hbf (in Leb)",
-    "abbr": "Leb ",
-    "lat": "47.3867",
-    "lng": "15.0898",
-    "arrival": "2023-10-20T06:25:00Z",
-    "departure": "2023-10-20T06:48:00Z"
-  },
-  {
-    "train_number": "M2    ",
-    "unit_number": "1063.0039",
-    "name": "St.Michael (in M)",
-    "abbr": "M   ",
-    "lat": "47.3445",
-    "lng": "15.0103",
-    "arrival": "2023-10-20T06:13:00Z",
-    "departure": "2023-10-20T06:13:00Z"
-  },
-  {
-    "train_number": "M2    ",
-    "unit_number": "1063.0039",
-    "name": "St.Michael (in M)",
-    "abbr": "M   ",
-    "lat": "47.3445",
-    "lng": "15.0103",
-    "arrival": "2023-10-20T03:44:00Z",
-    "departure": "2023-10-20T03:44:00Z"
   }
 ]

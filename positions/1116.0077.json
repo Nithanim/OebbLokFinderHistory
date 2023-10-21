@@ -1,172 +1,202 @@
 [
   {
-    "train_number": "79563 ",
-    "unit_number": "1116.0077",
-    "name": "Hohenau",
-    "abbr": "Nh  ",
-    "lat": "48.5981",
-    "lng": "16.9008",
-    "arrival": "2023-10-20T13:19:00Z",
-    "departure": "2023-10-21T02:22:00Z"
-  },
-  {
-    "train_number": "49404 ",
-    "unit_number": "1116.0077",
-    "name": "Hohenau",
-    "abbr": "Nh  ",
-    "lat": "48.5981",
-    "lng": "16.9008",
-    "arrival": "2023-10-20T11:46:00Z",
-    "departure": "2023-10-20T12:02:00Z"
-  },
-  {
-    "train_number": "49404 ",
-    "unit_number": "1116.0077",
-    "name": "Gänserndorf",
-    "abbr": "Gae ",
-    "lat": "48.3401",
-    "lng": "16.7324",
-    "arrival": null,
-    "departure": "2023-10-20T11:21:00Z"
-  },
-  {
-    "train_number": "49404 ",
-    "unit_number": "1116.0077",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-10-20T10:43:00Z"
-  },
-  {
-    "train_number": "49404 ",
-    "unit_number": "1116.0077",
-    "name": "Kledering (in Zur)",
-    "abbr": "Za  ",
-    "lat": "48.1331",
-    "lng": "16.4396",
-    "arrival": "2023-10-20T10:24:00Z",
-    "departure": "2023-10-20T10:39:00Z"
-  },
-  {
-    "train_number": "49404 ",
-    "unit_number": "1116.0077",
-    "name": "Ebenfurth (in Ef)",
-    "abbr": "Ef  ",
-    "lat": "47.8777",
-    "lng": "16.3621",
-    "arrival": null,
-    "departure": "2023-10-20T09:26:00Z"
-  },
-  {
-    "train_number": "49404 ",
-    "unit_number": "1116.0077",
-    "name": "Wr. Neustadt Hbf (in Nb)",
-    "abbr": "Nb  ",
-    "lat": "47.8113",
-    "lng": "16.2337",
-    "arrival": null,
-    "departure": "2023-10-20T09:16:00Z"
-  },
-  {
-    "train_number": "49404 ",
-    "unit_number": "1116.0077",
-    "name": "Neunkirchen N.Ö.",
-    "abbr": "Nek ",
-    "lat": "47.731",
-    "lng": "16.0826",
-    "arrival": null,
-    "departure": "2023-10-20T09:07:00Z"
-  },
-  {
-    "train_number": "49404 ",
-    "unit_number": "1116.0077",
-    "name": "Payerbach-Reichenau",
-    "abbr": "Pr  ",
-    "lat": "47.696",
-    "lng": "15.8632",
-    "arrival": null,
-    "departure": "2023-10-20T08:40:00Z"
-  },
-  {
-    "train_number": "49404 ",
-    "unit_number": "1116.0077",
-    "name": "Mürzzuschlag (in Mz)",
-    "abbr": "Mz  ",
-    "lat": "47.6079",
-    "lng": "15.677",
-    "arrival": null,
-    "departure": "2023-10-20T08:01:00Z"
-  },
-  {
-    "train_number": "49404 ",
-    "unit_number": "1116.0077",
-    "name": "Bruck a.d.Mur (in Bm)",
-    "abbr": "Bm  ",
-    "lat": "47.4134",
-    "lng": "15.2797",
-    "arrival": null,
-    "departure": "2023-10-20T07:06:00Z"
-  },
-  {
-    "train_number": "49404 ",
+    "train_number": "41406 ",
     "unit_number": "1116.0077",
     "name": "Leoben Hbf (in Leb)",
     "abbr": "Leb ",
     "lat": "47.3867",
     "lng": "15.0898",
     "arrival": null,
-    "departure": "2023-10-20T06:51:00Z"
+    "departure": "2023-10-21T13:39:00Z"
   },
   {
-    "train_number": "49404 ",
+    "train_number": "41406 ",
     "unit_number": "1116.0077",
-    "name": "Zeltweg",
-    "abbr": "Zg  ",
-    "lat": "47.1887",
-    "lng": "14.7425",
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
     "arrival": null,
-    "departure": "2023-10-20T06:21:00Z"
+    "departure": "2023-10-21T12:33:00Z"
   },
   {
-    "train_number": "49404 ",
+    "train_number": "41406 ",
     "unit_number": "1116.0077",
-    "name": "St.Veit a.d.Glan (in Vps)",
-    "abbr": "Vps ",
-    "lat": "46.7704",
-    "lng": "14.3672",
+    "name": "Graz Hbf (in G)",
+    "abbr": "G   ",
+    "lat": "47.0733",
+    "lng": "15.4163",
+    "arrival": "2023-10-21T12:26:00Z",
+    "departure": "2023-10-21T12:29:00Z"
+  },
+  {
+    "train_number": "41406 ",
+    "unit_number": "1116.0077",
+    "name": "Werndorf",
+    "abbr": "Wr  ",
+    "lat": "46.9171",
+    "lng": "15.477",
     "arrival": null,
-    "departure": "2023-10-20T04:58:00Z"
+    "departure": "2023-10-21T12:10:00Z"
   },
   {
-    "train_number": "49404 ",
+    "train_number": "88617 ",
     "unit_number": "1116.0077",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
+    "name": "Spielfeld-Straß",
+    "abbr": "Sd  ",
+    "lat": "46.71",
+    "lng": "15.6282",
+    "arrival": "2023-10-21T10:39:00Z",
+    "departure": "2023-10-21T11:37:00Z"
+  },
+  {
+    "train_number": "88617 ",
+    "unit_number": "1116.0077",
+    "name": "Werndorf",
+    "abbr": "Wr  ",
+    "lat": "46.9171",
+    "lng": "15.477",
     "arrival": null,
-    "departure": "2023-10-20T04:13:00Z"
+    "departure": "2023-10-21T10:20:00Z"
   },
   {
-    "train_number": "49404 ",
+    "train_number": "1357  ",
     "unit_number": "1116.0077",
-    "name": "Villach Hbf",
-    "abbr": "Vb  ",
-    "lat": "46.6186",
-    "lng": "13.8484",
+    "name": "Graz Hbf (in G)",
+    "abbr": "G   ",
+    "lat": "47.0733",
+    "lng": "15.4163",
+    "arrival": "2023-10-21T08:02:00Z",
+    "departure": "2023-10-21T10:08:00Z"
+  },
+  {
+    "train_number": "1357  ",
+    "unit_number": "1116.0077",
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
     "arrival": null,
-    "departure": "2023-10-20T03:39:00Z"
+    "departure": "2023-10-21T07:58:00Z"
   },
   {
-    "train_number": "49404 ",
+    "train_number": "1357  ",
     "unit_number": "1116.0077",
-    "name": "Villach Westbf",
-    "abbr": "Vf  ",
-    "lat": "46.6092",
-    "lng": "13.8407",
-    "arrival": "2023-10-20T02:24:00Z",
-    "departure": "2023-10-20T03:33:00Z"
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": "2023-10-21T07:25:00Z",
+    "departure": "2023-10-21T07:27:00Z"
+  },
+  {
+    "train_number": "1357  ",
+    "unit_number": "1116.0077",
+    "name": "Mürzzuschlag (in Mz)",
+    "abbr": "Mz  ",
+    "lat": "47.6079",
+    "lng": "15.677",
+    "arrival": null,
+    "departure": "2023-10-21T06:59:00Z"
+  },
+  {
+    "train_number": "1357  ",
+    "unit_number": "1116.0077",
+    "name": "Payerbach-Reichenau",
+    "abbr": "Pr  ",
+    "lat": "47.696",
+    "lng": "15.8632",
+    "arrival": null,
+    "departure": "2023-10-21T06:19:00Z"
+  },
+  {
+    "train_number": "1357  ",
+    "unit_number": "1116.0077",
+    "name": "Neunkirchen N.Ö.",
+    "abbr": "Nek ",
+    "lat": "47.731",
+    "lng": "16.0826",
+    "arrival": null,
+    "departure": "2023-10-21T06:05:00Z"
+  },
+  {
+    "train_number": "1357  ",
+    "unit_number": "1116.0077",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": "2023-10-21T05:51:00Z",
+    "departure": "2023-10-21T05:53:00Z"
+  },
+  {
+    "train_number": "1357  ",
+    "unit_number": "1116.0077",
+    "name": "Leobersdorf",
+    "abbr": "Lb  ",
+    "lat": "47.9375",
+    "lng": "16.2313",
+    "arrival": null,
+    "departure": "2023-10-21T05:41:00Z"
+  },
+  {
+    "train_number": "1357  ",
+    "unit_number": "1116.0077",
+    "name": "Mödling",
+    "abbr": "Md  ",
+    "lat": "48.0858",
+    "lng": "16.2958",
+    "arrival": null,
+    "departure": "2023-10-21T05:28:00Z"
+  },
+  {
+    "train_number": "1357  ",
+    "unit_number": "1116.0077",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": null,
+    "departure": "2023-10-21T05:12:00Z"
+  },
+  {
+    "train_number": "457   ",
+    "unit_number": "1116.0077",
+    "name": "Wien Hauptbahnhof (in Wbf)",
+    "abbr": "Wbf ",
+    "lat": "48.185",
+    "lng": "16.3778",
+    "arrival": "2023-10-21T05:00:00Z",
+    "departure": "2023-10-21T05:05:00Z"
+  },
+  {
+    "train_number": "457   ",
+    "unit_number": "1116.0077",
+    "name": "Gänserndorf",
+    "abbr": "Gae ",
+    "lat": "48.3401",
+    "lng": "16.7324",
+    "arrival": null,
+    "departure": "2023-10-21T04:23:00Z"
+  },
+  {
+    "train_number": "457   ",
+    "unit_number": "1116.0077",
+    "name": "Hohenau",
+    "abbr": "Nh  ",
+    "lat": "48.5981",
+    "lng": "16.9008",
+    "arrival": null,
+    "departure": "2023-10-21T04:00:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0077",
+    "name": "Hohenau",
+    "abbr": "Nh  ",
+    "lat": "48.5981",
+    "lng": "16.9008",
+    "arrival": null,
+    "departure": "2023-10-21T02:22:00Z"
   }
 ]
