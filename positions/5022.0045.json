@@ -1,0 +1,32 @@
+[
+  {
+    "train_number": "2775  ",
+    "unit_number": "5022.0045",
+    "name": "Friedberg",
+    "abbr": "Fd  ",
+    "lat": "47.4343",
+    "lng": "16.0531",
+    "arrival": "2023-10-22T20:45:00Z",
+    "departure": "2023-10-22T20:56:00Z"
+  },
+  {
+    "train_number": "6416  ",
+    "unit_number": "5022.0045",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": "2023-10-22T07:24:00Z",
+    "departure": "2023-10-22T19:39:00Z"
+  },
+  {
+    "train_number": "2710  ",
+    "unit_number": "5022.0045",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": "2023-10-22T04:23:00Z",
+    "departure": "2023-10-22T05:37:00Z"
+  }
+]
