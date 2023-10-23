@@ -1,0 +1,72 @@
+[
+  {
+    "train_number": "63571 ",
+    "unit_number": "1063.0039",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": null,
+    "departure": "2023-10-24T01:17:00Z"
+  },
+  {
+    "train_number": "63571 ",
+    "unit_number": "1063.0039",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": null,
+    "departure": "2023-10-24T01:03:00Z"
+  },
+  {
+    "train_number": "54676 ",
+    "unit_number": "1063.0039",
+    "name": "Bruck a.d.Mur-Fbf (in Bm)",
+    "abbr": "Bk  ",
+    "lat": "47.4219",
+    "lng": "15.28",
+    "arrival": "2023-10-23T19:50:00Z",
+    "departure": "2023-10-24T01:00:00Z"
+  },
+  {
+    "train_number": "54676 ",
+    "unit_number": "1063.0039",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
+    "arrival": null,
+    "departure": "2023-10-23T19:47:00Z"
+  },
+  {
+    "train_number": "65758 ",
+    "unit_number": "1063.0039",
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
+    "arrival": "2023-10-23T17:17:00Z",
+    "departure": "2023-10-23T18:51:00Z"
+  },
+  {
+    "train_number": "65758 ",
+    "unit_number": "1063.0039",
+    "name": "Graz Hbf (in G)",
+    "abbr": "G   ",
+    "lat": "47.0733",
+    "lng": "15.4163",
+    "arrival": null,
+    "departure": "2023-10-23T17:12:00Z"
+  },
+  {
+    "train_number": "Ty1063",
+    "unit_number": "1063.0039",
+    "name": "Graz Hbf (in G)",
+    "abbr": "G   ",
+    "lat": "47.0733",
+    "lng": "15.4163",
+    "arrival": "2023-10-23T14:12:00Z",
+    "departure": "2023-10-23T16:19:00Z"
+  }
+]

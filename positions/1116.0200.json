@@ -1,53 +1,73 @@
 [
   {
-    "train_number": "43633 ",
+    "train_number": "54701 ",
     "unit_number": "1116.0200",
-    "name": "Kledering (in Zur)",
-    "abbr": "Za  ",
-    "lat": "48.1331",
-    "lng": "16.4396",
-    "arrival": "2023-10-23T02:09:00Z",
-    "departure": "2023-10-23T02:17:00Z"
+    "name": "Graz Vbf (in G)",
+    "abbr": "Gi  ",
+    "lat": "47.0885",
+    "lng": "15.4077",
+    "arrival": "2023-10-24T01:37:00Z",
+    "departure": "2023-10-24T06:35:00Z"
   },
   {
-    "train_number": "43633 ",
+    "train_number": "54701 ",
     "unit_number": "1116.0200",
-    "name": "Parndorf",
-    "abbr": "Par ",
-    "lat": "47.987",
-    "lng": "16.8702",
+    "name": "Bruck a.d.Mur (in Bm)",
+    "abbr": "Bm  ",
+    "lat": "47.4134",
+    "lng": "15.2797",
     "arrival": null,
-    "departure": "2023-10-23T01:37:00Z"
+    "departure": "2023-10-24T00:50:00Z"
   },
   {
-    "train_number": "43633 ",
+    "train_number": "54701 ",
     "unit_number": "1116.0200",
-    "name": "Staatsgrenze n. Kittsee",
-    "abbr": "Kttg",
-    "lat": "48.1028",
-    "lng": "17.0842",
+    "name": "Mürzzuschlag (in Mz)",
+    "abbr": "Mz  ",
+    "lat": "47.6079",
+    "lng": "15.677",
     "arrival": null,
-    "departure": "2023-10-23T01:21:00Z"
+    "departure": "2023-10-24T00:17:00Z"
   },
   {
-    "train_number": "44603 ",
+    "train_number": "54701 ",
     "unit_number": "1116.0200",
-    "name": "Staatsgrenze n. Kittsee",
-    "abbr": "Kttg",
-    "lat": "48.1028",
-    "lng": "17.0842",
+    "name": "Payerbach-Reichenau",
+    "abbr": "Pr  ",
+    "lat": "47.696",
+    "lng": "15.8632",
     "arrival": null,
-    "departure": "2023-10-23T00:06:00Z"
+    "departure": "2023-10-23T23:38:00Z"
   },
   {
-    "train_number": "44603 ",
+    "train_number": "54701 ",
     "unit_number": "1116.0200",
-    "name": "Parndorf",
-    "abbr": "Par ",
-    "lat": "47.987",
-    "lng": "16.8702",
+    "name": "Neunkirchen N.Ö.",
+    "abbr": "Nek ",
+    "lat": "47.731",
+    "lng": "16.0826",
     "arrival": null,
-    "departure": "2023-10-22T23:51:00Z"
+    "departure": "2023-10-23T23:18:00Z"
+  },
+  {
+    "train_number": "54701 ",
+    "unit_number": "1116.0200",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": null,
+    "departure": "2023-10-23T23:04:00Z"
+  },
+  {
+    "train_number": "54701 ",
+    "unit_number": "1116.0200",
+    "name": "Ebenfurth (in Ef)",
+    "abbr": "Ef  ",
+    "lat": "47.8777",
+    "lng": "16.3621",
+    "arrival": null,
+    "departure": "2023-10-23T22:52:00Z"
   },
   {
     "train_number": null,
@@ -57,16 +77,46 @@
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-10-22T23:15:00Z"
+    "departure": "2023-10-23T22:19:00Z"
   },
   {
-    "train_number": "45023 ",
+    "train_number": "68018 ",
+    "unit_number": "1116.0200",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-10-23T19:18:00Z"
+  },
+  {
+    "train_number": "68019 ",
+    "unit_number": "1116.0200",
+    "name": "W. Hütteldorf GzGr (in Hf)",
+    "abbr": "Hfg ",
+    "lat": "48.1949",
+    "lng": "16.2705",
+    "arrival": "2023-10-23T17:31:00Z",
+    "departure": "2023-10-23T18:34:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0200",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-10-23T17:00:00Z"
+  },
+  {
+    "train_number": null,
     "unit_number": "1116.0200",
     "name": "Wien Zvbf-Einfgr. (in Zur)",
     "abbr": "Ze  ",
     "lat": "48.1568",
     "lng": "16.4193",
-    "arrival": "2023-10-22T00:58:00Z",
-    "departure": "2023-10-22T03:17:00Z"
+    "arrival": null,
+    "departure": "2023-10-23T11:50:00Z"
   }
 ]

@@ -1,23 +1,143 @@
 [
   {
-    "train_number": "2775  ",
+    "train_number": "4733  ",
+    "unit_number": "5022.0045",
+    "name": "Graz Hbf (in G)",
+    "abbr": "G   ",
+    "lat": "47.0733",
+    "lng": "15.4163",
+    "arrival": "2023-10-23T18:53:00Z",
+    "departure": "2023-10-24T06:07:00Z"
+  },
+  {
+    "train_number": "4724  ",
+    "unit_number": "5022.0045",
+    "name": "Fehring",
+    "abbr": "Feg ",
+    "lat": "46.9495",
+    "lng": "16.013",
+    "arrival": "2023-10-23T17:22:00Z",
+    "departure": "2023-10-23T17:41:00Z"
+  },
+  {
+    "train_number": "4727  ",
+    "unit_number": "5022.0045",
+    "name": "Graz Hbf (in G)",
+    "abbr": "G   ",
+    "lat": "47.0733",
+    "lng": "15.4163",
+    "arrival": "2023-10-23T15:53:00Z",
+    "departure": "2023-10-23T16:07:00Z"
+  },
+  {
+    "train_number": "4727  ",
+    "unit_number": "5022.0045",
+    "name": "Fehring",
+    "abbr": "Feg ",
+    "lat": "46.9495",
+    "lng": "16.013",
+    "arrival": "2023-10-23T14:39:00Z",
+    "departure": "2023-10-23T14:41:00Z"
+  },
+  {
+    "train_number": "4762  ",
+    "unit_number": "5022.0045",
+    "name": "Szentgotthard",
+    "abbr": "Gh  ",
+    "lat": "46.9584",
+    "lng": "16.266",
+    "arrival": "2023-10-23T14:08:00Z",
+    "departure": "2023-10-23T14:18:00Z"
+  },
+  {
+    "train_number": "4767  ",
+    "unit_number": "5022.0045",
+    "name": "Fehring",
+    "abbr": "Feg ",
+    "lat": "46.9495",
+    "lng": "16.013",
+    "arrival": "2023-10-23T13:30:00Z",
+    "departure": "2023-10-23T13:47:00Z"
+  },
+  {
+    "train_number": "4714  ",
+    "unit_number": "5022.0045",
+    "name": "Szentgotthard",
+    "abbr": "Gh  ",
+    "lat": "46.9584",
+    "lng": "16.266",
+    "arrival": "2023-10-23T12:52:00Z",
+    "departure": "2023-10-23T13:09:00Z"
+  },
+  {
+    "train_number": "4714  ",
+    "unit_number": "5022.0045",
+    "name": "Fehring",
+    "abbr": "Feg ",
+    "lat": "46.9495",
+    "lng": "16.013",
+    "arrival": "2023-10-23T12:22:00Z",
+    "departure": "2023-10-23T12:31:00Z"
+  },
+  {
+    "train_number": "4719  ",
+    "unit_number": "5022.0045",
+    "name": "Fehring",
+    "abbr": "Feg ",
+    "lat": "46.9495",
+    "lng": "16.013",
+    "arrival": "2023-10-23T10:15:00Z",
+    "departure": "2023-10-23T10:41:00Z"
+  },
+  {
+    "train_number": "4708  ",
+    "unit_number": "5022.0045",
+    "name": "Szentgotthard",
+    "abbr": "Gh  ",
+    "lat": "46.9584",
+    "lng": "16.266",
+    "arrival": "2023-10-23T09:45:00Z",
+    "departure": "2023-10-23T09:54:00Z"
+  },
+  {
+    "train_number": "4708  ",
+    "unit_number": "5022.0045",
+    "name": "Fehring",
+    "abbr": "Feg ",
+    "lat": "46.9495",
+    "lng": "16.013",
+    "arrival": "2023-10-23T09:22:00Z",
+    "departure": "2023-10-23T09:24:00Z"
+  },
+  {
+    "train_number": "2707  ",
+    "unit_number": "5022.0045",
+    "name": "Fehring",
+    "abbr": "Feg ",
+    "lat": "46.9495",
+    "lng": "16.013",
+    "arrival": "2023-10-23T07:37:00Z",
+    "departure": "2023-10-23T07:41:00Z"
+  },
+  {
+    "train_number": "2707  ",
+    "unit_number": "5022.0045",
+    "name": "Hartberg",
+    "abbr": "Har ",
+    "lat": "47.2814",
+    "lng": "15.9852",
+    "arrival": "2023-10-23T06:35:00Z",
+    "departure": "2023-10-23T06:36:00Z"
+  },
+  {
+    "train_number": "2707  ",
     "unit_number": "5022.0045",
     "name": "Friedberg",
     "abbr": "Fd  ",
     "lat": "47.4343",
     "lng": "16.0531",
-    "arrival": "2023-10-22T20:45:00Z",
-    "departure": "2023-10-22T20:56:00Z"
-  },
-  {
-    "train_number": "6416  ",
-    "unit_number": "5022.0045",
-    "name": "Wr. Neustadt Hbf (in Nb)",
-    "abbr": "Nb  ",
-    "lat": "47.8113",
-    "lng": "16.2337",
-    "arrival": "2023-10-22T07:24:00Z",
-    "departure": "2023-10-22T19:39:00Z"
+    "arrival": "2023-10-23T05:55:00Z",
+    "departure": "2023-10-23T06:02:00Z"
   },
   {
     "train_number": "2710  ",
@@ -26,7 +146,7 @@
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-10-22T04:23:00Z",
-    "departure": "2023-10-22T05:37:00Z"
+    "arrival": "2023-10-23T04:23:00Z",
+    "departure": "2023-10-23T04:39:00Z"
   }
 ]
