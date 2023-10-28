@@ -1,0 +1,202 @@
+[
+  {
+    "train_number": "468   ",
+    "unit_number": "1016.0023",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
+    "arrival": null,
+    "departure": "2023-10-28T18:41:00Z"
+  },
+  {
+    "train_number": "468   ",
+    "unit_number": "1016.0023",
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
+    "arrival": null,
+    "departure": "2023-10-28T18:37:00Z"
+  },
+  {
+    "train_number": "468   ",
+    "unit_number": "1016.0023",
+    "name": "St.Pölten Hbf (in Pb)",
+    "abbr": "Pb  ",
+    "lat": "48.2081",
+    "lng": "15.6237",
+    "arrival": "2023-10-28T18:22:00Z",
+    "departure": "2023-10-28T18:24:00Z"
+  },
+  {
+    "train_number": "468   ",
+    "unit_number": "1016.0023",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-10-28T17:51:00Z",
+    "departure": "2023-10-28T17:54:00Z"
+  },
+  {
+    "train_number": "469   ",
+    "unit_number": "1016.0023",
+    "name": "Wien Hauptbahnhof (in Wbf)",
+    "abbr": "Wbf ",
+    "lat": "48.185",
+    "lng": "16.3778",
+    "arrival": "2023-10-28T08:13:00Z",
+    "departure": "2023-10-28T17:46:00Z"
+  },
+  {
+    "train_number": "469   ",
+    "unit_number": "1016.0023",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-10-28T08:05:00Z",
+    "departure": "2023-10-28T08:08:00Z"
+  },
+  {
+    "train_number": "469   ",
+    "unit_number": "1016.0023",
+    "name": "St.Pölten Hbf (in Pb)",
+    "abbr": "Pb  ",
+    "lat": "48.2081",
+    "lng": "15.6237",
+    "arrival": "2023-10-28T07:36:00Z",
+    "departure": "2023-10-28T07:38:00Z"
+  },
+  {
+    "train_number": "469   ",
+    "unit_number": "1016.0023",
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
+    "arrival": null,
+    "departure": "2023-10-28T07:22:00Z"
+  },
+  {
+    "train_number": "469   ",
+    "unit_number": "1016.0023",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
+    "arrival": null,
+    "departure": "2023-10-28T07:19:00Z"
+  },
+  {
+    "train_number": "469   ",
+    "unit_number": "1016.0023",
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
+    "arrival": null,
+    "departure": "2023-10-28T07:12:00Z"
+  },
+  {
+    "train_number": "469   ",
+    "unit_number": "1016.0023",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": null,
+    "departure": "2023-10-28T07:00:00Z"
+  },
+  {
+    "train_number": "469   ",
+    "unit_number": "1016.0023",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-10-28T06:46:00Z",
+    "departure": "2023-10-28T06:48:00Z"
+  },
+  {
+    "train_number": "469   ",
+    "unit_number": "1016.0023",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": null,
+    "departure": "2023-10-28T06:31:00Z"
+  },
+  {
+    "train_number": "469   ",
+    "unit_number": "1016.0023",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": null,
+    "departure": "2023-10-28T06:14:00Z"
+  },
+  {
+    "train_number": "469   ",
+    "unit_number": "1016.0023",
+    "name": "Steindorf b.Straßw. (in Nst)",
+    "abbr": "Nst ",
+    "lat": "47.9676",
+    "lng": "13.2406",
+    "arrival": null,
+    "departure": "2023-10-28T05:46:00Z"
+  },
+  {
+    "train_number": "469   ",
+    "unit_number": "1016.0023",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-10-28T05:26:00Z",
+    "departure": "2023-10-28T05:30:00Z"
+  },
+  {
+    "train_number": "469   ",
+    "unit_number": "1016.0023",
+    "name": "Salzburg Liefering (in Sb)",
+    "abbr": "Lfg ",
+    "lat": "47.8229",
+    "lng": "13.0021",
+    "arrival": null,
+    "departure": "2023-10-28T05:21:00Z"
+  },
+  {
+    "train_number": "469   ",
+    "unit_number": "1016.0023",
+    "name": "Freilassing",
+    "abbr": "MFL ",
+    "lat": "47.8368",
+    "lng": "12.9764",
+    "arrival": "2023-10-28T05:18:00Z",
+    "departure": "2023-10-28T05:19:00Z"
+  },
+  {
+    "train_number": "469   ",
+    "unit_number": "1016.0023",
+    "name": "Traunstein",
+    "abbr": "MTS ",
+    "lat": "47.8697",
+    "lng": "12.6391",
+    "arrival": null,
+    "departure": "2023-10-28T04:56:00Z"
+  },
+  {
+    "train_number": "469   ",
+    "unit_number": "1016.0023",
+    "name": "Rosenheim",
+    "abbr": "MRO ",
+    "lat": "47.8511",
+    "lng": "12.1196",
+    "arrival": "2023-10-28T04:16:00Z",
+    "departure": "2023-10-28T04:18:00Z"
+  }
+]
