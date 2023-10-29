@@ -1,112 +1,122 @@
 [
   {
-    "train_number": "44807 ",
+    "train_number": null,
     "unit_number": "1016.0021",
-    "name": "Salzburg Hbf (in Sb)",
-    "abbr": "Sb  ",
-    "lat": "47.8135",
-    "lng": "13.0466",
-    "arrival": "2023-10-28T11:39:00Z",
-    "departure": "2023-10-28T11:39:00Z"
-  },
-  {
-    "train_number": "44807 ",
-    "unit_number": "1016.0021",
-    "name": "Salzburg Liefering (in Sb)",
-    "abbr": "Lfg ",
-    "lat": "47.8229",
-    "lng": "13.0021",
+    "name": "W. Matzleinsdorf (in Wbf)",
+    "abbr": "Mat ",
+    "lat": "48.1772",
+    "lng": "16.3491",
     "arrival": null,
-    "departure": "2023-10-28T11:32:00Z"
+    "departure": "2023-10-30T01:50:00Z"
   },
   {
-    "train_number": "44807 ",
+    "train_number": "1015  ",
     "unit_number": "1016.0021",
-    "name": "Freilassing",
-    "abbr": "MFL ",
-    "lat": "47.8368",
-    "lng": "12.9764",
-    "arrival": "2023-10-28T11:29:00Z",
-    "departure": "2023-10-28T11:29:00Z"
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-10-29T21:11:00Z",
+    "departure": "2023-10-29T21:13:00Z"
   },
   {
-    "train_number": "44807 ",
+    "train_number": "1015  ",
     "unit_number": "1016.0021",
-    "name": "Traunstein",
-    "abbr": "MTS ",
-    "lat": "47.8697",
-    "lng": "12.6391",
+    "name": "St.Pölten Hbf (in Pb)",
+    "abbr": "Pb  ",
+    "lat": "48.2081",
+    "lng": "15.6237",
+    "arrival": "2023-10-29T20:45:00Z",
+    "departure": "2023-10-29T20:47:00Z"
+  },
+  {
+    "train_number": "1015  ",
+    "unit_number": "1016.0021",
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
     "arrival": null,
-    "departure": "2023-10-28T11:01:00Z"
+    "departure": "2023-10-29T20:31:00Z"
   },
   {
-    "train_number": "44807 ",
+    "train_number": "1015  ",
     "unit_number": "1016.0021",
-    "name": "Rosenheim",
-    "abbr": "MRO ",
-    "lat": "47.8511",
-    "lng": "12.1196",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
     "arrival": null,
-    "departure": "2023-10-28T10:11:00Z"
+    "departure": "2023-10-29T20:28:00Z"
   },
   {
-    "train_number": "44804 ",
+    "train_number": "1015  ",
     "unit_number": "1016.0021",
-    "name": "Rosenheim",
-    "abbr": "MRO ",
-    "lat": "47.8511",
-    "lng": "12.1196",
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
+    "arrival": "2023-10-29T20:19:00Z",
+    "departure": "2023-10-29T20:21:00Z"
+  },
+  {
+    "train_number": "1015  ",
+    "unit_number": "1016.0021",
+    "name": "Waidhofen/Ybbs",
+    "abbr": "Wh  ",
+    "lat": "47.9684",
+    "lng": "14.7653",
+    "arrival": "2023-10-29T19:52:00Z",
+    "departure": "2023-10-29T19:57:00Z"
+  },
+  {
+    "train_number": "1015  ",
+    "unit_number": "1016.0021",
+    "name": "Selzthal (in Sl)",
+    "abbr": "Sl  ",
+    "lat": "47.5505",
+    "lng": "14.3134",
+    "arrival": "2023-10-29T18:03:00Z",
+    "departure": "2023-10-29T18:06:00Z"
+  },
+  {
+    "train_number": "1015  ",
+    "unit_number": "1016.0021",
+    "name": "Stainach-Irdning",
+    "abbr": "Rg  ",
+    "lat": "47.5293",
+    "lng": "14.1078",
+    "arrival": "2023-10-29T17:44:00Z",
+    "departure": "2023-10-29T17:45:00Z"
+  },
+  {
+    "train_number": "89327 ",
+    "unit_number": "1016.0021",
+    "name": "Bischofshofen (in Bo)",
+    "abbr": "Bo  ",
+    "lat": "47.42",
+    "lng": "13.2199",
+    "arrival": "2023-10-29T09:13:00Z",
+    "departure": "2023-10-29T16:24:00Z"
+  },
+  {
+    "train_number": "89327 ",
+    "unit_number": "1016.0021",
+    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
+    "abbr": "Sre ",
+    "lat": "47.8075",
+    "lng": "13.0687",
     "arrival": null,
-    "departure": "2023-10-28T05:16:00Z"
-  },
-  {
-    "train_number": "44804 ",
-    "unit_number": "1016.0021",
-    "name": "Traunstein",
-    "abbr": "MTS ",
-    "lat": "47.8697",
-    "lng": "12.6391",
-    "arrival": null,
-    "departure": "2023-10-28T04:36:00Z"
-  },
-  {
-    "train_number": "44804 ",
-    "unit_number": "1016.0021",
-    "name": "Freilassing",
-    "abbr": "MFL ",
-    "lat": "47.8368",
-    "lng": "12.9764",
-    "arrival": "2023-10-28T03:56:00Z",
-    "departure": "2023-10-28T04:14:00Z"
-  },
-  {
-    "train_number": "44804 ",
-    "unit_number": "1016.0021",
-    "name": "Salzburg Liefering (in Sb)",
-    "abbr": "Lfg ",
-    "lat": "47.8229",
-    "lng": "13.0021",
-    "arrival": null,
-    "departure": "2023-10-28T03:53:00Z"
-  },
-  {
-    "train_number": "44804 ",
-    "unit_number": "1016.0021",
-    "name": "Salzburg Hbf (in Sb)",
-    "abbr": "Sb  ",
-    "lat": "47.8135",
-    "lng": "13.0466",
-    "arrival": null,
-    "departure": "2023-10-28T03:47:00Z"
+    "departure": "2023-10-29T08:24:00Z"
   },
   {
     "train_number": null,
     "unit_number": "1016.0021",
-    "name": "Salzburg Gnigl-Vbf (in Sb)",
-    "abbr": "Sr  ",
-    "lat": "47.8167",
-    "lng": "13.0639",
+    "name": "Salzburg-Mitte (in Sb)",
+    "abbr": "Sbm ",
+    "lat": "47.8224",
+    "lng": "13.0512",
     "arrival": null,
-    "departure": "2023-10-28T03:42:00Z"
+    "departure": "2023-10-29T08:19:00Z"
   }
 ]
