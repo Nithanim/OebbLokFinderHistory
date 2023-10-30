@@ -1,0 +1,202 @@
+[
+  {
+    "train_number": "90084 ",
+    "unit_number": "1116.0199",
+    "name": "Sigmundsherberg",
+    "abbr": "Sh  ",
+    "lat": "48.6852",
+    "lng": "15.7462",
+    "arrival": "2023-10-30T13:50:00Z",
+    "departure": "2023-10-30T14:10:00Z"
+  },
+  {
+    "train_number": "90084 ",
+    "unit_number": "1116.0199",
+    "name": "Absdorf-Hippersdorf (in Ah)",
+    "abbr": "Ah  ",
+    "lat": "48.4018",
+    "lng": "15.9862",
+    "arrival": null,
+    "departure": "2023-10-30T12:27:00Z"
+  },
+  {
+    "train_number": "90084 ",
+    "unit_number": "1116.0199",
+    "name": "Stockerau (in Su)",
+    "abbr": "Su  ",
+    "lat": "48.3824",
+    "lng": "16.2126",
+    "arrival": null,
+    "departure": "2023-10-30T12:10:00Z"
+  },
+  {
+    "train_number": "90084 ",
+    "unit_number": "1116.0199",
+    "name": "Korneuburg",
+    "abbr": "Ko  ",
+    "lat": "48.3429",
+    "lng": "16.3289",
+    "arrival": null,
+    "departure": "2023-10-30T11:53:00Z"
+  },
+  {
+    "train_number": "90084 ",
+    "unit_number": "1116.0199",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-10-30T11:01:00Z"
+  },
+  {
+    "train_number": "90084 ",
+    "unit_number": "1116.0199",
+    "name": "Kledering (in Zur)",
+    "abbr": "Za  ",
+    "lat": "48.1331",
+    "lng": "16.4396",
+    "arrival": "2023-10-30T10:53:00Z",
+    "departure": "2023-10-30T11:00:00Z"
+  },
+  {
+    "train_number": "90084 ",
+    "unit_number": "1116.0199",
+    "name": "Ebenfurth (in Ef)",
+    "abbr": "Ef  ",
+    "lat": "47.8777",
+    "lng": "16.3621",
+    "arrival": null,
+    "departure": "2023-10-30T10:15:00Z"
+  },
+  {
+    "train_number": "90084 ",
+    "unit_number": "1116.0199",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": null,
+    "departure": "2023-10-30T10:03:00Z"
+  },
+  {
+    "train_number": "18455 ",
+    "unit_number": "1116.0199",
+    "name": "Wr. Neust.Hbf-Ausf. (in Nb)",
+    "abbr": "Nr  ",
+    "lat": "47.7989",
+    "lng": "16.2217",
+    "arrival": "2023-10-30T09:40:00Z",
+    "departure": "2023-10-30T10:00:00Z"
+  },
+  {
+    "train_number": "18455 ",
+    "unit_number": "1116.0199",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": null,
+    "departure": "2023-10-30T09:38:00Z"
+  },
+  {
+    "train_number": "18455 ",
+    "unit_number": "1116.0199",
+    "name": "Ebenfurth (in Ef)",
+    "abbr": "Ef  ",
+    "lat": "47.8777",
+    "lng": "16.3621",
+    "arrival": null,
+    "departure": "2023-10-30T09:26:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0199",
+    "name": "Kledering (in Zur)",
+    "abbr": "Za  ",
+    "lat": "48.1331",
+    "lng": "16.4396",
+    "arrival": null,
+    "departure": "2023-10-30T08:54:00Z"
+  },
+  {
+    "train_number": "54091 ",
+    "unit_number": "1116.0199",
+    "name": "Wien Zvbf (in Zur)",
+    "abbr": "Zur ",
+    "lat": "48.1453",
+    "lng": "16.43",
+    "arrival": null,
+    "departure": "2023-10-30T07:03:00Z"
+  },
+  {
+    "train_number": "54091 ",
+    "unit_number": "1116.0199",
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
+    "arrival": null,
+    "departure": "2023-10-30T05:00:00Z"
+  },
+  {
+    "train_number": "54091 ",
+    "unit_number": "1116.0199",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
+    "arrival": null,
+    "departure": "2023-10-30T04:50:00Z"
+  },
+  {
+    "train_number": "54091 ",
+    "unit_number": "1116.0199",
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
+    "arrival": null,
+    "departure": "2023-10-30T04:38:00Z"
+  },
+  {
+    "train_number": "54091 ",
+    "unit_number": "1116.0199",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": null,
+    "departure": "2023-10-30T04:10:00Z"
+  },
+  {
+    "train_number": "54091 ",
+    "unit_number": "1116.0199",
+    "name": "Enns",
+    "abbr": "Ens ",
+    "lat": "48.2212",
+    "lng": "14.4668",
+    "arrival": null,
+    "departure": "2023-10-30T04:05:00Z"
+  },
+  {
+    "train_number": "54091 ",
+    "unit_number": "1116.0199",
+    "name": "Linz Vbf-Ost-Einf. (in Lzv)",
+    "abbr": "Lm  ",
+    "lat": "48.2607",
+    "lng": "14.3257",
+    "arrival": null,
+    "departure": "2023-10-30T03:54:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0199",
+    "name": "Linz Vbf-Ost Reih. (in Lzv)",
+    "abbr": "Lo  ",
+    "lat": "48.2718",
+    "lng": "14.3196",
+    "arrival": null,
+    "departure": "2023-10-30T03:43:00Z"
+  }
+]
