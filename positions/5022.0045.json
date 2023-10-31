@@ -1,5 +1,125 @@
 [
   {
+    "train_number": "4734  ",
+    "unit_number": "5022.0045",
+    "name": "Fehring",
+    "abbr": "Feg ",
+    "lat": "46.9495",
+    "lng": "16.013",
+    "arrival": "2023-10-31T23:15:00Z",
+    "departure": "2023-11-01T08:41:00Z"
+  },
+  {
+    "train_number": "4737  ",
+    "unit_number": "5022.0045",
+    "name": "Graz Hbf (in G)",
+    "abbr": "G   ",
+    "lat": "47.0733",
+    "lng": "15.4163",
+    "arrival": "2023-10-31T21:53:00Z",
+    "departure": "2023-10-31T22:07:00Z"
+  },
+  {
+    "train_number": "4737  ",
+    "unit_number": "5022.0045",
+    "name": "Fehring",
+    "abbr": "Feg ",
+    "lat": "46.9495",
+    "lng": "16.013",
+    "arrival": "2023-10-31T20:29:00Z",
+    "departure": "2023-10-31T20:41:00Z"
+  },
+  {
+    "train_number": "4792  ",
+    "unit_number": "5022.0045",
+    "name": "Szentgotthard",
+    "abbr": "Gh  ",
+    "lat": "46.9584",
+    "lng": "16.266",
+    "arrival": "2023-10-31T20:03:00Z",
+    "departure": "2023-10-31T20:08:00Z"
+  },
+  {
+    "train_number": "4792  ",
+    "unit_number": "5022.0045",
+    "name": "Fehring",
+    "abbr": "Feg ",
+    "lat": "46.9495",
+    "lng": "16.013",
+    "arrival": "2023-10-31T19:40:00Z",
+    "departure": "2023-10-31T19:42:00Z"
+  },
+  {
+    "train_number": "4729  ",
+    "unit_number": "5022.0045",
+    "name": "Graz Hbf (in G)",
+    "abbr": "G   ",
+    "lat": "47.0733",
+    "lng": "15.4163",
+    "arrival": "2023-10-31T17:53:00Z",
+    "departure": "2023-10-31T18:37:00Z"
+  },
+  {
+    "train_number": "4729  ",
+    "unit_number": "5022.0045",
+    "name": "Fehring",
+    "abbr": "Feg ",
+    "lat": "46.9495",
+    "lng": "16.013",
+    "arrival": "2023-10-31T16:39:00Z",
+    "departure": "2023-10-31T16:41:00Z"
+  },
+  {
+    "train_number": "4764  ",
+    "unit_number": "5022.0045",
+    "name": "Szentgotthard",
+    "abbr": "Gh  ",
+    "lat": "46.9584",
+    "lng": "16.266",
+    "arrival": "2023-10-31T16:03:00Z",
+    "departure": "2023-10-31T16:18:00Z"
+  },
+  {
+    "train_number": "4718  ",
+    "unit_number": "5022.0045",
+    "name": "Fehring",
+    "abbr": "Feg ",
+    "lat": "46.9495",
+    "lng": "16.013",
+    "arrival": "2023-10-31T15:22:00Z",
+    "departure": "2023-10-31T15:42:00Z"
+  },
+  {
+    "train_number": "4108  ",
+    "unit_number": "5022.0045",
+    "name": "Graz Hbf (in G)",
+    "abbr": "G   ",
+    "lat": "47.0733",
+    "lng": "15.4163",
+    "arrival": "2023-10-31T07:51:00Z",
+    "departure": "2023-10-31T14:07:00Z"
+  },
+  {
+    "train_number": "4108  ",
+    "unit_number": "5022.0045",
+    "name": "Werndorf",
+    "abbr": "Wr  ",
+    "lat": "46.9171",
+    "lng": "15.477",
+    "arrival": "2023-10-31T07:28:00Z",
+    "departure": "2023-10-31T07:29:00Z"
+  },
+  {
+    "train_number": "6308  ",
+    "unit_number": "5022.0045",
+    "name": "Spielfeld-Straß",
+    "abbr": "Sd  ",
+    "lat": "46.71",
+    "lng": "15.6282",
+    "arrival": "2023-10-31T06:25:00Z",
+    "departure": "2023-10-31T07:00:00Z"
+  },
+  {
     "train_number": "6337  ",
     "unit_number": "5022.0045",
     "name": "Bad Radkersburg",
@@ -8,135 +128,5 @@
     "lng": "15.9919",
     "arrival": "2023-10-30T20:44:00Z",
     "departure": "2023-10-31T05:45:00Z"
-  },
-  {
-    "train_number": "6336  ",
-    "unit_number": "5022.0045",
-    "name": "Spielfeld-Straß",
-    "abbr": "Sd  ",
-    "lat": "46.71",
-    "lng": "15.6282",
-    "arrival": "2023-10-30T19:43:00Z",
-    "departure": "2023-10-30T20:04:00Z"
-  },
-  {
-    "train_number": "6333  ",
-    "unit_number": "5022.0045",
-    "name": "Bad Radkersburg",
-    "abbr": "Ra  ",
-    "lat": "46.7013",
-    "lng": "15.9919",
-    "arrival": "2023-10-30T18:58:00Z",
-    "departure": "2023-10-30T19:03:00Z"
-  },
-  {
-    "train_number": "6332  ",
-    "unit_number": "5022.0045",
-    "name": "Spielfeld-Straß",
-    "abbr": "Sd  ",
-    "lat": "46.71",
-    "lng": "15.6282",
-    "arrival": "2023-10-30T17:50:00Z",
-    "departure": "2023-10-30T18:18:00Z"
-  },
-  {
-    "train_number": "6329  ",
-    "unit_number": "5022.0045",
-    "name": "Bad Radkersburg",
-    "abbr": "Ra  ",
-    "lat": "46.7013",
-    "lng": "15.9919",
-    "arrival": "2023-10-30T16:59:00Z",
-    "departure": "2023-10-30T17:10:00Z"
-  },
-  {
-    "train_number": "6326  ",
-    "unit_number": "5022.0045",
-    "name": "Spielfeld-Straß",
-    "abbr": "Sd  ",
-    "lat": "46.71",
-    "lng": "15.6282",
-    "arrival": "2023-10-30T14:53:00Z",
-    "departure": "2023-10-30T16:19:00Z"
-  },
-  {
-    "train_number": "6321  ",
-    "unit_number": "5022.0045",
-    "name": "Bad Radkersburg",
-    "abbr": "Ra  ",
-    "lat": "46.7013",
-    "lng": "15.9919",
-    "arrival": "2023-10-30T12:51:00Z",
-    "departure": "2023-10-30T14:13:00Z"
-  },
-  {
-    "train_number": "6320  ",
-    "unit_number": "5022.0045",
-    "name": "Spielfeld-Straß",
-    "abbr": "Sd  ",
-    "lat": "46.71",
-    "lng": "15.6282",
-    "arrival": "2023-10-30T11:42:00Z",
-    "departure": "2023-10-30T12:09:00Z"
-  },
-  {
-    "train_number": "6317  ",
-    "unit_number": "5022.0045",
-    "name": "Bad Radkersburg",
-    "abbr": "Ra  ",
-    "lat": "46.7013",
-    "lng": "15.9919",
-    "arrival": "2023-10-30T10:57:00Z",
-    "departure": "2023-10-30T11:02:00Z"
-  },
-  {
-    "train_number": "4113  ",
-    "unit_number": "5022.0045",
-    "name": "Spielfeld-Straß",
-    "abbr": "Sd  ",
-    "lat": "46.71",
-    "lng": "15.6282",
-    "arrival": "2023-10-30T10:07:00Z",
-    "departure": "2023-10-30T10:17:00Z"
-  },
-  {
-    "train_number": "4113  ",
-    "unit_number": "5022.0045",
-    "name": "Werndorf",
-    "abbr": "Wr  ",
-    "lat": "46.9171",
-    "lng": "15.477",
-    "arrival": "2023-10-30T09:26:00Z",
-    "departure": "2023-10-30T09:30:00Z"
-  },
-  {
-    "train_number": "1761  ",
-    "unit_number": "5022.0045",
-    "name": "Graz Hbf (in G)",
-    "abbr": "G   ",
-    "lat": "47.0733",
-    "lng": "15.4163",
-    "arrival": "2023-10-30T07:36:00Z",
-    "departure": "2023-10-30T09:05:00Z"
-  },
-  {
-    "train_number": "1761  ",
-    "unit_number": "5022.0045",
-    "name": "Fehring",
-    "abbr": "Feg ",
-    "lat": "46.9495",
-    "lng": "16.013",
-    "arrival": "2023-10-30T06:22:00Z",
-    "departure": "2023-10-30T06:33:00Z"
-  },
-  {
-    "train_number": "2773  ",
-    "unit_number": "5022.0045",
-    "name": "Hartberg",
-    "abbr": "Har ",
-    "lat": "47.2814",
-    "lng": "15.9852",
-    "arrival": "2023-10-29T21:32:00Z",
-    "departure": "2023-10-30T05:21:00Z"
   }
 ]

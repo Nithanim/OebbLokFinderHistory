@@ -1,162 +1,202 @@
 [
   {
+    "train_number": "1018  ",
+    "unit_number": "1116.0077",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-10-31T08:58:00Z",
+    "departure": "2023-10-31T09:04:00Z"
+  },
+  {
+    "train_number": "1018  ",
+    "unit_number": "1116.0077",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": null,
+    "departure": "2023-10-31T08:46:00Z"
+  },
+  {
+    "train_number": "1018  ",
+    "unit_number": "1116.0077",
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
+    "arrival": null,
+    "departure": "2023-10-31T08:33:00Z"
+  },
+  {
+    "train_number": "1018  ",
+    "unit_number": "1116.0077",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
+    "arrival": null,
+    "departure": "2023-10-31T08:28:00Z"
+  },
+  {
+    "train_number": "1018  ",
+    "unit_number": "1116.0077",
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
+    "arrival": null,
+    "departure": "2023-10-31T08:24:00Z"
+  },
+  {
+    "train_number": "1018  ",
+    "unit_number": "1116.0077",
+    "name": "St.Pölten Hbf (in Pb)",
+    "abbr": "Pb  ",
+    "lat": "48.2081",
+    "lng": "15.6237",
+    "arrival": "2023-10-31T08:09:00Z",
+    "departure": "2023-10-31T08:11:00Z"
+  },
+  {
+    "train_number": "1018  ",
+    "unit_number": "1116.0077",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-10-31T07:42:00Z",
+    "departure": "2023-10-31T07:44:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0077",
+    "name": "Wien Hauptbahnhof (in Wbf)",
+    "abbr": "Wbf ",
+    "lat": "48.185",
+    "lng": "16.3778",
+    "arrival": null,
+    "departure": "2023-10-31T07:37:00Z"
+  },
+  {
     "train_number": "19799 ",
     "unit_number": "1116.0077",
-    "name": "Salzburg Liefering (in Sb)",
-    "abbr": "Lfg ",
-    "lat": "47.8229",
-    "lng": "13.0021",
-    "arrival": null,
-    "departure": "2023-10-31T02:13:00Z"
+    "name": "Wien Hauptbahnhof (in Wbf)",
+    "abbr": "Wbf ",
+    "lat": "48.185",
+    "lng": "16.3778",
+    "arrival": "2023-10-31T05:58:00Z",
+    "departure": "2023-10-31T06:02:00Z"
   },
   {
     "train_number": "19799 ",
     "unit_number": "1116.0077",
-    "name": "Freilassing",
-    "abbr": "MFL ",
-    "lat": "47.8368",
-    "lng": "12.9764",
-    "arrival": "2023-10-31T02:12:00Z",
-    "departure": "2023-10-31T02:12:00Z"
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-10-31T05:48:00Z",
+    "departure": "2023-10-31T05:51:00Z"
   },
   {
     "train_number": "19799 ",
     "unit_number": "1116.0077",
-    "name": "Lindau-Reutin (in Lir)",
-    "abbr": "Lir ",
-    "lat": "47.5525",
-    "lng": "9.70313",
-    "arrival": "2023-10-30T22:08:00Z",
-    "departure": "2023-10-30T22:16:00Z"
+    "name": "St.Pölten Hbf (in Pb)",
+    "abbr": "Pb  ",
+    "lat": "48.2081",
+    "lng": "15.6237",
+    "arrival": "2023-10-31T05:10:00Z",
+    "departure": "2023-10-31T05:18:00Z"
   },
   {
     "train_number": "19799 ",
     "unit_number": "1116.0077",
-    "name": "Bregenz (in Bg)",
-    "abbr": "Bg  ",
-    "lat": "47.5029",
-    "lng": "9.73947",
-    "arrival": "2023-10-30T21:58:00Z",
-    "departure": "2023-10-30T22:00:00Z"
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
+    "arrival": null,
+    "departure": "2023-10-31T04:45:00Z"
   },
   {
     "train_number": "19799 ",
     "unit_number": "1116.0077",
-    "name": "Wolfurt (in Wo)",
-    "abbr": "Wo  ",
-    "lat": "47.457",
-    "lng": "9.74133",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
     "arrival": null,
-    "departure": "2023-10-30T21:54:00Z"
+    "departure": "2023-10-31T04:37:00Z"
   },
   {
     "train_number": "19799 ",
     "unit_number": "1116.0077",
-    "name": "Dornbirn (in Do)",
-    "abbr": "Do  ",
-    "lat": "47.4176",
-    "lng": "9.73871",
-    "arrival": "2023-10-30T21:49:00Z",
-    "departure": "2023-10-30T21:51:00Z"
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
+    "arrival": "2023-10-31T04:24:00Z",
+    "departure": "2023-10-31T04:26:00Z"
   },
   {
-    "train_number": "82367 ",
+    "train_number": "19799 ",
     "unit_number": "1116.0077",
-    "name": "Feldkirch",
-    "abbr": "Fk  ",
-    "lat": "47.2417",
-    "lng": "9.60519",
-    "arrival": "2023-10-30T20:47:00Z",
-    "departure": "2023-10-30T21:27:00Z"
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": "2023-10-31T04:04:00Z",
+    "departure": "2023-10-31T04:06:00Z"
   },
   {
-    "train_number": "82367 ",
+    "train_number": "19799 ",
     "unit_number": "1116.0077",
-    "name": "Dornbirn (in Do)",
-    "abbr": "Do  ",
-    "lat": "47.4176",
-    "lng": "9.73871",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-10-31T03:43:00Z",
+    "departure": "2023-10-31T03:48:00Z"
+  },
+  {
+    "train_number": "19799 ",
+    "unit_number": "1116.0077",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-10-31T03:24:00Z",
+    "departure": "2023-10-31T03:26:00Z"
+  },
+  {
+    "train_number": "19799 ",
+    "unit_number": "1116.0077",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": "2023-10-31T03:05:00Z",
+    "departure": "2023-10-31T03:07:00Z"
+  },
+  {
+    "train_number": "19799 ",
+    "unit_number": "1116.0077",
+    "name": "Steindorf b.Straßw. (in Nst)",
+    "abbr": "Nst ",
+    "lat": "47.9676",
+    "lng": "13.2406",
     "arrival": null,
-    "departure": "2023-10-30T20:23:00Z"
+    "departure": "2023-10-31T02:36:00Z"
   },
   {
-    "train_number": "82374 ",
+    "train_number": "19799 ",
     "unit_number": "1116.0077",
-    "name": "Wolfurt (in Wo)",
-    "abbr": "Wo  ",
-    "lat": "47.457",
-    "lng": "9.74133",
-    "arrival": "2023-10-30T11:09:00Z",
-    "departure": "2023-10-30T20:19:00Z"
-  },
-  {
-    "train_number": "82374 ",
-    "unit_number": "1116.0077",
-    "name": "Dornbirn (in Do)",
-    "abbr": "Do  ",
-    "lat": "47.4176",
-    "lng": "9.73871",
-    "arrival": null,
-    "departure": "2023-10-30T11:03:00Z"
-  },
-  {
-    "train_number": "19798 ",
-    "unit_number": "1116.0077",
-    "name": "Feldkirch",
-    "abbr": "Fk  ",
-    "lat": "47.2417",
-    "lng": "9.60519",
-    "arrival": "2023-10-30T10:03:00Z",
-    "departure": "2023-10-30T10:40:00Z"
-  },
-  {
-    "train_number": "19798 ",
-    "unit_number": "1116.0077",
-    "name": "Dornbirn (in Do)",
-    "abbr": "Do  ",
-    "lat": "47.4176",
-    "lng": "9.73871",
-    "arrival": "2023-10-30T09:34:00Z",
-    "departure": "2023-10-30T09:36:00Z"
-  },
-  {
-    "train_number": "19798 ",
-    "unit_number": "1116.0077",
-    "name": "Wolfurt (in Wo)",
-    "abbr": "Wo  ",
-    "lat": "47.457",
-    "lng": "9.74133",
-    "arrival": null,
-    "departure": "2023-10-30T09:29:00Z"
-  },
-  {
-    "train_number": "19798 ",
-    "unit_number": "1116.0077",
-    "name": "Bregenz (in Bg)",
-    "abbr": "Bg  ",
-    "lat": "47.5029",
-    "lng": "9.73947",
-    "arrival": "2023-10-30T09:15:00Z",
-    "departure": "2023-10-30T09:21:00Z"
-  },
-  {
-    "train_number": "19798 ",
-    "unit_number": "1116.0077",
-    "name": "Lindau-Reutin (in Lir)",
-    "abbr": "Lir ",
-    "lat": "47.5525",
-    "lng": "9.70313",
-    "arrival": "2023-10-30T09:02:00Z",
-    "departure": "2023-10-30T09:08:00Z"
-  },
-  {
-    "train_number": "19798 ",
-    "unit_number": "1116.0077",
-    "name": "Freilassing",
-    "abbr": "MFL ",
-    "lat": "47.8368",
-    "lng": "12.9764",
-    "arrival": null,
-    "departure": "2023-10-30T02:16:00Z"
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-10-31T02:17:00Z",
+    "departure": "2023-10-31T02:19:00Z"
   }
 ]

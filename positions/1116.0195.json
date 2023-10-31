@@ -1,202 +1,142 @@
 [
   {
-    "train_number": "47148 ",
+    "train_number": "44810 ",
     "unit_number": "1116.0195",
-    "name": "Ybbs a.d.Donau",
-    "abbr": "Y   ",
-    "lat": "48.158",
-    "lng": "15.0981",
+    "name": "Rosenheim",
+    "abbr": "MRO ",
+    "lat": "47.8511",
+    "lng": "12.1196",
     "arrival": null,
-    "departure": "2023-10-31T01:00:00Z"
+    "departure": "2023-10-31T20:44:00Z"
   },
   {
-    "train_number": "47148 ",
+    "train_number": "44810 ",
     "unit_number": "1116.0195",
-    "name": "Pöchlarn",
-    "abbr": "Poe ",
-    "lat": "48.208",
-    "lng": "15.2148",
+    "name": "Traunstein",
+    "abbr": "MTS ",
+    "lat": "47.8697",
+    "lng": "12.6391",
     "arrival": null,
-    "departure": "2023-10-31T00:52:00Z"
+    "departure": "2023-10-31T19:57:00Z"
   },
   {
-    "train_number": "47148 ",
+    "train_number": "44810 ",
     "unit_number": "1116.0195",
-    "name": "Wien Meidling (in Wbf)",
-    "abbr": "Mi  ",
-    "lat": "48.1747",
-    "lng": "16.3348",
+    "name": "Freilassing",
+    "abbr": "MFL ",
+    "lat": "47.8368",
+    "lng": "12.9764",
+    "arrival": "2023-10-31T19:31:00Z",
+    "departure": "2023-10-31T19:31:00Z"
+  },
+  {
+    "train_number": "44810 ",
+    "unit_number": "1116.0195",
+    "name": "Salzburg Liefering (in Sb)",
+    "abbr": "Lfg ",
+    "lat": "47.8229",
+    "lng": "13.0021",
     "arrival": null,
-    "departure": "2023-10-30T23:40:00Z"
+    "departure": "2023-10-31T19:29:00Z"
   },
   {
-    "train_number": "47148 ",
+    "train_number": "44810 ",
     "unit_number": "1116.0195",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
     "arrival": null,
-    "departure": "2023-10-30T23:29:00Z"
-  },
-  {
-    "train_number": "47148 ",
-    "unit_number": "1116.0195",
-    "name": "Kledering (in Zur)",
-    "abbr": "Za  ",
-    "lat": "48.1331",
-    "lng": "16.4396",
-    "arrival": "2023-10-30T22:19:00Z",
-    "departure": "2023-10-30T23:28:00Z"
-  },
-  {
-    "train_number": "47148 ",
-    "unit_number": "1116.0195",
-    "name": "Parndorf",
-    "abbr": "Par ",
-    "lat": "47.987",
-    "lng": "16.8702",
-    "arrival": null,
-    "departure": "2023-10-30T21:35:00Z"
-  },
-  {
-    "train_number": "98493 ",
-    "unit_number": "1116.0195",
-    "name": "Hegyeshalom",
-    "abbr": "He  ",
-    "lat": "47.9139",
-    "lng": "17.1455",
-    "arrival": "2023-10-30T20:10:00Z",
-    "departure": "2023-10-30T21:19:00Z"
-  },
-  {
-    "train_number": "98493 ",
-    "unit_number": "1116.0195",
-    "name": "Parndorf",
-    "abbr": "Par ",
-    "lat": "47.987",
-    "lng": "16.8702",
-    "arrival": null,
-    "departure": "2023-10-30T19:55:00Z"
+    "departure": "2023-10-31T19:23:00Z"
   },
   {
     "train_number": null,
     "unit_number": "1116.0195",
-    "name": "Kledering (in Zur)",
-    "abbr": "Za  ",
-    "lat": "48.1331",
-    "lng": "16.4396",
+    "name": "Salzburg Gnigl-Vbf (in Sb)",
+    "abbr": "Sr  ",
+    "lat": "47.8167",
+    "lng": "13.0639",
     "arrival": null,
-    "departure": "2023-10-30T19:30:00Z"
+    "departure": "2023-10-31T19:17:00Z"
   },
   {
-    "train_number": "64017 ",
+    "train_number": "54380 ",
     "unit_number": "1116.0195",
-    "name": "Korneuburg",
-    "abbr": "Ko  ",
-    "lat": "48.3429",
-    "lng": "16.3289",
+    "name": "Steindorf b.Straßw. (in Nst)",
+    "abbr": "Nst ",
+    "lat": "47.9676",
+    "lng": "13.2406",
     "arrival": null,
-    "departure": "2023-10-30T17:31:00Z"
+    "departure": "2023-10-31T08:12:00Z"
   },
   {
-    "train_number": "86918 ",
+    "train_number": "54380 ",
     "unit_number": "1116.0195",
-    "name": "Stockerau (in Su)",
-    "abbr": "Su  ",
-    "lat": "48.3824",
-    "lng": "16.2126",
-    "arrival": "2023-10-30T16:05:00Z",
-    "departure": "2023-10-30T17:18:00Z"
-  },
-  {
-    "train_number": "86918 ",
-    "unit_number": "1116.0195",
-    "name": "Korneuburg",
-    "abbr": "Ko  ",
-    "lat": "48.3429",
-    "lng": "16.3289",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
     "arrival": null,
-    "departure": "2023-10-30T15:52:00Z"
+    "departure": "2023-10-31T07:38:00Z"
   },
   {
-    "train_number": "63205 ",
+    "train_number": "54380 ",
     "unit_number": "1116.0195",
-    "name": "Wien Zvbf-Einfgr. (in Zur)",
-    "abbr": "Ze  ",
-    "lat": "48.1568",
-    "lng": "16.4193",
-    "arrival": "2023-10-30T14:49:00Z",
-    "departure": "2023-10-30T15:15:00Z"
-  },
-  {
-    "train_number": "63205 ",
-    "unit_number": "1116.0195",
-    "name": "Tulln a. d. Donau (in Tu)",
-    "abbr": "Tu  ",
-    "lat": "48.3275",
-    "lng": "16.0644",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
     "arrival": null,
-    "departure": "2023-10-30T13:50:00Z"
+    "departure": "2023-10-31T07:15:00Z"
   },
   {
-    "train_number": "63205 ",
+    "train_number": "54380 ",
     "unit_number": "1116.0195",
-    "name": "Absdorf-Hippersdorf (in Ah)",
-    "abbr": "Ah  ",
-    "lat": "48.4018",
-    "lng": "15.9862",
+    "name": "Wels Vbf-Einfgr (in Wev)",
+    "abbr": "Wei ",
+    "lat": "48.1765",
+    "lng": "14.0501",
     "arrival": null,
-    "departure": "2023-10-30T13:40:00Z"
+    "departure": "2023-10-31T07:11:00Z"
   },
   {
-    "train_number": "63205 ",
+    "train_number": null,
     "unit_number": "1116.0195",
-    "name": "Hadersdorf am Kamp",
-    "abbr": "Hfa ",
-    "lat": "48.4465",
-    "lng": "15.7147",
+    "name": "Wels Vbf (in Wev)",
+    "abbr": "Wev ",
+    "lat": "48.1834",
+    "lng": "14.0628",
     "arrival": null,
-    "departure": "2023-10-30T13:22:00Z"
+    "departure": "2023-10-31T07:09:00Z"
   },
   {
-    "train_number": "41981 ",
+    "train_number": "63800 ",
     "unit_number": "1116.0195",
-    "name": "Krems a.d.D.-Vorbf  (in Kr)",
-    "abbr": "Krv ",
-    "lat": "48.414",
-    "lng": "15.6153",
-    "arrival": "2023-10-30T04:04:00Z",
-    "departure": "2023-10-30T13:12:00Z"
-  },
-  {
-    "train_number": "41981 ",
-    "unit_number": "1116.0195",
-    "name": "Hadersdorf am Kamp",
-    "abbr": "Hfa ",
-    "lat": "48.4465",
-    "lng": "15.7147",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
     "arrival": null,
-    "departure": "2023-10-30T03:49:00Z"
+    "departure": "2023-10-31T04:50:00Z"
   },
   {
-    "train_number": "41981 ",
+    "train_number": "63800 ",
     "unit_number": "1116.0195",
-    "name": "Absdorf-Hippersdorf (in Ah)",
-    "abbr": "Ah  ",
-    "lat": "48.4018",
-    "lng": "15.9862",
+    "name": "Wels Vbf-Einfgr (in Wev)",
+    "abbr": "Wei ",
+    "lat": "48.1765",
+    "lng": "14.0501",
     "arrival": null,
-    "departure": "2023-10-30T03:16:00Z"
+    "departure": "2023-10-31T04:45:00Z"
   },
   {
-    "train_number": "41981 ",
+    "train_number": null,
     "unit_number": "1116.0195",
-    "name": "St.Pölten Hbf (in Pb)",
-    "abbr": "Pb  ",
-    "lat": "48.2081",
-    "lng": "15.6237",
+    "name": "Wels Vbf (in Wev)",
+    "abbr": "Wev ",
+    "lat": "48.1834",
+    "lng": "14.0628",
     "arrival": null,
-    "departure": "2023-10-30T02:17:00Z"
+    "departure": "2023-10-31T04:42:00Z"
   }
 ]
