@@ -2,12 +2,22 @@
   {
     "train_number": "161   ",
     "unit_number": "1216.0019",
+    "name": "Wien Hauptbahnhof (in Wbf)",
+    "abbr": "Wbf ",
+    "lat": "48.185",
+    "lng": "16.3778",
+    "arrival": "2023-11-01T13:32:00Z",
+    "departure": "2023-11-01T16:55:00Z"
+  },
+  {
+    "train_number": "161   ",
+    "unit_number": "1216.0019",
     "name": "Wien Meidling (in Wbf)",
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-10-31T13:25:00Z",
-    "departure": "2023-10-31T13:27:00Z"
+    "arrival": "2023-11-01T13:25:00Z",
+    "departure": "2023-11-01T13:27:00Z"
   },
   {
     "train_number": "161   ",
@@ -16,8 +26,8 @@
     "abbr": "Pb  ",
     "lat": "48.2081",
     "lng": "15.6237",
-    "arrival": "2023-10-31T13:01:00Z",
-    "departure": "2023-10-31T13:03:00Z"
+    "arrival": "2023-11-01T13:01:00Z",
+    "departure": "2023-11-01T13:03:00Z"
   },
   {
     "train_number": "161   ",
@@ -27,7 +37,7 @@
     "lat": "48.208",
     "lng": "15.2148",
     "arrival": null,
-    "departure": "2023-10-31T12:49:00Z"
+    "departure": "2023-11-01T12:49:00Z"
   },
   {
     "train_number": "161   ",
@@ -37,7 +47,7 @@
     "lat": "48.158",
     "lng": "15.0981",
     "arrival": null,
-    "departure": "2023-10-31T12:45:00Z"
+    "departure": "2023-11-01T12:45:00Z"
   },
   {
     "train_number": "161   ",
@@ -47,7 +57,7 @@
     "lat": "48.1215",
     "lng": "14.8792",
     "arrival": null,
-    "departure": "2023-10-31T12:40:00Z"
+    "departure": "2023-11-01T12:40:00Z"
   },
   {
     "train_number": "161   ",
@@ -57,7 +67,7 @@
     "lat": "48.1784",
     "lng": "14.5219",
     "arrival": null,
-    "departure": "2023-10-31T12:28:00Z"
+    "departure": "2023-11-01T12:28:00Z"
   },
   {
     "train_number": "161   ",
@@ -66,8 +76,8 @@
     "abbr": "Lz  ",
     "lat": "48.2908",
     "lng": "14.2927",
-    "arrival": "2023-10-31T12:15:00Z",
-    "departure": "2023-10-31T12:17:00Z"
+    "arrival": "2023-11-01T12:15:00Z",
+    "departure": "2023-11-01T12:17:00Z"
   },
   {
     "train_number": "161   ",
@@ -77,7 +87,7 @@
     "lat": "48.1662",
     "lng": "14.0273",
     "arrival": null,
-    "departure": "2023-10-31T12:00:00Z"
+    "departure": "2023-11-01T12:00:00Z"
   },
   {
     "train_number": "161   ",
@@ -87,7 +97,7 @@
     "lat": "48.0112",
     "lng": "13.7193",
     "arrival": null,
-    "departure": "2023-10-31T11:48:00Z"
+    "departure": "2023-11-01T11:48:00Z"
   },
   {
     "train_number": "161   ",
@@ -97,7 +107,7 @@
     "lat": "47.9676",
     "lng": "13.2406",
     "arrival": null,
-    "departure": "2023-10-31T11:23:00Z"
+    "departure": "2023-11-01T11:23:00Z"
   },
   {
     "train_number": "161   ",
@@ -106,8 +116,8 @@
     "abbr": "Sb  ",
     "lat": "47.8135",
     "lng": "13.0466",
-    "arrival": "2023-10-31T11:03:00Z",
-    "departure": "2023-10-31T11:07:00Z"
+    "arrival": "2023-11-01T11:03:00Z",
+    "departure": "2023-11-01T11:07:00Z"
   },
   {
     "train_number": "161   ",
@@ -117,7 +127,7 @@
     "lat": "47.8229",
     "lng": "13.0021",
     "arrival": null,
-    "departure": "2023-10-31T10:59:00Z"
+    "departure": "2023-11-01T10:59:00Z"
   },
   {
     "train_number": "161   ",
@@ -127,7 +137,7 @@
     "lat": "47.8368",
     "lng": "12.9764",
     "arrival": null,
-    "departure": "2023-10-31T10:57:00Z"
+    "departure": "2023-11-01T10:57:00Z"
   },
   {
     "train_number": "161   ",
@@ -137,7 +147,7 @@
     "lat": "47.8697",
     "lng": "12.6391",
     "arrival": null,
-    "departure": "2023-10-31T10:41:00Z"
+    "departure": "2023-11-01T10:41:00Z"
   },
   {
     "train_number": "161   ",
@@ -146,8 +156,8 @@
     "abbr": "K   ",
     "lat": "47.5833",
     "lng": "12.1657",
-    "arrival": "2023-10-31T09:51:00Z",
-    "departure": "2023-10-31T09:53:00Z"
+    "arrival": "2023-11-01T09:51:00Z",
+    "departure": "2023-11-01T09:53:00Z"
   },
   {
     "train_number": "161   ",
@@ -156,8 +166,8 @@
     "abbr": "W   ",
     "lat": "47.4912",
     "lng": "12.0603",
-    "arrival": "2023-10-31T09:41:00Z",
-    "departure": "2023-10-31T09:43:00Z"
+    "arrival": "2023-11-01T09:41:00Z",
+    "departure": "2023-11-01T09:43:00Z"
   },
   {
     "train_number": "161   ",
@@ -167,7 +177,7 @@
     "lat": "47.4824",
     "lng": "12.033",
     "arrival": null,
-    "departure": "2023-10-31T09:39:00Z"
+    "departure": "2023-11-01T09:39:00Z"
   },
   {
     "train_number": "161   ",
@@ -177,26 +187,16 @@
     "lat": "47.2769",
     "lng": "11.5013",
     "arrival": null,
-    "departure": "2023-10-31T09:24:00Z"
+    "departure": "2023-11-01T09:24:00Z"
   },
   {
-    "train_number": "184   ",
+    "train_number": "868   ",
     "unit_number": "1216.0019",
     "name": "Innsbruck Hbf  (in I)",
     "abbr": "I   ",
     "lat": "47.2634",
     "lng": "11.4017",
-    "arrival": "2023-10-31T08:56:00Z",
-    "departure": "2023-10-31T09:17:00Z"
-  },
-  {
-    "train_number": "184   ",
-    "unit_number": "1216.0019",
-    "name": "Brennero/Brenner",
-    "abbr": "Be  ",
-    "lat": "47.0022",
-    "lng": "11.5053",
-    "arrival": "2023-10-31T08:10:00Z",
-    "departure": "2023-10-31T08:20:00Z"
+    "arrival": "2023-10-31T23:01:00Z",
+    "departure": "2023-11-01T09:17:00Z"
   }
 ]

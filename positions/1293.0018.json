@@ -1,13 +1,23 @@
 [
   {
-    "train_number": "47207 ",
+    "train_number": "56650 ",
     "unit_number": "1293.0018",
-    "name": "Tarvisio Boscoverde",
-    "abbr": "Tbv ",
-    "lat": "46.5059",
-    "lng": "13.6081",
-    "arrival": "2023-10-31T13:02:00Z",
-    "departure": "2023-10-31T13:19:00Z"
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": null,
+    "departure": "2023-11-02T02:11:00Z"
+  },
+  {
+    "train_number": "56650 ",
+    "unit_number": "1293.0018",
+    "name": "Villach Westbf",
+    "abbr": "Vf  ",
+    "lat": "46.6092",
+    "lng": "13.8407",
+    "arrival": "2023-11-02T02:01:00Z",
+    "departure": "2023-11-02T02:06:00Z"
   },
   {
     "train_number": null,
@@ -17,26 +27,36 @@
     "lat": "46.5674",
     "lng": "13.8238",
     "arrival": null,
-    "departure": "2023-10-31T12:39:00Z"
+    "departure": "2023-11-02T01:52:00Z"
   },
   {
-    "train_number": "45233 ",
+    "train_number": null,
     "unit_number": "1293.0018",
     "name": "Tarvisio Boscoverde",
     "abbr": "Tbv ",
     "lat": "46.5059",
     "lng": "13.6081",
-    "arrival": "2023-10-31T09:55:00Z",
-    "departure": "2023-10-31T10:02:00Z"
+    "arrival": null,
+    "departure": "2023-11-01T07:40:00Z"
   },
   {
-    "train_number": null,
+    "train_number": "42249 ",
     "unit_number": "1293.0018",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
-    "arrival": null,
-    "departure": "2023-10-31T09:33:00Z"
+    "name": "Tarvisio Boscoverde",
+    "abbr": "Tbv ",
+    "lat": "46.5059",
+    "lng": "13.6081",
+    "arrival": "2023-11-01T03:08:00Z",
+    "departure": "2023-11-01T04:37:00Z"
+  },
+  {
+    "train_number": "42249 ",
+    "unit_number": "1293.0018",
+    "name": "Villach Westbf",
+    "abbr": "Vf  ",
+    "lat": "46.6092",
+    "lng": "13.8407",
+    "arrival": "2023-11-01T02:11:00Z",
+    "departure": "2023-11-01T02:42:00Z"
   }
 ]

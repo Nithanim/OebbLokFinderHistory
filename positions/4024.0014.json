@@ -1,112 +1,112 @@
 [
   {
-    "train_number": "4418  ",
-    "unit_number": "4024.0014",
-    "name": "Stainach-Irdning",
-    "abbr": "Rg  ",
-    "lat": "47.5293",
-    "lng": "14.1078",
-    "arrival": "2023-10-31T19:15:00Z",
-    "departure": "2023-10-31T20:40:00Z"
-  },
-  {
-    "train_number": "4418  ",
-    "unit_number": "4024.0014",
-    "name": "Gmunden",
-    "abbr": "Gz  ",
-    "lat": "47.9254",
-    "lng": "13.783",
-    "arrival": "2023-10-31T17:23:00Z",
-    "departure": "2023-10-31T17:24:00Z"
-  },
-  {
-    "train_number": "4418  ",
+    "train_number": "3435  ",
     "unit_number": "4024.0014",
     "name": "Attnang-Puchheim",
     "abbr": "At  ",
     "lat": "48.0112",
     "lng": "13.7193",
-    "arrival": "2023-10-31T17:07:00Z",
-    "departure": "2023-10-31T17:08:00Z"
+    "arrival": "2023-11-01T20:51:00Z",
+    "departure": "2023-11-02T05:10:00Z"
   },
   {
-    "train_number": "4418  ",
+    "train_number": "3435  ",
     "unit_number": "4024.0014",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": "2023-10-31T16:33:00Z",
-    "departure": "2023-10-31T16:34:00Z"
+    "name": "Gmunden",
+    "abbr": "Gz  ",
+    "lat": "47.9254",
+    "lng": "13.783",
+    "arrival": "2023-11-01T20:35:00Z",
+    "departure": "2023-11-01T20:36:00Z"
   },
   {
-    "train_number": "3656  ",
+    "train_number": "4414  ",
     "unit_number": "4024.0014",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-10-31T14:04:00Z",
-    "departure": "2023-10-31T16:18:00Z"
+    "name": "Stainach-Irdning",
+    "abbr": "Rg  ",
+    "lat": "47.5293",
+    "lng": "14.1078",
+    "arrival": "2023-11-01T17:15:00Z",
+    "departure": "2023-11-01T18:40:00Z"
   },
   {
-    "train_number": "3656  ",
+    "train_number": "4414  ",
     "unit_number": "4024.0014",
-    "name": "Enns",
-    "abbr": "Ens ",
-    "lat": "48.2212",
-    "lng": "14.4668",
-    "arrival": "2023-10-31T13:47:00Z",
-    "departure": "2023-10-31T13:48:00Z"
+    "name": "Gmunden",
+    "abbr": "Gz  ",
+    "lat": "47.9254",
+    "lng": "13.783",
+    "arrival": "2023-11-01T15:23:00Z",
+    "departure": "2023-11-01T15:24:00Z"
   },
   {
-    "train_number": "3656  ",
+    "train_number": "4413  ",
     "unit_number": "4024.0014",
-    "name": "St.Valentin (in Sv)",
-    "abbr": "Sv  ",
-    "lat": "48.1784",
-    "lng": "14.5219",
-    "arrival": "2023-10-31T13:37:00Z",
-    "departure": "2023-10-31T13:41:00Z"
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": "2023-11-01T14:51:00Z",
+    "departure": "2023-11-01T15:08:00Z"
   },
   {
-    "train_number": "3608  ",
+    "train_number": "4413  ",
     "unit_number": "4024.0014",
-    "name": "St.Valentin (in Sv)",
-    "abbr": "Sv  ",
-    "lat": "48.1784",
-    "lng": "14.5219",
-    "arrival": "2023-10-31T08:07:00Z",
-    "departure": "2023-10-31T10:51:00Z"
+    "name": "Gmunden",
+    "abbr": "Gz  ",
+    "lat": "47.9254",
+    "lng": "13.783",
+    "arrival": "2023-11-01T14:35:00Z",
+    "departure": "2023-11-01T14:36:00Z"
   },
   {
-    "train_number": "3601  ",
+    "train_number": "3412  ",
     "unit_number": "4024.0014",
-    "name": "St.Valentin (in Sv)",
-    "abbr": "Sv  ",
-    "lat": "48.1784",
-    "lng": "14.5219",
-    "arrival": "2023-10-31T03:49:00Z",
-    "departure": "2023-10-31T04:09:00Z"
+    "name": "Stainach-Irdning",
+    "abbr": "Rg  ",
+    "lat": "47.5293",
+    "lng": "14.1078",
+    "arrival": "2023-11-01T11:15:00Z",
+    "departure": "2023-11-01T12:40:00Z"
   },
   {
-    "train_number": "3601  ",
+    "train_number": "3412  ",
     "unit_number": "4024.0014",
-    "name": "Enns",
-    "abbr": "Ens ",
-    "lat": "48.2212",
-    "lng": "14.4668",
-    "arrival": "2023-10-31T03:41:00Z",
-    "departure": "2023-10-31T03:42:00Z"
+    "name": "Gmunden",
+    "abbr": "Gz  ",
+    "lat": "47.9254",
+    "lng": "13.783",
+    "arrival": "2023-11-01T09:23:00Z",
+    "departure": "2023-11-01T09:24:00Z"
   },
   {
-    "train_number": "3978  ",
+    "train_number": "3417  ",
     "unit_number": "4024.0014",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-10-30T18:54:00Z",
-    "departure": "2023-10-31T03:25:00Z"
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
+    "arrival": "2023-11-01T08:51:00Z",
+    "departure": "2023-11-01T09:08:00Z"
+  },
+  {
+    "train_number": "3417  ",
+    "unit_number": "4024.0014",
+    "name": "Gmunden",
+    "abbr": "Gz  ",
+    "lat": "47.9254",
+    "lng": "13.783",
+    "arrival": "2023-11-01T08:35:00Z",
+    "departure": "2023-11-01T08:36:00Z"
+  },
+  {
+    "train_number": "3442  ",
+    "unit_number": "4024.0014",
+    "name": "Stainach-Irdning",
+    "abbr": "Rg  ",
+    "lat": "47.5293",
+    "lng": "14.1078",
+    "arrival": "2023-11-01T06:05:00Z",
+    "departure": "2023-11-01T06:40:00Z"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "train_number": "88946 ",
+    "unit_number": "1116.0200",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": "2023-11-02T00:54:00Z",
+    "departure": "2023-11-02T06:55:00Z"
+  },
+  {
     "train_number": "47406 ",
     "unit_number": "1116.0200",
     "name": "Leoben Hbf (in Leb)",
@@ -7,7 +17,7 @@
     "lat": "47.3867",
     "lng": "15.0898",
     "arrival": null,
-    "departure": "2023-11-01T00:28:00Z"
+    "departure": "2023-11-02T00:28:00Z"
   },
   {
     "train_number": "47406 ",
@@ -17,7 +27,7 @@
     "lat": "47.0885",
     "lng": "15.4077",
     "arrival": null,
-    "departure": "2023-10-31T23:31:00Z"
+    "departure": "2023-11-01T23:31:00Z"
   },
   {
     "train_number": "47406 ",
@@ -27,7 +37,7 @@
     "lat": "47.0733",
     "lng": "15.4163",
     "arrival": null,
-    "departure": "2023-10-31T23:27:00Z"
+    "departure": "2023-11-01T23:27:00Z"
   },
   {
     "train_number": "47406 ",
@@ -37,7 +47,7 @@
     "lat": "46.9171",
     "lng": "15.477",
     "arrival": null,
-    "departure": "2023-10-31T23:12:00Z"
+    "departure": "2023-11-01T23:12:00Z"
   },
   {
     "train_number": "47401 ",
@@ -46,8 +56,8 @@
     "abbr": "Sd  ",
     "lat": "46.71",
     "lng": "15.6282",
-    "arrival": "2023-10-31T22:24:00Z",
-    "departure": "2023-10-31T22:44:00Z"
+    "arrival": "2023-11-01T22:24:00Z",
+    "departure": "2023-11-01T22:44:00Z"
   },
   {
     "train_number": "47401 ",
@@ -57,7 +67,7 @@
     "lat": "46.9171",
     "lng": "15.477",
     "arrival": null,
-    "departure": "2023-10-31T21:57:00Z"
+    "departure": "2023-11-01T21:57:00Z"
   },
   {
     "train_number": "47401 ",
@@ -67,7 +77,7 @@
     "lat": "47.0733",
     "lng": "15.4163",
     "arrival": null,
-    "departure": "2023-10-31T21:45:00Z"
+    "departure": "2023-11-01T21:45:00Z"
   },
   {
     "train_number": "47401 ",
@@ -77,7 +87,7 @@
     "lat": "47.0885",
     "lng": "15.4077",
     "arrival": null,
-    "departure": "2023-10-31T21:41:00Z"
+    "departure": "2023-11-01T21:41:00Z"
   },
   {
     "train_number": "47401 ",
@@ -87,7 +97,7 @@
     "lat": "47.3867",
     "lng": "15.0898",
     "arrival": null,
-    "departure": "2023-10-31T20:45:00Z"
+    "departure": "2023-11-01T20:45:00Z"
   },
   {
     "train_number": "88956 ",
@@ -96,8 +106,8 @@
     "abbr": "Leb ",
     "lat": "47.3867",
     "lng": "15.0898",
-    "arrival": "2023-10-31T17:28:00Z",
-    "departure": "2023-10-31T19:46:00Z"
+    "arrival": "2023-11-01T17:28:00Z",
+    "departure": "2023-11-01T19:46:00Z"
   },
   {
     "train_number": "58668 ",
@@ -106,8 +116,8 @@
     "abbr": "Leb ",
     "lat": "47.3867",
     "lng": "15.0898",
-    "arrival": "2023-10-31T16:21:00Z",
-    "departure": "2023-10-31T16:46:00Z"
+    "arrival": "2023-11-01T16:21:00Z",
+    "departure": "2023-11-01T16:46:00Z"
   },
   {
     "train_number": "58668 ",
@@ -116,8 +126,8 @@
     "abbr": "M   ",
     "lat": "47.3445",
     "lng": "15.0103",
-    "arrival": "2023-10-31T16:03:00Z",
-    "departure": "2023-10-31T16:10:00Z"
+    "arrival": "2023-11-01T16:03:00Z",
+    "departure": "2023-11-01T16:10:00Z"
   },
   {
     "train_number": "58668 ",
@@ -126,77 +136,37 @@
     "abbr": "Sl  ",
     "lat": "47.5505",
     "lng": "14.3134",
-    "arrival": "2023-10-31T14:57:00Z",
-    "departure": "2023-10-31T15:08:00Z"
+    "arrival": "2023-11-01T14:57:00Z",
+    "departure": "2023-11-01T15:08:00Z"
   },
   {
-    "train_number": "62624 ",
+    "train_number": "88809 ",
     "unit_number": "1116.0200",
     "name": "Selzthal (in Sl)",
     "abbr": "Sl  ",
     "lat": "47.5505",
     "lng": "14.3134",
-    "arrival": "2023-10-31T08:31:00Z",
-    "departure": "2023-10-31T09:55:00Z"
+    "arrival": "2023-11-01T08:09:00Z",
+    "departure": "2023-11-01T09:55:00Z"
   },
   {
-    "train_number": "88755 ",
+    "train_number": "88809 ",
     "unit_number": "1116.0200",
     "name": "St.Michael (in M)",
     "abbr": "M   ",
     "lat": "47.3445",
     "lng": "15.0103",
-    "arrival": "2023-10-31T07:02:00Z",
-    "departure": "2023-10-31T07:42:00Z"
+    "arrival": "2023-11-01T07:18:00Z",
+    "departure": "2023-11-01T07:30:00Z"
   },
   {
-    "train_number": "88812 ",
+    "train_number": "88946 ",
     "unit_number": "1116.0200",
     "name": "Leoben Hbf (in Leb)",
     "abbr": "Leb ",
     "lat": "47.3867",
     "lng": "15.0898",
-    "arrival": "2023-10-31T05:38:00Z",
-    "departure": "2023-10-31T06:55:00Z"
-  },
-  {
-    "train_number": "56650 ",
-    "unit_number": "1116.0200",
-    "name": "St.Michael (in M)",
-    "abbr": "M   ",
-    "lat": "47.3445",
-    "lng": "15.0103",
-    "arrival": "2023-10-31T05:09:00Z",
-    "departure": "2023-10-31T05:29:00Z"
-  },
-  {
-    "train_number": "56650 ",
-    "unit_number": "1116.0200",
-    "name": "Zeltweg",
-    "abbr": "Zg  ",
-    "lat": "47.1887",
-    "lng": "14.7425",
-    "arrival": null,
-    "departure": "2023-10-31T04:25:00Z"
-  },
-  {
-    "train_number": "56650 ",
-    "unit_number": "1116.0200",
-    "name": "St.Veit a.d.Glan (in Vps)",
-    "abbr": "Vps ",
-    "lat": "46.7704",
-    "lng": "14.3672",
-    "arrival": null,
-    "departure": "2023-10-31T03:00:00Z"
-  },
-  {
-    "train_number": "56650 ",
-    "unit_number": "1116.0200",
-    "name": "Klagenfurt Hbf (in Kt)",
-    "abbr": "Kt  ",
-    "lat": "46.6156",
-    "lng": "14.3137",
-    "arrival": null,
-    "departure": "2023-10-31T02:42:00Z"
+    "arrival": "2023-11-01T00:54:00Z",
+    "departure": "2023-11-01T07:11:00Z"
   }
 ]

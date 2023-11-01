@@ -1,82 +1,32 @@
 [
   {
-    "train_number": "54537 ",
+    "train_number": "42201 ",
     "unit_number": "1216.0141",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-10-31T19:23:00Z",
-    "departure": "2023-10-31T19:54:00Z"
-  },
-  {
-    "train_number": "54537 ",
-    "unit_number": "1216.0141",
-    "name": "Bischofshofen (in Bo)",
-    "abbr": "Bo  ",
-    "lat": "47.42",
-    "lng": "13.2199",
-    "arrival": null,
-    "departure": "2023-10-31T19:09:00Z"
+    "name": "Tarvisio Boscoverde",
+    "abbr": "Tbv ",
+    "lat": "46.5059",
+    "lng": "13.6081",
+    "arrival": "2023-11-01T19:56:00Z",
+    "departure": "2023-11-01T21:15:00Z"
   },
   {
     "train_number": null,
     "unit_number": "1216.0141",
-    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
-    "abbr": "Sre ",
-    "lat": "47.8075",
-    "lng": "13.0687",
+    "name": "Fürnitz (in Vsv)",
+    "abbr": "Fn  ",
+    "lat": "46.563",
+    "lng": "13.8073",
     "arrival": null,
-    "departure": "2023-10-31T18:25:00Z"
+    "departure": "2023-11-01T19:35:00Z"
   },
   {
-    "train_number": "47692 ",
-    "unit_number": "1216.0141",
-    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
-    "abbr": "Sre ",
-    "lat": "47.8075",
-    "lng": "13.0687",
-    "arrival": null,
-    "departure": "2023-10-31T10:28:00Z"
-  },
-  {
-    "train_number": "47692 ",
-    "unit_number": "1216.0141",
-    "name": "Bischofshofen (in Bo)",
-    "abbr": "Bo  ",
-    "lat": "47.42",
-    "lng": "13.2199",
-    "arrival": null,
-    "departure": "2023-10-31T09:12:00Z"
-  },
-  {
-    "train_number": "47692 ",
-    "unit_number": "1216.0141",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-10-31T08:46:00Z",
-    "departure": "2023-10-31T08:51:00Z"
-  },
-  {
-    "train_number": "47692 ",
-    "unit_number": "1216.0141",
-    "name": "Villach Westbf",
-    "abbr": "Vf  ",
-    "lat": "46.6092",
-    "lng": "13.8407",
-    "arrival": "2023-10-31T05:18:00Z",
-    "departure": "2023-10-31T05:48:00Z"
-  },
-  {
-    "train_number": "47692 ",
+    "train_number": "45444 ",
     "unit_number": "1216.0141",
     "name": "Rosenbach",
     "abbr": "Rn  ",
     "lat": "46.5309",
     "lng": "14.0354",
     "arrival": null,
-    "departure": "2023-10-31T04:31:00Z"
+    "departure": "2023-11-01T13:00:00Z"
   }
 ]
