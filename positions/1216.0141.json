@@ -1,32 +1,62 @@
 [
   {
-    "train_number": "42201 ",
+    "train_number": "54350 ",
     "unit_number": "1216.0141",
-    "name": "Tarvisio Boscoverde",
-    "abbr": "Tbv ",
-    "lat": "46.5059",
-    "lng": "13.6081",
-    "arrival": "2023-11-01T19:56:00Z",
-    "departure": "2023-11-01T21:15:00Z"
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-11-03T01:58:00Z",
+    "departure": "2023-11-03T02:28:00Z"
   },
   {
     "train_number": null,
     "unit_number": "1216.0141",
-    "name": "Fürnitz (in Vsv)",
-    "abbr": "Fn  ",
-    "lat": "46.563",
-    "lng": "13.8073",
+    "name": "Villach Süd Gvbf Ausfgr",
+    "abbr": "Va  ",
+    "lat": "46.5674",
+    "lng": "13.8238",
     "arrival": null,
-    "departure": "2023-11-01T19:35:00Z"
+    "departure": "2023-11-03T00:03:00Z"
   },
   {
-    "train_number": "45444 ",
+    "train_number": "45448 ",
     "unit_number": "1216.0141",
     "name": "Rosenbach",
     "abbr": "Rn  ",
     "lat": "46.5309",
     "lng": "14.0354",
     "arrival": null,
-    "departure": "2023-11-01T13:00:00Z"
+    "departure": "2023-11-02T22:47:00Z"
+  },
+  {
+    "train_number": "47821 ",
+    "unit_number": "1216.0141",
+    "name": "Rosenbach",
+    "abbr": "Rn  ",
+    "lat": "46.5309",
+    "lng": "14.0354",
+    "arrival": "2023-11-02T04:31:00Z",
+    "departure": "2023-11-02T04:53:00Z"
+  },
+  {
+    "train_number": "89204 ",
+    "unit_number": "1216.0141",
+    "name": "Villach Westbf",
+    "abbr": "Vf  ",
+    "lat": "46.6092",
+    "lng": "13.8407",
+    "arrival": "2023-11-02T02:45:00Z",
+    "departure": "2023-11-02T04:10:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1216.0141",
+    "name": "Villach Süd Gvbf Ausfgr",
+    "abbr": "Va  ",
+    "lat": "46.5674",
+    "lng": "13.8238",
+    "arrival": null,
+    "departure": "2023-11-02T02:37:00Z"
   }
 ]

@@ -1,62 +1,112 @@
 [
   {
-    "train_number": "56650 ",
+    "train_number": "55559 ",
+    "unit_number": "1293.0018",
+    "name": "Villach Westbf",
+    "abbr": "Vf  ",
+    "lat": "46.6092",
+    "lng": "13.8407",
+    "arrival": "2023-11-03T00:25:00Z",
+    "departure": "2023-11-03T00:47:00Z"
+  },
+  {
+    "train_number": "55559 ",
     "unit_number": "1293.0018",
     "name": "Villach Hbf",
     "abbr": "Vb  ",
     "lat": "46.6186",
     "lng": "13.8484",
     "arrival": null,
-    "departure": "2023-11-02T02:11:00Z"
+    "departure": "2023-11-03T00:19:00Z"
+  },
+  {
+    "train_number": "55559 ",
+    "unit_number": "1293.0018",
+    "name": "Klagenfurt Hbf (in Kt)",
+    "abbr": "Kt  ",
+    "lat": "46.6156",
+    "lng": "14.3137",
+    "arrival": null,
+    "departure": "2023-11-02T23:45:00Z"
+  },
+  {
+    "train_number": "55559 ",
+    "unit_number": "1293.0018",
+    "name": "St.Veit a.d.Glan (in Vps)",
+    "abbr": "Vps ",
+    "lat": "46.7704",
+    "lng": "14.3672",
+    "arrival": null,
+    "departure": "2023-11-02T23:30:00Z"
+  },
+  {
+    "train_number": "55559 ",
+    "unit_number": "1293.0018",
+    "name": "Zeltweg",
+    "abbr": "Zg  ",
+    "lat": "47.1887",
+    "lng": "14.7425",
+    "arrival": "2023-11-02T21:44:00Z",
+    "departure": "2023-11-02T22:10:00Z"
+  },
+  {
+    "train_number": "88919 ",
+    "unit_number": "1293.0018",
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": "2023-11-02T20:14:00Z",
+    "departure": "2023-11-02T21:18:00Z"
+  },
+  {
+    "train_number": "88812 ",
+    "unit_number": "1293.0018",
+    "name": "Leoben Hbf (in Leb)",
+    "abbr": "Leb ",
+    "lat": "47.3867",
+    "lng": "15.0898",
+    "arrival": "2023-11-02T05:38:00Z",
+    "departure": "2023-11-02T20:07:00Z"
   },
   {
     "train_number": "56650 ",
     "unit_number": "1293.0018",
-    "name": "Villach Westbf",
-    "abbr": "Vf  ",
-    "lat": "46.6092",
-    "lng": "13.8407",
-    "arrival": "2023-11-02T02:01:00Z",
-    "departure": "2023-11-02T02:06:00Z"
+    "name": "St.Michael (in M)",
+    "abbr": "M   ",
+    "lat": "47.3445",
+    "lng": "15.0103",
+    "arrival": "2023-11-02T05:09:00Z",
+    "departure": "2023-11-02T05:29:00Z"
   },
   {
-    "train_number": null,
+    "train_number": "56650 ",
     "unit_number": "1293.0018",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
+    "name": "Zeltweg",
+    "abbr": "Zg  ",
+    "lat": "47.1887",
+    "lng": "14.7425",
     "arrival": null,
-    "departure": "2023-11-02T01:52:00Z"
+    "departure": "2023-11-02T04:25:00Z"
   },
   {
-    "train_number": null,
+    "train_number": "56650 ",
     "unit_number": "1293.0018",
-    "name": "Tarvisio Boscoverde",
-    "abbr": "Tbv ",
-    "lat": "46.5059",
-    "lng": "13.6081",
+    "name": "St.Veit a.d.Glan (in Vps)",
+    "abbr": "Vps ",
+    "lat": "46.7704",
+    "lng": "14.3672",
     "arrival": null,
-    "departure": "2023-11-01T07:40:00Z"
+    "departure": "2023-11-02T03:00:00Z"
   },
   {
-    "train_number": "42249 ",
+    "train_number": "56650 ",
     "unit_number": "1293.0018",
-    "name": "Tarvisio Boscoverde",
-    "abbr": "Tbv ",
-    "lat": "46.5059",
-    "lng": "13.6081",
-    "arrival": "2023-11-01T03:08:00Z",
-    "departure": "2023-11-01T04:37:00Z"
-  },
-  {
-    "train_number": "42249 ",
-    "unit_number": "1293.0018",
-    "name": "Villach Westbf",
-    "abbr": "Vf  ",
-    "lat": "46.6092",
-    "lng": "13.8407",
-    "arrival": "2023-11-01T02:11:00Z",
-    "departure": "2023-11-01T02:42:00Z"
+    "name": "Klagenfurt Hbf (in Kt)",
+    "abbr": "Kt  ",
+    "lat": "46.6156",
+    "lng": "14.3137",
+    "arrival": null,
+    "departure": "2023-11-02T02:42:00Z"
   }
 ]

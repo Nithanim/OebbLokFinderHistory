@@ -1,5 +1,95 @@
 [
   {
+    "train_number": "3828  ",
+    "unit_number": "4024.0013",
+    "name": "Summerau",
+    "abbr": "Smr ",
+    "lat": "48.5572",
+    "lng": "14.4489",
+    "arrival": "2023-11-02T19:47:00Z",
+    "departure": "2023-11-03T04:32:00Z"
+  },
+  {
+    "train_number": "3828  ",
+    "unit_number": "4024.0013",
+    "name": "Freistadt",
+    "abbr": "Fr  ",
+    "lat": "48.4952",
+    "lng": "14.4815",
+    "arrival": "2023-11-02T19:38:00Z",
+    "departure": "2023-11-02T19:39:00Z"
+  },
+  {
+    "train_number": "3873  ",
+    "unit_number": "4024.0013",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-11-02T17:24:00Z",
+    "departure": "2023-11-02T18:35:00Z"
+  },
+  {
+    "train_number": "3865  ",
+    "unit_number": "4024.0013",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-11-02T14:24:00Z",
+    "departure": "2023-11-02T14:35:00Z"
+  },
+  {
+    "train_number": "3849  ",
+    "unit_number": "4024.0013",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-11-02T11:44:00Z",
+    "departure": "2023-11-02T12:08:00Z"
+  },
+  {
+    "train_number": "3847  ",
+    "unit_number": "4024.0013",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-11-02T10:44:00Z",
+    "departure": "2023-11-02T11:30:00Z"
+  },
+  {
+    "train_number": "3855  ",
+    "unit_number": "4024.0013",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-11-02T08:24:00Z",
+    "departure": "2023-11-02T10:30:00Z"
+  },
+  {
+    "train_number": "3821  ",
+    "unit_number": "4024.0013",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-11-02T04:24:00Z",
+    "departure": "2023-11-02T05:35:00Z"
+  },
+  {
+    "train_number": "3821  ",
+    "unit_number": "4024.0013",
+    "name": "Freistadt",
+    "abbr": "Fr  ",
+    "lat": "48.4952",
+    "lng": "14.4815",
+    "arrival": "2023-11-02T03:20:00Z",
+    "departure": "2023-11-02T03:21:00Z"
+  },
+  {
     "train_number": "3836  ",
     "unit_number": "4024.0013",
     "name": "Summerau",
@@ -8,95 +98,5 @@
     "lng": "14.4489",
     "arrival": "2023-11-01T22:47:00Z",
     "departure": "2023-11-02T03:12:00Z"
-  },
-  {
-    "train_number": "3836  ",
-    "unit_number": "4024.0013",
-    "name": "Freistadt",
-    "abbr": "Fr  ",
-    "lat": "48.4952",
-    "lng": "14.4815",
-    "arrival": "2023-11-01T22:38:00Z",
-    "departure": "2023-11-01T22:39:00Z"
-  },
-  {
-    "train_number": "3980  ",
-    "unit_number": "4024.0013",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-11-01T19:24:00Z",
-    "departure": "2023-11-01T21:35:00Z"
-  },
-  {
-    "train_number": "3961  ",
-    "unit_number": "4024.0013",
-    "name": "Kirchdorf a.d.Krems",
-    "abbr": "Kik ",
-    "lat": "47.9051",
-    "lng": "14.1167",
-    "arrival": "2023-11-01T15:33:00Z",
-    "departure": "2023-11-01T18:25:00Z"
-  },
-  {
-    "train_number": "3960  ",
-    "unit_number": "4024.0013",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-11-01T14:24:00Z",
-    "departure": "2023-11-01T14:36:00Z"
-  },
-  {
-    "train_number": "3945  ",
-    "unit_number": "4024.0013",
-    "name": "Kirchdorf a.d.Krems",
-    "abbr": "Kik ",
-    "lat": "47.9051",
-    "lng": "14.1167",
-    "arrival": "2023-11-01T11:33:00Z",
-    "departure": "2023-11-01T13:25:00Z"
-  },
-  {
-    "train_number": "3942  ",
-    "unit_number": "4024.0013",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-11-01T10:24:00Z",
-    "departure": "2023-11-01T10:36:00Z"
-  },
-  {
-    "train_number": "3931  ",
-    "unit_number": "4024.0013",
-    "name": "Kirchdorf a.d.Krems",
-    "abbr": "Kik ",
-    "lat": "47.9051",
-    "lng": "14.1167",
-    "arrival": "2023-11-01T07:33:00Z",
-    "departure": "2023-11-01T09:25:00Z"
-  },
-  {
-    "train_number": "3924  ",
-    "unit_number": "4024.0013",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-11-01T05:24:00Z",
-    "departure": "2023-11-01T06:36:00Z"
-  },
-  {
-    "train_number": "3977  ",
-    "unit_number": "4024.0013",
-    "name": "Kirchdorf a.d.Krems",
-    "abbr": "Kik ",
-    "lat": "47.9051",
-    "lng": "14.1167",
-    "arrival": "2023-10-31T20:33:00Z",
-    "departure": "2023-11-01T04:25:00Z"
   }
 ]

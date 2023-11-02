@@ -1,5 +1,85 @@
 [
   {
+    "train_number": "6564  ",
+    "unit_number": "5022.0045",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": "2023-11-02T20:27:00Z",
+    "departure": "2023-11-02T21:37:00Z"
+  },
+  {
+    "train_number": "6556  ",
+    "unit_number": "5022.0045",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": "2023-11-02T18:27:00Z",
+    "departure": "2023-11-02T18:33:00Z"
+  },
+  {
+    "train_number": "6548  ",
+    "unit_number": "5022.0045",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": "2023-11-02T16:27:00Z",
+    "departure": "2023-11-02T16:33:00Z"
+  },
+  {
+    "train_number": "6540  ",
+    "unit_number": "5022.0045",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": "2023-11-02T14:27:00Z",
+    "departure": "2023-11-02T14:33:00Z"
+  },
+  {
+    "train_number": "6532  ",
+    "unit_number": "5022.0045",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": "2023-11-02T12:27:00Z",
+    "departure": "2023-11-02T12:33:00Z"
+  },
+  {
+    "train_number": "2718  ",
+    "unit_number": "5022.0045",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": "2023-11-02T06:35:00Z",
+    "departure": "2023-11-02T10:33:00Z"
+  },
+  {
+    "train_number": "2718  ",
+    "unit_number": "5022.0045",
+    "name": "Friedberg",
+    "abbr": "Fd  ",
+    "lat": "47.4343",
+    "lng": "16.0531",
+    "arrival": "2023-11-02T05:34:00Z",
+    "departure": "2023-11-02T05:36:00Z"
+  },
+  {
+    "train_number": "2718  ",
+    "unit_number": "5022.0045",
+    "name": "Hartberg",
+    "abbr": "Har ",
+    "lat": "47.2814",
+    "lng": "15.9852",
+    "arrival": "2023-11-02T05:00:00Z",
+    "departure": "2023-11-02T05:01:00Z"
+  },
+  {
     "train_number": "4718  ",
     "unit_number": "5022.0045",
     "name": "Fehring",
@@ -8,65 +88,5 @@
     "lng": "16.013",
     "arrival": "2023-11-01T15:22:00Z",
     "departure": "2023-11-02T04:01:00Z"
-  },
-  {
-    "train_number": "4747  ",
-    "unit_number": "5022.0045",
-    "name": "Graz Hbf (in G)",
-    "abbr": "G   ",
-    "lat": "47.0733",
-    "lng": "15.4163",
-    "arrival": "2023-11-01T13:53:00Z",
-    "departure": "2023-11-01T14:07:00Z"
-  },
-  {
-    "train_number": "4747  ",
-    "unit_number": "5022.0045",
-    "name": "Fehring",
-    "abbr": "Feg ",
-    "lat": "46.9495",
-    "lng": "16.013",
-    "arrival": "2023-11-01T12:25:00Z",
-    "departure": "2023-11-01T12:41:00Z"
-  },
-  {
-    "train_number": "4710  ",
-    "unit_number": "5022.0045",
-    "name": "Szentgotthard",
-    "abbr": "Gh  ",
-    "lat": "46.9584",
-    "lng": "16.266",
-    "arrival": "2023-11-01T11:48:00Z",
-    "departure": "2023-11-01T12:04:00Z"
-  },
-  {
-    "train_number": "4710  ",
-    "unit_number": "5022.0045",
-    "name": "Fehring",
-    "abbr": "Feg ",
-    "lat": "46.9495",
-    "lng": "16.013",
-    "arrival": "2023-11-01T11:22:00Z",
-    "departure": "2023-11-01T11:27:00Z"
-  },
-  {
-    "train_number": "4713  ",
-    "unit_number": "5022.0045",
-    "name": "Graz Hbf (in G)",
-    "abbr": "G   ",
-    "lat": "47.0733",
-    "lng": "15.4163",
-    "arrival": "2023-11-01T09:53:00Z",
-    "departure": "2023-11-01T10:07:00Z"
-  },
-  {
-    "train_number": "4734  ",
-    "unit_number": "5022.0045",
-    "name": "Fehring",
-    "abbr": "Feg ",
-    "lat": "46.9495",
-    "lng": "16.013",
-    "arrival": "2023-10-31T23:15:00Z",
-    "departure": "2023-11-01T08:41:00Z"
   }
 ]
