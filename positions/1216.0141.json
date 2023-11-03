@@ -1,13 +1,43 @@
 [
   {
-    "train_number": "54350 ",
+    "train_number": "65507 ",
     "unit_number": "1216.0141",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-11-03T01:58:00Z",
-    "departure": "2023-11-03T02:28:00Z"
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": null,
+    "departure": "2023-11-03T19:23:00Z"
+  },
+  {
+    "train_number": "89139 ",
+    "unit_number": "1216.0141",
+    "name": "St.Veit a.d.Glan-West (in Vps)",
+    "abbr": "Vs  ",
+    "lat": "46.7626",
+    "lng": "14.362",
+    "arrival": "2023-11-03T17:28:00Z",
+    "departure": "2023-11-03T18:10:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1216.0141",
+    "name": "St.Veit a.d.Glan (in Vps)",
+    "abbr": "Vps ",
+    "lat": "46.7704",
+    "lng": "14.3672",
+    "arrival": null,
+    "departure": "2023-11-03T17:26:00Z"
+  },
+  {
+    "train_number": "65582 ",
+    "unit_number": "1216.0141",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": null,
+    "departure": "2023-11-03T07:11:00Z"
   },
   {
     "train_number": null,
@@ -17,46 +47,16 @@
     "lat": "46.5674",
     "lng": "13.8238",
     "arrival": null,
-    "departure": "2023-11-03T00:03:00Z"
+    "departure": "2023-11-03T06:59:00Z"
   },
   {
-    "train_number": "45448 ",
+    "train_number": "45440 ",
     "unit_number": "1216.0141",
     "name": "Rosenbach",
     "abbr": "Rn  ",
     "lat": "46.5309",
     "lng": "14.0354",
     "arrival": null,
-    "departure": "2023-11-02T22:47:00Z"
-  },
-  {
-    "train_number": "47821 ",
-    "unit_number": "1216.0141",
-    "name": "Rosenbach",
-    "abbr": "Rn  ",
-    "lat": "46.5309",
-    "lng": "14.0354",
-    "arrival": "2023-11-02T04:31:00Z",
-    "departure": "2023-11-02T04:53:00Z"
-  },
-  {
-    "train_number": "89204 ",
-    "unit_number": "1216.0141",
-    "name": "Villach Westbf",
-    "abbr": "Vf  ",
-    "lat": "46.6092",
-    "lng": "13.8407",
-    "arrival": "2023-11-02T02:45:00Z",
-    "departure": "2023-11-02T04:10:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1216.0141",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
-    "arrival": null,
-    "departure": "2023-11-02T02:37:00Z"
+    "departure": "2023-11-03T05:17:00Z"
   }
 ]

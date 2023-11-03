@@ -1,33 +1,113 @@
 [
   {
-    "train_number": "54537 ",
+    "train_number": "48486 ",
     "unit_number": "1116.0143",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-11-02T19:23:00Z",
-    "departure": "2023-11-02T19:54:00Z"
+    "name": "Freilassing",
+    "abbr": "MFL ",
+    "lat": "47.8368",
+    "lng": "12.9764",
+    "arrival": "2023-11-04T01:17:00Z",
+    "departure": "2023-11-04T01:17:00Z"
   },
   {
-    "train_number": "54537 ",
+    "train_number": "48486 ",
     "unit_number": "1116.0143",
-    "name": "Bischofshofen (in Bo)",
-    "abbr": "Bo  ",
-    "lat": "47.42",
-    "lng": "13.2199",
+    "name": "Salzburg Liefering (in Sb)",
+    "abbr": "Lfg ",
+    "lat": "47.8229",
+    "lng": "13.0021",
     "arrival": null,
-    "departure": "2023-11-02T19:09:00Z"
+    "departure": "2023-11-04T01:15:00Z"
   },
   {
-    "train_number": "54537 ",
+    "train_number": "48486 ",
+    "unit_number": "1116.0143",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": null,
+    "departure": "2023-11-04T01:04:00Z"
+  },
+  {
+    "train_number": "48486 ",
+    "unit_number": "1116.0143",
+    "name": "Salzburg Gnigl-Vbf (in Sb)",
+    "abbr": "Sr  ",
+    "lat": "47.8167",
+    "lng": "13.0639",
+    "arrival": "2023-11-03T21:34:00Z",
+    "departure": "2023-11-04T01:00:00Z"
+  },
+  {
+    "train_number": "48486 ",
     "unit_number": "1116.0143",
     "name": "Salzburg Gnigl-Einfgr. (in Sb)",
     "abbr": "Sre ",
     "lat": "47.8075",
     "lng": "13.0687",
     "arrival": null,
-    "departure": "2023-11-02T18:25:00Z"
+    "departure": "2023-11-03T21:32:00Z"
+  },
+  {
+    "train_number": "48486 ",
+    "unit_number": "1116.0143",
+    "name": "Bischofshofen (in Bo)",
+    "abbr": "Bo  ",
+    "lat": "47.42",
+    "lng": "13.2199",
+    "arrival": null,
+    "departure": "2023-11-03T20:47:00Z"
+  },
+  {
+    "train_number": "48486 ",
+    "unit_number": "1116.0143",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-11-03T19:50:00Z",
+    "departure": "2023-11-03T20:31:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0143",
+    "name": "Villach Süd Gvbf Ausfgr",
+    "abbr": "Va  ",
+    "lat": "46.5674",
+    "lng": "13.8238",
+    "arrival": null,
+    "departure": "2023-11-03T17:00:00Z"
+  },
+  {
+    "train_number": "54535 ",
+    "unit_number": "1116.0143",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-11-03T13:15:00Z",
+    "departure": "2023-11-03T13:26:00Z"
+  },
+  {
+    "train_number": "54535 ",
+    "unit_number": "1116.0143",
+    "name": "Bischofshofen (in Bo)",
+    "abbr": "Bo  ",
+    "lat": "47.42",
+    "lng": "13.2199",
+    "arrival": null,
+    "departure": "2023-11-03T12:59:00Z"
+  },
+  {
+    "train_number": "54535 ",
+    "unit_number": "1116.0143",
+    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
+    "abbr": "Sre ",
+    "lat": "47.8075",
+    "lng": "13.0687",
+    "arrival": null,
+    "departure": "2023-11-03T12:19:00Z"
   },
   {
     "train_number": null,
@@ -37,166 +117,86 @@
     "lat": "47.8167",
     "lng": "13.0639",
     "arrival": null,
-    "departure": "2023-11-02T18:21:00Z"
+    "departure": "2023-11-03T12:14:00Z"
   },
   {
-    "train_number": "1519  ",
+    "train_number": "54394 ",
     "unit_number": "1116.0143",
-    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
-    "abbr": "Sre ",
-    "lat": "47.8075",
-    "lng": "13.0687",
+    "name": "Steindorf b.Straßw. (in Nst)",
+    "abbr": "Nst ",
+    "lat": "47.9676",
+    "lng": "13.2406",
     "arrival": null,
-    "departure": "2023-11-02T15:46:00Z"
+    "departure": "2023-11-03T09:07:00Z"
   },
   {
-    "train_number": "1519  ",
+    "train_number": "54394 ",
     "unit_number": "1116.0143",
-    "name": "Bischofshofen (in Bo)",
-    "abbr": "Bo  ",
-    "lat": "47.42",
-    "lng": "13.2199",
-    "arrival": "2023-11-02T15:02:00Z",
-    "departure": "2023-11-02T15:04:00Z"
-  },
-  {
-    "train_number": "1519  ",
-    "unit_number": "1116.0143",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-11-02T14:48:00Z",
-    "departure": "2023-11-02T14:49:00Z"
-  },
-  {
-    "train_number": "1519  ",
-    "unit_number": "1116.0143",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
-    "arrival": "2023-11-02T13:24:00Z",
-    "departure": "2023-11-02T13:25:00Z"
-  },
-  {
-    "train_number": "1508  ",
-    "unit_number": "1116.0143",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-11-02T11:08:00Z",
-    "departure": "2023-11-02T12:52:00Z"
-  },
-  {
-    "train_number": "1508  ",
-    "unit_number": "1116.0143",
-    "name": "Kitzbühel",
-    "abbr": "Kzb ",
-    "lat": "47.4542",
-    "lng": "12.391",
-    "arrival": "2023-11-02T10:35:00Z",
-    "departure": "2023-11-02T10:35:00Z"
-  },
-  {
-    "train_number": "1508  ",
-    "unit_number": "1116.0143",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-11-02T09:10:00Z",
-    "departure": "2023-11-02T09:12:00Z"
-  },
-  {
-    "train_number": "1508  ",
-    "unit_number": "1116.0143",
-    "name": "Bischofshofen (in Bo)",
-    "abbr": "Bo  ",
-    "lat": "47.42",
-    "lng": "13.2199",
-    "arrival": "2023-11-02T08:55:00Z",
-    "departure": "2023-11-02T08:56:00Z"
-  },
-  {
-    "train_number": "1508  ",
-    "unit_number": "1116.0143",
-    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
-    "abbr": "Sre ",
-    "lat": "47.8075",
-    "lng": "13.0687",
+    "name": "Attnang-Puchheim",
+    "abbr": "At  ",
+    "lat": "48.0112",
+    "lng": "13.7193",
     "arrival": null,
-    "departure": "2023-11-02T08:12:00Z"
+    "departure": "2023-11-03T08:34:00Z"
   },
   {
-    "train_number": "1555  ",
+    "train_number": "54394 ",
     "unit_number": "1116.0143",
-    "name": "Salzburg Hbf (in Sb)",
-    "abbr": "Sb  ",
-    "lat": "47.8135",
-    "lng": "13.0466",
-    "arrival": "2023-11-02T07:15:00Z",
-    "departure": "2023-11-02T08:08:00Z"
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-11-03T07:25:00Z",
+    "departure": "2023-11-03T07:48:00Z"
   },
   {
-    "train_number": "1555  ",
+    "train_number": "54394 ",
     "unit_number": "1116.0143",
-    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
-    "abbr": "Sre ",
-    "lat": "47.8075",
-    "lng": "13.0687",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
     "arrival": null,
-    "departure": "2023-11-02T07:09:00Z"
-  },
-  {
-    "train_number": "1555  ",
-    "unit_number": "1116.0143",
-    "name": "Bischofshofen (in Bo)",
-    "abbr": "Bo  ",
-    "lat": "47.42",
-    "lng": "13.2199",
-    "arrival": "2023-11-02T06:26:00Z",
-    "departure": "2023-11-02T06:28:00Z"
-  },
-  {
-    "train_number": "1556  ",
-    "unit_number": "1116.0143",
-    "name": "Schwarzach-St.Veit",
-    "abbr": "Swa ",
-    "lat": "47.3186",
-    "lng": "13.1561",
-    "arrival": "2023-11-02T05:25:00Z",
-    "departure": "2023-11-02T06:12:00Z"
-  },
-  {
-    "train_number": "1556  ",
-    "unit_number": "1116.0143",
-    "name": "Bischofshofen (in Bo)",
-    "abbr": "Bo  ",
-    "lat": "47.42",
-    "lng": "13.2199",
-    "arrival": "2023-11-02T05:08:00Z",
-    "departure": "2023-11-02T05:10:00Z"
-  },
-  {
-    "train_number": "1556  ",
-    "unit_number": "1116.0143",
-    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
-    "abbr": "Sre ",
-    "lat": "47.8075",
-    "lng": "13.0687",
-    "arrival": null,
-    "departure": "2023-11-02T04:13:00Z"
+    "departure": "2023-11-03T07:04:00Z"
   },
   {
     "train_number": null,
     "unit_number": "1116.0143",
-    "name": "Salzburg Hbf (in Sb)",
-    "abbr": "Sb  ",
-    "lat": "47.8135",
-    "lng": "13.0466",
+    "name": "Linz Vbf-Ost Reih. (in Lzv)",
+    "abbr": "Lo  ",
+    "lat": "48.2718",
+    "lng": "14.3196",
     "arrival": null,
-    "departure": "2023-11-02T04:07:00Z"
+    "departure": "2023-11-03T06:56:00Z"
+  },
+  {
+    "train_number": "64923 ",
+    "unit_number": "1116.0143",
+    "name": "Enns",
+    "abbr": "Ens ",
+    "lat": "48.2212",
+    "lng": "14.4668",
+    "arrival": "2023-11-03T03:57:00Z",
+    "departure": "2023-11-03T04:32:00Z"
+  },
+  {
+    "train_number": "64923 ",
+    "unit_number": "1116.0143",
+    "name": "Linz Vbf-Ost-Einf. (in Lzv)",
+    "abbr": "Lm  ",
+    "lat": "48.2607",
+    "lng": "14.3257",
+    "arrival": null,
+    "departure": "2023-11-03T03:44:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0143",
+    "name": "Linz Vbf-Ost Reih. (in Lzv)",
+    "abbr": "Lo  ",
+    "lat": "48.2718",
+    "lng": "14.3196",
+    "arrival": null,
+    "departure": "2023-11-03T03:33:00Z"
   }
 ]
