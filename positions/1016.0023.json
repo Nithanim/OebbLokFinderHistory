@@ -6,8 +6,8 @@
     "abbr": "MH  ",
     "lat": "48.1399",
     "lng": "11.5604",
-    "arrival": "2023-11-03T08:20:00Z",
-    "departure": "2023-11-03T21:50:00Z"
+    "arrival": "2023-11-04T08:20:00Z",
+    "departure": "2023-11-04T21:50:00Z"
   },
   {
     "train_number": "294   ",
@@ -16,8 +16,8 @@
     "abbr": "MRO ",
     "lat": "47.8511",
     "lng": "12.1196",
-    "arrival": "2023-11-03T07:34:00Z",
-    "departure": "2023-11-03T07:38:00Z"
+    "arrival": "2023-11-04T07:34:00Z",
+    "departure": "2023-11-04T07:38:00Z"
   },
   {
     "train_number": "294   ",
@@ -27,16 +27,76 @@
     "lat": "47.8697",
     "lng": "12.6391",
     "arrival": null,
-    "departure": "2023-11-03T06:53:00Z"
+    "departure": "2023-11-04T06:53:00Z"
   },
   {
-    "train_number": "295   ",
+    "train_number": "294   ",
     "unit_number": "1016.0023",
     "name": "Freilassing",
     "abbr": "MFL ",
     "lat": "47.8368",
     "lng": "12.9764",
-    "arrival": "2023-11-02T20:44:00Z",
-    "departure": "2023-11-03T06:31:00Z"
+    "arrival": "2023-11-04T06:07:00Z",
+    "departure": "2023-11-04T06:31:00Z"
+  },
+  {
+    "train_number": "294   ",
+    "unit_number": "1016.0023",
+    "name": "Salzburg Liefering (in Sb)",
+    "abbr": "Lfg ",
+    "lat": "47.8229",
+    "lng": "13.0021",
+    "arrival": null,
+    "departure": "2023-11-04T06:05:00Z"
+  },
+  {
+    "train_number": "294   ",
+    "unit_number": "1016.0023",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-11-04T05:49:00Z",
+    "departure": "2023-11-04T06:01:00Z"
+  },
+  {
+    "train_number": "294   ",
+    "unit_number": "1016.0023",
+    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
+    "abbr": "Sre ",
+    "lat": "47.8075",
+    "lng": "13.0687",
+    "arrival": null,
+    "departure": "2023-11-04T05:42:00Z"
+  },
+  {
+    "train_number": "294   ",
+    "unit_number": "1016.0023",
+    "name": "Bischofshofen (in Bo)",
+    "abbr": "Bo  ",
+    "lat": "47.42",
+    "lng": "13.2199",
+    "arrival": null,
+    "departure": "2023-11-04T05:02:00Z"
+  },
+  {
+    "train_number": "294   ",
+    "unit_number": "1016.0023",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-11-04T04:47:00Z",
+    "departure": "2023-11-04T04:49:00Z"
+  },
+  {
+    "train_number": "234   ",
+    "unit_number": "1016.0023",
+    "name": "Villach Hbf",
+    "abbr": "Vb  ",
+    "lat": "46.6186",
+    "lng": "13.8484",
+    "arrival": "2023-11-04T02:22:00Z",
+    "departure": "2023-11-04T03:29:00Z"
   }
 ]

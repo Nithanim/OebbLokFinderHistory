@@ -1,0 +1,202 @@
+[
+  {
+    "train_number": "539   ",
+    "unit_number": "1116.0077",
+    "name": "Leobersdorf",
+    "abbr": "Lb  ",
+    "lat": "47.9375",
+    "lng": "16.2313",
+    "arrival": null,
+    "departure": "2023-11-04T13:43:00Z"
+  },
+  {
+    "train_number": "539   ",
+    "unit_number": "1116.0077",
+    "name": "Mödling",
+    "abbr": "Md  ",
+    "lat": "48.0858",
+    "lng": "16.2958",
+    "arrival": null,
+    "departure": "2023-11-04T13:34:00Z"
+  },
+  {
+    "train_number": "539   ",
+    "unit_number": "1116.0077",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-11-04T13:23:00Z",
+    "departure": "2023-11-04T13:25:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0077",
+    "name": "Wien Hauptbahnhof (in Wbf)",
+    "abbr": "Wbf ",
+    "lat": "48.185",
+    "lng": "16.3778",
+    "arrival": null,
+    "departure": "2023-11-04T13:18:00Z"
+  },
+  {
+    "train_number": "85842 ",
+    "unit_number": "1116.0077",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": null,
+    "departure": "2023-11-04T11:07:00Z"
+  },
+  {
+    "train_number": "85845 ",
+    "unit_number": "1116.0077",
+    "name": "Wien Westbf (in Ws)",
+    "abbr": "Ws  ",
+    "lat": "48.1964",
+    "lng": "16.3374",
+    "arrival": "2023-11-04T10:12:00Z",
+    "departure": "2023-11-04T10:56:00Z"
+  },
+  {
+    "train_number": "85845 ",
+    "unit_number": "1116.0077",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": null,
+    "departure": "2023-11-04T09:53:00Z"
+  },
+  {
+    "train_number": null,
+    "unit_number": "1116.0077",
+    "name": "W. Matzleinsdorf (in Wbf)",
+    "abbr": "Mat ",
+    "lat": "48.1772",
+    "lng": "16.3491",
+    "arrival": null,
+    "departure": "2023-11-04T09:51:00Z"
+  },
+  {
+    "train_number": "491   ",
+    "unit_number": "1116.0077",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-11-04T09:17:00Z",
+    "departure": "2023-11-04T09:20:00Z"
+  },
+  {
+    "train_number": "491   ",
+    "unit_number": "1116.0077",
+    "name": "St.Pölten Hbf (in Pb)",
+    "abbr": "Pb  ",
+    "lat": "48.2081",
+    "lng": "15.6237",
+    "arrival": "2023-11-04T08:43:00Z",
+    "departure": "2023-11-04T08:45:00Z"
+  },
+  {
+    "train_number": "491   ",
+    "unit_number": "1116.0077",
+    "name": "Pöchlarn",
+    "abbr": "Poe ",
+    "lat": "48.208",
+    "lng": "15.2148",
+    "arrival": null,
+    "departure": "2023-11-04T08:29:00Z"
+  },
+  {
+    "train_number": "491   ",
+    "unit_number": "1116.0077",
+    "name": "Ybbs a.d.Donau",
+    "abbr": "Y   ",
+    "lat": "48.158",
+    "lng": "15.0981",
+    "arrival": null,
+    "departure": "2023-11-04T08:25:00Z"
+  },
+  {
+    "train_number": "491   ",
+    "unit_number": "1116.0077",
+    "name": "Amstetten (in Ams)",
+    "abbr": "Ams ",
+    "lat": "48.1215",
+    "lng": "14.8792",
+    "arrival": "2023-11-04T08:17:00Z",
+    "departure": "2023-11-04T08:18:00Z"
+  },
+  {
+    "train_number": "491   ",
+    "unit_number": "1116.0077",
+    "name": "St.Valentin (in Sv)",
+    "abbr": "Sv  ",
+    "lat": "48.1784",
+    "lng": "14.5219",
+    "arrival": null,
+    "departure": "2023-11-04T08:00:00Z"
+  },
+  {
+    "train_number": "491   ",
+    "unit_number": "1116.0077",
+    "name": "Linz Hbf",
+    "abbr": "Lz  ",
+    "lat": "48.2908",
+    "lng": "14.2927",
+    "arrival": "2023-11-04T07:44:00Z",
+    "departure": "2023-11-04T07:49:00Z"
+  },
+  {
+    "train_number": "491   ",
+    "unit_number": "1116.0077",
+    "name": "Wels Vbf-Einfgr (in Wev)",
+    "abbr": "Wei ",
+    "lat": "48.1765",
+    "lng": "14.0501",
+    "arrival": null,
+    "departure": "2023-11-04T07:17:00Z"
+  },
+  {
+    "train_number": "491   ",
+    "unit_number": "1116.0077",
+    "name": "Wels Hbf",
+    "abbr": "We  ",
+    "lat": "48.1662",
+    "lng": "14.0273",
+    "arrival": "2023-11-04T07:14:00Z",
+    "departure": "2023-11-04T07:16:00Z"
+  },
+  {
+    "train_number": "491   ",
+    "unit_number": "1116.0077",
+    "name": "Neumarkt-Kallham (in Neu)",
+    "abbr": "Neu ",
+    "lat": "48.2714",
+    "lng": "13.7245",
+    "arrival": null,
+    "departure": "2023-11-04T06:52:00Z"
+  },
+  {
+    "train_number": "491   ",
+    "unit_number": "1116.0077",
+    "name": "Schärding (in Sch)",
+    "abbr": "Sch ",
+    "lat": "48.4638",
+    "lng": "13.4424",
+    "arrival": null,
+    "departure": "2023-11-04T06:25:00Z"
+  },
+  {
+    "train_number": "491   ",
+    "unit_number": "1116.0077",
+    "name": "Passau Hbf",
+    "abbr": "Pa  ",
+    "lat": "48.5737",
+    "lng": "13.4503",
+    "arrival": "2023-11-04T05:13:00Z",
+    "departure": "2023-11-04T06:15:00Z"
+  }
+]

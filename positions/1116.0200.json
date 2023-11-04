@@ -1,33 +1,13 @@
 [
   {
-    "train_number": "64000 ",
+    "train_number": "86633 ",
     "unit_number": "1116.0200",
-    "name": "Hollabrunn",
-    "abbr": "Oh  ",
-    "lat": "48.563",
-    "lng": "16.0722",
-    "arrival": null,
-    "departure": "2023-11-04T02:09:00Z"
-  },
-  {
-    "train_number": "64000 ",
-    "unit_number": "1116.0200",
-    "name": "Stockerau (in Su)",
-    "abbr": "Su  ",
-    "lat": "48.3824",
-    "lng": "16.2126",
-    "arrival": null,
-    "departure": "2023-11-04T01:51:00Z"
-  },
-  {
-    "train_number": "64000 ",
-    "unit_number": "1116.0200",
-    "name": "Korneuburg",
-    "abbr": "Ko  ",
-    "lat": "48.3429",
-    "lng": "16.3289",
-    "arrival": null,
-    "departure": "2023-11-04T01:44:00Z"
+    "name": "Wien Zvbf-Einfgr. (in Zur)",
+    "abbr": "Ze  ",
+    "lat": "48.1568",
+    "lng": "16.4193",
+    "arrival": "2023-11-04T18:19:00Z",
+    "departure": "2023-11-05T04:17:00Z"
   },
   {
     "train_number": null,
@@ -37,77 +17,7 @@
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-11-04T00:55:00Z"
-  },
-  {
-    "train_number": "68018 ",
-    "unit_number": "1116.0200",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-11-03T20:18:00Z"
-  },
-  {
-    "train_number": "68019 ",
-    "unit_number": "1116.0200",
-    "name": "W. Hütteldorf GzGr (in Hf)",
-    "abbr": "Hfg ",
-    "lat": "48.1949",
-    "lng": "16.2705",
-    "arrival": "2023-11-03T18:31:00Z",
-    "departure": "2023-11-03T19:34:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0200",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-11-03T18:00:00Z"
-  },
-  {
-    "train_number": "85658 ",
-    "unit_number": "1116.0200",
-    "name": "Parndorf",
-    "abbr": "Par ",
-    "lat": "47.987",
-    "lng": "16.8702",
-    "arrival": null,
-    "departure": "2023-11-03T16:49:00Z"
-  },
-  {
-    "train_number": "47305 ",
-    "unit_number": "1116.0200",
-    "name": "Hegyeshalom",
-    "abbr": "He  ",
-    "lat": "47.9139",
-    "lng": "17.1455",
-    "arrival": "2023-11-03T16:05:00Z",
-    "departure": "2023-11-03T16:36:00Z"
-  },
-  {
-    "train_number": "47305 ",
-    "unit_number": "1116.0200",
-    "name": "Parndorf",
-    "abbr": "Par ",
-    "lat": "47.987",
-    "lng": "16.8702",
-    "arrival": null,
-    "departure": "2023-11-03T15:46:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0200",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-11-03T15:10:00Z"
+    "departure": "2023-11-04T17:15:00Z"
   },
   {
     "train_number": "45027 ",
@@ -117,7 +27,7 @@
     "lat": "48.3401",
     "lng": "16.7324",
     "arrival": null,
-    "departure": "2023-11-03T13:51:00Z"
+    "departure": "2023-11-04T13:51:00Z"
   },
   {
     "train_number": "45027 ",
@@ -126,8 +36,8 @@
     "abbr": "Nh  ",
     "lat": "48.5981",
     "lng": "16.9008",
-    "arrival": "2023-11-03T13:17:00Z",
-    "departure": "2023-11-03T13:26:00Z"
+    "arrival": "2023-11-04T13:17:00Z",
+    "departure": "2023-11-04T13:26:00Z"
   },
   {
     "train_number": "V-Tfz ",
@@ -136,8 +46,8 @@
     "abbr": "Nh  ",
     "lat": "48.5981",
     "lng": "16.9008",
-    "arrival": "2023-11-03T11:01:00Z",
-    "departure": "2023-11-03T11:33:00Z"
+    "arrival": "2023-11-04T11:01:00Z",
+    "departure": "2023-11-04T11:33:00Z"
   },
   {
     "train_number": "45004 ",
@@ -147,7 +57,7 @@
     "lat": "48.3401",
     "lng": "16.7324",
     "arrival": null,
-    "departure": "2023-11-03T10:21:00Z"
+    "departure": "2023-11-04T10:21:00Z"
   },
   {
     "train_number": null,
@@ -157,16 +67,6 @@
     "lat": "48.1453",
     "lng": "16.43",
     "arrival": null,
-    "departure": "2023-11-03T09:35:00Z"
-  },
-  {
-    "train_number": null,
-    "unit_number": "1116.0200",
-    "name": "Wien Zvbf (in Zur)",
-    "abbr": "Zur ",
-    "lat": "48.1453",
-    "lng": "16.43",
-    "arrival": null,
-    "departure": "2023-11-03T03:03:00Z"
+    "departure": "2023-11-04T09:46:00Z"
   }
 ]

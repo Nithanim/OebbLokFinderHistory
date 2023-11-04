@@ -7,7 +7,7 @@
     "lat": "47.696",
     "lng": "15.8632",
     "arrival": null,
-    "departure": "2023-11-03T19:53:00Z"
+    "departure": "2023-11-04T19:53:00Z"
   },
   {
     "train_number": "105   ",
@@ -17,7 +17,7 @@
     "lat": "47.731",
     "lng": "16.0826",
     "arrival": null,
-    "departure": "2023-11-03T19:42:00Z"
+    "departure": "2023-11-04T19:42:00Z"
   },
   {
     "train_number": "105   ",
@@ -26,8 +26,8 @@
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-11-03T19:28:00Z",
-    "departure": "2023-11-03T19:32:00Z"
+    "arrival": "2023-11-04T19:28:00Z",
+    "departure": "2023-11-04T19:32:00Z"
   },
   {
     "train_number": "105   ",
@@ -37,7 +37,7 @@
     "lat": "47.9375",
     "lng": "16.2313",
     "arrival": null,
-    "departure": "2023-11-03T19:21:00Z"
+    "departure": "2023-11-04T19:21:00Z"
   },
   {
     "train_number": "105   ",
@@ -47,7 +47,7 @@
     "lat": "48.0858",
     "lng": "16.2958",
     "arrival": null,
-    "departure": "2023-11-03T19:13:00Z"
+    "departure": "2023-11-04T19:13:00Z"
   },
   {
     "train_number": "105   ",
@@ -56,8 +56,8 @@
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-11-03T19:03:00Z",
-    "departure": "2023-11-03T19:05:00Z"
+    "arrival": "2023-11-04T19:03:00Z",
+    "departure": "2023-11-04T19:05:00Z"
   },
   {
     "train_number": "105   ",
@@ -67,7 +67,7 @@
     "lat": "48.3401",
     "lng": "16.7324",
     "arrival": null,
-    "departure": "2023-11-03T18:22:00Z"
+    "departure": "2023-11-04T18:22:00Z"
   },
   {
     "train_number": "105   ",
@@ -77,7 +77,7 @@
     "lat": "48.5981",
     "lng": "16.9008",
     "arrival": null,
-    "departure": "2023-11-03T18:05:00Z"
+    "departure": "2023-11-04T18:05:00Z"
   },
   {
     "train_number": "104   ",
@@ -87,7 +87,7 @@
     "lat": "48.5981",
     "lng": "16.9008",
     "arrival": null,
-    "departure": "2023-11-03T07:54:00Z"
+    "departure": "2023-11-04T07:54:00Z"
   },
   {
     "train_number": "104   ",
@@ -97,7 +97,7 @@
     "lat": "48.3401",
     "lng": "16.7324",
     "arrival": null,
-    "departure": "2023-11-03T07:35:00Z"
+    "departure": "2023-11-04T07:35:00Z"
   },
   {
     "train_number": "104   ",
@@ -106,8 +106,8 @@
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-11-03T06:55:00Z",
-    "departure": "2023-11-03T06:57:00Z"
+    "arrival": "2023-11-04T06:55:00Z",
+    "departure": "2023-11-04T06:57:00Z"
   },
   {
     "train_number": "104   ",
@@ -117,7 +117,7 @@
     "lat": "48.0858",
     "lng": "16.2958",
     "arrival": null,
-    "departure": "2023-11-03T06:46:00Z"
+    "departure": "2023-11-04T06:46:00Z"
   },
   {
     "train_number": "104   ",
@@ -127,7 +127,7 @@
     "lat": "47.9375",
     "lng": "16.2313",
     "arrival": null,
-    "departure": "2023-11-03T06:38:00Z"
+    "departure": "2023-11-04T06:38:00Z"
   },
   {
     "train_number": "104   ",
@@ -136,8 +136,8 @@
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-11-03T06:28:00Z",
-    "departure": "2023-11-03T06:30:00Z"
+    "arrival": "2023-11-04T06:28:00Z",
+    "departure": "2023-11-04T06:30:00Z"
   },
   {
     "train_number": "104   ",
@@ -147,7 +147,7 @@
     "lat": "47.731",
     "lng": "16.0826",
     "arrival": null,
-    "departure": "2023-11-03T06:19:00Z"
+    "departure": "2023-11-04T06:19:00Z"
   },
   {
     "train_number": "104   ",
@@ -157,7 +157,7 @@
     "lat": "47.696",
     "lng": "15.8632",
     "arrival": null,
-    "departure": "2023-11-03T06:08:00Z"
+    "departure": "2023-11-04T06:08:00Z"
   },
   {
     "train_number": "104   ",
@@ -166,8 +166,8 @@
     "abbr": "----",
     "lat": "47.6079",
     "lng": "15.677",
-    "arrival": "2023-11-03T05:30:00Z",
-    "departure": "2023-11-03T05:32:00Z"
+    "arrival": "2023-11-04T05:30:00Z",
+    "departure": "2023-11-04T05:32:00Z"
   },
   {
     "train_number": "104   ",
@@ -176,8 +176,8 @@
     "abbr": "Bm  ",
     "lat": "47.4134",
     "lng": "15.2797",
-    "arrival": "2023-11-03T05:00:00Z",
-    "departure": "2023-11-03T05:02:00Z"
+    "arrival": "2023-11-04T05:00:00Z",
+    "departure": "2023-11-04T05:02:00Z"
   },
   {
     "train_number": "104   ",
@@ -187,16 +187,16 @@
     "lat": "47.0885",
     "lng": "15.4077",
     "arrival": null,
-    "departure": "2023-11-03T04:28:00Z"
+    "departure": "2023-11-04T04:28:00Z"
   },
   {
-    "train_number": "311   ",
+    "train_number": null,
     "unit_number": "1216.0210",
     "name": "Graz Hbf (in G)",
     "abbr": "G   ",
     "lat": "47.0733",
     "lng": "15.4163",
-    "arrival": "2023-10-31T07:22:00Z",
-    "departure": "2023-11-03T04:25:00Z"
+    "arrival": null,
+    "departure": "2023-11-04T04:25:00Z"
   }
 ]

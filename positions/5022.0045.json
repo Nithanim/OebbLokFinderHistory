@@ -1,22 +1,22 @@
 [
   {
-    "train_number": "6554  ",
+    "train_number": "2730  ",
     "unit_number": "5022.0045",
     "name": "Wr. Neustadt Hbf (in Nb)",
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-11-03T17:53:00Z",
-    "departure": "2023-11-03T23:35:00Z"
+    "arrival": "2023-11-04T09:22:00Z",
+    "departure": "2023-11-04T22:39:00Z"
   },
   {
-    "train_number": "6402  ",
+    "train_number": "6488  ",
     "unit_number": "5022.0045",
     "name": "Wr. Neustadt Hbf (in Nb)",
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-11-03T05:07:00Z",
-    "departure": "2023-11-03T16:00:00Z"
+    "arrival": "2023-11-04T06:24:00Z",
+    "departure": "2023-11-04T07:39:00Z"
   }
 ]
