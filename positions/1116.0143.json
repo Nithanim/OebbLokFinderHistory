@@ -1,5 +1,55 @@
 [
   {
+    "train_number": null,
+    "unit_number": "1116.0143",
+    "name": "Villach Süd Gvbf Ausfgr",
+    "abbr": "Va  ",
+    "lat": "46.5674",
+    "lng": "13.8238",
+    "arrival": null,
+    "departure": "2023-11-05T19:48:00Z"
+  },
+  {
+    "train_number": "41981 ",
+    "unit_number": "1116.0143",
+    "name": "Villach Westbf",
+    "abbr": "----",
+    "lat": "46.6092",
+    "lng": "13.8407",
+    "arrival": "2023-11-05T07:10:00Z",
+    "departure": "2023-11-05T07:10:00Z"
+  },
+  {
+    "train_number": "41981 ",
+    "unit_number": "1116.0143",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": null,
+    "departure": "2023-11-05T05:09:00Z"
+  },
+  {
+    "train_number": "41981 ",
+    "unit_number": "1116.0143",
+    "name": "Bischofshofen (in Bo)",
+    "abbr": "Bo  ",
+    "lat": "47.42",
+    "lng": "13.2199",
+    "arrival": null,
+    "departure": "2023-11-05T04:54:00Z"
+  },
+  {
+    "train_number": "41981 ",
+    "unit_number": "1116.0143",
+    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
+    "abbr": "Sre ",
+    "lat": "47.8075",
+    "lng": "13.0687",
+    "arrival": null,
+    "departure": "2023-11-05T04:03:00Z"
+  },
+  {
     "train_number": "41981 ",
     "unit_number": "1116.0143",
     "name": "Salzburg Hbf (in Sb)",
@@ -8,55 +58,5 @@
     "lng": "13.0466",
     "arrival": "2023-11-05T01:08:00Z",
     "departure": "2023-11-05T04:00:00Z"
-  },
-  {
-    "train_number": "41981 ",
-    "unit_number": "1116.0143",
-    "name": "Salzburg Liefering (in Sb)",
-    "abbr": "Lfg ",
-    "lat": "47.8229",
-    "lng": "13.0021",
-    "arrival": null,
-    "departure": "2023-11-05T01:01:00Z"
-  },
-  {
-    "train_number": "41981 ",
-    "unit_number": "1116.0143",
-    "name": "Freilassing",
-    "abbr": "MFL ",
-    "lat": "47.8368",
-    "lng": "12.9764",
-    "arrival": "2023-11-05T00:58:00Z",
-    "departure": "2023-11-05T00:58:00Z"
-  },
-  {
-    "train_number": "41981 ",
-    "unit_number": "1116.0143",
-    "name": "Traunstein",
-    "abbr": "MTS ",
-    "lat": "47.8697",
-    "lng": "12.6391",
-    "arrival": null,
-    "departure": "2023-11-05T00:00:00Z"
-  },
-  {
-    "train_number": "41981 ",
-    "unit_number": "1116.0143",
-    "name": "Rosenheim",
-    "abbr": "MRO ",
-    "lat": "47.8511",
-    "lng": "12.1196",
-    "arrival": null,
-    "departure": "2023-11-04T22:04:00Z"
-  },
-  {
-    "train_number": "48486 ",
-    "unit_number": "1116.0143",
-    "name": "Rosenheim",
-    "abbr": "MRO ",
-    "lat": "47.8511",
-    "lng": "12.1196",
-    "arrival": null,
-    "departure": "2023-11-04T03:41:00Z"
   }
 ]

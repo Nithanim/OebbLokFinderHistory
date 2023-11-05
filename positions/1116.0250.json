@@ -1,202 +1,202 @@
 [
   {
-    "train_number": "161   ",
-    "unit_number": "1116.0250",
-    "name": "Wien Meidling (in Wbf)",
-    "abbr": "Mi  ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": "2023-11-04T13:25:00Z",
-    "departure": "2023-11-04T13:27:00Z"
-  },
-  {
-    "train_number": "161   ",
-    "unit_number": "1116.0250",
-    "name": "St.Pölten Hbf (in Pb)",
-    "abbr": "Pb  ",
-    "lat": "48.2081",
-    "lng": "15.6237",
-    "arrival": "2023-11-04T13:01:00Z",
-    "departure": "2023-11-04T13:03:00Z"
-  },
-  {
-    "train_number": "161   ",
-    "unit_number": "1116.0250",
-    "name": "Pöchlarn",
-    "abbr": "Poe ",
-    "lat": "48.208",
-    "lng": "15.2148",
-    "arrival": null,
-    "departure": "2023-11-04T12:49:00Z"
-  },
-  {
-    "train_number": "161   ",
-    "unit_number": "1116.0250",
-    "name": "Ybbs a.d.Donau",
-    "abbr": "Y   ",
-    "lat": "48.158",
-    "lng": "15.0981",
-    "arrival": null,
-    "departure": "2023-11-04T12:45:00Z"
-  },
-  {
-    "train_number": "161   ",
-    "unit_number": "1116.0250",
-    "name": "Amstetten (in Ams)",
-    "abbr": "Ams ",
-    "lat": "48.1215",
-    "lng": "14.8792",
-    "arrival": null,
-    "departure": "2023-11-04T12:40:00Z"
-  },
-  {
-    "train_number": "161   ",
-    "unit_number": "1116.0250",
-    "name": "St.Valentin (in Sv)",
-    "abbr": "Sv  ",
-    "lat": "48.1784",
-    "lng": "14.5219",
-    "arrival": null,
-    "departure": "2023-11-04T12:28:00Z"
-  },
-  {
-    "train_number": "161   ",
-    "unit_number": "1116.0250",
-    "name": "Linz Hbf",
-    "abbr": "Lz  ",
-    "lat": "48.2908",
-    "lng": "14.2927",
-    "arrival": "2023-11-04T12:15:00Z",
-    "departure": "2023-11-04T12:17:00Z"
-  },
-  {
-    "train_number": "161   ",
-    "unit_number": "1116.0250",
-    "name": "Wels Hbf",
-    "abbr": "We  ",
-    "lat": "48.1662",
-    "lng": "14.0273",
-    "arrival": null,
-    "departure": "2023-11-04T12:00:00Z"
-  },
-  {
-    "train_number": "161   ",
-    "unit_number": "1116.0250",
-    "name": "Attnang-Puchheim",
-    "abbr": "At  ",
-    "lat": "48.0112",
-    "lng": "13.7193",
-    "arrival": null,
-    "departure": "2023-11-04T11:48:00Z"
-  },
-  {
-    "train_number": "161   ",
-    "unit_number": "1116.0250",
-    "name": "Steindorf b.Straßw. (in Nst)",
-    "abbr": "Nst ",
-    "lat": "47.9676",
-    "lng": "13.2406",
-    "arrival": null,
-    "departure": "2023-11-04T11:23:00Z"
-  },
-  {
-    "train_number": "161   ",
-    "unit_number": "1116.0250",
-    "name": "Salzburg Hbf (in Sb)",
-    "abbr": "Sb  ",
-    "lat": "47.8135",
-    "lng": "13.0466",
-    "arrival": "2023-11-04T11:03:00Z",
-    "departure": "2023-11-04T11:07:00Z"
-  },
-  {
-    "train_number": "161   ",
-    "unit_number": "1116.0250",
-    "name": "Salzburg Liefering (in Sb)",
-    "abbr": "Lfg ",
-    "lat": "47.8229",
-    "lng": "13.0021",
-    "arrival": null,
-    "departure": "2023-11-04T10:59:00Z"
-  },
-  {
-    "train_number": "161   ",
-    "unit_number": "1116.0250",
-    "name": "Freilassing",
-    "abbr": "MFL ",
-    "lat": "47.8368",
-    "lng": "12.9764",
-    "arrival": null,
-    "departure": "2023-11-04T10:57:00Z"
-  },
-  {
-    "train_number": "161   ",
-    "unit_number": "1116.0250",
-    "name": "Traunstein",
-    "abbr": "MTS ",
-    "lat": "47.8697",
-    "lng": "12.6391",
-    "arrival": null,
-    "departure": "2023-11-04T10:41:00Z"
-  },
-  {
-    "train_number": "161   ",
-    "unit_number": "1116.0250",
-    "name": "Kufstein",
-    "abbr": "K   ",
-    "lat": "47.5833",
-    "lng": "12.1657",
-    "arrival": "2023-11-04T09:51:00Z",
-    "departure": "2023-11-04T09:53:00Z"
-  },
-  {
-    "train_number": "161   ",
-    "unit_number": "1116.0250",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-11-04T09:41:00Z",
-    "departure": "2023-11-04T09:43:00Z"
-  },
-  {
-    "train_number": "161   ",
+    "train_number": "660   ",
     "unit_number": "1116.0250",
     "name": "Wörgl Hbf-T. N. (in W)",
     "abbr": "Wtn ",
     "lat": "47.4824",
     "lng": "12.033",
     "arrival": null,
-    "departure": "2023-11-04T09:39:00Z"
+    "departure": "2023-11-05T09:17:00Z"
   },
   {
-    "train_number": "161   ",
+    "train_number": "863   ",
+    "unit_number": "1116.0250",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-11-05T08:43:00Z",
+    "departure": "2023-11-05T09:15:00Z"
+  },
+  {
+    "train_number": "863   ",
+    "unit_number": "1116.0250",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-11-05T08:41:00Z"
+  },
+  {
+    "train_number": "863   ",
+    "unit_number": "1116.0250",
+    "name": "Jenbach",
+    "abbr": "Jb  ",
+    "lat": "47.3884",
+    "lng": "11.7783",
+    "arrival": "2023-11-05T08:29:00Z",
+    "departure": "2023-11-05T08:31:00Z"
+  },
+  {
+    "train_number": "863   ",
     "unit_number": "1116.0250",
     "name": "Hall in Tirol",
     "abbr": "H   ",
     "lat": "47.2769",
     "lng": "11.5013",
     "arrival": null,
-    "departure": "2023-11-04T09:24:00Z"
+    "departure": "2023-11-05T08:20:00Z"
   },
   {
-    "train_number": "161   ",
+    "train_number": "863   ",
     "unit_number": "1116.0250",
     "name": "Innsbruck Hbf  (in I)",
     "abbr": "I   ",
     "lat": "47.2634",
     "lng": "11.4017",
-    "arrival": "2023-11-04T09:11:00Z",
-    "departure": "2023-11-04T09:17:00Z"
+    "arrival": "2023-11-05T08:11:00Z",
+    "departure": "2023-11-05T08:14:00Z"
   },
   {
-    "train_number": null,
+    "train_number": "366   ",
     "unit_number": "1116.0250",
     "name": "Innsbruck Hbf  (in I)",
     "abbr": "I   ",
     "lat": "47.2634",
     "lng": "11.4017",
+    "arrival": "2023-11-05T06:44:00Z",
+    "departure": "2023-11-05T06:47:00Z"
+  },
+  {
+    "train_number": "366   ",
+    "unit_number": "1116.0250",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
     "arrival": null,
-    "departure": "2023-11-04T07:43:00Z"
+    "departure": "2023-11-05T06:38:00Z"
+  },
+  {
+    "train_number": "366   ",
+    "unit_number": "1116.0250",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-11-05T06:21:00Z"
+  },
+  {
+    "train_number": "366   ",
+    "unit_number": "1116.0250",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-11-05T06:17:00Z",
+    "departure": "2023-11-05T06:19:00Z"
+  },
+  {
+    "train_number": "366   ",
+    "unit_number": "1116.0250",
+    "name": "Kufstein",
+    "abbr": "K   ",
+    "lat": "47.5833",
+    "lng": "12.1657",
+    "arrival": "2023-11-05T06:07:00Z",
+    "departure": "2023-11-05T06:09:00Z"
+  },
+  {
+    "train_number": "366   ",
+    "unit_number": "1116.0250",
+    "name": "Traunstein",
+    "abbr": "MTS ",
+    "lat": "47.8697",
+    "lng": "12.6391",
+    "arrival": null,
+    "departure": "2023-11-05T05:18:00Z"
+  },
+  {
+    "train_number": "366   ",
+    "unit_number": "1116.0250",
+    "name": "Freilassing",
+    "abbr": "MFL ",
+    "lat": "47.8368",
+    "lng": "12.9764",
+    "arrival": null,
+    "departure": "2023-11-05T05:02:00Z"
+  },
+  {
+    "train_number": "366   ",
+    "unit_number": "1116.0250",
+    "name": "Salzburg Liefering (in Sb)",
+    "abbr": "Lfg ",
+    "lat": "47.8229",
+    "lng": "13.0021",
+    "arrival": null,
+    "departure": "2023-11-05T05:00:00Z"
+  },
+  {
+    "train_number": "94726 ",
+    "unit_number": "1116.0250",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-11-05T04:29:00Z",
+    "departure": "2023-11-05T04:56:00Z"
+  },
+  {
+    "train_number": "94726 ",
+    "unit_number": "1116.0250",
+    "name": "Salzburg Gnigl-Vbf (in Sb)",
+    "abbr": "----",
+    "lat": "47.8167",
+    "lng": "13.0639",
+    "arrival": "2023-11-05T04:12:00Z",
+    "departure": "2023-11-05T04:12:00Z"
+  },
+  {
+    "train_number": "19447 ",
+    "unit_number": "1116.0250",
+    "name": "Salzburg Hbf (in Sb)",
+    "abbr": "Sb  ",
+    "lat": "47.8135",
+    "lng": "13.0466",
+    "arrival": "2023-11-05T03:09:00Z",
+    "departure": "2023-11-05T03:45:00Z"
+  },
+  {
+    "train_number": "19447 ",
+    "unit_number": "1116.0250",
+    "name": "Salzburg Gnigl-Einfgr. (in Sb)",
+    "abbr": "Sre ",
+    "lat": "47.8075",
+    "lng": "13.0687",
+    "arrival": null,
+    "departure": "2023-11-05T03:05:00Z"
+  },
+  {
+    "train_number": "19447 ",
+    "unit_number": "1116.0250",
+    "name": "Bischofshofen (in Bo)",
+    "abbr": "Bo  ",
+    "lat": "47.42",
+    "lng": "13.2199",
+    "arrival": "2023-11-05T02:32:00Z",
+    "departure": "2023-11-05T02:34:00Z"
+  },
+  {
+    "train_number": "19447 ",
+    "unit_number": "1116.0250",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-11-05T02:17:00Z",
+    "departure": "2023-11-05T02:20:00Z"
   }
 ]

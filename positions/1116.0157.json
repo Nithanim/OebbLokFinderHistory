@@ -1,52 +1,92 @@
 [
   {
-    "train_number": "88416 ",
+    "train_number": "66470 ",
     "unit_number": "1116.0157",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-11-04T06:11:00Z",
-    "departure": "2023-11-05T09:01:00Z"
+    "name": "Wolfurt (in Wo)",
+    "abbr": "Wo  ",
+    "lat": "47.457",
+    "lng": "9.74133",
+    "arrival": "2023-11-06T00:15:00Z",
+    "departure": "2023-11-06T08:30:00Z"
   },
   {
-    "train_number": "44181 ",
+    "train_number": "66470 ",
     "unit_number": "1116.0157",
-    "name": "Hall in Tirol",
-    "abbr": "H   ",
-    "lat": "47.2769",
-    "lng": "11.5013",
-    "arrival": "2023-11-04T05:09:00Z",
-    "departure": "2023-11-04T06:00:00Z"
-  },
-  {
-    "train_number": "44181 ",
-    "unit_number": "1116.0157",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
+    "name": "Dornbirn (in Do)",
+    "abbr": "Do  ",
+    "lat": "47.4176",
+    "lng": "9.73871",
     "arrival": null,
-    "departure": "2023-11-04T04:36:00Z"
+    "departure": "2023-11-06T00:10:00Z"
   },
   {
-    "train_number": "44181 ",
+    "train_number": "66470 ",
     "unit_number": "1116.0157",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-11-04T04:35:00Z",
-    "departure": "2023-11-04T04:35:00Z"
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
+    "arrival": "2023-11-05T23:41:00Z",
+    "departure": "2023-11-05T23:51:00Z"
   },
   {
-    "train_number": "44181 ",
+    "train_number": "44196 ",
     "unit_number": "1116.0157",
-    "name": "Kufstein",
-    "abbr": "K   ",
-    "lat": "47.5833",
-    "lng": "12.1657",
-    "arrival": "2023-11-04T03:11:00Z",
-    "departure": "2023-11-04T04:23:00Z"
+    "name": "Bludenz",
+    "abbr": "B   ",
+    "lat": "47.155",
+    "lng": "9.81448",
+    "arrival": "2023-11-05T06:14:00Z",
+    "departure": "2023-11-05T23:25:00Z"
+  },
+  {
+    "train_number": "44196 ",
+    "unit_number": "1116.0157",
+    "name": "Feldkirch",
+    "abbr": "Fk  ",
+    "lat": "47.2417",
+    "lng": "9.60519",
+    "arrival": null,
+    "departure": "2023-11-05T05:57:00Z"
+  },
+  {
+    "train_number": "44196 ",
+    "unit_number": "1116.0157",
+    "name": "Dornbirn (in Do)",
+    "abbr": "Do  ",
+    "lat": "47.4176",
+    "lng": "9.73871",
+    "arrival": null,
+    "departure": "2023-11-05T05:38:00Z"
+  },
+  {
+    "train_number": "44196 ",
+    "unit_number": "1116.0157",
+    "name": "Wolfurt (in Wo)",
+    "abbr": "Wo  ",
+    "lat": "47.457",
+    "lng": "9.74133",
+    "arrival": "2023-11-05T05:24:00Z",
+    "departure": "2023-11-05T05:34:00Z"
+  },
+  {
+    "train_number": "44196 ",
+    "unit_number": "1116.0157",
+    "name": "Bregenz (in Bg)",
+    "abbr": "Bg  ",
+    "lat": "47.5029",
+    "lng": "9.73947",
+    "arrival": null,
+    "departure": "2023-11-05T05:17:00Z"
+  },
+  {
+    "train_number": "44196 ",
+    "unit_number": "1116.0157",
+    "name": "Lindau-Reutin (in Lir)",
+    "abbr": "Lir ",
+    "lat": "47.5525",
+    "lng": "9.70313",
+    "arrival": "2023-11-05T04:04:00Z",
+    "departure": "2023-11-05T05:09:00Z"
   }
 ]

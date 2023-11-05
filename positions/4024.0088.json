@@ -1,202 +1,32 @@
 [
   {
-    "train_number": "5112  ",
+    "train_number": "5005  ",
     "unit_number": "4024.0088",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-11-04T10:25:00Z",
-    "departure": "2023-11-04T10:29:00Z"
+    "name": "Kitzbühel",
+    "abbr": "Kzb ",
+    "lat": "47.4542",
+    "lng": "12.391",
+    "arrival": "2023-11-05T05:44:00Z",
+    "departure": "2023-11-05T05:45:00Z"
   },
   {
-    "train_number": "5112  ",
-    "unit_number": "4024.0088",
-    "name": "Hall in Tirol",
-    "abbr": "H   ",
-    "lat": "47.2769",
-    "lng": "11.5013",
-    "arrival": "2023-11-04T10:14:00Z",
-    "departure": "2023-11-04T10:14:00Z"
-  },
-  {
-    "train_number": "5112  ",
-    "unit_number": "4024.0088",
-    "name": "Schwaz",
-    "abbr": "Sw  ",
-    "lat": "47.3497",
-    "lng": "11.7016",
-    "arrival": "2023-11-04T09:58:00Z",
-    "departure": "2023-11-04T09:58:00Z"
-  },
-  {
-    "train_number": "5112  ",
-    "unit_number": "4024.0088",
-    "name": "Jenbach",
-    "abbr": "Jb  ",
-    "lat": "47.3884",
-    "lng": "11.7783",
-    "arrival": "2023-11-04T09:50:00Z",
-    "departure": "2023-11-04T09:51:00Z"
-  },
-  {
-    "train_number": "5112  ",
-    "unit_number": "4024.0088",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
-    "arrival": null,
-    "departure": "2023-11-04T09:30:00Z"
-  },
-  {
-    "train_number": "5112  ",
+    "train_number": "5242  ",
     "unit_number": "4024.0088",
     "name": "Wörgl Hbf (in W)",
     "abbr": "W   ",
     "lat": "47.4912",
     "lng": "12.0603",
-    "arrival": "2023-11-04T09:25:00Z",
-    "departure": "2023-11-04T09:29:00Z"
+    "arrival": "2023-11-05T04:52:00Z",
+    "departure": "2023-11-05T05:05:00Z"
   },
   {
-    "train_number": "5109  ",
+    "train_number": "5193  ",
     "unit_number": "4024.0088",
     "name": "Kufstein",
     "abbr": "K   ",
     "lat": "47.5833",
     "lng": "12.1657",
-    "arrival": "2023-11-04T08:48:00Z",
-    "departure": "2023-11-04T09:12:00Z"
-  },
-  {
-    "train_number": "5109  ",
-    "unit_number": "4024.0088",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-11-04T08:31:00Z",
-    "departure": "2023-11-04T08:35:00Z"
-  },
-  {
-    "train_number": "5109  ",
-    "unit_number": "4024.0088",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
-    "arrival": null,
-    "departure": "2023-11-04T08:28:00Z"
-  },
-  {
-    "train_number": "5109  ",
-    "unit_number": "4024.0088",
-    "name": "Jenbach",
-    "abbr": "Jb  ",
-    "lat": "47.3884",
-    "lng": "11.7783",
-    "arrival": "2023-11-04T08:08:00Z",
-    "departure": "2023-11-04T08:09:00Z"
-  },
-  {
-    "train_number": "5109  ",
-    "unit_number": "4024.0088",
-    "name": "Schwaz",
-    "abbr": "Sw  ",
-    "lat": "47.3497",
-    "lng": "11.7016",
-    "arrival": "2023-11-04T08:01:00Z",
-    "departure": "2023-11-04T08:02:00Z"
-  },
-  {
-    "train_number": "5109  ",
-    "unit_number": "4024.0088",
-    "name": "Hall in Tirol",
-    "abbr": "H   ",
-    "lat": "47.2769",
-    "lng": "11.5013",
-    "arrival": "2023-11-04T07:45:00Z",
-    "departure": "2023-11-04T07:46:00Z"
-  },
-  {
-    "train_number": "5109  ",
-    "unit_number": "4024.0088",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-11-04T07:31:00Z",
-    "departure": "2023-11-04T07:35:00Z"
-  },
-  {
-    "train_number": "5104  ",
-    "unit_number": "4024.0088",
-    "name": "Innsbruck Hbf  (in I)",
-    "abbr": "I   ",
-    "lat": "47.2634",
-    "lng": "11.4017",
-    "arrival": "2023-11-04T06:25:00Z",
-    "departure": "2023-11-04T06:29:00Z"
-  },
-  {
-    "train_number": "5104  ",
-    "unit_number": "4024.0088",
-    "name": "Hall in Tirol",
-    "abbr": "H   ",
-    "lat": "47.2769",
-    "lng": "11.5013",
-    "arrival": "2023-11-04T06:14:00Z",
-    "departure": "2023-11-04T06:14:00Z"
-  },
-  {
-    "train_number": "5104  ",
-    "unit_number": "4024.0088",
-    "name": "Schwaz",
-    "abbr": "Sw  ",
-    "lat": "47.3497",
-    "lng": "11.7016",
-    "arrival": "2023-11-04T05:58:00Z",
-    "departure": "2023-11-04T05:58:00Z"
-  },
-  {
-    "train_number": "5104  ",
-    "unit_number": "4024.0088",
-    "name": "Jenbach",
-    "abbr": "Jb  ",
-    "lat": "47.3884",
-    "lng": "11.7783",
-    "arrival": "2023-11-04T05:50:00Z",
-    "departure": "2023-11-04T05:51:00Z"
-  },
-  {
-    "train_number": "5104  ",
-    "unit_number": "4024.0088",
-    "name": "Wörgl Hbf-T. N. (in W)",
-    "abbr": "Wtn ",
-    "lat": "47.4824",
-    "lng": "12.033",
-    "arrival": null,
-    "departure": "2023-11-04T05:30:00Z"
-  },
-  {
-    "train_number": "5104  ",
-    "unit_number": "4024.0088",
-    "name": "Wörgl Hbf (in W)",
-    "abbr": "W   ",
-    "lat": "47.4912",
-    "lng": "12.0603",
-    "arrival": "2023-11-04T05:25:00Z",
-    "departure": "2023-11-04T05:29:00Z"
-  },
-  {
-    "train_number": "5331  ",
-    "unit_number": "4024.0088",
-    "name": "Kufstein",
-    "abbr": "K   ",
-    "lat": "47.5833",
-    "lng": "12.1657",
-    "arrival": "2023-11-03T21:28:00Z",
-    "departure": "2023-11-04T05:12:00Z"
+    "arrival": "2023-11-05T02:15:00Z",
+    "departure": "2023-11-05T04:39:00Z"
   }
 ]
