@@ -6,8 +6,8 @@
     "abbr": "At  ",
     "lat": "48.0112",
     "lng": "13.7193",
-    "arrival": "2023-11-05T09:59:00Z",
-    "departure": "2023-11-05T10:01:00Z"
+    "arrival": "2023-11-06T09:59:00Z",
+    "departure": "2023-11-06T10:01:00Z"
   },
   {
     "train_number": "596   ",
@@ -16,8 +16,8 @@
     "abbr": "We  ",
     "lat": "48.1662",
     "lng": "14.0273",
-    "arrival": "2023-11-05T09:44:00Z",
-    "departure": "2023-11-05T09:46:00Z"
+    "arrival": "2023-11-06T09:44:00Z",
+    "departure": "2023-11-06T09:46:00Z"
   },
   {
     "train_number": "596   ",
@@ -26,8 +26,8 @@
     "abbr": "Lz  ",
     "lat": "48.2908",
     "lng": "14.2927",
-    "arrival": "2023-11-05T09:28:00Z",
-    "departure": "2023-11-05T09:30:00Z"
+    "arrival": "2023-11-06T09:28:00Z",
+    "departure": "2023-11-06T09:30:00Z"
   },
   {
     "train_number": "596   ",
@@ -36,8 +36,8 @@
     "abbr": "Sv  ",
     "lat": "48.1784",
     "lng": "14.5219",
-    "arrival": "2023-11-05T09:14:00Z",
-    "departure": "2023-11-05T09:15:00Z"
+    "arrival": "2023-11-06T09:14:00Z",
+    "departure": "2023-11-06T09:15:00Z"
   },
   {
     "train_number": "596   ",
@@ -46,8 +46,8 @@
     "abbr": "Ams ",
     "lat": "48.1215",
     "lng": "14.8792",
-    "arrival": "2023-11-05T08:53:00Z",
-    "departure": "2023-11-05T09:00:00Z"
+    "arrival": "2023-11-06T08:53:00Z",
+    "departure": "2023-11-06T09:00:00Z"
   },
   {
     "train_number": "596   ",
@@ -57,7 +57,7 @@
     "lat": "48.158",
     "lng": "15.0981",
     "arrival": null,
-    "departure": "2023-11-05T08:46:00Z"
+    "departure": "2023-11-06T08:46:00Z"
   },
   {
     "train_number": "596   ",
@@ -67,7 +67,7 @@
     "lat": "48.208",
     "lng": "15.2148",
     "arrival": null,
-    "departure": "2023-11-05T08:43:00Z"
+    "departure": "2023-11-06T08:43:00Z"
   },
   {
     "train_number": "596   ",
@@ -76,8 +76,8 @@
     "abbr": "Pb  ",
     "lat": "48.2081",
     "lng": "15.6237",
-    "arrival": "2023-11-05T08:28:00Z",
-    "departure": "2023-11-05T08:30:00Z"
+    "arrival": "2023-11-06T08:28:00Z",
+    "departure": "2023-11-06T08:30:00Z"
   },
   {
     "train_number": "596   ",
@@ -86,117 +86,117 @@
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-11-05T08:00:00Z",
-    "departure": "2023-11-05T08:02:00Z"
+    "arrival": "2023-11-06T08:00:00Z",
+    "departure": "2023-11-06T08:02:00Z"
   },
   {
-    "train_number": "1241  ",
+    "train_number": "541   ",
     "unit_number": "1116.0251",
     "name": "Wien Meidling (in Wbf)",
     "abbr": "Mi  ",
     "lat": "48.1747",
     "lng": "16.3348",
-    "arrival": "2023-11-05T06:58:00Z",
-    "departure": "2023-11-05T07:00:00Z"
+    "arrival": "2023-11-06T06:58:00Z",
+    "departure": "2023-11-06T07:00:00Z"
   },
   {
-    "train_number": "1241  ",
+    "train_number": "541   ",
     "unit_number": "1116.0251",
     "name": "St.Pölten Hbf (in Pb)",
     "abbr": "Pb  ",
     "lat": "48.2081",
     "lng": "15.6237",
-    "arrival": "2023-11-05T06:30:00Z",
-    "departure": "2023-11-05T06:32:00Z"
+    "arrival": "2023-11-06T06:30:00Z",
+    "departure": "2023-11-06T06:32:00Z"
   },
   {
-    "train_number": "1241  ",
+    "train_number": "541   ",
     "unit_number": "1116.0251",
     "name": "Pöchlarn",
     "abbr": "Poe ",
     "lat": "48.208",
     "lng": "15.2148",
     "arrival": null,
-    "departure": "2023-11-05T06:17:00Z"
+    "departure": "2023-11-06T06:17:00Z"
   },
   {
-    "train_number": "1241  ",
+    "train_number": "541   ",
     "unit_number": "1116.0251",
     "name": "Ybbs a.d.Donau",
     "abbr": "Y   ",
     "lat": "48.158",
     "lng": "15.0981",
     "arrival": null,
-    "departure": "2023-11-05T06:14:00Z"
+    "departure": "2023-11-06T06:14:00Z"
   },
   {
-    "train_number": "1241  ",
+    "train_number": "541   ",
     "unit_number": "1116.0251",
     "name": "Amstetten (in Ams)",
     "abbr": "Ams ",
     "lat": "48.1215",
     "lng": "14.8792",
-    "arrival": "2023-11-05T06:00:00Z",
-    "departure": "2023-11-05T06:07:00Z"
+    "arrival": "2023-11-06T06:05:00Z",
+    "departure": "2023-11-06T06:07:00Z"
   },
   {
-    "train_number": "1241  ",
+    "train_number": "541   ",
     "unit_number": "1116.0251",
     "name": "St.Valentin (in Sv)",
     "abbr": "Sv  ",
     "lat": "48.1784",
     "lng": "14.5219",
-    "arrival": "2023-11-05T05:44:00Z",
-    "departure": "2023-11-05T05:45:00Z"
+    "arrival": "2023-11-06T05:46:00Z",
+    "departure": "2023-11-06T05:50:00Z"
   },
   {
-    "train_number": "1241  ",
+    "train_number": "541   ",
     "unit_number": "1116.0251",
     "name": "Linz Hbf",
     "abbr": "Lz  ",
     "lat": "48.2908",
     "lng": "14.2927",
-    "arrival": "2023-11-05T05:30:00Z",
-    "departure": "2023-11-05T05:32:00Z"
+    "arrival": "2023-11-06T05:30:00Z",
+    "departure": "2023-11-06T05:32:00Z"
   },
   {
-    "train_number": "1241  ",
+    "train_number": "541   ",
     "unit_number": "1116.0251",
     "name": "Wels Hbf",
     "abbr": "We  ",
     "lat": "48.1662",
     "lng": "14.0273",
-    "arrival": "2023-11-05T05:14:00Z",
-    "departure": "2023-11-05T05:16:00Z"
+    "arrival": "2023-11-06T05:14:00Z",
+    "departure": "2023-11-06T05:16:00Z"
   },
   {
-    "train_number": "1241  ",
+    "train_number": "541   ",
     "unit_number": "1116.0251",
     "name": "Attnang-Puchheim",
     "abbr": "At  ",
     "lat": "48.0112",
     "lng": "13.7193",
-    "arrival": "2023-11-05T04:58:00Z",
-    "departure": "2023-11-05T05:00:00Z"
+    "arrival": "2023-11-06T04:58:00Z",
+    "departure": "2023-11-06T05:00:00Z"
   },
   {
-    "train_number": "1241  ",
+    "train_number": "541   ",
     "unit_number": "1116.0251",
     "name": "Steindorf b.Straßw. (in Nst)",
     "abbr": "Nst ",
     "lat": "47.9676",
     "lng": "13.2406",
     "arrival": null,
-    "departure": "2023-11-05T04:31:00Z"
+    "departure": "2023-11-06T04:31:00Z"
   },
   {
-    "train_number": "646   ",
+    "train_number": "110   ",
     "unit_number": "1116.0251",
     "name": "Salzburg Hbf (in Sb)",
     "abbr": "Sb  ",
     "lat": "47.8135",
     "lng": "13.0466",
-    "arrival": "2023-11-04T15:49:00Z",
-    "departure": "2023-11-05T04:11:00Z"
+    "arrival": "2023-11-05T18:48:00Z",
+    "departure": "2023-11-06T04:11:00Z"
   }
 ]

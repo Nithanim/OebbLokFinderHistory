@@ -1,202 +1,202 @@
 [
   {
-    "train_number": "633   ",
-    "unit_number": "1216.0019",
-    "name": "Wr. Neustadt Hbf (in Nb)",
-    "abbr": "Nb  ",
-    "lat": "47.8113",
-    "lng": "16.2337",
-    "arrival": "2023-11-05T17:50:00Z",
-    "departure": "2023-11-05T17:52:00Z"
-  },
-  {
-    "train_number": "633   ",
-    "unit_number": "1216.0019",
-    "name": "Leobersdorf",
-    "abbr": "Lb  ",
-    "lat": "47.9375",
-    "lng": "16.2313",
-    "arrival": null,
-    "departure": "2023-11-05T17:43:00Z"
-  },
-  {
-    "train_number": "633   ",
-    "unit_number": "1216.0019",
-    "name": "Mödling",
-    "abbr": "Md  ",
-    "lat": "48.0858",
-    "lng": "16.2958",
-    "arrival": null,
-    "departure": "2023-11-05T17:34:00Z"
-  },
-  {
-    "train_number": "633   ",
-    "unit_number": "1216.0019",
-    "name": "Wien Meidling (in Wbf)",
-    "abbr": "Mi  ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": "2023-11-05T17:23:00Z",
-    "departure": "2023-11-05T17:25:00Z"
-  },
-  {
-    "train_number": "132   ",
-    "unit_number": "1216.0019",
-    "name": "Wien Hauptbahnhof (in Wbf)",
-    "abbr": "Wbf ",
-    "lat": "48.185",
-    "lng": "16.3778",
-    "arrival": "2023-11-05T17:04:00Z",
-    "departure": "2023-11-05T17:18:00Z"
-  },
-  {
-    "train_number": "132   ",
-    "unit_number": "1216.0019",
-    "name": "Wien Meidling (in Wbf)",
-    "abbr": "Mi  ",
-    "lat": "48.1747",
-    "lng": "16.3348",
-    "arrival": "2023-11-05T16:58:00Z",
-    "departure": "2023-11-05T17:00:00Z"
-  },
-  {
-    "train_number": "132   ",
-    "unit_number": "1216.0019",
-    "name": "Mödling",
-    "abbr": "Md  ",
-    "lat": "48.0858",
-    "lng": "16.2958",
-    "arrival": null,
-    "departure": "2023-11-05T16:50:00Z"
-  },
-  {
-    "train_number": "132   ",
-    "unit_number": "1216.0019",
-    "name": "Leobersdorf",
-    "abbr": "Lb  ",
-    "lat": "47.9375",
-    "lng": "16.2313",
-    "arrival": null,
-    "departure": "2023-11-05T16:41:00Z"
-  },
-  {
-    "train_number": "132   ",
-    "unit_number": "1216.0019",
-    "name": "Wr. Neustadt Hbf (in Nb)",
-    "abbr": "Nb  ",
-    "lat": "47.8113",
-    "lng": "16.2337",
-    "arrival": "2023-11-05T16:33:00Z",
-    "departure": "2023-11-05T16:35:00Z"
-  },
-  {
-    "train_number": "132   ",
-    "unit_number": "1216.0019",
-    "name": "Neunkirchen N.Ö.",
-    "abbr": "Nek ",
-    "lat": "47.731",
-    "lng": "16.0826",
-    "arrival": null,
-    "departure": "2023-11-05T16:24:00Z"
-  },
-  {
-    "train_number": "132   ",
+    "train_number": "133   ",
     "unit_number": "1216.0019",
     "name": "Payerbach-Reichenau",
     "abbr": "Pr  ",
     "lat": "47.696",
     "lng": "15.8632",
     "arrival": null,
-    "departure": "2023-11-05T16:12:00Z"
+    "departure": "2023-11-06T12:12:00Z"
   },
   {
-    "train_number": "132   ",
+    "train_number": "133   ",
+    "unit_number": "1216.0019",
+    "name": "Neunkirchen N.Ö.",
+    "abbr": "Nek ",
+    "lat": "47.731",
+    "lng": "16.0826",
+    "arrival": null,
+    "departure": "2023-11-06T12:01:00Z"
+  },
+  {
+    "train_number": "133   ",
+    "unit_number": "1216.0019",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": "2023-11-06T11:50:00Z",
+    "departure": "2023-11-06T11:52:00Z"
+  },
+  {
+    "train_number": "133   ",
+    "unit_number": "1216.0019",
+    "name": "Leobersdorf",
+    "abbr": "Lb  ",
+    "lat": "47.9375",
+    "lng": "16.2313",
+    "arrival": null,
+    "departure": "2023-11-06T11:43:00Z"
+  },
+  {
+    "train_number": "133   ",
+    "unit_number": "1216.0019",
+    "name": "Mödling",
+    "abbr": "Md  ",
+    "lat": "48.0858",
+    "lng": "16.2958",
+    "arrival": null,
+    "departure": "2023-11-06T11:34:00Z"
+  },
+  {
+    "train_number": "133   ",
+    "unit_number": "1216.0019",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-11-06T11:23:00Z",
+    "departure": "2023-11-06T11:25:00Z"
+  },
+  {
+    "train_number": "532   ",
+    "unit_number": "1216.0019",
+    "name": "Wien Hauptbahnhof (in Wbf)",
+    "abbr": "Wbf ",
+    "lat": "48.185",
+    "lng": "16.3778",
+    "arrival": "2023-11-06T10:42:00Z",
+    "departure": "2023-11-06T11:18:00Z"
+  },
+  {
+    "train_number": "532   ",
+    "unit_number": "1216.0019",
+    "name": "Wien Meidling (in Wbf)",
+    "abbr": "Mi  ",
+    "lat": "48.1747",
+    "lng": "16.3348",
+    "arrival": "2023-11-06T10:35:00Z",
+    "departure": "2023-11-06T10:37:00Z"
+  },
+  {
+    "train_number": "532   ",
+    "unit_number": "1216.0019",
+    "name": "Mödling",
+    "abbr": "Md  ",
+    "lat": "48.0858",
+    "lng": "16.2958",
+    "arrival": null,
+    "departure": "2023-11-06T10:25:00Z"
+  },
+  {
+    "train_number": "532   ",
+    "unit_number": "1216.0019",
+    "name": "Leobersdorf",
+    "abbr": "Lb  ",
+    "lat": "47.9375",
+    "lng": "16.2313",
+    "arrival": null,
+    "departure": "2023-11-06T10:15:00Z"
+  },
+  {
+    "train_number": "532   ",
+    "unit_number": "1216.0019",
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": "2023-11-06T10:06:00Z",
+    "departure": "2023-11-06T10:08:00Z"
+  },
+  {
+    "train_number": "532   ",
+    "unit_number": "1216.0019",
+    "name": "Neunkirchen N.Ö.",
+    "abbr": "Nek ",
+    "lat": "47.731",
+    "lng": "16.0826",
+    "arrival": null,
+    "departure": "2023-11-06T09:58:00Z"
+  },
+  {
+    "train_number": "532   ",
+    "unit_number": "1216.0019",
+    "name": "Payerbach-Reichenau",
+    "abbr": "Pr  ",
+    "lat": "47.696",
+    "lng": "15.8632",
+    "arrival": null,
+    "departure": "2023-11-06T09:47:00Z"
+  },
+  {
+    "train_number": "532   ",
     "unit_number": "1216.0019",
     "name": "Mürzzuschlag (in Mz)",
     "abbr": "Mz  ",
     "lat": "47.6079",
     "lng": "15.677",
     "arrival": null,
-    "departure": "2023-11-05T15:35:00Z"
+    "departure": "2023-11-06T09:11:00Z"
   },
   {
-    "train_number": "132   ",
+    "train_number": "532   ",
     "unit_number": "1216.0019",
     "name": "Bruck a.d.Mur (in Bm)",
     "abbr": "Bm  ",
     "lat": "47.4134",
     "lng": "15.2797",
     "arrival": null,
-    "departure": "2023-11-05T15:07:00Z"
+    "departure": "2023-11-06T08:46:00Z"
   },
   {
-    "train_number": "132   ",
+    "train_number": "532   ",
     "unit_number": "1216.0019",
     "name": "Leoben Hbf (in Leb)",
     "abbr": "Leb ",
     "lat": "47.3867",
     "lng": "15.0898",
-    "arrival": "2023-11-05T14:54:00Z",
-    "departure": "2023-11-05T14:56:00Z"
+    "arrival": "2023-11-06T08:36:00Z",
+    "departure": "2023-11-06T08:37:00Z"
   },
   {
-    "train_number": "132   ",
+    "train_number": "532   ",
     "unit_number": "1216.0019",
     "name": "Zeltweg",
     "abbr": "Zg  ",
     "lat": "47.1887",
     "lng": "14.7425",
     "arrival": null,
-    "departure": "2023-11-05T14:30:00Z"
+    "departure": "2023-11-06T08:12:00Z"
   },
   {
-    "train_number": "132   ",
+    "train_number": "532   ",
     "unit_number": "1216.0019",
     "name": "St.Veit a.d.Glan (in Vps)",
     "abbr": "Vps ",
     "lat": "46.7704",
     "lng": "14.3672",
-    "arrival": "2023-11-05T13:13:00Z",
-    "departure": "2023-11-05T13:15:00Z"
+    "arrival": "2023-11-06T06:51:00Z",
+    "departure": "2023-11-06T06:53:00Z"
   },
   {
-    "train_number": "132   ",
+    "train_number": "532   ",
     "unit_number": "1216.0019",
     "name": "Klagenfurt Hbf (in Kt)",
     "abbr": "Kt  ",
     "lat": "46.6156",
     "lng": "14.3137",
-    "arrival": "2023-11-05T13:00:00Z",
-    "departure": "2023-11-05T13:02:00Z"
+    "arrival": "2023-11-06T06:37:00Z",
+    "departure": "2023-11-06T06:39:00Z"
   },
   {
-    "train_number": "132   ",
+    "train_number": "633   ",
     "unit_number": "1216.0019",
     "name": "Villach Hbf",
     "abbr": "Vb  ",
     "lat": "46.6186",
     "lng": "13.8484",
-    "arrival": "2023-11-05T12:16:00Z",
-    "departure": "2023-11-05T12:30:00Z"
-  },
-  {
-    "train_number": "132   ",
-    "unit_number": "1216.0019",
-    "name": "Villach Süd Gvbf Ausfgr",
-    "abbr": "Va  ",
-    "lat": "46.5674",
-    "lng": "13.8238",
-    "arrival": null,
-    "departure": "2023-11-05T12:07:00Z"
-  },
-  {
-    "train_number": "132   ",
-    "unit_number": "1216.0019",
-    "name": "Tarvisio Boscoverde",
-    "abbr": "Tbv ",
-    "lat": "46.5059",
-    "lng": "13.6081",
-    "arrival": "2023-11-05T11:41:00Z",
-    "departure": "2023-11-05T11:49:00Z"
+    "arrival": "2023-11-05T21:46:00Z",
+    "departure": "2023-11-06T06:14:00Z"
   }
 ]

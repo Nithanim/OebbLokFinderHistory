@@ -1,0 +1,172 @@
+[
+  {
+    "train_number": "54549 ",
+    "unit_number": "1116.0276",
+    "name": "Schwarzach-St.Veit",
+    "abbr": "Swa ",
+    "lat": "47.3186",
+    "lng": "13.1561",
+    "arrival": "2023-11-07T01:14:00Z",
+    "departure": "2023-11-07T01:31:00Z"
+  },
+  {
+    "train_number": "54549 ",
+    "unit_number": "1116.0276",
+    "name": "Kitzbühel",
+    "abbr": "Kzb ",
+    "lat": "47.4542",
+    "lng": "12.391",
+    "arrival": null,
+    "departure": "2023-11-06T23:51:00Z"
+  },
+  {
+    "train_number": "54549 ",
+    "unit_number": "1116.0276",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-11-06T23:10:00Z",
+    "departure": "2023-11-06T23:20:00Z"
+  },
+  {
+    "train_number": "54549 ",
+    "unit_number": "1116.0276",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-11-06T23:08:00Z"
+  },
+  {
+    "train_number": "45143 ",
+    "unit_number": "1116.0276",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
+    "arrival": "2023-11-06T19:51:00Z",
+    "departure": "2023-11-06T22:30:00Z"
+  },
+  {
+    "train_number": "45143 ",
+    "unit_number": "1116.0276",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-11-06T19:11:00Z"
+  },
+  {
+    "train_number": "45143 ",
+    "unit_number": "1116.0276",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-11-06T19:02:00Z",
+    "departure": "2023-11-06T19:09:00Z"
+  },
+  {
+    "train_number": "45143 ",
+    "unit_number": "1116.0276",
+    "name": "Kufstein",
+    "abbr": "K   ",
+    "lat": "47.5833",
+    "lng": "12.1657",
+    "arrival": null,
+    "departure": "2023-11-06T18:48:00Z"
+  },
+  {
+    "train_number": "45143 ",
+    "unit_number": "1116.0276",
+    "name": "Reutte in Tirol",
+    "abbr": "Rt  ",
+    "lat": "47.4932",
+    "lng": "10.7217",
+    "arrival": "2023-11-06T13:45:00Z",
+    "departure": "2023-11-06T14:17:00Z"
+  },
+  {
+    "train_number": "45142 ",
+    "unit_number": "1116.0276",
+    "name": "Reutte in Tirol",
+    "abbr": "Rt  ",
+    "lat": "47.4932",
+    "lng": "10.7217",
+    "arrival": null,
+    "departure": "2023-11-06T12:30:00Z"
+  },
+  {
+    "train_number": "45142 ",
+    "unit_number": "1116.0276",
+    "name": "Kufstein",
+    "abbr": "K   ",
+    "lat": "47.5833",
+    "lng": "12.1657",
+    "arrival": null,
+    "departure": "2023-11-06T07:22:00Z"
+  },
+  {
+    "train_number": "45142 ",
+    "unit_number": "1116.0276",
+    "name": "Wörgl Hbf (in W)",
+    "abbr": "W   ",
+    "lat": "47.4912",
+    "lng": "12.0603",
+    "arrival": "2023-11-06T07:05:00Z",
+    "departure": "2023-11-06T07:09:00Z"
+  },
+  {
+    "train_number": "45142 ",
+    "unit_number": "1116.0276",
+    "name": "Wörgl Hbf-T. N. (in W)",
+    "abbr": "Wtn ",
+    "lat": "47.4824",
+    "lng": "12.033",
+    "arrival": null,
+    "departure": "2023-11-06T07:02:00Z"
+  },
+  {
+    "train_number": "45142 ",
+    "unit_number": "1116.0276",
+    "name": "Jenbach",
+    "abbr": "Jb  ",
+    "lat": "47.3884",
+    "lng": "11.7783",
+    "arrival": null,
+    "departure": "2023-11-06T06:46:00Z"
+  },
+  {
+    "train_number": "45142 ",
+    "unit_number": "1116.0276",
+    "name": "Schwaz",
+    "abbr": "Sw  ",
+    "lat": "47.3497",
+    "lng": "11.7016",
+    "arrival": "2023-11-06T06:25:00Z",
+    "departure": "2023-11-06T06:38:00Z"
+  },
+  {
+    "train_number": "88415 ",
+    "unit_number": "1116.0276",
+    "name": "Hall in Tirol",
+    "abbr": "H   ",
+    "lat": "47.2769",
+    "lng": "11.5013",
+    "arrival": "2023-11-06T05:32:00Z",
+    "departure": "2023-11-06T06:10:00Z"
+  },
+  {
+    "train_number": "Steht ",
+    "unit_number": "1116.0276",
+    "name": "Innsbruck Hbf  (in I)",
+    "abbr": "I   ",
+    "lat": "47.2634",
+    "lng": "11.4017",
+    "arrival": "2023-11-05T23:00:00Z",
+    "departure": "2023-11-06T05:25:00Z"
+  }
+]
