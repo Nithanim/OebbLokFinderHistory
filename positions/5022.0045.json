@@ -1,92 +1,92 @@
 [
   {
-    "train_number": "6564  ",
+    "train_number": "6468  ",
     "unit_number": "5022.0045",
     "name": "Wr. Neustadt Hbf (in Nb)",
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-11-06T20:27:00Z",
-    "departure": "2023-11-06T22:35:00Z"
+    "arrival": "2023-11-07T21:24:00Z",
+    "departure": "2023-11-07T21:33:00Z"
   },
   {
-    "train_number": "2762  ",
+    "train_number": "6460  ",
     "unit_number": "5022.0045",
     "name": "Wr. Neustadt Hbf (in Nb)",
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-11-06T17:22:00Z",
-    "departure": "2023-11-06T18:00:00Z"
+    "arrival": "2023-11-07T19:24:00Z",
+    "departure": "2023-11-07T19:37:00Z"
   },
   {
-    "train_number": "2754  ",
+    "train_number": "6452  ",
     "unit_number": "5022.0045",
     "name": "Wr. Neustadt Hbf (in Nb)",
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-11-06T15:22:00Z",
-    "departure": "2023-11-06T15:39:00Z"
+    "arrival": "2023-11-07T17:24:00Z",
+    "departure": "2023-11-07T17:37:00Z"
   },
   {
-    "train_number": "2746  ",
+    "train_number": "6444  ",
     "unit_number": "5022.0045",
     "name": "Wr. Neustadt Hbf (in Nb)",
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-11-06T13:22:00Z",
-    "departure": "2023-11-06T13:39:00Z"
+    "arrival": "2023-11-07T15:24:00Z",
+    "departure": "2023-11-07T15:37:00Z"
   },
   {
-    "train_number": "2738  ",
+    "train_number": "6436  ",
     "unit_number": "5022.0045",
     "name": "Wr. Neustadt Hbf (in Nb)",
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-11-06T11:22:00Z",
-    "departure": "2023-11-06T11:39:00Z"
+    "arrival": "2023-11-07T13:24:00Z",
+    "departure": "2023-11-07T13:37:00Z"
   },
   {
-    "train_number": "2730  ",
+    "train_number": "6428  ",
     "unit_number": "5022.0045",
     "name": "Wr. Neustadt Hbf (in Nb)",
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-11-06T09:22:00Z",
-    "departure": "2023-11-06T09:39:00Z"
+    "arrival": "2023-11-07T11:24:00Z",
+    "departure": "2023-11-07T11:37:00Z"
   },
   {
-    "train_number": "2724  ",
+    "train_number": "6420  ",
     "unit_number": "5022.0045",
     "name": "Wr. Neustadt Hbf (in Nb)",
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-11-06T07:23:00Z",
-    "departure": "2023-11-06T07:39:00Z"
+    "arrival": "2023-11-07T09:24:00Z",
+    "departure": "2023-11-07T09:37:00Z"
   },
   {
-    "train_number": "2712  ",
+    "train_number": "2720  ",
     "unit_number": "5022.0045",
     "name": "Wr. Neustadt Hbf (in Nb)",
     "abbr": "Nb  ",
     "lat": "47.8113",
     "lng": "16.2337",
-    "arrival": "2023-11-06T05:53:00Z",
-    "departure": "2023-11-06T05:58:00Z"
+    "arrival": "2023-11-07T06:51:00Z",
+    "departure": "2023-11-07T07:37:00Z"
   },
   {
-    "train_number": "2779  ",
+    "train_number": "6590  ",
     "unit_number": "5022.0045",
-    "name": "Friedberg",
-    "abbr": "Fd  ",
-    "lat": "47.4343",
-    "lng": "16.0531",
-    "arrival": "2023-11-05T22:45:00Z",
-    "departure": "2023-11-06T04:32:00Z"
+    "name": "Wr. Neustadt Hbf (in Nb)",
+    "abbr": "Nb  ",
+    "lat": "47.8113",
+    "lng": "16.2337",
+    "arrival": "2023-11-07T03:55:00Z",
+    "departure": "2023-11-07T04:40:00Z"
   }
 ]
